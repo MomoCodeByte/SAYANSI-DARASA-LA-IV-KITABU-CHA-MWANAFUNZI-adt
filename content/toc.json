@@ -1,0 +1,940 @@
+[
+  {
+    "section_id": "pg001_sec001",
+    "href": "index.html",
+    "title": "Sayansi",
+    "chapter_id": "pg001_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg003_sec001",
+    "href": "pg003_sec001.html",
+    "title": "Yaliyomo",
+    "chapter_id": "pg003_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg004_sec001",
+    "href": "pg004_sec001.html",
+    "title": "Shukurani",
+    "chapter_id": "pg004_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg005_sec001",
+    "href": "pg005_sec001.html",
+    "title": "Utangulizi",
+    "chapter_id": "pg005_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg007_sec001",
+    "href": "pg007_sec001.html",
+    "title": "Sura ya Kwanza",
+    "chapter_id": "pg007_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg008_sec001",
+    "href": "pg008_sec001.html",
+    "title": "Mlo kamili",
+    "chapter_id": "pg008_n0007",
+    "level": 2
+  },
+  {
+    "section_id": "pg009_sec001",
+    "href": "pg009_sec001.html",
+    "title": "Kazi ya kufanya namba 2",
+    "chapter_id": "pg009_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg010_sec001",
+    "href": "pg010_sec001.html",
+    "title": "Vyakula vya kujenga mwili",
+    "chapter_id": "pg010_n0007",
+    "level": 2
+  },
+  {
+    "section_id": "pg011_sec001",
+    "href": "pg011_sec001.html",
+    "title": "Maji",
+    "chapter_id": "pg011_n0009",
+    "level": 2
+  },
+  {
+    "section_id": "pg012_sec001",
+    "href": "pg012_sec001.html",
+    "title": "Mlo kamili kwa makundi mbalimbali ya watu",
+    "chapter_id": "pg012_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg013_sec001",
+    "href": "pg013_sec001.html",
+    "title": "Vijanabalehe",
+    "chapter_id": "pg013_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg014_sec001",
+    "href": "pg014_sec001.html",
+    "title": "Watu wanaofanya kazi zinazotumia nguvu nyingi",
+    "chapter_id": "pg014_n0013",
+    "level": 3
+  },
+  {
+    "section_id": "pg015_sec001",
+    "href": "pg015_sec001.html",
+    "title": "Wagonjwa",
+    "chapter_id": "pg015_n0011",
+    "level": 3
+  },
+  {
+    "section_id": "pg016_sec001",
+    "href": "pg016_sec001.html",
+    "title": "Zoezi namba 1",
+    "chapter_id": "pg016_n0013",
+    "level": 3
+  },
+  {
+    "section_id": "pg017_sec001",
+    "href": "pg017_sec001.html",
+    "title": "Mazoezi ya mwili",
+    "chapter_id": "pg017_n0007",
+    "level": 2
+  },
+  {
+    "section_id": "pg018_sec001",
+    "href": "pg018_sec001.html",
+    "title": "Faida za kufanya mazoezi ya mwili",
+    "chapter_id": "pg018_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg019_sec001",
+    "href": "pg019_sec001.html",
+    "title": "Usafi wa mwili na mavazi",
+    "chapter_id": "pg019_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg020_sec001",
+    "href": "pg020_sec001.html",
+    "title": "Usafi wa nywele",
+    "chapter_id": "pg020_n0014",
+    "level": 3
+  },
+  {
+    "section_id": "pg021_sec001",
+    "href": "pg021_sec001.html",
+    "title": "Usafi wa mazingira",
+    "chapter_id": "pg021_n0005",
+    "level": 2
+  },
+  {
+    "section_id": "pg022_sec001",
+    "href": "pg022_sec001.html",
+    "title": "Alama za usalama na taarifa muhimu katika mazingira",
+    "chapter_id": "pg022_n0009",
+    "level": 2
+  },
+  {
+    "section_id": "pg024_sec001",
+    "href": "pg024_sec001.html",
+    "title": "Alama za kuzuia au kukataza",
+    "chapter_id": "pg024_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg025_sec001",
+    "href": "pg025_sec001.html",
+    "title": "Kazi ya kufanya namba 11",
+    "chapter_id": "pg025_n0014",
+    "level": 3
+  },
+  {
+    "section_id": "pg026_sec001",
+    "href": "pg026_sec001.html",
+    "title": "Alama za lazima au amri",
+    "chapter_id": "pg026_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg027_sec001",
+    "href": "pg027_sec001.html",
+    "title": "Taarifa muhimu katika kulinda afya zetu",
+    "chapter_id": "pg027_n0037",
+    "level": 2
+  },
+  {
+    "section_id": "pg028_sec001",
+    "href": "pg028_sec001.html",
+    "title": "Muda wa bidhaa kuchotora",
+    "chapter_id": "pg028_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg029_sec001",
+    "href": "pg029_sec001.html",
+    "title": "Viambata vilivyotumika kutengeneza bidhaa",
+    "chapter_id": "pg029_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg030_sec001",
+    "href": "pg030_sec001.html",
+    "title": "Zoezi la marudio",
+    "chapter_id": "pg030_n0020",
+    "level": 2
+  },
+  {
+    "section_id": "pg032_sec001",
+    "href": "pg032_sec001.html",
+    "title": "Sehemu B: Andika KWELI kwa sentensi sahihi na SI KWELI kwa sentensi isiyo sahihi",
+    "chapter_id": "pg032_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg034_sec001",
+    "href": "pg034_sec001.html",
+    "title": "Msamiati",
+    "chapter_id": "pg034_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg035_sec001",
+    "href": "pg035_sec001.html",
+    "title": "Sura ya Pili",
+    "chapter_id": "pg035_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg036_sec001",
+    "href": "pg036_sec001.html",
+    "title": "Aina za magonjwa",
+    "chapter_id": "pg036_n0014",
+    "level": 2
+  },
+  {
+    "section_id": "pg037_sec001",
+    "href": "pg037_sec001.html",
+    "title": "Malaria",
+    "chapter_id": "pg037_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg038_sec001",
+    "href": "pg038_sec001.html",
+    "title": "Namna ya kuzuia malaria",
+    "chapter_id": "pg038_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg039_sec001",
+    "href": "pg039_sec001.html",
+    "title": "Dalili za kipindupindu",
+    "chapter_id": "pg039_n0011",
+    "level": 3
+  },
+  {
+    "section_id": "pg040_sec001",
+    "href": "pg040_sec001.html",
+    "title": "Zoezi namba 3",
+    "chapter_id": "pg040_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg042_sec001",
+    "href": "pg042_sec001.html",
+    "title": "Namna ya kuzuia kifua kikuu",
+    "chapter_id": "pg042_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg043_sec001",
+    "href": "pg043_sec001.html",
+    "title": "Njia za maambukizi ya VVU",
+    "chapter_id": "pg043_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg044_sec001",
+    "href": "pg044_sec001.html",
+    "title": "Namna ya kuzuia maambukizi ya VVU na UKIMWI",
+    "chapter_id": "pg044_n0016",
+    "level": 3
+  },
+  {
+    "section_id": "pg045_sec001",
+    "href": "pg045_sec001.html",
+    "title": "Magonjwa yasiyoambukiza",
+    "chapter_id": "pg045_n0009",
+    "level": 2
+  },
+  {
+    "section_id": "pg046_sec001",
+    "href": "pg046_sec001.html",
+    "title": "Visababishi vya saratani",
+    "chapter_id": "pg046_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg047_sec001",
+    "href": "pg047_sec001.html",
+    "title": "Dalili za kisukari",
+    "chapter_id": "pg047_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg048_sec001",
+    "href": "pg048_sec001.html",
+    "title": "Dalili za pumu",
+    "chapter_id": "pg048_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg049_sec001",
+    "href": "pg049_sec001.html",
+    "title": "Zoezi namba 8",
+    "chapter_id": "pg049_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg051_sec001",
+    "href": "pg051_sec001.html",
+    "title": "Kazi ya kufanya namba 4",
+    "chapter_id": "pg051_n0028",
+    "level": 2
+  },
+  {
+    "section_id": "pg052_sec001",
+    "href": "pg052_sec001.html",
+    "title": "Hatua",
+    "chapter_id": "pg052_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg053_sec001",
+    "href": "pg053_sec001.html",
+    "title": "Zoezi la marudio",
+    "chapter_id": "pg053_n0020",
+    "level": 2
+  },
+  {
+    "section_id": "pg054_sec001",
+    "href": "pg054_sec001.html",
+    "title": "Sehemu B",
+    "chapter_id": "pg054_n0053",
+    "level": 3
+  },
+  {
+    "section_id": "pg055_sec001",
+    "href": "pg055_sec001.html",
+    "title": "Msamiati",
+    "chapter_id": "pg055_n0010",
+    "level": 2
+  },
+  {
+    "section_id": "pg056_sec001",
+    "href": "pg056_sec001.html",
+    "title": "Sura ya Tatu",
+    "chapter_id": "pg056_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg057_sec001",
+    "href": "pg057_sec001.html",
+    "title": "Hali za maada",
+    "chapter_id": "pg057_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg058_sec001",
+    "href": "pg058_sec001.html",
+    "title": "Gesi",
+    "chapter_id": "pg058_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg059_sec001",
+    "href": "pg059_sec001.html",
+    "title": "Hatua",
+    "chapter_id": "pg059_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg060_sec001",
+    "href": "pg060_sec001.html",
+    "title": "Jaribio namba 2: Kuchunguza sifa za maji katika hali ya kimiminika",
+    "chapter_id": "pg060_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg061_sec001",
+    "href": "pg061_sec001.html",
+    "title": "Hitimisho",
+    "chapter_id": "pg061_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg062_sec001",
+    "href": "pg062_sec001.html",
+    "title": "Matokeo",
+    "chapter_id": "pg062_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg063_sec001",
+    "href": "pg063_sec001.html",
+    "title": "Matokeo",
+    "chapter_id": "pg063_n0012",
+    "level": 3
+  },
+  {
+    "section_id": "pg064_sec001",
+    "href": "pg064_sec001.html",
+    "title": "Kizingiti cha mgando wa maji",
+    "chapter_id": "pg064_n0012",
+    "level": 2
+  },
+  {
+    "section_id": "pg065_sec001",
+    "href": "pg065_sec001.html",
+    "title": "Jaribio namba 5:",
+    "chapter_id": "pg065_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg066_sec001",
+    "href": "pg066_sec001.html",
+    "title": "Matokeo",
+    "chapter_id": "pg066_n0008",
+    "level": 3
+  },
+  {
+    "section_id": "pg067_sec001",
+    "href": "pg067_sec001.html",
+    "title": "Jaribio namba 6: Kuchunguza kizingiti cha mchemko wa maji",
+    "chapter_id": "pg067_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg069_sec001",
+    "href": "pg069_sec001.html",
+    "title": "Sehemu B: Andika KWELI kwa sentensi sahihi na SI KWELI kwa sentensi isiyo sahihi.",
+    "chapter_id": "pg069_n0013",
+    "level": 3
+  },
+  {
+    "section_id": "pg069_sec002",
+    "href": "pg069_sec002.html",
+    "title": "Sehemu C: Maswali ya majibu mafupi",
+    "chapter_id": "pg069_n0050",
+    "level": 3
+  },
+  {
+    "section_id": "pg070_sec001",
+    "href": "pg070_sec001.html",
+    "title": "Msamiati",
+    "chapter_id": "pg070_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg071_sec001",
+    "href": "pg071_sec001.html",
+    "title": "Sura ya Nne",
+    "chapter_id": "pg071_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg072_sec001",
+    "href": "pg072_sec001.html",
+    "title": "Mahitaji muhimu ili uunguaji uweze kutokea",
+    "chapter_id": "pg072_n0010",
+    "level": 2
+  },
+  {
+    "section_id": "pg073_sec001",
+    "href": "pg073_sec001.html",
+    "title": "Umuhimu wa gesi ya oksijeni katika uunguaji wa vitu",
+    "chapter_id": "pg073_n0006",
+    "level": 2
+  },
+  {
+    "section_id": "pg074_sec001",
+    "href": "pg074_sec001.html",
+    "title": "Swali",
+    "chapter_id": "pg074_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg075_sec001",
+    "href": "pg075_sec001.html",
+    "title": "Hatua",
+    "chapter_id": "pg075_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg076_sec001",
+    "href": "pg076_sec001.html",
+    "title": "Jaribio namba 3:",
+    "chapter_id": "pg076_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg079_sec001",
+    "href": "pg079_sec001.html",
+    "title": "Hasara za kuungua kwa vitu",
+    "chapter_id": "pg079_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg080_sec001",
+    "href": "pg080_sec001.html",
+    "title": "Tumia zana sahihi",
+    "chapter_id": "pg080_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg081_sec001",
+    "href": "pg081_sec001.html",
+    "title": "Sehemu B:",
+    "chapter_id": "pg081_n0044",
+    "level": 3
+  },
+  {
+    "section_id": "pg082_sec001",
+    "href": "pg082_sec001.html",
+    "title": "Sehemu C: Maswali ya majibu mafupi",
+    "chapter_id": "pg082_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg083_sec001",
+    "href": "pg083_sec001.html",
+    "title": "Sura ya Tano",
+    "chapter_id": "pg083_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg084_sec001",
+    "href": "pg084_sec001.html",
+    "title": "Kielelezo namba 1:",
+    "chapter_id": "pg084_n0017",
+    "level": 2
+  },
+  {
+    "section_id": "pg085_sec001",
+    "href": "pg085_sec001.html",
+    "title": "Kusafiri kwa joto",
+    "chapter_id": "pg085_n0020",
+    "level": 2
+  },
+  {
+    "section_id": "pg086_sec001",
+    "href": "pg086_sec001.html",
+    "title": "Hatua",
+    "chapter_id": "pg086_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg087_sec001",
+    "href": "pg087_sec001.html",
+    "title": "Jaribio namba 2: Kuchunguza vipitisha joto vizuri na vipitisha joto hafifu",
+    "chapter_id": "pg087_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg088_sec001",
+    "href": "pg088_sec001.html",
+    "title": "Hitimisho",
+    "chapter_id": "pg088_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg089_sec001",
+    "href": "pg089_sec001.html",
+    "title": "Jedwali namba 1: Jotoridi katika vimiminika",
+    "chapter_id": "pg089_n0007",
+    "level": 2
+  },
+  {
+    "section_id": "pg090_sec001",
+    "href": "pg090_sec001.html",
+    "title": "Hitimisho",
+    "chapter_id": "pg090_n0006",
+    "level": 3
+  },
+  {
+    "section_id": "pg091_sec001",
+    "href": "pg091_sec001.html",
+    "title": "Matokeo",
+    "chapter_id": "pg091_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg092_sec001",
+    "href": "pg092_sec001.html",
+    "title": "Matumizi ya nishati ya joto",
+    "chapter_id": "pg092_n0008",
+    "level": 2
+  },
+  {
+    "section_id": "pg093_sec001",
+    "href": "pg093_sec001.html",
+    "title": "Picha",
+    "chapter_id": "pg093_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg094_sec001",
+    "href": "pg094_sec001.html",
+    "title": "Sehemu B: Maswali ya majibu mafupi",
+    "chapter_id": "pg094_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg095_sec001",
+    "href": "pg095_sec001.html",
+    "title": "Vitu vinavyoruhusu na visivyoruhusu mwanga kupenya",
+    "chapter_id": "pg095_n0010",
+    "level": 2
+  },
+  {
+    "section_id": "pg097_sec001",
+    "href": "pg097_sec001.html",
+    "title": "Jaribio namba 5: Kuchunguza kupenya kwa mwanga katika vitu",
+    "chapter_id": "pg097_n0024",
+    "level": 3
+  },
+  {
+    "section_id": "pg098_sec001",
+    "href": "pg098_sec001.html",
+    "title": "Matokeo",
+    "chapter_id": "pg098_n0022",
+    "level": 3
+  },
+  {
+    "section_id": "pg099_sec001",
+    "href": "pg099_sec001.html",
+    "title": "Hatua",
+    "chapter_id": "pg099_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg100_sec001",
+    "href": "pg100_sec001.html",
+    "title": "Hitimisho",
+    "chapter_id": "pg100_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg101_sec001",
+    "href": "pg101_sec001.html",
+    "title": "Kuchunguza kivuli kinavyotokea",
+    "chapter_id": "pg101_n0004",
+    "level": 2
+  },
+  {
+    "section_id": "pg102_sec001",
+    "href": "pg102_sec001.html",
+    "title": "Matokeo",
+    "chapter_id": "pg102_n0005",
+    "level": 3
+  },
+  {
+    "section_id": "pg103_sec001",
+    "href": "pg103_sec001.html",
+    "title": "Kuakisiwa kwa miale ya mwanga",
+    "chapter_id": "pg103_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg104_sec001",
+    "href": "pg104_sec001.html",
+    "title": "Kupinda kwa miale ya mwanga",
+    "chapter_id": "pg104_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg105_sec001",
+    "href": "pg105_sec001.html",
+    "title": "Hatua",
+    "chapter_id": "pg105_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg106_sec001",
+    "href": "pg106_sec001.html",
+    "title": "Picha",
+    "chapter_id": "pg106_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg108_sec001",
+    "href": "pg108_sec001.html",
+    "title": "Kuakisiwa kwa sauti",
+    "chapter_id": "pg108_n0009",
+    "level": 2
+  },
+  {
+    "section_id": "pg109_sec001",
+    "href": "pg109_sec001.html",
+    "title": "Kusafiri kwa sauti katika maada",
+    "chapter_id": "pg109_n0010",
+    "level": 2
+  },
+  {
+    "section_id": "pg110_sec001",
+    "href": "pg110_sec001.html",
+    "title": "Hatua",
+    "chapter_id": "pg110_n0004",
+    "level": 3
+  },
+  {
+    "section_id": "pg111_sec001",
+    "href": "pg111_sec001.html",
+    "title": "Hatua",
+    "chapter_id": "pg111_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg112_sec001",
+    "href": "pg112_sec001.html",
+    "title": "Matumizi ya nishati ya sauti",
+    "chapter_id": "pg112_n0005",
+    "level": 2
+  },
+  {
+    "section_id": "pg113_sec001",
+    "href": "pg113_sec001.html",
+    "title": "Uhusiano kati ya nishati mbalimbali",
+    "chapter_id": "pg113_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg114_sec001",
+    "href": "pg114_sec001.html",
+    "title": "Zoezi la marudio",
+    "chapter_id": "pg114_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg115_sec001",
+    "href": "pg115_sec001.html",
+    "title": "Sehemu B:",
+    "chapter_id": "pg115_n0033",
+    "level": 3
+  },
+  {
+    "section_id": "pg116_sec001",
+    "href": "pg116_sec001.html",
+    "title": "Sehemu A",
+    "chapter_id": "pg116_n0008",
+    "level": 3
+  },
+  {
+    "section_id": "pg117_sec001",
+    "href": "pg117_sec001.html",
+    "title": "Sehemu D: Maswali ya majibu mafupi",
+    "chapter_id": "pg117_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg118_sec001",
+    "href": "pg118_sec001.html",
+    "title": "Sura ya Sita",
+    "chapter_id": "pg118_n0002",
+    "level": 1
+  },
+  {
+    "section_id": "pg119_sec001",
+    "href": "pg119_sec001.html",
+    "title": "Kazi ya kufanya namba 1",
+    "chapter_id": "pg119_n0008",
+    "level": 2
+  },
+  {
+    "section_id": "pg120_sec001",
+    "href": "pg120_sec001.html",
+    "title": "Kazi ya kufanya namba 2",
+    "chapter_id": "pg120_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg121_sec001",
+    "href": "pg121_sec001.html",
+    "title": "Uchoraji wa maumbo",
+    "chapter_id": "pg121_n0007",
+    "level": 2
+  },
+  {
+    "section_id": "pg123_sec001",
+    "href": "pg123_sec001.html",
+    "title": "Kuhifadhi kazi yako",
+    "chapter_id": "pg123_n0017",
+    "level": 2
+  },
+  {
+    "section_id": "pg125_sec001",
+    "href": "pg125_sec001.html",
+    "title": "Kupaka rangi maumbo",
+    "chapter_id": "pg125_n0004",
+    "level": 2
+  },
+  {
+    "section_id": "pg127_sec001",
+    "href": "pg127_sec001.html",
+    "title": "Kuchora na kuunganisha maumbo",
+    "chapter_id": "pg127_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg128_sec001",
+    "href": "pg128_sec001.html",
+    "title": "Zoezi",
+    "chapter_id": "pg128_n0014",
+    "level": 3
+  },
+  {
+    "section_id": "pg129_sec001",
+    "href": "pg129_sec001.html",
+    "title": "Kuunda michezo sahili ya kompyuta",
+    "chapter_id": "pg129_n0009",
+    "level": 2
+  },
+  {
+    "section_id": "pg130_sec001",
+    "href": "pg130_sec001.html",
+    "title": "Usimbaji",
+    "chapter_id": "pg130_n0002",
+    "level": 2
+  },
+  {
+    "section_id": "pg131_sec001",
+    "href": "pg131_sec001.html",
+    "title": "Kubadilisha lugha",
+    "chapter_id": "pg131_n0014",
+    "level": 3
+  },
+  {
+    "section_id": "pg132_sec001",
+    "href": "pg132_sec001.html",
+    "title": "Sehemu za ‘Scratch window’",
+    "chapter_id": "pg132_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg133_sec001",
+    "href": "pg133_sec001.html",
+    "title": "Kazi ya kufanya namba 6: Kuunda mchezo unaomfanya ‘Sprite’ (Cat) ajongee kwenda mbele",
+    "chapter_id": "pg133_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg134_sec001",
+    "href": "pg134_sec001.html",
+    "title": "Kuhifadhi kazi",
+    "chapter_id": "pg134_n0014",
+    "level": 3
+  },
+  {
+    "section_id": "pg136_sec001",
+    "href": "pg136_sec001.html",
+    "title": "Kazi ya kufanya namba 7: Kuandaa programu itakayomzungusha Sprite.",
+    "chapter_id": "pg136_n0016",
+    "level": 3
+  },
+  {
+    "section_id": "pg138_sec001",
+    "href": "pg138_sec001.html",
+    "title": "Kuunganisha mwendo zaidi ya mmoja",
+    "chapter_id": "pg138_n0009",
+    "level": 3
+  },
+  {
+    "section_id": "pg140_sec001",
+    "href": "pg140_sec001.html",
+    "title": "Michezo yenye sauti",
+    "chapter_id": "pg140_n0006",
+    "level": 2
+  },
+  {
+    "section_id": "pg141_sec001",
+    "href": "pg141_sec001.html",
+    "title": "Miundo ya kudhibiti programu",
+    "chapter_id": "pg141_n0010",
+    "level": 2
+  },
+  {
+    "section_id": "pg142_sec001",
+    "href": "pg142_sec001.html",
+    "title": "Muundo wa marudio katika usimbaji",
+    "chapter_id": "pg142_n0016",
+    "level": 3
+  },
+  {
+    "section_id": "pg143_sec001",
+    "href": "pg143_sec001.html",
+    "title": "Hatua",
+    "chapter_id": "pg143_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg145_sec001",
+    "href": "pg145_sec001.html",
+    "title": "Kazi ya kufanya namba 12: Kucheza sauti bila mwisho",
+    "chapter_id": "pg145_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg146_sec001",
+    "href": "pg146_sec001.html",
+    "title": "Muundo wa maamuzi katika usimbaji",
+    "chapter_id": "pg146_n0010",
+    "level": 3
+  },
+  {
+    "section_id": "pg149_sec001",
+    "href": "pg149_sec001.html",
+    "title": "Kazi ya kufanya namba 14: Kuunda mchezo wa kumfanya aende juu na chini ‘Sprite’(Cat) huku akitoa sauti",
+    "chapter_id": "pg149_n0016",
+    "level": 3
+  },
+  {
+    "section_id": "pg153_sec001",
+    "href": "pg153_sec001.html",
+    "title": "Kazi ya kufanya namba 15: Kuunda mchezo wa kumfanya ‘Sprite’ (Cat) aende pande nne",
+    "chapter_id": "pg153_n0002",
+    "level": 3
+  },
+  {
+    "section_id": "pg158_sec001",
+    "href": "pg158_sec001.html",
+    "title": "Kazi ya kufanya namba 16: Kuunda mchezo wa kumfanya ‘Sprite’ (City Bus) iende uelekeo tofauti tofauti",
+    "chapter_id": "pg158_n0003",
+    "level": 3
+  },
+  {
+    "section_id": "pg165_sec001",
+    "href": "pg165_sec001.html",
+    "title": "Zoezi la marudio",
+    "chapter_id": "pg165_n0003",
+    "level": 2
+  },
+  {
+    "section_id": "pg167_sec001",
+    "href": "pg167_sec001.html",
+    "title": "Sehemu B:",
+    "chapter_id": "pg167_n0007",
+    "level": 3
+  },
+  {
+    "section_id": "pg168_sec001",
+    "href": "pg168_sec001.html",
+    "title": "Msamiati",
+    "chapter_id": "pg168_n0016",
+    "level": 2
+  }
+]

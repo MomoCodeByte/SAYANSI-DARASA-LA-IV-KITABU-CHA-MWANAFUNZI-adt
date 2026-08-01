@@ -1,0 +1,2427 @@
+{
+  "afya": {
+    "word": "afya",
+    "definition": "Hali ya mwili na akili kuwa vizuri na bila ugonjwa.",
+    "variations": [
+      "afya bora"
+    ],
+    "emoji": "🩺💪"
+  },
+  "aikoni": {
+    "word": "aikoni",
+    "definition": "Picha ndogo kwenye skrini inayowakilisha programu, kifaa au chaguo fulani.",
+    "variations": [
+      "aikoni",
+      "aikoni za"
+    ],
+    "emoji": "🔹🖼️"
+  },
+  "ajali": {
+    "word": "ajali",
+    "definition": "Tukio baya lisilotarajiwa linaloweza kusababisha madhara au majeraha.",
+    "variations": [
+      "ajali za moto"
+    ],
+    "emoji": "⚠️🔥"
+  },
+  "akisi": {
+    "word": "akisi",
+    "definition": "kurudi kwa mwanga baada ya kugonga uso unaong’aa au laini",
+    "variations": [
+      "kuakisi",
+      "mwanga uliakisiwa"
+    ],
+    "emoji": "🪞✨"
+  },
+  "alama": {
+    "word": "alama",
+    "definition": "Ishara inayotoa ujumbe au maelekezo muhimu.",
+    "variations": [
+      "alama muhimu"
+    ],
+    "emoji": "🚸🔖"
+  },
+  "alama za usalama": {
+    "word": "alama za usalama",
+    "definition": "ishara au michoro inayotoa maelekezo ya kutusaidia kuwa salama",
+    "variations": [
+      "alama ya usalama",
+      "alama"
+    ],
+    "emoji": "⚠️🔰"
+  },
+  "ambulensi": {
+    "word": "ambulensi",
+    "definition": "gari maalumu linalobeba wagonjwa au majeruhi kwa haraka kwenda hospitali",
+    "variations": [
+      "ambulensi za wagonjwa"
+    ],
+    "emoji": "🚑🏥"
+  },
+  "amri": {
+    "word": "amri",
+    "definition": "maelekezo yanayoeleza jambo linalopaswa kufanywa",
+    "variations": [
+      "alama za amri",
+      "alama za lazima"
+    ],
+    "emoji": "🔵📘"
+  },
+  "angavu": {
+    "word": "angavu",
+    "definition": "Kitu kinachoruhusu mwanga kupenya kwa urahisi.",
+    "variations": [
+      "vitu angavu"
+    ],
+    "emoji": "🪟💡"
+  },
+  "Anofelesi": {
+    "word": "Anofelesi",
+    "definition": "aina ya mbu jike anayeeneza ugonjwa wa malaria.",
+    "variations": [
+      "mbu anofelesi"
+    ],
+    "emoji": "🦟"
+  },
+  "aproni": {
+    "word": "aproni",
+    "definition": "Vazi la kujikinga mbele ya mwili wakati wa kazi kama kupika au kushughulika na moto.",
+    "variations": [
+      "aproni za kujikinga"
+    ],
+    "emoji": "🦺👕"
+  },
+  "Bakteria": {
+    "word": "Bakteria",
+    "definition": "viumbehai vidogo sana ambavyo baadhi yake husababisha magonjwa.",
+    "variations": [
+      "bakteria wa ugonjwa"
+    ],
+    "emoji": "🦠🔬"
+  },
+  "Balehe": {
+    "word": "Balehe",
+    "definition": "kipindi ambacho mtoto huanza kukomaa kimwili kuelekea utu uzima.",
+    "variations": [
+      "kubalehe"
+    ],
+    "emoji": "👦👧🌱"
+  },
+  "barafu": {
+    "word": "barafu",
+    "definition": "maji yaliyoganda na kuwa katika hali yabisi.",
+    "variations": [
+      "barafu",
+      "vipande vya barafu"
+    ],
+    "emoji": "🧊❄️"
+  },
+  "bidhaa": {
+    "word": "bidhaa",
+    "definition": "kitu kilichotengenezwa kwa matumizi ya watu, kama chakula, dawa au sabuni",
+    "variations": [
+      "bidhaa mbalimbali",
+      "vibandiko vya bidhaa"
+    ],
+    "emoji": "📦🛍️"
+  },
+  "birika": {
+    "word": "birika",
+    "definition": "chombo cha kuchemshia au kuhifadhia maji ya moto.",
+    "variations": [
+      "birika",
+      "mabirika"
+    ],
+    "emoji": "🫖♨️"
+  },
+  "bloku": {
+    "word": "bloku",
+    "definition": "Kipande cha amri katika Scratch kinachotumika kujenga programu kwa kuunganisha na bloku nyingine.",
+    "variations": [
+      "bloku",
+      "bloku za"
+    ],
+    "emoji": "🧩💻"
+  },
+  "BMP picture": {
+    "word": "BMP picture",
+    "definition": "Aina ya faili la picha linaloweza kuhifadhi picha kwenye kompyuta.",
+    "variations": [
+      "BMP picture",
+      "BMP"
+    ],
+    "emoji": "🖼️💻"
+  },
+  "bofya": {
+    "word": "bofya",
+    "definition": "Kubonyeza kitufe cha kipanya mara moja ili kuchagua au kufungua kitu.",
+    "variations": [
+      "bofya",
+      "bonyeza"
+    ],
+    "emoji": "👆🖱️"
+  },
+  "buruta": {
+    "word": "buruta",
+    "definition": "Kushika kitu kwenye skrini kisha kukisogeza hadi sehemu nyingine kwa kutumia kipanya au kidole.",
+    "variations": [
+      "buruta",
+      "buruta na dondosha"
+    ],
+    "emoji": "🖱️↔️"
+  },
+  "buu": {
+    "word": "buu",
+    "definition": "hatua ya ukuaji wa mdudu inayofuata baada ya lava kabla ya kuwa mdudu kamili.",
+    "variations": [
+      "buu",
+      "mabuu"
+    ],
+    "emoji": "🐛🔄"
+  },
+  "Chanjo": {
+    "word": "Chanjo",
+    "definition": "dawa inayotolewa ili kusaidia mwili kujikinga dhidi ya magonjwa fulani.",
+    "variations": [
+      "chanjo za magonjwa"
+    ],
+    "emoji": "💉🛡️"
+  },
+  "chanzo": {
+    "word": "chanzo",
+    "definition": "mahali au kitu ambako jambo huanzia au hutoka.",
+    "variations": [
+      "chanzo",
+      "vyanzo"
+    ],
+    "emoji": "📍✨"
+  },
+  "chavua": {
+    "word": "chavua",
+    "definition": "Chembe ndogo kutoka kwenye maua ambazo zinaweza kusababisha mzio kwa baadhi ya watu.",
+    "variations": [
+      "chavua",
+      "chavua za maua"
+    ],
+    "emoji": "🌼🤧"
+  },
+  "chawa": {
+    "word": "chawa",
+    "definition": "Chawa ni wadudu wadogo wanaoishi kichwani na kusababisha muwasho.",
+    "variations": [
+      "chawa"
+    ],
+    "emoji": "🪳🧑‍🦱"
+  },
+  "cheche": {
+    "word": "cheche",
+    "definition": "Vipande vidogo vya moto vinavyoweza kuwasha kitu kingine.",
+    "variations": [
+      "cheche za moto"
+    ],
+    "emoji": "✨🔥"
+  },
+  "chembe hai": {
+    "word": "chembe hai",
+    "definition": "Sehemu ndogo sana zinazounda mwili wa binadamu na viumbe wengine.",
+    "variations": [
+      "chembe hai",
+      "chembehai"
+    ],
+    "emoji": "🔬🧫"
+  },
+  "chuma": {
+    "word": "chuma",
+    "definition": "Kitu kigumu kinachoweza kupitisha sauti vizuri.",
+    "variations": [
+      "chuma",
+      "vipande vya chuma"
+    ],
+    "emoji": "🔩🪙"
+  },
+  "Dalili": {
+    "word": "Dalili",
+    "definition": "ishara au mambo yanayoonesha kwamba mtu ana ugonjwa.",
+    "variations": [
+      "dalili za ugonjwa"
+    ],
+    "emoji": "⚠️🤒"
+  },
+  "deli": {
+    "word": "deli",
+    "definition": "chombo kinachotumika kuhifadhia barafu au vitu vingine visiyeyuke haraka.",
+    "variations": [
+      "deli"
+    ],
+    "emoji": "🧊📦"
+  },
+  "dharura": {
+    "word": "dharura",
+    "definition": "hali ya hatari au shida inayohitaji msaada wa haraka",
+    "variations": [
+      "alama za dharura",
+      "mlango wa dharura",
+      "simu ya dharura"
+    ],
+    "emoji": "🚨🆘"
+  },
+  "digrii": {
+    "word": "digrii",
+    "definition": "Ni kipimo kinachoonyesha kiasi cha kuzunguka au mwelekeo wa mzunguko.",
+    "variations": [
+      "digrii 10",
+      "digrii 15",
+      "digrii 30",
+      "nyuzi"
+    ],
+    "emoji": "🔄📐"
+  },
+  "dimbwi": {
+    "word": "dimbwi",
+    "definition": "eneo lenye maji yaliyokusanyika na kutuama sehemu moja.",
+    "variations": [
+      "dimbwi",
+      "madimbwi"
+    ],
+    "emoji": "💧🟦"
+  },
+  "dondosha": {
+    "word": "dondosha",
+    "definition": "Kuachia kitu ulicho kiburuta mahali fulani kwenye skrini.",
+    "variations": [
+      "dondosha",
+      "udondoshe",
+      "kudondosha"
+    ],
+    "emoji": "🖱️⬇️"
+  },
+  "eneo la kuandikia": {
+    "word": "eneo la kuandikia",
+    "definition": "Mahali katika Scratch ambapo unaweka na kuunganisha bloku ili kutengeneza programu.",
+    "variations": [
+      "eneo la kuandikia",
+      "maeneo ya kuandikia"
+    ],
+    "emoji": "✍️🧩"
+  },
+  "Faili": {
+    "word": "Faili",
+    "definition": "Chaguo au sehemu inayohusiana na kufungua, kuhifadhi au kusimamia kazi kwenye programu.",
+    "variations": [
+      "Faili",
+      "faili"
+    ],
+    "emoji": "📄📂"
+  },
+  "farenhaiti": {
+    "word": "farenhaiti",
+    "definition": "aina nyingine ya kipimo cha jotoridi. Katika kipimo hiki, maji huganda kwenye nyuzijoto 32 na huchemka kwenye nyuzijoto 212.",
+    "variations": [
+      "farenhaiti"
+    ],
+    "emoji": "🌡️3️⃣2️⃣2️⃣1️⃣2️⃣"
+  },
+  "Fill": {
+    "word": "Fill",
+    "definition": "Amri ya programu inayojaza sehemu ya umbo kwa rangi uliyochagua.",
+    "variations": [
+      "Fill",
+      "jaza"
+    ],
+    "emoji": "🪣🎨"
+  },
+  "fotosinthesisi": {
+    "word": "fotosinthesisi",
+    "definition": "Mchakato ambao mimea hutumia mwanga wa jua kutengeneza chakula chake.",
+    "variations": [
+      "fotosinthesisi"
+    ],
+    "emoji": "🌿☀️"
+  },
+  "fueli": {
+    "word": "fueli",
+    "definition": "vitu vinavyoweza kuungua ili kutoa joto au nishati.",
+    "variations": [
+      "fueli"
+    ],
+    "emoji": "⛽🔥"
+  },
+  "gesi": {
+    "word": "gesi",
+    "definition": "hali ya maada isiyo na umbo maalumu na mara nyingi huwa nyepesi.",
+    "variations": [
+      "gesi"
+    ],
+    "emoji": "💨🎈"
+  },
+  "gesi chafuzi": {
+    "word": "gesi chafuzi",
+    "definition": "Gesi zinazochafua hewa na kuathiri mazingira.",
+    "variations": [
+      "gesi chafuzi angani"
+    ],
+    "emoji": "🏭🌫️"
+  },
+  "glopu": {
+    "word": "glopu",
+    "definition": "sehemu ya taa inayotoa mwanga inapowashwa",
+    "variations": [
+      "glopu za taa"
+    ],
+    "emoji": "💡"
+  },
+  "glovu": {
+    "word": "glovu",
+    "definition": "Vifaa vya kuvaa mikononi ili kulinda mikono dhidi ya joto au majeraha.",
+    "variations": [
+      "glovu za kujikinga"
+    ],
+    "emoji": "🧤🛡️"
+  },
+  "hali ya kweli": {
+    "word": "hali ya kweli",
+    "definition": "Ni hali ambayo masharti yaliyowekwa yametimia, hivyo programu inaweza kufanya amri fulani.",
+    "variations": [
+      "kweli",
+      "hali si ya kweli"
+    ],
+    "emoji": "✅✔️"
+  },
+  "harara": {
+    "word": "harara",
+    "definition": "Harara ni ugonjwa au hali ya ngozi kupata vipele au muwasho unaosumbua.",
+    "variations": [
+      "harara"
+    ],
+    "emoji": " त्व😖"
+  },
+  "hewa": {
+    "word": "hewa",
+    "definition": "Mchanganyiko wa gesi unaotuzunguka na ambao unaweza kupitisha sauti.",
+    "variations": [
+      "hewa"
+    ],
+    "emoji": "🌬️"
+  },
+  "hifadhi": {
+    "word": "hifadhi",
+    "definition": "Kuweka kazi yako kwenye kompyuta ili isipotee na uweze kuifungua tena baadaye.",
+    "variations": [
+      "hifadhi",
+      "kuhifadhi",
+      "Save"
+    ],
+    "emoji": "💾📁"
+  },
+  "Hisi": {
+    "word": "Hisi",
+    "definition": "Sehemu ya bloku zinazotumika kutambua kinachotokea, kama kitufe kimebonyezwa.",
+    "variations": [
+      "Hisi"
+    ],
+    "emoji": "👂🔍"
+  },
+  "ikiwa basi": {
+    "word": "ikiwa basi",
+    "definition": "Bloku ya masharti inayofanya amri za ndani yake zitendeke tu kama jambo fulani ni kweli.",
+    "variations": [
+      "ikiwa basi"
+    ],
+    "emoji": "🤔✅"
+  },
+  "insulini": {
+    "word": "insulini",
+    "definition": "Homoni inayosaidia kudhibiti kiwango cha sukari kwenye damu.",
+    "variations": [
+      "insulini",
+      "homoni ya insulini"
+    ],
+    "emoji": "🩸⚖️"
+  },
+  "jaribio": {
+    "word": "jaribio",
+    "definition": "Njia ya kuchunguza au kuthibitisha jambo kwa vitendo.",
+    "variations": [
+      "majaribio",
+      "jaribio la sayansi"
+    ],
+    "emoji": "🧪🔍"
+  },
+  "jokofu": {
+    "word": "jokofu",
+    "definition": "kifaa kinachotumika kuweka vitu kwenye baridi ili vihifadhiwe au vigande.",
+    "variations": [
+      "jokofu",
+      "majokofu"
+    ],
+    "emoji": "🧊🥶"
+  },
+  "joto": {
+    "word": "joto",
+    "definition": "aina ya nishati inayotoka kwenye kitu cha moto na kuhamia kwenye kitu chenye ubaridi.",
+    "variations": [
+      "joto",
+      "majoto"
+    ],
+    "emoji": "🔥🌡️"
+  },
+  "jotoridi": {
+    "word": "jotoridi",
+    "definition": "Kipimo cha kuonesha kitu kina joto au baridi kwa kiwango gani.",
+    "variations": [
+      "hali ya jotoridi"
+    ],
+    "emoji": "🌡️❄️🔥"
+  },
+  "JPEG picture": {
+    "word": "JPEG picture",
+    "definition": "Aina ya faili la picha linalotumika kuhifadhi picha kwenye kompyuta.",
+    "variations": [
+      "JPEG picture",
+      "JPEG"
+    ],
+    "emoji": "🖼️📸"
+  },
+  "jukwaa": {
+    "word": "jukwaa",
+    "definition": "Ni eneo ambalo vitu kama Sprite huonekana na kusogea kwenye programu.",
+    "variations": [
+      "jukwaa la programu"
+    ],
+    "emoji": "🎭🖥️"
+  },
+  "kabohaidreti": {
+    "word": "kabohaidreti",
+    "definition": "Kirutubisho kinachotoa nguvu mwilini. Mara nyingi hupatikana kwenye vyakula kama mahindi, wali na mkate.",
+    "variations": [
+      "kabohidrati",
+      "wanga"
+    ],
+    "emoji": "🍞🌽⚡"
+  },
+  "kanuni za afya": {
+    "word": "kanuni za afya",
+    "definition": "Mwongozo au taratibu za kutunza mwili na mazingira ili kubaki na afya njema.",
+    "variations": [
+      "kanuni ya afya"
+    ],
+    "emoji": "📋🩺"
+  },
+  "katazo": {
+    "word": "katazo",
+    "definition": "taarifa inayoonesha jambo lisiloruhusiwa kufanywa",
+    "variations": [
+      "kukataza",
+      "alama za kuzuia",
+      "alama za kukataza"
+    ],
+    "emoji": "⛔🚫"
+  },
+  "kemikali": {
+    "word": "kemikali",
+    "definition": "vitu vya kisayansi vinavyotumika kwa kazi mbalimbali na vinaweza kuwa na madhara vikitumika vibaya",
+    "variations": [
+      "kemikali hatari",
+      "maeneo ya kuhifadhia kemikali"
+    ],
+    "emoji": "🧪⚗️"
+  },
+  "kibendera cha kijani": {
+    "word": "kibendera cha kijani",
+    "definition": "Alama ya kuanza mchezo au programu katika Scratch.",
+    "variations": [
+      "kibendera cha kijani",
+      "Anza"
+    ],
+    "emoji": "🟢🚩"
+  },
+  "kibodi": {
+    "word": "kibodi",
+    "definition": "Kifaa cha kompyuta chenye vitufe kinachotumika kuandika au kuendesha programu.",
+    "variations": [
+      "kibodi",
+      "kibodi ya kompyuta"
+    ],
+    "emoji": "⌨️💻"
+  },
+  "Kidhibiti": {
+    "word": "Kidhibiti",
+    "definition": "Sehemu ya bloku zinazosaidia kupanga jinsi programu itakavyojirudia au kufanya uamuzi.",
+    "variations": [
+      "Kidhibiti",
+      "Vidhibiti"
+    ],
+    "emoji": "🎛️🔁"
+  },
+  "kifaatiba": {
+    "word": "kifaatiba",
+    "definition": "kifaa kinachotumika hospitalini au katika matibabu",
+    "variations": [
+      "vifaatiba",
+      "kifaa cha tiba"
+    ],
+    "emoji": "🩺🏥"
+  },
+  "Kifua kikuu": {
+    "word": "Kifua kikuu",
+    "definition": "ugonjwa unaosababishwa na bakteria na huathiri zaidi mapafu.",
+    "variations": [
+      "ugonjwa wa kifua kikuu"
+    ],
+    "emoji": "🫁🤒"
+  },
+  "kimiminika": {
+    "word": "kimiminika",
+    "definition": "hali ya maada inayotiririka na kuchukua umbo la chombo ilimowekwa.",
+    "variations": [
+      "kimiminika",
+      "hali ya kimiminika"
+    ],
+    "emoji": "💧🥤"
+  },
+  "king’ora": {
+    "word": "king’ora",
+    "definition": "sauti kali ya tahadhari inayotolewa na kifaa maalumu",
+    "variations": [
+      "ving’ora"
+    ],
+    "emoji": "🚨🔊"
+  },
+  "kinga ya mwili": {
+    "word": "kinga ya mwili",
+    "definition": "Uwezo wa mwili kupambana na magonjwa.",
+    "variations": [
+      "kinga"
+    ],
+    "emoji": "🛡️🩺"
+  },
+  "kinzanuru": {
+    "word": "kinzanuru",
+    "definition": "Kitu kisichoruhusu mwanga kupenya.",
+    "variations": [
+      "vikinzanuru",
+      "kitu kinzanuru"
+    ],
+    "emoji": "⬛🚫💡"
+  },
+  "kioevu": {
+    "word": "kioevu",
+    "definition": "kitu cha majimaji kinachotiririka kama maji",
+    "variations": [
+      "vimiminika",
+      "kioevu cha maji"
+    ],
+    "emoji": "💧"
+  },
+  "kiolesura": {
+    "word": "kiolesura",
+    "definition": "Njia au sehemu inayowezesha mtu kuwasiliana na kompyuta au kifaa cha kielektroniki.",
+    "variations": [
+      "kiolesura"
+    ],
+    "emoji": "🖥️👤"
+  },
+  "kioo bapa": {
+    "word": "kioo bapa",
+    "definition": "Kioo chenye uso laini na tambarare kinachoonyesha taswira ya kitu au mtu.",
+    "variations": [
+      "kioo bapa",
+      "vioo bapa",
+      "kioo"
+    ],
+    "emoji": "🪞✨"
+  },
+  "kipanya": {
+    "word": "kipanya",
+    "definition": "Kifaa cha kompyuta kinachotumika kubofya, kuchagua na kuhamisha vitu kwenye skrini.",
+    "variations": [
+      "kipanya",
+      "vipanya"
+    ],
+    "emoji": "🖱️💻"
+  },
+  "kipimajoto": {
+    "word": "kipimajoto",
+    "definition": "kifaa kinachotumika kupima joto au baridi wa kitu.",
+    "variations": [
+      "kipimajoto",
+      "vipimajoto"
+    ],
+    "emoji": "🌡️🧪"
+  },
+  "kipindupindu": {
+    "word": "kipindupindu",
+    "definition": "ugonjwa hatari unaohusiana na uchafu na maji au chakula kisicho salama",
+    "variations": [
+      "ugonjwa wa kipindupindu"
+    ],
+    "emoji": "🤒💧"
+  },
+  "kiribatumbo": {
+    "word": "kiribatumbo",
+    "definition": "Kiribatumbo ni hali ya kuwa na mafuta au unene mwingi tumboni unaoweza kuathiri afya.",
+    "variations": [
+      "kiribatumbo"
+    ],
+    "emoji": "⚠️🥴"
+  },
+  "kishale": {
+    "word": "kishale",
+    "definition": "Alama ya upande inayotumika kuongoza mwendo, kama kishale juu au kishale chini.",
+    "variations": [
+      "kishale",
+      "vishale"
+    ],
+    "emoji": "⬆️⬇️➡️"
+  },
+  "kisukari": {
+    "word": "kisukari",
+    "definition": "Ugonjwa unaotokea mwili unaposhindwa kudhibiti kiasi cha sukari kwenye damu.",
+    "variations": [
+      "kisukari",
+      "ugonjwa wa kisukari"
+    ],
+    "emoji": "🩸🍬"
+  },
+  "kivuli": {
+    "word": "kivuli",
+    "definition": "Eneo la giza linalotokea mwanga unapozuiwa na kitu.",
+    "variations": [
+      "vivuli",
+      "kivuli cha kitu"
+    ],
+    "emoji": "🌑👤"
+  },
+  "kizingiti": {
+    "word": "kizingiti",
+    "definition": "kiwango maalumu ambacho mabadiliko fulani huanza kutokea.",
+    "variations": [
+      "kizingiti",
+      "vizingiti"
+    ],
+    "emoji": "🚩📏"
+  },
+  "kizingiti cha mchemko wa maji": {
+    "word": "kizingiti cha mchemko wa maji",
+    "definition": "kiwango cha jotoridi ambacho maji huanza kuchemka na kuwa mvuke. Kwa kawaida ni nyuzijoto sentigredi 100.",
+    "variations": [
+      "kizingiti cha mchemko wa maji",
+      "mchemko wa maji"
+    ],
+    "emoji": "♨️🌡️1️⃣0️⃣0️⃣"
+  },
+  "kizingiti cha mgando wa maji": {
+    "word": "kizingiti cha mgando wa maji",
+    "definition": "kiwango cha jotoridi ambacho maji huanza kuganda na kuwa barafu. Kwa kawaida ni nyuzijoto sentigredi 0.",
+    "variations": [
+      "kizingiti cha mgando wa maji",
+      "mgando wa maji"
+    ],
+    "emoji": "🧊🌡️0️⃣"
+  },
+  "koleo": {
+    "word": "koleo",
+    "definition": "Kifaa cha kushikia vitu vya moto bila kutumia mikono moja kwa moja.",
+    "variations": [
+      "makoleo"
+    ],
+    "emoji": "🛠️🔥"
+  },
+  "kompyuta": {
+    "word": "kompyuta",
+    "definition": "Kifaa cha kielektroniki kinachotumika kuandika, kuhifadhi na kuendesha programu.",
+    "variations": [
+      "kompyuta",
+      "kompyuta yako"
+    ],
+    "emoji": "💻🖥️"
+  },
+  "kongosho": {
+    "word": "kongosho",
+    "definition": "Tezi mwilini inayosaidia kutengeneza insulini.",
+    "variations": [
+      "kongosho",
+      "tezi ya kongosho"
+    ],
+    "emoji": "🫀🔬"
+  },
+  "kuakisiwa": {
+    "word": "kuakisiwa",
+    "definition": "Kurudi kwa mwanga baada ya kugonga kitu kama kioo au maji.",
+    "variations": [
+      "uakisi",
+      "mwanga kuakisiwa"
+    ],
+    "emoji": "🪞✨"
+  },
+  "kubadilishwa": {
+    "word": "kubadilishwa",
+    "definition": "kugeuzwa kutoka hali moja kwenda hali nyingine",
+    "variations": [
+      "badilisha",
+      "kubadili",
+      "mabadiliko"
+    ],
+    "emoji": "🔄↔️"
+  },
+  "kubandika": {
+    "word": "kubandika",
+    "definition": "Kuweka nakala ya kitu ulichoiga katika sehemu nyingine.",
+    "variations": [
+      "kubandika",
+      "bandika"
+    ],
+    "emoji": "📋📌"
+  },
+  "kubwa kuliko": {
+    "word": "kubwa kuliko",
+    "definition": "Ni kulinganisha namba mbili na kuona ipi ina thamani zaidi.",
+    "variations": [
+      "zaidi ya",
+      "greater than"
+    ],
+    "emoji": "🔢⬆️"
+  },
+  "kuchotora": {
+    "word": "kuchotora",
+    "definition": "kuisha muda wa matumizi wa bidhaa",
+    "variations": [
+      "imechotora",
+      "muda wa kuchotora",
+      "tarehe ya kuchotora"
+    ],
+    "emoji": "📅⌛"
+  },
+  "kuhifadhi": {
+    "word": "kuhifadhi",
+    "definition": "kutunza kitu vizuri ili kisiharibike au kisilete madhara",
+    "variations": [
+      "namna ya kuhifadhi",
+      "uhifadhi",
+      "kuhifadhi vitu"
+    ],
+    "emoji": "📦🏠"
+  },
+  "kuiga": {
+    "word": "kuiga",
+    "definition": "Kutengeneza nakala ya kitu kilichopo tayari.",
+    "variations": [
+      "kuiga",
+      "nakala"
+    ],
+    "emoji": "📄📋"
+  },
+  "kupenyesha": {
+    "word": "kupenyesha",
+    "definition": "kupita ndani ya kitu au kuruhusu kitu kipite ndani yake.",
+    "variations": [
+      "kupenyesha",
+      "penyesha",
+      "kupenya"
+    ],
+    "emoji": "💡➡️"
+  },
+  "kupinda": {
+    "word": "kupinda",
+    "definition": "Kubadili uelekeo wa mwanga unapopita kutoka sehemu moja kwenda nyingine.",
+    "variations": [
+      "kupinda",
+      "hupinda",
+      "imepinda"
+    ],
+    "emoji": "↪️💡"
+  },
+  "kurunzi": {
+    "word": "kurunzi",
+    "definition": "Kifaa kinachotoa mwanga mkali unaoelekezwa upande mmoja.",
+    "variations": [
+      "kurunzi ya mkono"
+    ],
+    "emoji": "🔦💡"
+  },
+  "kusimba": {
+    "word": "kusimba",
+    "definition": "Kuandika maagizo ambayo kompyuta itafuata ili kufanya kazi fulani.",
+    "variations": [
+      "kusimba",
+      "usimbaji"
+    ],
+    "emoji": "⌨️💻"
+  },
+  "kuyeyuka": {
+    "word": "kuyeyuka",
+    "definition": "kubadilika kutoka hali ngumu na kuwa ya maji kwa sababu ya joto.",
+    "variations": [
+      "kuyeyuka",
+      "yeyuka",
+      "iliyeyuka"
+    ],
+    "emoji": "🧈🔥"
+  },
+  "lava": {
+    "word": "lava",
+    "definition": "kiumbe cha mdudu kilicho katika hatua ya pili ya ukuaji baada ya yai kuanguliwa.",
+    "variations": [
+      "lava",
+      "lava wa mbu",
+      "lava wa nzi"
+    ],
+    "emoji": "🐛🥚"
+  },
+  "lenzi": {
+    "word": "lenzi",
+    "definition": "kifaa kinachosaidia kuona vitu kwa ukaribu au kwa ukubwa zaidi.",
+    "variations": [
+      "lenzi",
+      "lenzi ya mkononi"
+    ],
+    "emoji": "🔍👀"
+  },
+  "lishe bora": {
+    "word": "lishe bora",
+    "definition": "Kula chakula chenye virutubisho vinavyohitajika ili mwili uwe na afya.",
+    "variations": [
+      "lishe bora",
+      "mlo kamili"
+    ],
+    "emoji": "🥗🍎"
+  },
+  "lugha ya programu": {
+    "word": "lugha ya programu",
+    "definition": "Njia maalum ya kuandika maagizo ili kompyuta ifanye kazi.",
+    "variations": [
+      "lugha ya programu",
+      "lugha za programu"
+    ],
+    "emoji": "💻🧠"
+  },
+  "maada": {
+    "word": "maada",
+    "definition": "kitu chochote chenye uzito na kinachochukua nafasi.",
+    "variations": [
+      "maada"
+    ],
+    "emoji": "🧪📦"
+  },
+  "maada yabisi": {
+    "word": "maada yabisi",
+    "definition": "vitu vigumu vyenye umbo maalumu, kama chuma au mbao.",
+    "variations": [
+      "maada yabisi",
+      "yabisi"
+    ],
+    "emoji": "🪨🔩"
+  },
+  "Maambukizi": {
+    "word": "Maambukizi",
+    "definition": "hali ya ugonjwa kuingia au kusambaa kutoka kwa mtu mmoja kwenda kwa mwingine.",
+    "variations": [
+      "maambukizo",
+      "kuambukiza",
+      "kuambukizwa"
+    ],
+    "emoji": "🦠↔️"
+  },
+  "maamuzi": {
+    "word": "maamuzi",
+    "definition": "Ni kuchagua jambo la kufanya kulingana na hali fulani katika programu.",
+    "variations": [
+      "uamuzi",
+      "amua"
+    ],
+    "emoji": "🤔✅❌"
+  },
+  "madhara ya kiafya": {
+    "word": "madhara ya kiafya",
+    "definition": "matatizo yanayoweza kutokea kwa afya ya mtu",
+    "variations": [
+      "madhara",
+      "athari za kiafya"
+    ],
+    "emoji": "🤒⚠️"
+  },
+  "madini": {
+    "word": "madini",
+    "definition": "Virutubisho muhimu vinavyosaidia mwili kufanya kazi vizuri na kuwa imara.",
+    "variations": [
+      "virutubisho vya madini"
+    ],
+    "emoji": "🥬🦴"
+  },
+  "maelekezo ya matumizi": {
+    "word": "maelekezo ya matumizi",
+    "definition": "taarifa zinazoonesha jinsi ya kutumia kitu kwa usahihi",
+    "variations": [
+      "namna ya matumizi",
+      "maagizo ya matumizi"
+    ],
+    "emoji": "📖✅"
+  },
+  "mafuta": {
+    "word": "mafuta",
+    "definition": "Kirutubisho kinachosaidia kuupa mwili nguvu na joto.",
+    "variations": [
+      "vyakula vyenye mafuta"
+    ],
+    "emoji": "🥑🥜🔥"
+  },
+  "magonjwa": {
+    "word": "magonjwa",
+    "definition": "Hali inayoufanya mwili au akili kutofanya kazi vizuri.",
+    "variations": [
+      "ugonjwa",
+      "ugonjwa mmoja"
+    ],
+    "emoji": "🤒🦠"
+  },
+  "Magonjwa ya kuambukiza": {
+    "word": "Magonjwa ya kuambukiza",
+    "definition": "magonjwa yanayoweza kuenea kutoka kwa mtu mmoja kwenda kwa mwingine.",
+    "variations": [
+      "ugonjwa wa kuambukiza",
+      "magonjwa ya kuambukiza"
+    ],
+    "emoji": "🦠👥"
+  },
+  "Magonjwa yasiyoambukiza": {
+    "word": "Magonjwa yasiyoambukiza",
+    "definition": "magonjwa ambayo hayaenei kutoka mtu mmoja kwenda kwa mwingine.",
+    "variations": [
+      "ugonjwa usioambukiza",
+      "magonjwa yasiyo ya kuambukiza"
+    ],
+    "emoji": "❤️⚕️"
+  },
+  "maji": {
+    "word": "maji",
+    "definition": "Kimiminika kinachoweza kupitisha mwanga na sauti.",
+    "variations": [
+      "maji"
+    ],
+    "emoji": "💧🌊"
+  },
+  "majimaji ya mwili": {
+    "word": "majimaji ya mwili",
+    "definition": "Vitu vya kimiminika vya mwilini kama damu au maziwa ya mama.",
+    "variations": [
+      "majimaji ya mwili",
+      "majimaji"
+    ],
+    "emoji": "💧🩸"
+  },
+  "majivu": {
+    "word": "majivu",
+    "definition": "Mabaki laini yanayobaki baada ya kitu kuungua kabisa.",
+    "variations": [
+      "jivu",
+      "majivu ya moto"
+    ],
+    "emoji": "灰🔥"
+  },
+  "makundi makuu ya vyakula": {
+    "word": "makundi makuu ya vyakula",
+    "definition": "Sehemu kuu ambazo vyakula hupangwa kulingana na kazi zake mwilini.",
+    "variations": [
+      "kundi la vyakula",
+      "makundi ya vyakula"
+    ],
+    "emoji": "🍽️📚"
+  },
+  "malaria": {
+    "word": "malaria",
+    "definition": "ugonjwa unaosababishwa na mbu wenye maambukizi",
+    "variations": [
+      "ugonjwa wa malaria"
+    ],
+    "emoji": "🦟🤒"
+  },
+  "malengelenge": {
+    "word": "malengelenge",
+    "definition": "uvimbe mdogo kwenye ngozi wenye majimaji ndani.",
+    "variations": [
+      "malengelenge",
+      "lengelenge"
+    ],
+    "emoji": "🩹 الجلد💧"
+  },
+  "mantiki": {
+    "word": "mantiki",
+    "definition": "Njia ya kufikiri au kufanya jambo kwa mpangilio unaoeleweka na wenye sababu sahihi.",
+    "variations": [
+      "mantiki"
+    ],
+    "emoji": "🧠✅"
+  },
+  "marudio": {
+    "word": "marudio",
+    "definition": "Ni kurudia kufanya jambo lilelile mara nyingi katika programu.",
+    "variations": [
+      "kurudia",
+      "rudia"
+    ],
+    "emoji": "🔁🔂"
+  },
+  "matibabu": {
+    "word": "matibabu",
+    "definition": "huduma au njia za kumsaidia mgonjwa apone",
+    "variations": [
+      "tiba",
+      "kutibu",
+      "kimatibabu"
+    ],
+    "emoji": "🏥💊"
+  },
+  "Matukio": {
+    "word": "Matukio",
+    "definition": "Sehemu ya bloku zinazotumika kuanzisha kitendo, kwa mfano wakati kitufe kinapobonyezwa.",
+    "variations": [
+      "Tukio",
+      "Matukio"
+    ],
+    "emoji": "⚡🎬"
+  },
+  "maumbo": {
+    "word": "maumbo",
+    "definition": "aina za sura za vitu kama duara, mraba au pembetatu",
+    "variations": [
+      "umbo",
+      "maumbo tofauti"
+    ],
+    "emoji": "🔺⚪⬛"
+  },
+  "maunzi laini": {
+    "word": "maunzi laini",
+    "definition": "Programu za kompyuta zinazotumika kufanya kazi mbalimbali, kama kuunda michezo au hadithi.",
+    "variations": [
+      "maunzi laini"
+    ],
+    "emoji": "💿💻"
+  },
+  "mawasiliano": {
+    "word": "mawasiliano",
+    "definition": "njia ya kupeana habari au ujumbe kati ya watu au vifaa",
+    "variations": [
+      "wasiliana",
+      "kuwasiliana",
+      "mawasiliano ya simu"
+    ],
+    "emoji": "📞💬"
+  },
+  "mawimbi ya sauti": {
+    "word": "mawimbi ya sauti",
+    "definition": "Mwendo wa sauti unaosafiri kutoka chanzo kwenda sehemu nyingine.",
+    "variations": [
+      "wimbi la sauti",
+      "mawimbi ya sauti"
+    ],
+    "emoji": "🌊🔊"
+  },
+  "mazalia": {
+    "word": "mazalia",
+    "definition": "mahali ambapo wadudu huzaliana au kuongezeka kwa wingi",
+    "variations": [
+      "zalia",
+      "sehemu ya mazalia"
+    ],
+    "emoji": "🪰🦟"
+  },
+  "Mazalia ya mbu": {
+    "word": "Mazalia ya mbu",
+    "definition": "sehemu ambazo mbu huzaliana, kama maji yaliyotuama.",
+    "variations": [
+      "zalia la mbu",
+      "mazalia"
+    ],
+    "emoji": "🦟💧"
+  },
+  "mazingira": {
+    "word": "mazingira",
+    "definition": "Vitu vyote vinavyotuzunguka kama hewa, ardhi, mimea na wanyama.",
+    "variations": [
+      "uharibu wa mazingira"
+    ],
+    "emoji": "🌍🌿"
+  },
+  "mazoezi ya mwili": {
+    "word": "mazoezi ya mwili",
+    "definition": "Shughuli za kuuchezesha mwili ili kuwa na nguvu na afya nzuri.",
+    "variations": [
+      "mazoezi"
+    ],
+    "emoji": "🏃💪"
+  },
+  "mchemko": {
+    "word": "mchemko",
+    "definition": "hali ya kimiminika kuchemka na kutoa mvuke kwa sababu ya joto.",
+    "variations": [
+      "mchemko"
+    ],
+    "emoji": "♨️🔥"
+  },
+  "mchezo sahili wa kompyuta": {
+    "word": "mchezo sahili wa kompyuta",
+    "definition": "Mchezo rahisi unaotengenezwa na kuchezwa kwa kutumia kompyuta.",
+    "variations": [
+      "mchezo sahili wa kompyuta",
+      "michezo sahili ya kompyuta"
+    ],
+    "emoji": "🎮💻"
+  },
+  "mduara": {
+    "word": "mduara",
+    "definition": "Umbo la mviringo lisilo na pembe.",
+    "variations": [
+      "mduara",
+      "maduara"
+    ],
+    "emoji": "⭕🔵"
+  },
+  "menyu": {
+    "word": "menyu",
+    "definition": "Orodha ya chaguo mbalimbali ndani ya programu au kompyuta.",
+    "variations": [
+      "menyu",
+      "menyu za"
+    ],
+    "emoji": "📋🧭"
+  },
+  "metali": {
+    "word": "metali",
+    "definition": "aina ya vitu vigumu kama chuma ambavyo mara nyingi hupitisha joto vizuri.",
+    "variations": [
+      "metali",
+      "metalii"
+    ],
+    "emoji": "🔩⚙️"
+  },
+  "metamofosisi": {
+    "word": "metamofosisi",
+    "definition": "mabadiliko ya hatua kwa hatua katika ukuaji wa mdudu kutoka yai hadi mdudu kamili.",
+    "variations": [
+      "metamofosisi",
+      "metamofosisi kamili",
+      "metamofosisi pungufu"
+    ],
+    "emoji": "🔄🐞🦋"
+  },
+  "mfuatano": {
+    "word": "mfuatano",
+    "definition": "mpangilio wa vitu unaofuata hatua au utaratibu maalumu",
+    "variations": [
+      "mfuatano wa maumbo"
+    ],
+    "emoji": "➡️🔢"
+  },
+  "mfumo wa upumuaji": {
+    "word": "mfumo wa upumuaji",
+    "definition": "Sehemu za mwili zinazosaidia kupumua, kama pua, koo, na mapafu.",
+    "variations": [
+      "mfumo wa upumuaji",
+      "upumuaji"
+    ],
+    "emoji": "🫁🌬️"
+  },
+  "mgando": {
+    "word": "mgando",
+    "definition": "hali au mchakato wa kimiminika kubadilika na kuwa yabisi kwa sababu ya baridi.",
+    "variations": [
+      "mgando"
+    ],
+    "emoji": "🧊❄️"
+  },
+  "miale": {
+    "word": "miale",
+    "definition": "Mistari au mwendo wa mwanga unaotoka kwenye chanzo chake.",
+    "variations": [
+      "miale",
+      "miale ya mwanga"
+    ],
+    "emoji": "✨🔦"
+  },
+  "miale ya mwanga": {
+    "word": "miale ya mwanga",
+    "definition": "Mistari ya mwanga inayotoka kwenye chanzo cha mwanga.",
+    "variations": [
+      "miale",
+      "mwale wa mwanga",
+      "miali ya mwanga"
+    ],
+    "emoji": "✨🔦"
+  },
+  "midia": {
+    "word": "midia",
+    "definition": "Kitu au hali ambayo mwanga au sauti hupitia, kama hewa, maji au chuma.",
+    "variations": [
+      "midia",
+      "midia angavu"
+    ],
+    "emoji": "🌬️💧🪨"
+  },
+  "mifupa": {
+    "word": "mifupa",
+    "definition": "Mifupa ni sehemu ngumu ndani ya mwili inayoupa umbo na kuusaidia kusimama.",
+    "variations": [
+      "mfupa",
+      "mifupa"
+    ],
+    "emoji": "🦴"
+  },
+  "milele": {
+    "word": "milele",
+    "definition": "Ni amri inayofanya jambo liendelee kurudiwa bila mwisho mpaka lisimamishwe.",
+    "variations": [
+      "bila mwisho"
+    ],
+    "emoji": "♾️🔁"
+  },
+  "mionzi": {
+    "word": "mionzi",
+    "definition": "Nguvu au mawimbi yasiyoonekana ambayo yanaweza kuathiri mwili.",
+    "variations": [
+      "mionzi",
+      "mionzi mikali"
+    ],
+    "emoji": "☢️🌞"
+  },
+  "mionzi ya sumakuumeme": {
+    "word": "mionzi ya sumakuumeme",
+    "definition": "Aina ya nishati inayosafiri kama mawimbi, na mwanga ni sehemu yake.",
+    "variations": [
+      "mionzi"
+    ],
+    "emoji": "📡💡"
+  },
+  "misuli": {
+    "word": "misuli",
+    "definition": "Misuli ni sehemu za mwili zinazosaidia kutembea, kubeba vitu na kufanya kazi mbalimbali.",
+    "variations": [
+      "msuli",
+      "misuli"
+    ],
+    "emoji": "💪🏃"
+  },
+  "mitetemo": {
+    "word": "mitetemo",
+    "definition": "Michezo ya kutikisika ya kitu ambayo husababisha sauti kutokea.",
+    "variations": [
+      "mtetemo",
+      "mitetemo"
+    ],
+    "emoji": "〰️🔊"
+  },
+  "miundo": {
+    "word": "miundo",
+    "definition": "Mpangilio wa maumbo au rangi unaoleta mwonekano maalum.",
+    "variations": [
+      "muundo",
+      "miundo"
+    ],
+    "emoji": "🧩🎨"
+  },
+  "mkaa": {
+    "word": "mkaa",
+    "definition": "Kuni zilizochomwa na kubaki kama kitu cheusi kinachotumika kuwasha moto.",
+    "variations": [
+      "kaa"
+    ],
+    "emoji": "🪵⚫🔥"
+  },
+  "mlo kamili": {
+    "word": "mlo kamili",
+    "definition": "Chakula chenye virutubisho vyote muhimu kwa kiasi kinachofaa mwili.",
+    "variations": [
+      "milo kamili"
+    ],
+    "emoji": "🍽️🥗"
+  },
+  "mlolongo": {
+    "word": "mlolongo",
+    "definition": "Mpangilio wa hatua au vitu unaofuata utaratibu maalum kutoka mwanzo hadi mwisho.",
+    "variations": [
+      "mlolongo"
+    ],
+    "emoji": "1️⃣➡️📚"
+  },
+  "mmomonyoko wa udongo": {
+    "word": "mmomonyoko wa udongo",
+    "definition": "Hali ya udongo kusombwa au kuondolewa na maji au upepo.",
+    "variations": [
+      "mmomonyoko"
+    ],
+    "emoji": "🌧️🟫"
+  },
+  "mnururisho": {
+    "word": "mnururisho",
+    "definition": "Njia ya usafirishaji wa joto kupitia nafasi tupu bila kugusa kitu kingine moja kwa moja.",
+    "variations": [
+      "mnururisho wa joto"
+    ],
+    "emoji": "🌡️☀️"
+  },
+  "mpitisho": {
+    "word": "mpitisho",
+    "definition": "njia ambayo joto husafiri katika vitu vigumu kutoka sehemu moja kwenda nyingine.",
+    "variations": [
+      "mpitisho"
+    ],
+    "emoji": "🔥🔩"
+  },
+  "msafara": {
+    "word": "msafara",
+    "definition": "njia ambayo joto husafiri katika vimiminika kama maji na hewa kwa kusogea kutoka sehemu moja kwenda nyingine.",
+    "variations": [
+      "msafara"
+    ],
+    "emoji": "💧♨️"
+  },
+  "mshale": {
+    "word": "mshale",
+    "definition": "Alama ndogo kwenye skrini inayoonesha sehemu unayoelekeza kwa kipanya.",
+    "variations": [
+      "mshale",
+      "mshale wa kipanya"
+    ],
+    "emoji": "🖱️➡️"
+  },
+  "msikilizaji": {
+    "word": "msikilizaji",
+    "definition": "Mtu anayesikia sauti.",
+    "variations": [
+      "msikilizaji",
+      "wasikilizaji"
+    ],
+    "emoji": "👂🙂"
+  },
+  "msongamano": {
+    "word": "msongamano",
+    "definition": "Hali ya kuwa na watu wengi sana mahali pamoja.",
+    "variations": [
+      "msongamano"
+    ],
+    "emoji": "👥🚶"
+  },
+  "msongo wa mawazo": {
+    "word": "msongo wa mawazo",
+    "definition": "Msongo wa mawazo ni hali ya kuwa na mawazo mengi yanayoweza kumfanya mtu ajisikie vibaya au kuchoka akili.",
+    "variations": [
+      "msongo wa mawazo"
+    ],
+    "emoji": "😟🧠"
+  },
+  "mstari mnyoofu": {
+    "word": "mstari mnyoofu",
+    "definition": "Mstari ulionyooka bila kupinda.",
+    "variations": [
+      "mistari minyoofu",
+      "njia ya mnyoofu"
+    ],
+    "emoji": "📏➡️"
+  },
+  "mstatili": {
+    "word": "mstatili",
+    "definition": "Umbo lenye pande nne, ambapo pande mbili mbili zinazokabiliana ni sawa.",
+    "variations": [
+      "mstatili",
+      "mistatili"
+    ],
+    "emoji": "▭⬛"
+  },
+  "msuguano": {
+    "word": "msuguano",
+    "definition": "hali ya vitu viwili kusuguana, na mara nyingi hutokeza joto.",
+    "variations": [
+      "msuguano"
+    ],
+    "emoji": "🖐️🔥"
+  },
+  "mteremko": {
+    "word": "mteremko",
+    "definition": "Sehemu iliyoinama kutoka juu kwenda chini.",
+    "variations": [
+      "mteremko",
+      "eneo la mteremko"
+    ],
+    "emoji": "⛰️📉"
+  },
+  "mtiririko": {
+    "word": "mtiririko",
+    "definition": "Ni jinsi hatua au amri zinavyofuata moja baada ya nyingine.",
+    "variations": [
+      "mtiririko wa kazi",
+      "mfuatano"
+    ],
+    "emoji": "🌊➡️"
+  },
+  "muundo": {
+    "word": "muundo",
+    "definition": "mpangilio wa vitu kwa namna inayofuata utaratibu fulani",
+    "variations": [
+      "miundo",
+      "muundo wa asili",
+      "muundo wa kutengeneza"
+    ],
+    "emoji": "🧩📐"
+  },
+  "muwasho": {
+    "word": "muwasho",
+    "definition": "Muwasho ni hali ya sehemu ya mwili kuwasha na kutaka kujikuna.",
+    "variations": [
+      "muwasho"
+    ],
+    "emoji": "😣🤚"
+  },
+  "muziki": {
+    "word": "muziki",
+    "definition": "Sauti zilizopangwa kwa namna ya kupendeza kusikiliza.",
+    "variations": [
+      "muziki"
+    ],
+    "emoji": "🎵🎶"
+  },
+  "mvuke": {
+    "word": "mvuke",
+    "definition": "maji katika hali ya gesi yanapotokana na kuchemka au kupata joto.",
+    "variations": [
+      "mvuke"
+    ],
+    "emoji": "♨️💨💧"
+  },
+  "mwanga": {
+    "word": "mwanga",
+    "definition": "Nishati inayotusaidia kuona vitu vilivyo karibu nasi.",
+    "variations": [
+      "mwanga",
+      "miale ya mwanga",
+      "nishati ya mwanga"
+    ],
+    "emoji": "💡☀️"
+  },
+  "mwangwi": {
+    "word": "mwangwi",
+    "definition": "Sauti inayorudi na kusikika tena baada ya kugonga ukuta au kitu kigumu.",
+    "variations": [
+      "mwangwi"
+    ],
+    "emoji": "🗣️↩️👂"
+  },
+  "mwelekeo": {
+    "word": "mwelekeo",
+    "definition": "Upande ambao Sprite anaelekezwa kwenda, kama juu, chini, kushoto au kulia.",
+    "variations": [
+      "mwelekeo",
+      "mielekeo"
+    ],
+    "emoji": "🧭➡️"
+  },
+  "Mwendo": {
+    "word": "Mwendo",
+    "definition": "Sehemu ya bloku zinazomfanya Sprite asogee au abadili mwelekeo.",
+    "variations": [
+      "Mwendo"
+    ],
+    "emoji": "➡️🏃"
+  },
+  "mz io": {
+    "word": "mz io",
+    "definition": "hali ya mwili kuathiriwa na vitu fulani kama vumbi au harufu ambavyo kwa watu wengine havileti madhara.",
+    "variations": [
+      "mzio",
+      "mzio wa vumbi",
+      "mzio wa harufu"
+    ],
+    "emoji": "🤧🌾💨"
+  },
+  "mzio": {
+    "word": "mzio",
+    "definition": "hali ya mwili kuathirika na kitu fulani kama chakula, dawa au sabuni",
+    "variations": [
+      "kupata mzio",
+      "mzio wa ngozi"
+    ],
+    "emoji": "🤧⚠️"
+  },
+  "mzunguko": {
+    "word": "mzunguko",
+    "definition": "Namna kitu kinavyozunguka au kubaki bila kuzunguka ndani ya programu.",
+    "variations": [
+      "mzunguko",
+      "mizunguko"
+    ],
+    "emoji": "🔄↩️"
+  },
+  "mzunguko wa damu": {
+    "word": "mzunguko wa damu",
+    "definition": "Mzunguko wa damu ni namna damu inavyosafiri ndani ya mwili kufikisha hewa na virutubisho sehemu mbalimbali.",
+    "variations": [
+      "mzunguko wa damu"
+    ],
+    "emoji": "🩸🔄"
+  },
+  "nakala": {
+    "word": "nakala",
+    "definition": "Kitu kilichotolewa kwa kufanana na cha kwanza bila kubadili asili yake.",
+    "variations": [
+      "nakala",
+      "nakala nyingine"
+    ],
+    "emoji": "📄🪞"
+  },
+  "nishati": {
+    "word": "nishati",
+    "definition": "uwezo unaowezesha kazi kufanyika.",
+    "variations": [
+      "nishati"
+    ],
+    "emoji": "⚡🔋"
+  },
+  "nishati ya joto": {
+    "word": "nishati ya joto",
+    "definition": "Nguvu ya joto inayotumika kupasha moto vitu au kufanya kazi mbalimbali kama kupika na kukausha.",
+    "variations": [
+      "joto",
+      "nishati ya joto"
+    ],
+    "emoji": "🔥🌡️"
+  },
+  "nishati ya mwanga": {
+    "word": "nishati ya mwanga",
+    "definition": "Nguvu ya mwanga inayotusaidia kuona vitu.",
+    "variations": [
+      "mwanga",
+      "nishati ya mwanga"
+    ],
+    "emoji": "💡☀️"
+  },
+  "nusuangavu": {
+    "word": "nusuangavu",
+    "definition": "Kitu kinachoruhusu mwanga kupenya kiasi tu, si wote.",
+    "variations": [
+      "vitu nusuangavu"
+    ],
+    "emoji": "🌫️💡"
+  },
+  "nyuzi": {
+    "word": "nyuzi",
+    "definition": "Namba zinazoonyesha upande wa kuelekea, kama 0, 90, 180 au -90.",
+    "variations": [
+      "nyuzi"
+    ],
+    "emoji": "📐🔢"
+  },
+  "nyuzijoto": {
+    "word": "nyuzijoto",
+    "definition": "kipimo kinachotumika kuonyesha kiwango cha joto au baridi.",
+    "variations": [
+      "nyuzijoto"
+    ],
+    "emoji": "🌡️📏"
+  },
+  "oksijeni": {
+    "word": "oksijeni",
+    "definition": "Gesi iliyoko hewani inayosaidia vitu kuwaka.",
+    "variations": [
+      "gesi ya oksijeni",
+      "hewa ya oksijeni"
+    ],
+    "emoji": "🌬️🔥"
+  },
+  "ombwe": {
+    "word": "ombwe",
+    "definition": "nafasi tupu isiyo na hewa wala vitu vingine.",
+    "variations": [
+      "ombwe"
+    ],
+    "emoji": "🌌⭕"
+  },
+  "onyo": {
+    "word": "onyo",
+    "definition": "taarifa ya kutahadharisha kuhusu hatari inayoweza kutokea",
+    "variations": [
+      "alama za onyo",
+      "kuonya"
+    ],
+    "emoji": "⚠️🚨"
+  },
+  "Opereta": {
+    "word": "Opereta",
+    "definition": "Bloku zinazotumika kulinganisha, kuhesabu, au kutumia mantiki katika programu.",
+    "variations": [
+      "Opereta",
+      "bloku za Opereta",
+      "opereta ya kubwa kuliko"
+    ],
+    "emoji": "➕⚖️"
+  },
+  "Paint": {
+    "word": "Paint",
+    "definition": "programu ya kompyuta inayotumika kuchora na kupaka rangi picha au maumbo",
+    "variations": [
+      "programu ya Paint"
+    ],
+    "emoji": "🎨💻"
+  },
+  "paneli za sola": {
+    "word": "paneli za sola",
+    "definition": "Vifaa vinavyobadilisha mwanga wa jua kuwa umeme.",
+    "variations": [
+      "paneli za sola",
+      "paneli ya sola"
+    ],
+    "emoji": "☀️🔋"
+  },
+  "pembetatu mraba": {
+    "word": "pembetatu mraba",
+    "definition": "Umbo lenye pembe tatu ambapo upande mmoja na mwingine hukutana kwa pembe ya mraba.",
+    "variations": [
+      "pembetatu mraba",
+      "umbo la pembetatu mraba"
+    ],
+    "emoji": "📐🔺"
+  },
+  "pembetatu ya moto": {
+    "word": "pembetatu ya moto",
+    "definition": "Mahitaji matatu ya moto: joto, oksijeni na fueli.",
+    "variations": [
+      "triangle ya moto"
+    ],
+    "emoji": "🔺🔥🌬️"
+  },
+  "Plasmodium": {
+    "word": "Plasmodium",
+    "definition": "kimelea kinachosababisha ugonjwa wa malaria.",
+    "variations": [
+      "vimelea vya plasmodium"
+    ],
+    "emoji": "🦠🦟"
+  },
+  "PNG picture": {
+    "word": "PNG picture",
+    "definition": "Aina ya faili la picha linalotumika kuhifadhi michoro au picha kwenye kompyuta.",
+    "variations": [
+      "PNG picture",
+      "PNG"
+    ],
+    "emoji": "🖼️💾"
+  },
+  "programu": {
+    "word": "programu",
+    "definition": "Maagizo yaliyopangwa ili kompyuta au Scratch ifanye kazi fulani.",
+    "variations": [
+      "programu",
+      "program"
+    ],
+    "emoji": "💻🧠"
+  },
+  "protini": {
+    "word": "protini",
+    "definition": "Kirutubisho kinachosaidia kujenga mwili na kukuza misuli na sehemu nyingine za mwili.",
+    "variations": [
+      "virutubisho vya protini"
+    ],
+    "emoji": "🥚🐟💪"
+  },
+  "pumu": {
+    "word": "pumu",
+    "definition": "Ugonjwa unaoathiri upumuaji na unaweza kufanya pumzi kubana.",
+    "variations": [
+      "pumu",
+      "ugonjwa wa pumu"
+    ],
+    "emoji": "🫁😮‍💨"
+  },
+  "rangi": {
+    "word": "rangi",
+    "definition": "Mwonekano wa kitu kama nyekundu, njano au bluu unaotumika kufanya mchoro upendeze.",
+    "variations": [
+      "rangi",
+      "kupaka rangi"
+    ],
+    "emoji": "🎨🖌️"
+  },
+  "rejesha": {
+    "word": "rejesha",
+    "definition": "Ni kurudisha kitu nyuma au mahali pake baada ya kufika ukingoni au kufanya tendo fulani.",
+    "variations": [
+      "kurudisha",
+      "rejesho"
+    ],
+    "emoji": "↩️🔙"
+  },
+  "rutuba": {
+    "word": "rutuba",
+    "definition": "Ubora wa udongo unaosaidia mimea kukua vizuri.",
+    "variations": [
+      "rutuba ya ardhi"
+    ],
+    "emoji": "🌱🟫"
+  },
+  "saratani": {
+    "word": "saratani",
+    "definition": "Ugonjwa unaotokea chembehai za mwili zinapokua bila mpangilio wa kawaida.",
+    "variations": [
+      "saratani",
+      "aina za saratani"
+    ],
+    "emoji": "🧬🏥"
+  },
+  "Sauti": {
+    "word": "Sauti",
+    "definition": "Sehemu ya bloku zinazotumika kucheza au kutoa sauti ndani ya programu.",
+    "variations": [
+      "Sauti"
+    ],
+    "emoji": "🔊🎵"
+  },
+  "Scratch": {
+    "word": "Scratch",
+    "definition": "Aina ya programu ya kompyuta inayotumika kujifunza usimbaji kwa kuunganisha bloku za maelekezo.",
+    "variations": [
+      "Scratch"
+    ],
+    "emoji": "💻🧩🎮"
+  },
+  "Scratch window": {
+    "word": "Scratch window",
+    "definition": "Dirisha la programu ya Scratch lenye sehemu mbalimbali unazotumia kutengeneza programu.",
+    "variations": [
+      "Scratch window",
+      "dirisha la Scratch"
+    ],
+    "emoji": "🪟💻"
+  },
+  "sega": {
+    "word": "sega",
+    "definition": "kifuko au gamba gumu linalobeba mayai ya baadhi ya wadudu kama mende.",
+    "variations": [
+      "sega",
+      "sega gumu",
+      "sega la mayai"
+    ],
+    "emoji": "🥚🪺"
+  },
+  "seli": {
+    "word": "seli",
+    "definition": "Sehemu ndogo sana zinazounda mwili wa viumbe hai.",
+    "variations": [
+      "seli mpya"
+    ],
+    "emoji": "🔬🧫"
+  },
+  "selikavu": {
+    "word": "selikavu",
+    "definition": "betri ndogo inayohifadhi umeme wa kuendesha kifaa",
+    "variations": [
+      "selikavu za tochi"
+    ],
+    "emoji": "🔋"
+  },
+  "sentigredi": {
+    "word": "sentigredi",
+    "definition": "aina ya kipimo cha jotoridi. Katika kipimo hiki, maji huganda kwenye nyuzijoto 0 na huchemka kwenye nyuzijoto 100.",
+    "variations": [
+      "sentigredi"
+    ],
+    "emoji": "🌡️0️⃣1️⃣0️⃣0️⃣"
+  },
+  "sheria za mchezo": {
+    "word": "sheria za mchezo",
+    "definition": "Maelekezo yanayoeleza jinsi mchezo unavyochezwa.",
+    "variations": [
+      "sheria za mchezo",
+      "sheria"
+    ],
+    "emoji": "📜🎮"
+  },
+  "shinikizo la damu": {
+    "word": "shinikizo la damu",
+    "definition": "Shinikizo la damu ni hali ya damu kusukumwa kwa nguvu kubwa kwenye mishipa ya damu, jambo linaloweza kusababisha matatizo ya afya.",
+    "variations": [
+      "shinikizo la damu"
+    ],
+    "emoji": "🩺🩸"
+  },
+  "sikiripti": {
+    "word": "sikiripti",
+    "definition": "Mkusanyiko wa bloku au maelekezo yanayounganishwa ili programu ifanye kazi fulani.",
+    "variations": [
+      "sikiripti",
+      "sikiripti kuchezwa"
+    ],
+    "emoji": "📜💻"
+  },
+  "songa hatua": {
+    "word": "songa hatua",
+    "definition": "Bloku ya mwendo inayofanya Sprite itembee kwa idadi fulani ya hatua.",
+    "variations": [
+      "songa hatua",
+      "hatua"
+    ],
+    "emoji": "👣➡️"
+  },
+  "sonona": {
+    "word": "sonona",
+    "definition": "Sonona ni huzuni au hali ya kujisikia vibaya moyoni kwa muda.",
+    "variations": [
+      "sonona"
+    ],
+    "emoji": "😔💭"
+  },
+  "Sprite": {
+    "word": "Sprite",
+    "definition": "Picha au mhusika ndani ya programu ya Scratch anayefanya vitendo kama kutembea, kugeuka au kutoa sauti.",
+    "variations": [
+      "Sprite",
+      "Sprites"
+    ],
+    "emoji": "🐱🕹️"
+  },
+  "sufuria": {
+    "word": "sufuria",
+    "definition": "chombo kinachotumika kupikia au kuchemshia vitu kama maji.",
+    "variations": [
+      "sufuria",
+      "masufuria"
+    ],
+    "emoji": "🍲🔥"
+  },
+  "sumu": {
+    "word": "sumu",
+    "definition": "Sumu ni vitu hatari vinavyoweza kuudhuru mwili.",
+    "variations": [
+      "sumu"
+    ],
+    "emoji": "☠️⚠️"
+  },
+  "taarifa": {
+    "word": "taarifa",
+    "definition": "Habari au maelezo kuhusu jambo fulani.",
+    "variations": [
+      "taarifa muhimu"
+    ],
+    "emoji": "ℹ️📢"
+  },
+  "tabaka": {
+    "word": "tabaka",
+    "definition": "Safu moja kati ya nyingi zilizopangwa juu au chini ya nyingine.",
+    "variations": [
+      "tabaka",
+      "matabaka"
+    ],
+    "emoji": "🧱📚"
+  },
+  "tahadhari": {
+    "word": "tahadhari",
+    "definition": "Hatua ya kuwa makini ili kuepuka hatari au madhara.",
+    "variations": [
+      "tahadhari stahiki"
+    ],
+    "emoji": "⚠️👀"
+  },
+  "takamwili": {
+    "word": "takamwili",
+    "definition": "Takamwili ni uchafu unaotolewa na mwili baada ya kutumia chakula na vitu vingine.",
+    "variations": [
+      "takamwili"
+    ],
+    "emoji": "🚰🧹"
+  },
+  "tanuri": {
+    "word": "tanuri",
+    "definition": "Kifaa au sehemu maalumu ya kuchomea au kuunguza vitu kwa joto kubwa.",
+    "variations": [
+      "tanuri la mkaa"
+    ],
+    "emoji": "🔥🏭"
+  },
+  "taswira": {
+    "word": "taswira",
+    "definition": "Picha ya kitu au mtu inayoonekana kwenye kioo.",
+    "variations": [
+      "taswira",
+      "taswira yako",
+      "taswira ya kitu"
+    ],
+    "emoji": "🪞👀"
+  },
+  "Tetekuwanga": {
+    "word": "Tetekuwanga",
+    "definition": "ugonjwa unaosababishwa na virusi na huweza kuleta vipele vinavyowasha mwilini.",
+    "variations": [
+      "ugonjwa wa tetekuwanga"
+    ],
+    "emoji": "🤒🩹"
+  },
+  "tindikali": {
+    "word": "tindikali",
+    "definition": "Tindikali ni kitu chenye uwezo wa kuharibu baadhi ya vitu, kama meno yanaposhambuliwa kinywani.",
+    "variations": [
+      "tindikali"
+    ],
+    "emoji": "🧪🦷"
+  },
+  "tishu": {
+    "word": "tishu",
+    "definition": "Tishu ni sehemu za mwili zilizoundwa na chembechembe hai zinazofanya kazi maalumu.",
+    "variations": [
+      "tishu"
+    ],
+    "emoji": "🔬🧩"
+  },
+  "tobo": {
+    "word": "tobo",
+    "definition": "Tundu dogo kwenye kitu kama karatasi au ubao.",
+    "variations": [
+      "matobo",
+      "tundu"
+    ],
+    "emoji": "🕳️"
+  },
+  "tongotongo": {
+    "word": "tongotongo",
+    "definition": "Tongotongo ni uchafu unaokusanyika pembeni mwa macho hasa baada ya kulala.",
+    "variations": [
+      "tongotongo"
+    ],
+    "emoji": "👁️💧"
+  },
+  "tunutu": {
+    "word": "tunutu",
+    "definition": "mdudu mchanga wa mende anayetoka kwenye yai kabla hajakuwa mende kamili.",
+    "variations": [
+      "tunutu",
+      "matunutu"
+    ],
+    "emoji": "🪳🐣"
+  },
+  "ubunifu": {
+    "word": "ubunifu",
+    "definition": "Uwezo wa kupata mawazo mapya na kutengeneza vitu kwa njia ya kipekee.",
+    "variations": [
+      "ubunifu"
+    ],
+    "emoji": "💡🎨"
+  },
+  "uchunguzi": {
+    "word": "uchunguzi",
+    "definition": "Kuangalia kwa makini ili kuona au kuelewa kinachotokea.",
+    "variations": [
+      "kuchunguza",
+      "matokeo ya uchunguzi"
+    ],
+    "emoji": "🔍👀"
+  },
+  "ufyonzwaji": {
+    "word": "ufyonzwaji",
+    "definition": "Ufyonzwaji ni hali ya mwili kuchukua virutubisho kutoka kwenye chakula baada ya kumeng’enywa.",
+    "variations": [
+      "ufyonzwaji"
+    ],
+    "emoji": "🩺🥄"
+  },
+  "ujazo": {
+    "word": "ujazo",
+    "definition": "nafasi ambayo kitu au kioevu kinachukua.",
+    "variations": [
+      "ujazo"
+    ],
+    "emoji": "📏🧴"
+  },
+  "UKIMWI": {
+    "word": "UKIMWI",
+    "definition": "Ugonjwa unaotokea pale VVU vinapodhoofisha sana kinga ya mwili.",
+    "variations": [
+      "UKIMWI"
+    ],
+    "emoji": "🦠⚕️"
+  },
+  "ukingo wa jukwaa": {
+    "word": "ukingo wa jukwaa",
+    "definition": "Mwisho au pembeni mwa sehemu ambako Sprite huonekana katika Scratch.",
+    "variations": [
+      "ukingo wa jukwaa",
+      "kwenye ukingo wa jukwaa"
+    ],
+    "emoji": "↔️🎭"
+  },
+  "ukuta wa matofali": {
+    "word": "ukuta wa matofali",
+    "definition": "Ukuta unaoonekana kutengenezwa kwa matofali yaliyopangwa kwa mpangilio.",
+    "variations": [
+      "ukuta wa matofali",
+      "ukuta",
+      "matofali"
+    ],
+    "emoji": "🧱🏠"
+  },
+  "umbo": {
+    "word": "umbo",
+    "definition": "sura au jinsi kitu kinavyoonekana kwa nje.",
+    "variations": [
+      "umbo",
+      "maumbo"
+    ],
+    "emoji": "🔺⚪"
+  },
+  "umeme": {
+    "word": "umeme",
+    "definition": "nguvu inayotumika kuendesha vifaa kama taa, simu na kompyuta",
+    "variations": [
+      "nishati ya umeme"
+    ],
+    "emoji": "⚡🔌"
+  },
+  "umeng’enywaji": {
+    "word": "umeng’enywaji",
+    "definition": "Umeng’enywaji ni mchakato wa mwili kuvunja chakula ili kiweze kutumika mwilini.",
+    "variations": [
+      "umeng’enywaji"
+    ],
+    "emoji": "🍲🔄"
+  },
+  "unganisha": {
+    "word": "unganisha",
+    "definition": "Kuweka vitu pamoja ili vifanye kazi kama sehemu moja.",
+    "variations": [
+      "unganisha",
+      "kuunganisha",
+      "imeunganishwa"
+    ],
+    "emoji": "🔗🧩"
+  },
+  "unyevu": {
+    "word": "unyevu",
+    "definition": "Kiasi cha maji kilichomo kwenye kitu au hewani.",
+    "variations": [
+      "unyevu mwingi",
+      "unyevu kidogo"
+    ],
+    "emoji": "💧🌫️"
+  },
+  "uoto wa asili": {
+    "word": "uoto wa asili",
+    "definition": "Mimea inayoota kawaida katika eneo fulani bila kupandwa na watu.",
+    "variations": [
+      "uoto"
+    ],
+    "emoji": "🌱🌳"
+  },
+  "upau wa kutafuta": {
+    "word": "upau wa kutafuta",
+    "definition": "Sehemu ya kuandika neno unalotaka kutafuta kwenye kompyuta au programu.",
+    "variations": [
+      "upau wa kutafuta"
+    ],
+    "emoji": "🔍⌨️"
+  },
+  "usafi wa mazingira": {
+    "word": "usafi wa mazingira",
+    "definition": "Kutunza sehemu tunamoishi ili iwe safi na salama.",
+    "variations": [
+      "usafi"
+    ],
+    "emoji": "🧹🌿"
+  },
+  "usafi wa mwili": {
+    "word": "usafi wa mwili",
+    "definition": "Usafi wa mwili ni hali ya kuuweka mwili safi ili kuepuka uchafu na magonjwa.",
+    "variations": [
+      "usafi wa mwili"
+    ],
+    "emoji": "🧼🚿"
+  },
+  "usimbaji": {
+    "word": "usimbaji",
+    "definition": "Ni kazi ya kuandika na kupanga maelekezo ili kompyuta ifanye jambo fulani.",
+    "variations": [
+      "kusimba",
+      "msimbo",
+      "misimbo"
+    ],
+    "emoji": "💻🧩"
+  },
+  "uteketeaji": {
+    "word": "uteketeaji",
+    "definition": "Kuungua kwa kitu mpaka kiharibike au kiishe kabisa.",
+    "variations": [
+      "kuteketea",
+      "kuteketeza"
+    ],
+    "emoji": "🔥💥"
+  },
+  "utoneshaji": {
+    "word": "utoneshaji",
+    "definition": "mchakato wa gesi kubadilika na kuwa kimiminika baada ya kupozwa.",
+    "variations": [
+      "utoneshaji"
+    ],
+    "emoji": "💨💧❄️"
+  },
+  "uunguaji": {
+    "word": "uunguaji",
+    "definition": "Mchakato wa kitu kuwaka kwa kuungana na oksijeni na kutoa joto na mwanga.",
+    "variations": [
+      "uunguaji wa vitu",
+      "kuungua",
+      "kuwaka"
+    ],
+    "emoji": "🔥💡"
+  },
+  "uunguaji kamili": {
+    "word": "uunguaji kamili",
+    "definition": "Kuungua kwa fueli kikamilifu kwa sababu ya kuwepo oksijeni ya kutosha.",
+    "variations": [
+      "mwako kamili"
+    ],
+    "emoji": "🔥✅"
+  },
+  "uunguaji usio kamili": {
+    "word": "uunguaji usio kamili",
+    "definition": "Kuungua kwa fueli bila kuisha kabisa kwa sababu oksijeni ni kidogo.",
+    "variations": [
+      "mwako usio kamili"
+    ],
+    "emoji": "🔥⚠️"
+  },
+  "uvimbe": {
+    "word": "uvimbe",
+    "definition": "Kitu kinachoota au kujaa mwilini na kufanya sehemu ya mwili kuongezeka ukubwa.",
+    "variations": [
+      "uvimbe",
+      "vimbe"
+    ],
+    "emoji": "⚠️🩺"
+  },
+  "uwiano sahihi": {
+    "word": "uwiano sahihi",
+    "definition": "Kiasi kinachofaa cha vitu mbalimbali bila kuzidisha au kupunguza sana.",
+    "variations": [
+      "uwiano"
+    ],
+    "emoji": "⚖️✅"
+  },
+  "viambata": {
+    "word": "viambata",
+    "definition": "vitu au sehemu mbalimbali vinavyounganishwa kutengeneza bidhaa",
+    "variations": [
+      "kiambata",
+      "viambata vya bidhaa"
+    ],
+    "emoji": "🧴🧪"
+  },
+  "vichochezi": {
+    "word": "vichochezi",
+    "definition": "Vitu vinavyoanzisha au kuongeza tatizo kama dalili za pumu.",
+    "variations": [
+      "vichochezi",
+      "kichochezi"
+    ],
+    "emoji": "⚠️🌫️"
+  },
+  "vifungashio": {
+    "word": "vifungashio",
+    "definition": "vitu vinavyotumika kufunika au kubeba bidhaa, kama pakiti au chupa",
+    "variations": [
+      "kifungashio",
+      "ufungashaji"
+    ],
+    "emoji": "📦🛍️"
+  },
+  "vijidudu": {
+    "word": "vijidudu",
+    "definition": "viumbe wadogo sana ambao baadhi yao husababisha magonjwa",
+    "variations": [
+      "kidudu",
+      "vijidudu vya magonjwa"
+    ],
+    "emoji": "🦠🔬"
+  },
+  "vimelea": {
+    "word": "vimelea",
+    "definition": "viumbe vidogo sana vinavyoweza kusababisha magonjwa mwilini.",
+    "variations": [
+      "kimelea",
+      "vimelea"
+    ],
+    "emoji": "🦠🔬"
+  },
+  "vimiminika": {
+    "word": "vimiminika",
+    "definition": "maada zinazotiririka kama maji au gesi.",
+    "variations": [
+      "kimiminika",
+      "vimiminika"
+    ],
+    "emoji": "💧🌬️"
+  },
+  "vipengele": {
+    "word": "vipengele",
+    "definition": "sehemu mbalimbali zinazounda kitu kimoja",
+    "variations": [
+      "kipengele",
+      "vipengele vya programu"
+    ],
+    "emoji": "🧩📋"
+  },
+  "vipitisha joto": {
+    "word": "vipitisha joto",
+    "definition": "vitu vinavyoruhusu joto kupita kwa urahisi.",
+    "variations": [
+      "kipitisha joto",
+      "vipitisha joto"
+    ],
+    "emoji": "🔥➡️"
+  },
+  "vipitisha joto hafifu": {
+    "word": "vipitisha joto hafifu",
+    "definition": "vitu visivyoruhusu joto kupita kwa urahisi.",
+    "variations": [
+      "kipitisha joto hafifu",
+      "vipitisha joto hafifu"
+    ],
+    "emoji": "🪵🧤"
+  },
+  "virusi": {
+    "word": "virusi",
+    "definition": "vimelea vidogo sana visivyoonekana kwa macho ya kawaida vinavyosababisha magonjwa.",
+    "variations": [
+      "virusi"
+    ],
+    "emoji": "🦠⚠️"
+  },
+  "virutubisho": {
+    "word": "virutubisho",
+    "definition": "Vitu muhimu vinavyopatikana kwenye chakula na kusaidia mwili kukua, kupata nguvu na kujilinda.",
+    "variations": [
+      "kirutubisho",
+      "virutubisho vya chakula"
+    ],
+    "emoji": "🥦🍚💪"
+  },
+  "vitamini": {
+    "word": "vitamini",
+    "definition": "Virutubisho vinavyosaidia mwili kuwa na afya na kujikinga na magonjwa.",
+    "variations": [
+      "vitamini mbalimbali"
+    ],
+    "emoji": "🍊🥬🛡️"
+  },
+  "Viuatilifu": {
+    "word": "Viuatilifu",
+    "definition": "kemikali zinazotumika kuua au kuzuia viumbe wanaosababisha madhara kwa mimea au wanyama.",
+    "variations": [
+      "kiuatilifu",
+      "viuatilifu vya wadudu"
+    ],
+    "emoji": "🧪🚫🐛"
+  },
+  "viwanda": {
+    "word": "viwanda",
+    "definition": "mahali ambapo bidhaa hutengenezwa.",
+    "variations": [
+      "kiwanda",
+      "viwanda"
+    ],
+    "emoji": "🏭🛠️"
+  },
+  "VVU": {
+    "word": "VVU",
+    "definition": "Virusi vya UKIMWI vinavyoshambulia kinga ya mwili.",
+    "variations": [
+      "VVU",
+      "Virusi vya UKIMWI"
+    ],
+    "emoji": "🦠🩸"
+  },
+  "Vyandarua": {
+    "word": "Vyandarua",
+    "definition": "neti zinazotumika wakati wa kulala ili kuzuia mbu wasituume.",
+    "variations": [
+      "chandarua",
+      "vyandarua vyenye dawa"
+    ],
+    "emoji": "🛏️🦟"
+  },
+  "vyanzo visivyo vya asili": {
+    "word": "vyanzo visivyo vya asili",
+    "definition": "Vitu vinavyotoa nishati au mwanga ambavyo vimetengenezwa na binadamu.",
+    "variations": [
+      "chanzo kisicho cha asili",
+      "vyanzo visivyo vya asili"
+    ],
+    "emoji": "🔦🕯️"
+  },
+  "vyanzo vya asili": {
+    "word": "vyanzo vya asili",
+    "definition": "Vitu vinavyotoa nishati au mwanga kwa kawaida kutoka kwenye mazingira bila kutengenezwa na binadamu.",
+    "variations": [
+      "chanzo cha asili",
+      "vyanzo vya asili"
+    ],
+    "emoji": "☀️🌍"
+  },
+  "wadudu": {
+    "word": "wadudu",
+    "definition": "viumbe wadogo kama nzi na mbu, ambao wengine hubeba magonjwa",
+    "variations": [
+      "mdudu",
+      "nzi",
+      "mbu"
+    ],
+    "emoji": "🪰🦟"
+  },
+  "wahusika": {
+    "word": "wahusika",
+    "definition": "Vitu au picha vinavyotumika ndani ya mchezo au hadithi kufanya matendo.",
+    "variations": [
+      "mhusika",
+      "wahusika"
+    ],
+    "emoji": "🧍🎭"
+  },
+  "wakati inapobonyezwa": {
+    "word": "wakati inapobonyezwa",
+    "definition": "Bloku ya Scratch inayofanya programu ianze kazi unapobonyeza alama ya kuanza.",
+    "variations": [
+      "wakati inapobonyezwa"
+    ],
+    "emoji": "🟢🖱️"
+  },
+  "wanga": {
+    "word": "wanga",
+    "definition": "Aina ya kirutubisho kinachopa mwili nguvu.",
+    "variations": [
+      "kabohaidreti"
+    ],
+    "emoji": "🍚⚡"
+  },
+  "yabisi": {
+    "word": "yabisi",
+    "definition": "hali ya maada iliyo ngumu na yenye umbo maalumu.",
+    "variations": [
+      "yabisi",
+      "hali yabisi"
+    ],
+    "emoji": "🪨📐"
+  },
+  "zana": {
+    "word": "zana",
+    "definition": "Kifaa au sehemu ya programu inayotumika kufanya kazi fulani kama kuchora au kupaka rangi.",
+    "variations": [
+      "zana",
+      "zana ya mduara",
+      "zana ya mstatili"
+    ],
+    "emoji": "🧰🛠️"
+  },
+  "zunguka digrii": {
+    "word": "zunguka digrii",
+    "definition": "Bloku ya Scratch inayofanya Sprite ageuke kwa kiwango fulani cha mzunguko.",
+    "variations": [
+      "zunguka digrii",
+      "zunguka digrii/nyuzi",
+      "digrii",
+      "nyuzi"
+    ],
+    "emoji": "🔄📐"
+  }
+}
