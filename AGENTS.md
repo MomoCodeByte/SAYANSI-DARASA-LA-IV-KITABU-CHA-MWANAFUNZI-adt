@@ -8,15 +8,15 @@ This document describes the structure of this Accessible Digital Textbook (ADT) 
 
 - **Source language**: `sw-TZ`
 - **Available languages in this bundle**: `sw-TZ`
-- **Total pages**: 207
-- **Quizzes**: yes
+- **Total pages**: 168
+- **Quizzes**: no standalone quiz pages
 - **Glossary**: yes
 
 ## Quick Overview
 
 An ADT bundle is a self-contained, offline-capable web app for reading a book. It has:
 
-- One HTML file per page/section and per quiz
+- One HTML file per page/section
 - A localization system (`i18n`) for text, audio, and glossary — keyed by stable IDs
 - A `pages.json` manifest that defines reading order
 - A shared `assets/` directory with JS runtime, fonts, and UI resources

@@ -8,7 +8,6 @@
     78,
     92,
     96,
-    97,
     104,
     111,
     119,
@@ -179,9 +178,9 @@
         "pg007_sec001.html"
       ],
       "pdf_words": 87,
-      "adt_words": 80,
+      "adt_words": 81,
       "recall": 0.839,
-      "precision": 0.912,
+      "precision": 0.901,
       "missing_sample": [
         "11",
         "1313",
@@ -619,9 +618,9 @@
         "pg022_sec001.html"
       ],
       "pdf_words": 109,
-      "adt_words": 112,
+      "adt_words": 104,
       "recall": 0.899,
-      "precision": 0.875,
+      "precision": 0.942,
       "missing_sample": [
         "1313",
         "1616",
@@ -876,9 +875,9 @@
         "pg031_sec001.html"
       ],
       "pdf_words": 75,
-      "adt_words": 68,
+      "adt_words": 71,
       "recall": 0.813,
-      "precision": 0.897,
+      "precision": 0.859,
       "missing_sample": [
         "1313",
         "202517",
@@ -990,9 +989,9 @@
         "pg035_sec001.html"
       ],
       "pdf_words": 102,
-      "adt_words": 94,
+      "adt_words": 95,
       "recall": 0.863,
-      "precision": 0.936,
+      "precision": 0.926,
       "missing_sample": [
         "1313",
         "202517",
@@ -1648,9 +1647,9 @@
         "pg056_sec001.html"
       ],
       "pdf_words": 95,
-      "adt_words": 75,
-      "recall": 0.779,
-      "precision": 0.987,
+      "adt_words": 77,
+      "recall": 0.789,
+      "precision": 0.974,
       "missing_sample": [
         "09",
         "13",
@@ -1667,7 +1666,6 @@
         "iviv",
         "kitabukitabu",
         "lala",
-        "mwanafunzi",
         "online",
         "only",
         "readingvinavyochukua",
@@ -2107,9 +2105,9 @@
         "pg071_sec001.html"
       ],
       "pdf_words": 101,
-      "adt_words": 80,
-      "recall": 0.792,
-      "precision": 1.0,
+      "adt_words": 82,
+      "recall": 0.802,
+      "precision": 0.988,
       "missing_sample": [
         "09",
         "13",
@@ -2126,7 +2124,6 @@
         "iviv",
         "kitabukitabu",
         "lala",
-        "mwanafunzi",
         "nafor",
         "online",
         "only",
@@ -2915,9 +2912,9 @@
         "pg097_sec001.html"
       ],
       "pdf_words": 119,
-      "adt_words": 83,
-      "recall": 0.63,
-      "precision": 0.904,
+      "adt_words": 98,
+      "recall": 0.824,
+      "precision": 1.0,
       "missing_sample": [
         "09",
         "13",
@@ -2927,28 +2924,19 @@
         "202517",
         "91",
         "9191",
-        "betri",
         "chacha",
-        "cheupe",
-        "chukua",
         "darasadarasa",
-        "ikitoa",
-        "ili",
-        "iliyojaa",
         "indd",
         "inddmwanafunzi",
-        "ingia",
         "iviv",
-        "kikombe",
         "kipandefor",
         "kitabukitabu",
-        "kitambaa",
-        "kuonesha",
         "lala",
-        "mahitaji",
-        "maji",
-        "miwani",
-        "mwanafunzi"
+        "mwanafunzi",
+        "online",
+        "only",
+        "reading",
+        "sayansisayansi"
       ]
     },
     {
@@ -3590,8 +3578,8 @@
         "pg118_sec001.html"
       ],
       "pdf_words": 99,
-      "adt_words": 79,
-      "recall": 0.778,
+      "adt_words": 80,
+      "recall": 0.788,
       "precision": 0.975,
       "missing_sample": [
         "09",
@@ -3611,7 +3599,6 @@
         "katikaformfuatano",
         "kitabukitabu",
         "lala",
-        "mwanafunzi",
         "online",
         "only",
         "reading",
@@ -3624,9 +3611,9 @@
         "pg119_sec001.html"
       ],
       "pdf_words": 67,
-      "adt_words": 74,
+      "adt_words": 71,
       "recall": 0.672,
-      "precision": 0.608,
+      "precision": 0.634,
       "missing_sample": [
         "09",
         "113",

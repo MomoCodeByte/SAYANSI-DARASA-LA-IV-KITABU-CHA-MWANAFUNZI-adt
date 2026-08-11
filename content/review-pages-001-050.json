@@ -1,9 +1,9 @@
 {
   "scope": "converted pages 1-50",
   "page_files": 50,
-  "matrix_items": 73,
+  "matrix_items": 83,
   "missing_images": 0,
-  "interactive_pages": 14,
+  "interactive_pages": 23,
   "pages": [
     {
       "converted_page": 1,
@@ -85,38 +85,27 @@
     {
       "converted_page": 8,
       "file": "pg008_sec001.html",
-      "section_type": "text_and_images",
+      "section_type": "activity_open_ended_answer",
       "images": 2,
       "missing_images": [],
       "inputs": 0,
-      "textareas": 0,
+      "textareas": 1,
       "buttons": 0,
       "matrix_script": true
     },
     {
       "converted_page": 9,
-      "file": "qz001.html",
-      "section_type": "activity_quiz",
-      "images": 0,
-      "missing_images": [],
-      "inputs": 3,
-      "textareas": 0,
-      "buttons": 0,
-      "matrix_script": false
-    },
-    {
-      "converted_page": 10,
       "file": "pg009_sec001.html",
-      "section_type": "text_and_single_image",
+      "section_type": "activity_open_ended_answer",
       "images": 1,
       "missing_images": [],
       "inputs": 0,
-      "textareas": 0,
+      "textareas": 2,
       "buttons": 0,
       "matrix_script": true
     },
     {
-      "converted_page": 11,
+      "converted_page": 10,
       "file": "pg010_sec001.html",
       "section_type": "text_and_images",
       "images": 3,
@@ -127,29 +116,18 @@
       "matrix_script": true
     },
     {
-      "converted_page": 12,
+      "converted_page": 11,
       "file": "pg011_sec001.html",
-      "section_type": "text_and_single_image",
+      "section_type": "activity_open_ended_answer",
       "images": 1,
       "missing_images": [],
       "inputs": 0,
-      "textareas": 0,
+      "textareas": 2,
       "buttons": 0,
       "matrix_script": true
     },
     {
-      "converted_page": 13,
-      "file": "qz002.html",
-      "section_type": "activity_quiz",
-      "images": 0,
-      "missing_images": [],
-      "inputs": 3,
-      "textareas": 0,
-      "buttons": 0,
-      "matrix_script": false
-    },
-    {
-      "converted_page": 14,
+      "converted_page": 12,
       "file": "pg012_sec001.html",
       "section_type": "text_and_single_image",
       "images": 1,
@@ -160,7 +138,7 @@
       "matrix_script": true
     },
     {
-      "converted_page": 15,
+      "converted_page": 13,
       "file": "pg013_sec001.html",
       "section_type": "text_and_single_image",
       "images": 1,
@@ -171,7 +149,7 @@
       "matrix_script": true
     },
     {
-      "converted_page": 16,
+      "converted_page": 14,
       "file": "pg014_sec001.html",
       "section_type": "text_and_single_image",
       "images": 1,
@@ -182,40 +160,29 @@
       "matrix_script": true
     },
     {
-      "converted_page": 17,
-      "file": "qz003.html",
-      "section_type": "activity_quiz",
-      "images": 0,
-      "missing_images": [],
-      "inputs": 3,
-      "textareas": 0,
-      "buttons": 0,
-      "matrix_script": false
-    },
-    {
-      "converted_page": 18,
+      "converted_page": 15,
       "file": "pg015_sec001.html",
-      "section_type": "text_and_single_image",
+      "section_type": "activity_open_ended_answer",
       "images": 1,
       "missing_images": [],
       "inputs": 0,
-      "textareas": 0,
+      "textareas": 1,
       "buttons": 0,
       "matrix_script": true
     },
     {
-      "converted_page": 19,
+      "converted_page": 16,
       "file": "pg016_sec001.html",
-      "section_type": "text_and_single_image",
+      "section_type": "activity_open_ended_answer",
       "images": 1,
       "missing_images": [],
       "inputs": 0,
-      "textareas": 0,
+      "textareas": 3,
       "buttons": 0,
       "matrix_script": true
     },
     {
-      "converted_page": 20,
+      "converted_page": 17,
       "file": "pg017_sec001.html",
       "section_type": "activity_open_ended_answer",
       "images": 1,
@@ -226,7 +193,7 @@
       "matrix_script": true
     },
     {
-      "converted_page": 21,
+      "converted_page": 18,
       "file": "pg018_sec001.html",
       "section_type": "text_only",
       "images": 0,
@@ -237,29 +204,18 @@
       "matrix_script": true
     },
     {
-      "converted_page": 22,
-      "file": "qz004.html",
-      "section_type": "activity_quiz",
-      "images": 0,
-      "missing_images": [],
-      "inputs": 3,
-      "textareas": 0,
-      "buttons": 0,
-      "matrix_script": false
-    },
-    {
-      "converted_page": 23,
+      "converted_page": 19,
       "file": "pg019_sec001.html",
-      "section_type": "text_only",
+      "section_type": "activity_open_ended_answer",
       "images": 1,
       "missing_images": [],
       "inputs": 0,
-      "textareas": 0,
+      "textareas": 1,
       "buttons": 0,
       "matrix_script": true
     },
     {
-      "converted_page": 24,
+      "converted_page": 20,
       "file": "pg020_sec001.html",
       "section_type": "activity_other",
       "images": 0,
@@ -270,7 +226,7 @@
       "matrix_script": true
     },
     {
-      "converted_page": 25,
+      "converted_page": 21,
       "file": "pg021_sec001.html",
       "section_type": "text_and_single_image",
       "images": 1,
@@ -281,40 +237,29 @@
       "matrix_script": true
     },
     {
-      "converted_page": 26,
+      "converted_page": 22,
       "file": "pg022_sec001.html",
       "section_type": "activity_other",
-      "images": 2,
+      "images": 0,
       "missing_images": [],
       "inputs": 0,
-      "textareas": 0,
+      "textareas": 3,
       "buttons": 0,
       "matrix_script": true
     },
     {
-      "converted_page": 27,
+      "converted_page": 23,
       "file": "pg023_sec001.html",
-      "section_type": "text_and_images",
+      "section_type": "activity_open_ended_answer",
       "images": 4,
       "missing_images": [],
       "inputs": 0,
-      "textareas": 0,
+      "textareas": 2,
       "buttons": 0,
       "matrix_script": true
     },
     {
-      "converted_page": 28,
-      "file": "qz005.html",
-      "section_type": "activity_quiz",
-      "images": 0,
-      "missing_images": [],
-      "inputs": 3,
-      "textareas": 0,
-      "buttons": 0,
-      "matrix_script": false
-    },
-    {
-      "converted_page": 29,
+      "converted_page": 24,
       "file": "pg024_sec001.html",
       "section_type": "text_and_images",
       "images": 4,
@@ -325,40 +270,29 @@
       "matrix_script": true
     },
     {
-      "converted_page": 30,
+      "converted_page": 25,
       "file": "pg025_sec001.html",
-      "section_type": "text_and_images",
+      "section_type": "activity_open_ended_answer",
       "images": 4,
       "missing_images": [],
       "inputs": 0,
-      "textareas": 0,
+      "textareas": 2,
       "buttons": 0,
       "matrix_script": true
     },
     {
-      "converted_page": 31,
+      "converted_page": 26,
       "file": "pg026_sec001.html",
-      "section_type": "text_and_images",
+      "section_type": "activity_open_ended_answer",
       "images": 4,
       "missing_images": [],
       "inputs": 0,
-      "textareas": 0,
+      "textareas": 1,
       "buttons": 0,
       "matrix_script": true
     },
     {
-      "converted_page": 32,
-      "file": "qz006.html",
-      "section_type": "activity_quiz",
-      "images": 0,
-      "missing_images": [],
-      "inputs": 3,
-      "textareas": 0,
-      "buttons": 0,
-      "matrix_script": false
-    },
-    {
-      "converted_page": 33,
+      "converted_page": 27,
       "file": "pg027_sec001.html",
       "section_type": "activity_matching",
       "images": 8,
@@ -369,7 +303,7 @@
       "matrix_script": true
     },
     {
-      "converted_page": 34,
+      "converted_page": 28,
       "file": "pg028_sec001.html",
       "section_type": "text_and_single_image",
       "images": 1,
@@ -380,7 +314,7 @@
       "matrix_script": true
     },
     {
-      "converted_page": 35,
+      "converted_page": 29,
       "file": "pg029_sec001.html",
       "section_type": "text_and_images",
       "images": 2,
@@ -391,40 +325,29 @@
       "matrix_script": true
     },
     {
-      "converted_page": 36,
+      "converted_page": 30,
       "file": "pg030_sec001.html",
-      "section_type": "text_and_single_image",
+      "section_type": "activity_open_ended_answer",
       "images": 1,
       "missing_images": [],
       "inputs": 0,
-      "textareas": 0,
+      "textareas": 1,
       "buttons": 0,
       "matrix_script": true
     },
     {
-      "converted_page": 37,
-      "file": "qz007.html",
-      "section_type": "activity_quiz",
-      "images": 0,
-      "missing_images": [],
-      "inputs": 3,
-      "textareas": 0,
-      "buttons": 0,
-      "matrix_script": false
-    },
-    {
-      "converted_page": 38,
+      "converted_page": 31,
       "file": "pg031_sec001.html",
       "section_type": "activity_multiple_choice",
       "images": 0,
       "missing_images": [],
-      "inputs": 18,
+      "inputs": 20,
       "textareas": 0,
       "buttons": 0,
       "matrix_script": true
     },
     {
-      "converted_page": 39,
+      "converted_page": 32,
       "file": "pg032_sec001.html",
       "section_type": "activity_true_false",
       "images": 0,
@@ -435,7 +358,7 @@
       "matrix_script": true
     },
     {
-      "converted_page": 40,
+      "converted_page": 33,
       "file": "pg033_sec001.html",
       "section_type": "text_and_images",
       "images": 4,
@@ -446,7 +369,7 @@
       "matrix_script": true
     },
     {
-      "converted_page": 41,
+      "converted_page": 34,
       "file": "pg034_sec001.html",
       "section_type": "text_only",
       "images": 0,
@@ -457,10 +380,10 @@
       "matrix_script": true
     },
     {
-      "converted_page": 42,
+      "converted_page": 35,
       "file": "pg035_sec001.html",
       "section_type": "boxed_text",
-      "images": 2,
+      "images": 1,
       "missing_images": [],
       "inputs": 0,
       "textareas": 0,
@@ -468,18 +391,7 @@
       "matrix_script": true
     },
     {
-      "converted_page": 43,
-      "file": "qz008.html",
-      "section_type": "activity_quiz",
-      "images": 0,
-      "missing_images": [],
-      "inputs": 3,
-      "textareas": 0,
-      "buttons": 0,
-      "matrix_script": false
-    },
-    {
-      "converted_page": 44,
+      "converted_page": 36,
       "file": "pg036_sec001.html",
       "section_type": "activity_open_ended_answer",
       "images": 0,
@@ -490,7 +402,7 @@
       "matrix_script": true
     },
     {
-      "converted_page": 45,
+      "converted_page": 37,
       "file": "pg037_sec001.html",
       "section_type": "text_and_single_image",
       "images": 1,
@@ -501,18 +413,18 @@
       "matrix_script": true
     },
     {
-      "converted_page": 46,
+      "converted_page": 38,
       "file": "pg038_sec001.html",
-      "section_type": "text_only",
+      "section_type": "activity_open_ended_answer",
       "images": 0,
       "missing_images": [],
       "inputs": 0,
-      "textareas": 0,
+      "textareas": 4,
       "buttons": 0,
       "matrix_script": true
     },
     {
-      "converted_page": 47,
+      "converted_page": 39,
       "file": "pg039_sec001.html",
       "section_type": "text_and_single_image",
       "images": 1,
@@ -523,18 +435,7 @@
       "matrix_script": true
     },
     {
-      "converted_page": 48,
-      "file": "qz009.html",
-      "section_type": "activity_quiz",
-      "images": 0,
-      "missing_images": [],
-      "inputs": 3,
-      "textareas": 0,
-      "buttons": 0,
-      "matrix_script": false
-    },
-    {
-      "converted_page": 49,
+      "converted_page": 40,
       "file": "pg040_sec001.html",
       "section_type": "activity_open_ended_answer",
       "images": 1,
@@ -545,13 +446,112 @@
       "matrix_script": true
     },
     {
-      "converted_page": 50,
+      "converted_page": 41,
+      "file": "pg041_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 1,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 3,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 42,
       "file": "pg040_sec002.html",
       "section_type": "unknown",
       "images": 0,
       "missing_images": [],
       "inputs": 0,
       "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 43,
+      "file": "pg042_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 3,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 44,
+      "file": "pg043_sec001.html",
+      "section_type": "text_and_images",
+      "images": 8,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 45,
+      "file": "pg044_sec001.html",
+      "section_type": "text_and_single_image",
+      "images": 1,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 46,
+      "file": "pg045_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 4,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 47,
+      "file": "pg046_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 2,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 48,
+      "file": "pg047_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 3,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 49,
+      "file": "pg048_sec001.html",
+      "section_type": "text_only",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 50,
+      "file": "pg049_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 3,
       "buttons": 0,
       "matrix_script": true
     }
@@ -671,19 +671,6 @@
       "status": "pending",
       "files": [
         "pg008_sec001.html"
-      ],
-      "missing_files": []
-    },
-    {
-      "matrix_item": 13,
-      "area": "Ukurasa 9",
-      "issue": "Kuwepo kwa swali moja (mlo kamili) uk 9",
-      "reference": "qz001.html",
-      "recommendation": "Rejea ukurasa wa -9",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
-      "files": [
-        "qz001.html"
       ],
       "missing_files": []
     },
@@ -1130,19 +1117,6 @@
       "missing_files": []
     },
     {
-      "matrix_item": 48,
-      "area": "Kazi ya kufanya namba 16",
-      "issue": "Kinatamkwa kielelezo namba “bynam” badala ya kieleezo namba 16 uk32",
-      "reference": "adt/qz006.html",
-      "recommendation": "Rekebisha itamkwe kielezo namba 16",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
-      "files": [
-        "qz006.html"
-      ],
-      "missing_files": []
-    },
-    {
       "matrix_item": 49,
       "area": "Zoezi namba 2",
       "issue": "Hakuna sehemu ya kujaza majibu ina tuma tu na pia zoezi limechanganyika matamshi uk 33",
@@ -1503,6 +1477,162 @@
       "status": "pending",
       "files": [
         "pg040_sec002.html"
+      ],
+      "missing_files": []
+    },
+    {
+      "matrix_item": 78,
+      "area": "Zoezi la 54",
+      "issue": "Zoezi la 4 lipo ukurasa wa 51 badala y uk 49uk 51",
+      "reference": "pg041_sec001.html",
+      "recommendation": "Rekebisha zoezi hilo liwekwe uk 49 baada ya maelezo ya namna ya kuzia tetekuwanga",
+      "category": "content_correction",
+      "status": "pending",
+      "files": [
+        "pg041_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
+      "matrix_item": 79,
+      "area": "Zoezi namba 4",
+      "issue": "Zoezi namba 4 linatamkwa zoezi namba “omba”uk 51",
+      "reference": "pg041_sec001.html",
+      "recommendation": "Rekebisha litamkwe zoezi namba nne",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg041_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
+      "matrix_item": 80,
+      "area": "Zoezi la 4",
+      "issue": "Zoezi la 4 limejirudia mara 3 angalia uk 51 na 52",
+      "reference": "pg041_sec001.htm",
+      "recommendation": "Liondolewa shemu isiyohusika Rejea uk34,35,36",
+      "category": "layout_order",
+      "status": "pending",
+      "files": [
+        "pg041_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
+      "matrix_item": 82,
+      "area": "Zoezi namba 5",
+      "issue": "Zoezi namba 5 linatamkwa namba “chambo” badala ya tano uk 53",
+      "reference": "pg042_sec001.html",
+      "recommendation": "Rekebisha itamkwe zoezi namba tano",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg042_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
+      "matrix_item": 84,
+      "area": "Virusi vya ukimwi VVU",
+      "issue": "“watu wanoishi na VVU” badala ya “wanaoishi” uk 53",
+      "reference": "pg042_sec001.html",
+      "recommendation": "Rekebisha kuwa “watu wanaoishi na VVU.”",
+      "category": "content_correction",
+      "status": "pending",
+      "files": [
+        "pg042_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
+      "matrix_item": 86,
+      "area": "Njia za maambukizi ya vvu",
+      "issue": "“c” Inatamkwa “ki” uk 55",
+      "reference": "pg044_sec001.html",
+      "recommendation": "Rekebisha itamkwe c",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg044_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
+      "matrix_item": 87,
+      "area": "Zoezi namba 6",
+      "issue": "Zoezi namba 6 inatamkwa zoezi namba sosi Uk 56",
+      "reference": "pg044_sec001.html",
+      "recommendation": "Rekebisha itamkwe zoezi namba sita",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg044_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
+      "matrix_item": 88,
+      "area": "Saratani",
+      "issue": "Sauti katika haya ya saratani haijamalizia kutamkwa “uitwa saratani,”,,,,,,uk 56",
+      "reference": "pg045_sec001.html",
+      "recommendation": "Rejea na sauti imalizie kutamka maneno yanayofuata",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg045_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
+      "matrix_item": 89,
+      "area": "Kazi namba 2",
+      "issue": "Kazi namba 2 inatamkwa kazi namba “duaa”uk 57",
+      "reference": "pg046_sec001.html",
+      "recommendation": "Rekebisha itamkwe kazi namba mbili",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg046_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
+      "matrix_item": 90,
+      "area": "Kazi ya kufanya namba 2",
+      "issue": "Sauti ya kazi ya kufanya namba 2 imejitokeza mwishoni mwa ukurasa 57",
+      "reference": "pg046_sec001.html",
+      "recommendation": "Iondoe sauti hiyo",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg046_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
+      "matrix_item": 91,
+      "area": "Namna ya kuzuai pumu",
+      "issue": "Sehemu hii heru b hakutamkwa uk 59",
+      "reference": "pg048_sec001.html",
+      "recommendation": "Rekebisha itamkwe",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg048_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
+      "matrix_item": 92,
+      "area": "Zoezi 8",
+      "issue": "Nane imetamkwa “ ato” badala ya nane uk 61",
+      "reference": "pg049_sec001.html",
+      "recommendation": "Rekebisha itamkwe nane",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg049_sec001.html"
       ],
       "missing_files": []
     }
