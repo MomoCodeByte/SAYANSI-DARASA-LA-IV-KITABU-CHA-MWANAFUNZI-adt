@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 pages = json.loads((ROOT / "content/pages.json").read_text(encoding="utf-8-sig"))
-CACHE_VERSION = "no-quizzes-41"
+CACHE_VERSION = "matrix-final-59"
 updated = 0
 for entry in pages:
     path = ROOT / entry["href"]
@@ -14,6 +14,10 @@ for entry in pages:
     normalized = re.sub(
         r'(<script\s+src="\./assets/offline-preloader\.js)(?:\?v=[^"]*)?("[^>]*></script>)',
         rf'\1?v={CACHE_VERSION}\2', source,
+    )
+    normalized = re.sub(
+        r'(<script\s+src="\./assets/matrix-accessibility\.js)(?:\?v=[^"]*)?("[^>]*></script>)',
+        rf'\1?v={CACHE_VERSION}\2', normalized,
     )
     if normalized != source:
         path.write_text(normalized, encoding="utf-8")

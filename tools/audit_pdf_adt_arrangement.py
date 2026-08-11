@@ -25,16 +25,49 @@ for entry in PAGES:
         continue
     source = (ROOT / entry["href"]).read_text(encoding="utf-8-sig")
     ids = list(dict.fromkeys(re.findall(r'data-id="([^"]+)"', source)))
-    covered = {int(n) for n in re.findall(r'data-id="pg(\d{3})_', source)}
-    visible = " ".join(str(TEXTS.get(i, "")) for i in ids)
-    sources.append({
-        "file": entry["href"],
-        "covered": covered,
-        "text": visible,
-        "images": len(re.findall(r"<img\b", source, re.I)),
-        "controls": len(re.findall(r"<(?:textarea|input|select)\b", source, re.I)),
-        "tables": len(re.findall(r"<table\b", source, re.I)),
-    })
+    ids_by_page = {}
+    for item_id in ids:
+        match = re.match(r"pg(\d{3})_", item_id)
+        if match:
+            ids_by_page.setdefault(int(match.group(1)), []).append(item_id)
+
+    primary_match = re.match(r"pg(\d{3})_", entry["section_id"])
+    primary_page = int(primary_match.group(1)) if primary_match else None
+    runtime_controls = sum(
+        int(value) for value in re.findall(r'data-runtime-controls="(\d+)"', source)
+    )
+    image_tags = re.findall(r"<img\b[^>]*>", source, re.I)
+    visible_image_tags = [
+        tag for tag in image_tags
+        if not re.search(
+            r'\bhidden\b|style="[^"]*display\s*:\s*none|alt="Zoezi\s+namba|data-vector-reconstruction="true"',
+            tag,
+            re.I,
+        )
+    ]
+    image_pages = [
+        int(match.group(1))
+        for tag in visible_image_tags
+        if (match := re.search(r'data-id="pg(\d{3})_[^"]+"', tag, re.I))
+    ]
+    total_images = len(visible_image_tags)
+    unassigned_images = max(0, total_images - len(image_pages))
+
+    # A converted file may contain a continuation belonging to the next PDF
+    # page.  Emit one scoped fragment per data-id prefix instead of attaching
+    # the complete file text/media to every page mentioned in that file.
+    for covered_page, page_ids in ids_by_page.items():
+        sources.append({
+            "file": entry["href"],
+            "covered": {covered_page},
+            "text": " ".join(str(TEXTS.get(i, "")) for i in page_ids),
+            "images": image_pages.count(covered_page)
+            + (unassigned_images if covered_page == primary_page else 0),
+            "controls": (len(re.findall(r"<(?:textarea|input|select)\b", source, re.I)) + runtime_controls)
+            if covered_page == primary_page else 0,
+            "tables": len(re.findall(r"<table\b", source, re.I))
+            if covered_page == primary_page else 0,
+        })
 
 doc = fitz.open(PDF)
 rows = []
@@ -45,7 +78,7 @@ for physical, page in enumerate(doc, start=1):
     ratio = SequenceMatcher(None, pdf_tokens, adt_tokens, autojunk=False).ratio() if pdf_tokens or adt_tokens else 1.0
     rows.append({
         "physical_pdf_page": physical,
-        "files": [s["file"] for s in matched],
+        "files": list(dict.fromkeys(s["file"] for s in matched)),
         "order_similarity": round(ratio, 3),
         "pdf_tokens": len(pdf_tokens),
         "adt_tokens": len(adt_tokens),
@@ -58,7 +91,11 @@ for physical, page in enumerate(doc, start=1):
 report = {
     "pdf_pages": len(rows),
     "unmapped": [r["physical_pdf_page"] for r in rows if not r["files"]],
-    "order_below_050": [r["physical_pdf_page"] for r in rows if r["order_similarity"] < 0.5],
+    "order_below_050": [
+        r["physical_pdf_page"] for r in rows
+        if r["order_similarity"] < 0.5
+        and not (r["adt_tables"] > 0 and r["adt_controls"] > 0)
+    ],
     "image_presence_mismatch": [r["physical_pdf_page"] for r in rows if (r["pdf_images"] > 0) != (r["adt_images"] > 0)],
     "pages": rows,
 }

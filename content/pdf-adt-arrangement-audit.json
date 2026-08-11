@@ -3,18 +3,9 @@
   "unmapped": [],
   "order_below_050": [
     1,
-    6,
-    33,
-    96,
-    144
+    6
   ],
-  "image_presence_mismatch": [
-    19,
-    41,
-    54,
-    108,
-    165
-  ],
+  "image_presence_mismatch": [],
   "pages": [
     {
       "physical_pdf_page": 1,
@@ -60,9 +51,9 @@
       "files": [
         "pg004_sec001.html"
       ],
-      "order_similarity": 0.954,
+      "order_similarity": 0.929,
       "pdf_tokens": 224,
-      "adt_tokens": 214,
+      "adt_tokens": 226,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -103,7 +94,7 @@
       "pdf_tokens": 158,
       "adt_tokens": 158,
       "pdf_images": 1,
-      "adt_images": 2,
+      "adt_images": 1,
       "adt_controls": 0,
       "adt_tables": 0
     },
@@ -259,7 +250,7 @@
       "pdf_tokens": 210,
       "adt_tokens": 207,
       "pdf_images": 0,
-      "adt_images": 1,
+      "adt_images": 0,
       "adt_controls": 1,
       "adt_tables": 0
     },
@@ -442,7 +433,7 @@
       "adt_tokens": 25,
       "pdf_images": 4,
       "adt_images": 4,
-      "adt_controls": 0,
+      "adt_controls": 4,
       "adt_tables": 1
     },
     {
@@ -528,9 +519,9 @@
       "files": [
         "pg040_sec001.html"
       ],
-      "order_similarity": 0.802,
+      "order_similarity": 0.873,
       "pdf_tokens": 178,
-      "adt_tokens": 206,
+      "adt_tokens": 168,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 4,
@@ -543,12 +534,12 @@
         "pg041_sec001.html",
         "pg040_sec002.html"
       ],
-      "order_similarity": 0.621,
+      "order_similarity": 0.889,
       "pdf_tokens": 196,
-      "adt_tokens": 361,
+      "adt_tokens": 193,
       "pdf_images": 0,
-      "adt_images": 2,
-      "adt_controls": 7,
+      "adt_images": 0,
+      "adt_controls": 3,
       "adt_tables": 0
     },
     {
@@ -699,9 +690,9 @@
       "files": [
         "pg053_sec001.html"
       ],
-      "order_similarity": 0.696,
+      "order_similarity": 0.837,
       "pdf_tokens": 127,
-      "adt_tokens": 189,
+      "adt_tokens": 136,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 1,
@@ -713,12 +704,12 @@
         "pg053_sec001.html",
         "pg054_sec001.html"
       ],
-      "order_similarity": 0.522,
+      "order_similarity": 0.839,
       "pdf_tokens": 123,
-      "adt_tokens": 237,
+      "adt_tokens": 101,
       "pdf_images": 0,
-      "adt_images": 1,
-      "adt_controls": 8,
+      "adt_images": 0,
+      "adt_controls": 7,
       "adt_tables": 0
     },
     {
@@ -769,7 +760,7 @@
       "pdf_tokens": 141,
       "adt_tokens": 176,
       "pdf_images": 1,
-      "adt_images": 2,
+      "adt_images": 1,
       "adt_controls": 0,
       "adt_tables": 0
     },
@@ -895,9 +886,9 @@
       "files": [
         "pg068_sec001.html"
       ],
-      "order_similarity": 0.802,
+      "order_similarity": 0.849,
       "pdf_tokens": 102,
-      "adt_tokens": 95,
+      "adt_tokens": 84,
       "pdf_images": 0,
       "adt_images": 0,
       "adt_controls": 20,
@@ -910,12 +901,12 @@
         "pg069_sec001.html",
         "pg069_sec002.html"
       ],
-      "order_similarity": 0.695,
+      "order_similarity": 0.88,
       "pdf_tokens": 162,
-      "adt_tokens": 238,
+      "adt_tokens": 154,
       "pdf_images": 0,
       "adt_images": 0,
-      "adt_controls": 34,
+      "adt_controls": 14,
       "adt_tables": 0
     },
     {
@@ -1001,9 +992,9 @@
       "files": [
         "pg076_sec001.html"
       ],
-      "order_similarity": 0.575,
+      "order_similarity": 0.9,
       "pdf_tokens": 156,
-      "adt_tokens": 300,
+      "adt_tokens": 135,
       "pdf_images": 0,
       "adt_images": 0,
       "adt_controls": 3,
@@ -1014,12 +1005,12 @@
       "files": [
         "pg076_sec001.html"
       ],
-      "order_similarity": 0.674,
+      "order_similarity": 0.932,
       "pdf_tokens": 187,
-      "adt_tokens": 300,
+      "adt_tokens": 165,
       "pdf_images": 0,
       "adt_images": 0,
-      "adt_controls": 3,
+      "adt_controls": 0,
       "adt_tables": 0
     },
     {
@@ -1092,9 +1083,9 @@
       "files": [
         "pg083_sec001.html"
       ],
-      "order_similarity": 0.919,
+      "order_similarity": 0.898,
       "pdf_tokens": 160,
-      "adt_tokens": 138,
+      "adt_tokens": 145,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -1421,7 +1412,7 @@
       "pdf_tokens": 194,
       "adt_tokens": 198,
       "pdf_images": 0,
-      "adt_images": 1,
+      "adt_images": 0,
       "adt_controls": 2,
       "adt_tables": 0
     },
@@ -1456,9 +1447,9 @@
       "files": [
         "pg111_sec001.html"
       ],
-      "order_similarity": 0.664,
+      "order_similarity": 0.753,
       "pdf_tokens": 105,
-      "adt_tokens": 139,
+      "adt_tokens": 110,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 3,
@@ -1470,12 +1461,12 @@
         "pg111_sec001.html",
         "pg112_sec001.html"
       ],
-      "order_similarity": 0.647,
+      "order_similarity": 0.86,
       "pdf_tokens": 167,
-      "adt_tokens": 278,
+      "adt_tokens": 168,
       "pdf_images": 2,
-      "adt_images": 3,
-      "adt_controls": 3,
+      "adt_images": 2,
+      "adt_controls": 0,
       "adt_tables": 0
     },
     {
@@ -1548,9 +1539,9 @@
       "files": [
         "pg118_sec001.html"
       ],
-      "order_similarity": 0.889,
+      "order_similarity": 0.795,
       "pdf_tokens": 140,
-      "adt_tokens": 121,
+      "adt_tokens": 152,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -1561,11 +1552,11 @@
       "files": [
         "pg119_sec001.html"
       ],
-      "order_similarity": 0.69,
+      "order_similarity": 0.687,
       "pdf_tokens": 101,
-      "adt_tokens": 125,
+      "adt_tokens": 126,
       "pdf_images": 2,
-      "adt_images": 3,
+      "adt_images": 2,
       "adt_controls": 1,
       "adt_tables": 0
     },
@@ -1574,9 +1565,9 @@
       "files": [
         "pg120_sec001.html"
       ],
-      "order_similarity": 0.819,
+      "order_similarity": 0.703,
       "pdf_tokens": 120,
-      "adt_tokens": 117,
+      "adt_tokens": 153,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 1,
@@ -1587,9 +1578,9 @@
       "files": [
         "pg121_sec001.html"
       ],
-      "order_similarity": 0.646,
+      "order_similarity": 0.613,
       "pdf_tokens": 76,
-      "adt_tokens": 88,
+      "adt_tokens": 97,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -1600,9 +1591,9 @@
       "files": [
         "pg122_sec001.html"
       ],
-      "order_similarity": 0.649,
+      "order_similarity": 0.613,
       "pdf_tokens": 73,
-      "adt_tokens": 81,
+      "adt_tokens": 90,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -1613,9 +1604,9 @@
       "files": [
         "pg123_sec001.html"
       ],
-      "order_similarity": 0.827,
+      "order_similarity": 0.753,
       "pdf_tokens": 139,
-      "adt_tokens": 156,
+      "adt_tokens": 185,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -1626,9 +1617,9 @@
       "files": [
         "pg124_sec001.html"
       ],
-      "order_similarity": 0.67,
+      "order_similarity": 0.626,
       "pdf_tokens": 78,
-      "adt_tokens": 104,
+      "adt_tokens": 117,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -1639,9 +1630,9 @@
       "files": [
         "pg125_sec001.html"
       ],
-      "order_similarity": 0.697,
+      "order_similarity": 0.663,
       "pdf_tokens": 84,
-      "adt_tokens": 91,
+      "adt_tokens": 100,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -1652,9 +1643,9 @@
       "files": [
         "pg126_sec001.html"
       ],
-      "order_similarity": 0.704,
+      "order_similarity": 0.65,
       "pdf_tokens": 93,
-      "adt_tokens": 123,
+      "adt_tokens": 141,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -1665,9 +1656,9 @@
       "files": [
         "pg127_sec001.html"
       ],
-      "order_similarity": 0.849,
+      "order_similarity": 0.843,
       "pdf_tokens": 152,
-      "adt_tokens": 152,
+      "adt_tokens": 154,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -1678,9 +1669,9 @@
       "files": [
         "pg128_sec001.html"
       ],
-      "order_similarity": 0.784,
+      "order_similarity": 0.772,
       "pdf_tokens": 148,
-      "adt_tokens": 171,
+      "adt_tokens": 176,
       "pdf_images": 3,
       "adt_images": 3,
       "adt_controls": 3,
@@ -1691,9 +1682,9 @@
       "files": [
         "pg129_sec001.html"
       ],
-      "order_similarity": 0.938,
+      "order_similarity": 0.931,
       "pdf_tokens": 220,
-      "adt_tokens": 213,
+      "adt_tokens": 216,
       "pdf_images": 0,
       "adt_images": 0,
       "adt_controls": 1,
@@ -1704,9 +1695,9 @@
       "files": [
         "pg130_sec001.html"
       ],
-      "order_similarity": 0.831,
+      "order_similarity": 0.741,
       "pdf_tokens": 141,
-      "adt_tokens": 155,
+      "adt_tokens": 191,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -1717,9 +1708,9 @@
       "files": [
         "pg131_sec001.html"
       ],
-      "order_similarity": 0.674,
+      "order_similarity": 0.634,
       "pdf_tokens": 88,
-      "adt_tokens": 105,
+      "adt_tokens": 117,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -1730,9 +1721,9 @@
       "files": [
         "pg132_sec001.html"
       ],
-      "order_similarity": 0.824,
+      "order_similarity": 0.809,
       "pdf_tokens": 127,
-      "adt_tokens": 140,
+      "adt_tokens": 145,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -1743,9 +1734,9 @@
       "files": [
         "pg133_sec001.html"
       ],
-      "order_similarity": 0.805,
+      "order_similarity": 0.729,
       "pdf_tokens": 112,
-      "adt_tokens": 124,
+      "adt_tokens": 143,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -1756,9 +1747,9 @@
       "files": [
         "pg134_sec001.html"
       ],
-      "order_similarity": 0.695,
+      "order_similarity": 0.673,
       "pdf_tokens": 91,
-      "adt_tokens": 122,
+      "adt_tokens": 129,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 1,
@@ -1769,9 +1760,9 @@
       "files": [
         "pg135_sec001.html"
       ],
-      "order_similarity": 0.679,
+      "order_similarity": 0.643,
       "pdf_tokens": 72,
-      "adt_tokens": 90,
+      "adt_tokens": 99,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -1782,11 +1773,11 @@
       "files": [
         "pg136_sec001.html"
       ],
-      "order_similarity": 0.77,
+      "order_similarity": 0.737,
       "pdf_tokens": 136,
-      "adt_tokens": 173,
+      "adt_tokens": 187,
       "pdf_images": 1,
-      "adt_images": 2,
+      "adt_images": 1,
       "adt_controls": 0,
       "adt_tables": 0
     },
@@ -1795,9 +1786,9 @@
       "files": [
         "pg137_sec001.html"
       ],
-      "order_similarity": 0.627,
+      "order_similarity": 0.612,
       "pdf_tokens": 146,
-      "adt_tokens": 90,
+      "adt_tokens": 96,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -1808,9 +1799,9 @@
       "files": [
         "pg138_sec001.html"
       ],
-      "order_similarity": 0.932,
+      "order_similarity": 0.876,
       "pdf_tokens": 187,
-      "adt_tokens": 165,
+      "adt_tokens": 183,
       "pdf_images": 0,
       "adt_images": 0,
       "adt_controls": 1,
@@ -1821,9 +1812,9 @@
       "files": [
         "pg139_sec001.html"
       ],
-      "order_similarity": 0.589,
+      "order_similarity": 0.583,
       "pdf_tokens": 75,
-      "adt_tokens": 122,
+      "adt_tokens": 124,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -1834,9 +1825,9 @@
       "files": [
         "pg140_sec001.html"
       ],
-      "order_similarity": 0.827,
+      "order_similarity": 0.8,
       "pdf_tokens": 151,
-      "adt_tokens": 173,
+      "adt_tokens": 184,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 1,
@@ -1847,9 +1838,9 @@
       "files": [
         "pg141_sec001.html"
       ],
-      "order_similarity": 0.865,
+      "order_similarity": 0.853,
       "pdf_tokens": 145,
-      "adt_tokens": 151,
+      "adt_tokens": 155,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -1873,11 +1864,11 @@
       "files": [
         "pg143_sec001.html"
       ],
-      "order_similarity": 0.538,
+      "order_similarity": 0.752,
       "pdf_tokens": 105,
-      "adt_tokens": 222,
+      "adt_tokens": 129,
       "pdf_images": 1,
-      "adt_images": 3,
+      "adt_images": 1,
       "adt_controls": 0,
       "adt_tables": 0
     },
@@ -1886,11 +1877,11 @@
       "files": [
         "pg143_sec001.html"
       ],
-      "order_similarity": 0.403,
+      "order_similarity": 0.659,
       "pdf_tokens": 76,
-      "adt_tokens": 222,
+      "adt_tokens": 103,
       "pdf_images": 2,
-      "adt_images": 3,
+      "adt_images": 2,
       "adt_controls": 0,
       "adt_tables": 0
     },
@@ -1899,9 +1890,9 @@
       "files": [
         "pg145_sec001.html"
       ],
-      "order_similarity": 0.773,
+      "order_similarity": 0.736,
       "pdf_tokens": 122,
-      "adt_tokens": 134,
+      "adt_tokens": 147,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -1912,9 +1903,9 @@
       "files": [
         "pg146_sec001.html"
       ],
-      "order_similarity": 0.902,
+      "order_similarity": 0.873,
       "pdf_tokens": 143,
-      "adt_tokens": 123,
+      "adt_tokens": 132,
       "pdf_images": 0,
       "adt_images": 0,
       "adt_controls": 1,
@@ -1925,9 +1916,9 @@
       "files": [
         "pg147_sec001.html"
       ],
-      "order_similarity": 0.681,
+      "order_similarity": 0.67,
       "pdf_tokens": 85,
-      "adt_tokens": 97,
+      "adt_tokens": 100,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -1938,9 +1929,9 @@
       "files": [
         "pg148_sec001.html"
       ],
-      "order_similarity": 0.736,
+      "order_similarity": 0.727,
       "pdf_tokens": 109,
-      "adt_tokens": 141,
+      "adt_tokens": 144,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -1951,9 +1942,9 @@
       "files": [
         "pg149_sec001.html"
       ],
-      "order_similarity": 0.884,
+      "order_similarity": 0.871,
       "pdf_tokens": 168,
-      "adt_tokens": 160,
+      "adt_tokens": 165,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 2,
@@ -1964,9 +1955,9 @@
       "files": [
         "pg150_sec001.html"
       ],
-      "order_similarity": 0.852,
+      "order_similarity": 0.829,
       "pdf_tokens": 158,
-      "adt_tokens": 173,
+      "adt_tokens": 182,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -1977,9 +1968,9 @@
       "files": [
         "pg151_sec001.html"
       ],
-      "order_similarity": 0.782,
+      "order_similarity": 0.756,
       "pdf_tokens": 102,
-      "adt_tokens": 100,
+      "adt_tokens": 107,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -1990,9 +1981,9 @@
       "files": [
         "pg152_sec001.html"
       ],
-      "order_similarity": 0.76,
+      "order_similarity": 0.757,
       "pdf_tokens": 117,
-      "adt_tokens": 133,
+      "adt_tokens": 134,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 2,
@@ -2003,9 +1994,9 @@
       "files": [
         "pg153_sec001.html"
       ],
-      "order_similarity": 0.872,
+      "order_similarity": 0.855,
       "pdf_tokens": 153,
-      "adt_tokens": 145,
+      "adt_tokens": 151,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -2016,9 +2007,9 @@
       "files": [
         "pg154_sec001.html"
       ],
-      "order_similarity": 0.739,
+      "order_similarity": 0.721,
       "pdf_tokens": 111,
-      "adt_tokens": 127,
+      "adt_tokens": 133,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -2029,9 +2020,9 @@
       "files": [
         "pg155_sec001.html"
       ],
-      "order_similarity": 0.561,
+      "order_similarity": 0.554,
       "pdf_tokens": 79,
-      "adt_tokens": 142,
+      "adt_tokens": 145,
       "pdf_images": 2,
       "adt_images": 3,
       "adt_controls": 0,
@@ -2055,9 +2046,9 @@
       "files": [
         "pg157_sec001.html"
       ],
-      "order_similarity": 0.717,
+      "order_similarity": 0.714,
       "pdf_tokens": 89,
-      "adt_tokens": 95,
+      "adt_tokens": 96,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -2068,9 +2059,9 @@
       "files": [
         "pg158_sec001.html"
       ],
-      "order_similarity": 0.755,
+      "order_similarity": 0.746,
       "pdf_tokens": 111,
-      "adt_tokens": 122,
+      "adt_tokens": 125,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -2081,9 +2072,9 @@
       "files": [
         "pg159_sec001.html"
       ],
-      "order_similarity": 0.624,
+      "order_similarity": 0.583,
       "pdf_tokens": 72,
-      "adt_tokens": 85,
+      "adt_tokens": 96,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -2094,9 +2085,9 @@
       "files": [
         "pg160_sec001.html"
       ],
-      "order_similarity": 0.691,
+      "order_similarity": 0.667,
       "pdf_tokens": 92,
-      "adt_tokens": 125,
+      "adt_tokens": 133,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -2107,9 +2098,9 @@
       "files": [
         "pg161_sec001.html"
       ],
-      "order_similarity": 0.833,
+      "order_similarity": 0.808,
       "pdf_tokens": 146,
-      "adt_tokens": 142,
+      "adt_tokens": 151,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -2120,9 +2111,9 @@
       "files": [
         "pg162_sec001.html"
       ],
-      "order_similarity": 0.704,
+      "order_similarity": 0.696,
       "pdf_tokens": 112,
-      "adt_tokens": 138,
+      "adt_tokens": 141,
       "pdf_images": 2,
       "adt_images": 2,
       "adt_controls": 0,
@@ -2133,9 +2124,9 @@
       "files": [
         "pg163_sec001.html"
       ],
-      "order_similarity": 0.805,
+      "order_similarity": 0.786,
       "pdf_tokens": 124,
-      "adt_tokens": 127,
+      "adt_tokens": 133,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -2146,9 +2137,9 @@
       "files": [
         "pg164_sec001.html"
       ],
-      "order_similarity": 0.723,
+      "order_similarity": 0.708,
       "pdf_tokens": 92,
-      "adt_tokens": 96,
+      "adt_tokens": 100,
       "pdf_images": 1,
       "adt_images": 1,
       "adt_controls": 0,
@@ -2159,11 +2150,11 @@
       "files": [
         "pg165_sec001.html"
       ],
-      "order_similarity": 0.744,
+      "order_similarity": 0.829,
       "pdf_tokens": 99,
-      "adt_tokens": 116,
+      "adt_tokens": 94,
       "pdf_images": 0,
-      "adt_images": 1,
+      "adt_images": 0,
       "adt_controls": 14,
       "adt_tables": 0
     },
@@ -2172,9 +2163,9 @@
       "files": [
         "pg166_sec001.html"
       ],
-      "order_similarity": 0.841,
+      "order_similarity": 0.836,
       "pdf_tokens": 97,
-      "adt_tokens": 79,
+      "adt_tokens": 80,
       "pdf_images": 0,
       "adt_images": 0,
       "adt_controls": 16,
@@ -2185,9 +2176,9 @@
       "files": [
         "pg167_sec001.html"
       ],
-      "order_similarity": 0.712,
+      "order_similarity": 0.863,
       "pdf_tokens": 132,
-      "adt_tokens": 163,
+      "adt_tokens": 109,
       "pdf_images": 0,
       "adt_images": 0,
       "adt_controls": 10,
@@ -2199,13 +2190,13 @@
         "pg167_sec001.html",
         "pg168_sec001.html"
       ],
-      "order_similarity": 0.668,
+      "order_similarity": 0.918,
       "pdf_tokens": 157,
-      "adt_tokens": 244,
+      "adt_tokens": 135,
       "pdf_images": 0,
       "adt_images": 0,
-      "adt_controls": 10,
-      "adt_tables": 1
+      "adt_controls": 0,
+      "adt_tables": 0
     }
   ]
 }
