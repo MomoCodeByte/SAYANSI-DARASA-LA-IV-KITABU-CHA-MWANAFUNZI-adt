@@ -16,19 +16,28 @@
 
     <style>
       body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select { font-family: 'Atkinson Hyperlegible','Merriweather',sans-serif; }
+      .pdf-inside-page { width:min(100%,54rem); aspect-ratio:540.898/750.661; min-height:0; margin-inline:auto; }
+      .pdf-inside-left { background:linear-gradient(90deg,rgba(8,145,170,.55) 0%,rgba(125,211,224,.34) 42%,rgba(255,255,255,0) 100%); }
+      .pdf-inside-right { background:linear-gradient(270deg,rgba(7,118,146,.70) 0%,rgba(77,181,202,.48) 34%,rgba(255,255,255,0) 100%); }
+      .pdf-inside-watermark { white-space:nowrap; transform:translate(-50%,-50%) rotate(-45deg); }
+      @media (max-width:640px) { .pdf-inside-page { width:100%; min-height:980px; aspect-ratio:auto; } }
     </style></head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
       <h1 class="sr-only" id="page-heading">Sayansi: Kitabu cha Mwanafunzi, Darasa la Nne</h1>
       <div id="content" class="container mx-auto bg-white opacity-0">
-  <section data-section-type="inside_cover" data-section-id="pg006_sec001" class="relative min-h-[1480px] overflow-hidden bg-white px-6 py-6 max-lg:min-h-[1100px] max-sm:min-h-[900px]">
-    <div class="pointer-events-none absolute inset-y-0 left-0 w-28 bg-gradient-to-r from-cyan-700/40 via-cyan-400/20 to-transparent max-lg:w-20 max-sm:w-14"></div>
-    <div class="pointer-events-none absolute inset-y-0 right-0 w-28 bg-gradient-to-l from-cyan-700/40 via-cyan-400/20 to-transparent max-lg:w-20 max-sm:w-14"></div>
-    <div class="pointer-events-none absolute right-24 top-1/2 z-0 -translate-y-1/2 rotate-[-45deg] max-lg:right-12 max-sm:right-2">
-      <p data-id="pg006_n0001" class="text-[88px] font-light uppercase tracking-wide text-pink-300/70 max-lg:text-[54px] max-sm:text-[30px]">FOR ONLINE READING ONLY</p>
+  <section data-section-type="inside_cover" data-section-id="pg006_sec001" class="pdf-inside-page relative overflow-hidden bg-white">
+    <div aria-hidden="true" class="pdf-inside-left pointer-events-none absolute inset-y-0 left-0" style="width:10.5%"></div>
+    <div aria-hidden="true" class="pointer-events-none absolute inset-y-0 bg-cyan-600/45" style="left:3.8%;width:.35%"></div>
+    <div aria-hidden="true" class="pdf-inside-right pointer-events-none absolute inset-y-0 right-0" style="width:11.5%"></div>
+    <div aria-hidden="true" class="pointer-events-none absolute inset-y-0 bg-cyan-700/55" style="right:3.8%;width:.45%"></div>
+
+    <div class="pdf-inside-watermark pointer-events-none absolute left-1/2 top-1/2 z-10">
+      <p data-id="pg006_n0001" aria-hidden="true" class="font-light uppercase tracking-wide text-pink-300/70" style="font-size:clamp(2rem,6.2vw,4.3rem)">FOR ONLINE READING ONLY</p>
     </div>
-    <div class="absolute bottom-3 left-6 right-6 z-10 flex items-end justify-between text-left text-[18px] text-black max-lg:text-[15px] max-sm:flex-col max-sm:items-start max-sm:gap-2 max-sm:text-[12px]">
+
+    <div class="absolute z-20 flex items-end justify-between text-left text-black" style="bottom:1.15%;left:3.6%;right:3.6%;font-size:clamp(.55rem,1.35vw,.85rem)">
       <p data-id="pg006_n0002" class="leading-none">SAYANSI DARASA LA IV KITABU CHA MWANAFUNZI.indd   6</p>
       <p data-id="pg006_n0004" class="leading-none">17/09/2025   13:13</p>
     </div>
