@@ -3,7 +3,7 @@
   "page_files": 206,
   "unique_files": 206,
   "missing_images": 0,
-  "interactive_pages": 115,
+  "interactive_pages": 116,
   "qa_issues": [],
   "pages": [
     {
@@ -210,9 +210,9 @@
       "converted_page": 26,
       "file": "pg022_sec001.html",
       "source_page_number": 16,
-      "images": 2,
+      "images": 0,
       "missing_images": [],
-      "interactive": false
+      "interactive": true
     },
     {
       "converted_page": 27,
@@ -338,7 +338,7 @@
       "converted_page": 42,
       "file": "pg035_sec001.html",
       "source_page_number": 29,
-      "images": 2,
+      "images": 1,
       "missing_images": [],
       "interactive": false
     },
