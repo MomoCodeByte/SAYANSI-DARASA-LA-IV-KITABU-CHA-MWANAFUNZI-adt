@@ -18,7 +18,6 @@
     .pdf-page img { display: block; width: 100%; height: auto; }
     .pdf-text-layer { position: absolute; inset: 0; pointer-events: none; overflow: hidden; }
     .pdf-word { position: absolute; display: block; overflow: hidden; color: transparent; font-size: 1px; line-height: 1; }
-    .pdf-word.is-reading-word { background: rgba(255, 235, 59, .72); outline: 2px solid rgba(255, 152, 0, .9); border-radius: 3px; mix-blend-mode: multiply; }
     .accessible-transcript { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0 !important; margin: -1px !important; overflow: hidden !important; clip: rect(0,0,0,0) !important; white-space: nowrap !important; border: 0 !important; }
     @media (max-width: 640px) { main { padding: 0 0 96px; } .pdf-page { box-shadow: none; } }
   </style>
@@ -39,6 +38,5 @@
   <div class="relative z-50" id="nav-container"></div>
   <script src="./assets/scorm.js"></script>
   <script src="./assets/base.bundle.local.js"></script>
-  <script src="./assets/read-along.js"></script>
 </body>
 </html>
