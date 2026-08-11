@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="sw">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Review ya PDF dhidi ya ADT</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;background:#18222b;font:15px Arial;color:#fff}
+    header{height:58px;display:flex;gap:14px;align-items:center;justify-content:center;background:#0f1720}
+    input{width:75px;padding:7px;border-radius:6px;border:0}button{padding:8px 15px;border:0;border-radius:6px;background:#0e879b;color:#fff;font-weight:700}
+    main{height:calc(100vh - 58px);display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:8px}
+    section{display:flex;flex-direction:column;min-width:0;background:white;overflow:hidden;border-radius:8px}h2{font-size:15px;text-align:center;margin:0;padding:8px;background:#087f94}
+    .scroll{flex:1;overflow:auto;background:#dbe4ea}.scroll img{width:100%;display:block}iframe{flex:1;border:0;width:100%;background:white}
+  </style>
+</head>
+<body>
+  <header><strong>PDF ↔ ADT page review</strong><label>Physical page <input id="page" type="number" min="1" max="168" value="1"></label><button id="show">Onesha</button></header>
+  <main>
+    <section><h2 id="pdfTitle">PDF</h2><div class="scroll"><img id="pdf" alt="Ukurasa wa PDF"></div></section>
+    <section><h2 id="adtTitle">ADT</h2><iframe id="adt" title="Ukurasa wa ADT"></iframe></section>
+  </main>
+  <script>
+    const pad=n=>String(n).padStart(3,'0');
+    function show(){
+      const n=Math.max(1,Math.min(168,Number(document.querySelector('#page').value)||1));
+      document.querySelector('#pdf').src=`tmp/review-pdf/page-${pad(n)}.png`;
+      const href=n===1?'index.html':`pg${pad(n)}_sec001.html`;
+      document.querySelector('#adt').src=`${href}?review=${Date.now()}`;
+      document.querySelector('#pdfTitle').textContent=`PDF physical page ${n}`;
+      document.querySelector('#adtTitle').textContent=`ADT ${href}`;
+    }
+    document.querySelector('#show').onclick=show; document.querySelector('#page').onchange=show; show();
+  </script>
+    <script src="./assets/matrix-accessibility.js?v=matrix-v1-1" defer></script>
+</body>
+</html>

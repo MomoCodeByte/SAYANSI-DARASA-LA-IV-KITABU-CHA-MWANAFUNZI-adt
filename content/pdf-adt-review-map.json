@@ -1,0 +1,2420 @@
+{
+  "source_pdf_pages": 168,
+  "adt_reading_entries": 206,
+  "adt_book_sections": 168,
+  "adt_quiz_entries": 38,
+  "missing_physical_pages": [],
+  "duplicate_physical_pages": [
+    41,
+    54,
+    69,
+    112,
+    168
+  ],
+  "missing_files": [],
+  "pages": [
+    {
+      "reading_order": 1,
+      "section_id": "pg001_sec001",
+      "href": "index.html",
+      "printed_page": 1,
+      "pdf_physical_page": 1,
+      "covered_pdf_pages": [
+        1
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 2,
+      "section_id": "pg002_sec001",
+      "href": "pg002_sec001.html",
+      "printed_page": null,
+      "pdf_physical_page": 2,
+      "covered_pdf_pages": [
+        2
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 3,
+      "section_id": "pg003_sec001",
+      "href": "pg003_sec001.html",
+      "printed_page": 3,
+      "pdf_physical_page": 3,
+      "covered_pdf_pages": [
+        3
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 4,
+      "section_id": "pg004_sec001",
+      "href": "pg004_sec001.html",
+      "printed_page": null,
+      "pdf_physical_page": 4,
+      "covered_pdf_pages": [
+        4
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 5,
+      "section_id": "pg005_sec001",
+      "href": "pg005_sec001.html",
+      "printed_page": null,
+      "pdf_physical_page": 5,
+      "covered_pdf_pages": [
+        5
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 6,
+      "section_id": "pg006_sec001",
+      "href": "pg006_sec001.html",
+      "printed_page": 6,
+      "pdf_physical_page": 6,
+      "covered_pdf_pages": [
+        6
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 7,
+      "section_id": "pg007_sec001",
+      "href": "pg007_sec001.html",
+      "printed_page": 1,
+      "pdf_physical_page": 7,
+      "covered_pdf_pages": [
+        7
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 8,
+      "section_id": "pg008_sec001",
+      "href": "pg008_sec001.html",
+      "printed_page": 2,
+      "pdf_physical_page": 8,
+      "covered_pdf_pages": [
+        8
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 9,
+      "section_id": "qz001",
+      "href": "qz001.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 10,
+      "section_id": "pg009_sec001",
+      "href": "pg009_sec001.html",
+      "printed_page": 3,
+      "pdf_physical_page": 9,
+      "covered_pdf_pages": [
+        9
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 11,
+      "section_id": "pg010_sec001",
+      "href": "pg010_sec001.html",
+      "printed_page": 4,
+      "pdf_physical_page": 10,
+      "covered_pdf_pages": [
+        10
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 12,
+      "section_id": "pg011_sec001",
+      "href": "pg011_sec001.html",
+      "printed_page": 5,
+      "pdf_physical_page": 11,
+      "covered_pdf_pages": [
+        11
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 13,
+      "section_id": "qz002",
+      "href": "qz002.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 14,
+      "section_id": "pg012_sec001",
+      "href": "pg012_sec001.html",
+      "printed_page": 6,
+      "pdf_physical_page": 12,
+      "covered_pdf_pages": [
+        12
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 15,
+      "section_id": "pg013_sec001",
+      "href": "pg013_sec001.html",
+      "printed_page": 7,
+      "pdf_physical_page": 13,
+      "covered_pdf_pages": [
+        13
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 16,
+      "section_id": "pg014_sec001",
+      "href": "pg014_sec001.html",
+      "printed_page": 8,
+      "pdf_physical_page": 14,
+      "covered_pdf_pages": [
+        14
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 17,
+      "section_id": "qz003",
+      "href": "qz003.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 18,
+      "section_id": "pg015_sec001",
+      "href": "pg015_sec001.html",
+      "printed_page": 9,
+      "pdf_physical_page": 15,
+      "covered_pdf_pages": [
+        15
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 19,
+      "section_id": "pg016_sec001",
+      "href": "pg016_sec001.html",
+      "printed_page": 10,
+      "pdf_physical_page": 16,
+      "covered_pdf_pages": [
+        16
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 20,
+      "section_id": "pg017_sec001",
+      "href": "pg017_sec001.html",
+      "printed_page": 11,
+      "pdf_physical_page": 17,
+      "covered_pdf_pages": [
+        17
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 21,
+      "section_id": "pg018_sec001",
+      "href": "pg018_sec001.html",
+      "printed_page": 12,
+      "pdf_physical_page": 18,
+      "covered_pdf_pages": [
+        18
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 22,
+      "section_id": "qz004",
+      "href": "qz004.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 23,
+      "section_id": "pg019_sec001",
+      "href": "pg019_sec001.html",
+      "printed_page": 13,
+      "pdf_physical_page": 19,
+      "covered_pdf_pages": [
+        19
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 24,
+      "section_id": "pg020_sec001",
+      "href": "pg020_sec001.html",
+      "printed_page": 14,
+      "pdf_physical_page": 20,
+      "covered_pdf_pages": [
+        20
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 25,
+      "section_id": "pg021_sec001",
+      "href": "pg021_sec001.html",
+      "printed_page": 15,
+      "pdf_physical_page": 21,
+      "covered_pdf_pages": [
+        21
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 26,
+      "section_id": "pg022_sec001",
+      "href": "pg022_sec001.html",
+      "printed_page": 16,
+      "pdf_physical_page": 22,
+      "covered_pdf_pages": [
+        22
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 27,
+      "section_id": "pg023_sec001",
+      "href": "pg023_sec001.html",
+      "printed_page": 17,
+      "pdf_physical_page": 23,
+      "covered_pdf_pages": [
+        23
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 28,
+      "section_id": "qz005",
+      "href": "qz005.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 29,
+      "section_id": "pg024_sec001",
+      "href": "pg024_sec001.html",
+      "printed_page": 18,
+      "pdf_physical_page": 24,
+      "covered_pdf_pages": [
+        24
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 30,
+      "section_id": "pg025_sec001",
+      "href": "pg025_sec001.html",
+      "printed_page": 19,
+      "pdf_physical_page": 25,
+      "covered_pdf_pages": [
+        25
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 31,
+      "section_id": "pg026_sec001",
+      "href": "pg026_sec001.html",
+      "printed_page": 20,
+      "pdf_physical_page": 26,
+      "covered_pdf_pages": [
+        26
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 32,
+      "section_id": "qz006",
+      "href": "qz006.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 33,
+      "section_id": "pg027_sec001",
+      "href": "pg027_sec001.html",
+      "printed_page": 21,
+      "pdf_physical_page": 27,
+      "covered_pdf_pages": [
+        27
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 34,
+      "section_id": "pg028_sec001",
+      "href": "pg028_sec001.html",
+      "printed_page": 22,
+      "pdf_physical_page": 28,
+      "covered_pdf_pages": [
+        28
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 35,
+      "section_id": "pg029_sec001",
+      "href": "pg029_sec001.html",
+      "printed_page": 23,
+      "pdf_physical_page": 29,
+      "covered_pdf_pages": [
+        29
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 36,
+      "section_id": "pg030_sec001",
+      "href": "pg030_sec001.html",
+      "printed_page": 24,
+      "pdf_physical_page": 30,
+      "covered_pdf_pages": [
+        30
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 37,
+      "section_id": "qz007",
+      "href": "qz007.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 38,
+      "section_id": "pg031_sec001",
+      "href": "pg031_sec001.html",
+      "printed_page": 25,
+      "pdf_physical_page": 31,
+      "covered_pdf_pages": [
+        31
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 39,
+      "section_id": "pg032_sec001",
+      "href": "pg032_sec001.html",
+      "printed_page": 26,
+      "pdf_physical_page": 32,
+      "covered_pdf_pages": [
+        32
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 40,
+      "section_id": "pg033_sec001",
+      "href": "pg033_sec001.html",
+      "printed_page": 27,
+      "pdf_physical_page": 33,
+      "covered_pdf_pages": [
+        33
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 41,
+      "section_id": "pg034_sec001",
+      "href": "pg034_sec001.html",
+      "printed_page": 28,
+      "pdf_physical_page": 34,
+      "covered_pdf_pages": [
+        34
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 42,
+      "section_id": "pg035_sec001",
+      "href": "pg035_sec001.html",
+      "printed_page": 29,
+      "pdf_physical_page": 35,
+      "covered_pdf_pages": [
+        35
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 43,
+      "section_id": "qz008",
+      "href": "qz008.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 44,
+      "section_id": "pg036_sec001",
+      "href": "pg036_sec001.html",
+      "printed_page": 30,
+      "pdf_physical_page": 36,
+      "covered_pdf_pages": [
+        36
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 45,
+      "section_id": "pg037_sec001",
+      "href": "pg037_sec001.html",
+      "printed_page": 31,
+      "pdf_physical_page": 37,
+      "covered_pdf_pages": [
+        37
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 46,
+      "section_id": "pg038_sec001",
+      "href": "pg038_sec001.html",
+      "printed_page": 32,
+      "pdf_physical_page": 38,
+      "covered_pdf_pages": [
+        38
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 47,
+      "section_id": "pg039_sec001",
+      "href": "pg039_sec001.html",
+      "printed_page": 33,
+      "pdf_physical_page": 39,
+      "covered_pdf_pages": [
+        39
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 48,
+      "section_id": "qz009",
+      "href": "qz009.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 49,
+      "section_id": "pg040_sec001",
+      "href": "pg040_sec001.html",
+      "printed_page": 34,
+      "pdf_physical_page": 40,
+      "covered_pdf_pages": [
+        40,
+        41
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 50,
+      "section_id": "pg041_sec001",
+      "href": "pg041_sec001.html",
+      "printed_page": 35,
+      "pdf_physical_page": 41,
+      "covered_pdf_pages": [
+        41
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 51,
+      "section_id": "pg040_sec002",
+      "href": "pg040_sec002.html",
+      "printed_page": 35,
+      "pdf_physical_page": 40,
+      "covered_pdf_pages": [
+        41
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 52,
+      "section_id": "pg042_sec001",
+      "href": "pg042_sec001.html",
+      "printed_page": 36,
+      "pdf_physical_page": 42,
+      "covered_pdf_pages": [
+        42
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 53,
+      "section_id": "pg043_sec001",
+      "href": "pg043_sec001.html",
+      "printed_page": 37,
+      "pdf_physical_page": 43,
+      "covered_pdf_pages": [
+        43
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 54,
+      "section_id": "pg044_sec001",
+      "href": "pg044_sec001.html",
+      "printed_page": 38,
+      "pdf_physical_page": 44,
+      "covered_pdf_pages": [
+        44
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 55,
+      "section_id": "pg045_sec001",
+      "href": "pg045_sec001.html",
+      "printed_page": 39,
+      "pdf_physical_page": 45,
+      "covered_pdf_pages": [
+        45
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 56,
+      "section_id": "pg046_sec001",
+      "href": "pg046_sec001.html",
+      "printed_page": 40,
+      "pdf_physical_page": 46,
+      "covered_pdf_pages": [
+        46
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 57,
+      "section_id": "pg047_sec001",
+      "href": "pg047_sec001.html",
+      "printed_page": 41,
+      "pdf_physical_page": 47,
+      "covered_pdf_pages": [
+        47
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 58,
+      "section_id": "pg048_sec001",
+      "href": "pg048_sec001.html",
+      "printed_page": 42,
+      "pdf_physical_page": 48,
+      "covered_pdf_pages": [
+        48
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 59,
+      "section_id": "qz010",
+      "href": "qz010.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 60,
+      "section_id": "pg049_sec001",
+      "href": "pg049_sec001.html",
+      "printed_page": 43,
+      "pdf_physical_page": 49,
+      "covered_pdf_pages": [
+        49
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 61,
+      "section_id": "pg050_sec001",
+      "href": "pg050_sec001.html",
+      "printed_page": 44,
+      "pdf_physical_page": 50,
+      "covered_pdf_pages": [
+        50
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 62,
+      "section_id": "pg051_sec001",
+      "href": "pg051_sec001.html",
+      "printed_page": 45,
+      "pdf_physical_page": 51,
+      "covered_pdf_pages": [
+        51
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 63,
+      "section_id": "pg052_sec001",
+      "href": "pg052_sec001.html",
+      "printed_page": 46,
+      "pdf_physical_page": 52,
+      "covered_pdf_pages": [
+        52
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 64,
+      "section_id": "pg053_sec001",
+      "href": "pg053_sec001.html",
+      "printed_page": 47,
+      "pdf_physical_page": 53,
+      "covered_pdf_pages": [
+        53,
+        54
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 65,
+      "section_id": "pg054_sec001",
+      "href": "pg054_sec001.html",
+      "printed_page": 48,
+      "pdf_physical_page": 54,
+      "covered_pdf_pages": [
+        54
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 66,
+      "section_id": "pg055_sec001",
+      "href": "pg055_sec001.html",
+      "printed_page": 49,
+      "pdf_physical_page": 55,
+      "covered_pdf_pages": [
+        55
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 67,
+      "section_id": "pg056_sec001",
+      "href": "pg056_sec001.html",
+      "printed_page": 50,
+      "pdf_physical_page": 56,
+      "covered_pdf_pages": [
+        56
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 68,
+      "section_id": "pg057_sec001",
+      "href": "pg057_sec001.html",
+      "printed_page": 51,
+      "pdf_physical_page": 57,
+      "covered_pdf_pages": [
+        57
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 69,
+      "section_id": "pg058_sec001",
+      "href": "pg058_sec001.html",
+      "printed_page": 52,
+      "pdf_physical_page": 58,
+      "covered_pdf_pages": [
+        58
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 70,
+      "section_id": "qz011",
+      "href": "qz011.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 71,
+      "section_id": "pg059_sec001",
+      "href": "pg059_sec001.html",
+      "printed_page": 53,
+      "pdf_physical_page": 59,
+      "covered_pdf_pages": [
+        59
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 72,
+      "section_id": "pg060_sec001",
+      "href": "pg060_sec001.html",
+      "printed_page": 54,
+      "pdf_physical_page": 60,
+      "covered_pdf_pages": [
+        60
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 73,
+      "section_id": "pg061_sec001",
+      "href": "pg061_sec001.html",
+      "printed_page": 55,
+      "pdf_physical_page": 61,
+      "covered_pdf_pages": [
+        61
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 74,
+      "section_id": "qz012",
+      "href": "qz012.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 75,
+      "section_id": "pg062_sec001",
+      "href": "pg062_sec001.html",
+      "printed_page": 56,
+      "pdf_physical_page": 62,
+      "covered_pdf_pages": [
+        62
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 76,
+      "section_id": "pg063_sec001",
+      "href": "pg063_sec001.html",
+      "printed_page": 57,
+      "pdf_physical_page": 63,
+      "covered_pdf_pages": [
+        63
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 77,
+      "section_id": "pg064_sec001",
+      "href": "pg064_sec001.html",
+      "printed_page": 58,
+      "pdf_physical_page": 64,
+      "covered_pdf_pages": [
+        64
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 78,
+      "section_id": "pg065_sec001",
+      "href": "pg065_sec001.html",
+      "printed_page": 59,
+      "pdf_physical_page": 65,
+      "covered_pdf_pages": [
+        65
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 79,
+      "section_id": "qz013",
+      "href": "qz013.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 80,
+      "section_id": "pg066_sec001",
+      "href": "pg066_sec001.html",
+      "printed_page": 60,
+      "pdf_physical_page": 66,
+      "covered_pdf_pages": [
+        66
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 81,
+      "section_id": "pg067_sec001",
+      "href": "pg067_sec001.html",
+      "printed_page": 61,
+      "pdf_physical_page": 67,
+      "covered_pdf_pages": [
+        67
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 82,
+      "section_id": "pg068_sec001",
+      "href": "pg068_sec001.html",
+      "printed_page": 62,
+      "pdf_physical_page": 68,
+      "covered_pdf_pages": [
+        68,
+        69
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 83,
+      "section_id": "pg069_sec001",
+      "href": "pg069_sec001.html",
+      "printed_page": 63,
+      "pdf_physical_page": 69,
+      "covered_pdf_pages": [
+        69
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 84,
+      "section_id": "pg069_sec002",
+      "href": "pg069_sec002.html",
+      "printed_page": 63,
+      "pdf_physical_page": 69,
+      "covered_pdf_pages": [
+        69
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 85,
+      "section_id": "pg070_sec001",
+      "href": "pg070_sec001.html",
+      "printed_page": 64,
+      "pdf_physical_page": 70,
+      "covered_pdf_pages": [
+        70
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 86,
+      "section_id": "pg071_sec001",
+      "href": "pg071_sec001.html",
+      "printed_page": 65,
+      "pdf_physical_page": 71,
+      "covered_pdf_pages": [
+        71
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 87,
+      "section_id": "pg072_sec001",
+      "href": "pg072_sec001.html",
+      "printed_page": 66,
+      "pdf_physical_page": 72,
+      "covered_pdf_pages": [
+        72
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 88,
+      "section_id": "pg073_sec001",
+      "href": "pg073_sec001.html",
+      "printed_page": 67,
+      "pdf_physical_page": 73,
+      "covered_pdf_pages": [
+        73
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 89,
+      "section_id": "qz014",
+      "href": "qz014.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 90,
+      "section_id": "pg074_sec001",
+      "href": "pg074_sec001.html",
+      "printed_page": 68,
+      "pdf_physical_page": 74,
+      "covered_pdf_pages": [
+        74
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 91,
+      "section_id": "pg075_sec001",
+      "href": "pg075_sec001.html",
+      "printed_page": 69,
+      "pdf_physical_page": 75,
+      "covered_pdf_pages": [
+        75
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 92,
+      "section_id": "pg076_sec001",
+      "href": "pg076_sec001.html",
+      "printed_page": 70,
+      "pdf_physical_page": 76,
+      "covered_pdf_pages": [
+        76,
+        77
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 93,
+      "section_id": "qz015",
+      "href": "qz015.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 94,
+      "section_id": "pg078_sec001",
+      "href": "pg078_sec001.html",
+      "printed_page": 72,
+      "pdf_physical_page": 78,
+      "covered_pdf_pages": [
+        78
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 95,
+      "section_id": "pg079_sec001",
+      "href": "pg079_sec001.html",
+      "printed_page": 73,
+      "pdf_physical_page": 79,
+      "covered_pdf_pages": [
+        79
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 96,
+      "section_id": "pg080_sec001",
+      "href": "pg080_sec001.html",
+      "printed_page": 74,
+      "pdf_physical_page": 80,
+      "covered_pdf_pages": [
+        80
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 97,
+      "section_id": "pg081_sec001",
+      "href": "pg081_sec001.html",
+      "printed_page": 75,
+      "pdf_physical_page": 81,
+      "covered_pdf_pages": [
+        81
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 98,
+      "section_id": "pg082_sec001",
+      "href": "pg082_sec001.html",
+      "printed_page": 76,
+      "pdf_physical_page": 82,
+      "covered_pdf_pages": [
+        82
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 99,
+      "section_id": "qz016",
+      "href": "qz016.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 100,
+      "section_id": "pg083_sec001",
+      "href": "pg083_sec001.html",
+      "printed_page": 77,
+      "pdf_physical_page": 83,
+      "covered_pdf_pages": [
+        83
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 101,
+      "section_id": "pg084_sec001",
+      "href": "pg084_sec001.html",
+      "printed_page": 78,
+      "pdf_physical_page": 84,
+      "covered_pdf_pages": [
+        84
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 102,
+      "section_id": "pg085_sec001",
+      "href": "pg085_sec001.html",
+      "printed_page": 79,
+      "pdf_physical_page": 85,
+      "covered_pdf_pages": [
+        85
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 103,
+      "section_id": "qz017",
+      "href": "qz017.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 104,
+      "section_id": "pg086_sec001",
+      "href": "pg086_sec001.html",
+      "printed_page": 80,
+      "pdf_physical_page": 86,
+      "covered_pdf_pages": [
+        86
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 105,
+      "section_id": "pg087_sec001",
+      "href": "pg087_sec001.html",
+      "printed_page": 81,
+      "pdf_physical_page": 87,
+      "covered_pdf_pages": [
+        87
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 106,
+      "section_id": "pg088_sec001",
+      "href": "pg088_sec001.html",
+      "printed_page": 82,
+      "pdf_physical_page": 88,
+      "covered_pdf_pages": [
+        88
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 107,
+      "section_id": "qz018",
+      "href": "qz018.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 108,
+      "section_id": "pg089_sec001",
+      "href": "pg089_sec001.html",
+      "printed_page": 83,
+      "pdf_physical_page": 89,
+      "covered_pdf_pages": [
+        89
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 109,
+      "section_id": "pg090_sec001",
+      "href": "pg090_sec001.html",
+      "printed_page": 84,
+      "pdf_physical_page": 90,
+      "covered_pdf_pages": [
+        90
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 110,
+      "section_id": "pg091_sec001",
+      "href": "pg091_sec001.html",
+      "printed_page": 85,
+      "pdf_physical_page": 91,
+      "covered_pdf_pages": [
+        91
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 111,
+      "section_id": "pg092_sec001",
+      "href": "pg092_sec001.html",
+      "printed_page": 86,
+      "pdf_physical_page": 92,
+      "covered_pdf_pages": [
+        92
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 112,
+      "section_id": "qz019",
+      "href": "qz019.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 113,
+      "section_id": "pg093_sec001",
+      "href": "pg093_sec001.html",
+      "printed_page": 87,
+      "pdf_physical_page": 93,
+      "covered_pdf_pages": [
+        93
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 114,
+      "section_id": "pg094_sec001",
+      "href": "pg094_sec001.html",
+      "printed_page": 88,
+      "pdf_physical_page": 94,
+      "covered_pdf_pages": [
+        94
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 115,
+      "section_id": "pg095_sec001",
+      "href": "pg095_sec001.html",
+      "printed_page": 89,
+      "pdf_physical_page": 95,
+      "covered_pdf_pages": [
+        95
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 116,
+      "section_id": "pg096_sec001",
+      "href": "pg096_sec001.html",
+      "printed_page": 90,
+      "pdf_physical_page": 96,
+      "covered_pdf_pages": [
+        96
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 117,
+      "section_id": "pg097_sec001",
+      "href": "pg097_sec001.html",
+      "printed_page": 91,
+      "pdf_physical_page": 97,
+      "covered_pdf_pages": [
+        97
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 118,
+      "section_id": "pg098_sec001",
+      "href": "pg098_sec001.html",
+      "printed_page": 92,
+      "pdf_physical_page": 98,
+      "covered_pdf_pages": [
+        98
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 119,
+      "section_id": "pg099_sec001",
+      "href": "pg099_sec001.html",
+      "printed_page": 93,
+      "pdf_physical_page": 99,
+      "covered_pdf_pages": [
+        99
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 120,
+      "section_id": "qz020",
+      "href": "qz020.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 121,
+      "section_id": "pg100_sec001",
+      "href": "pg100_sec001.html",
+      "printed_page": 94,
+      "pdf_physical_page": 100,
+      "covered_pdf_pages": [
+        100
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 122,
+      "section_id": "pg101_sec001",
+      "href": "pg101_sec001.html",
+      "printed_page": 95,
+      "pdf_physical_page": 101,
+      "covered_pdf_pages": [
+        101
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 123,
+      "section_id": "pg102_sec001",
+      "href": "pg102_sec001.html",
+      "printed_page": 96,
+      "pdf_physical_page": 102,
+      "covered_pdf_pages": [
+        102
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 124,
+      "section_id": "pg103_sec001",
+      "href": "pg103_sec001.html",
+      "printed_page": 97,
+      "pdf_physical_page": 103,
+      "covered_pdf_pages": [
+        103
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 125,
+      "section_id": "qz021",
+      "href": "qz021.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 126,
+      "section_id": "pg104_sec001",
+      "href": "pg104_sec001.html",
+      "printed_page": 98,
+      "pdf_physical_page": 104,
+      "covered_pdf_pages": [
+        104
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 127,
+      "section_id": "pg105_sec001",
+      "href": "pg105_sec001.html",
+      "printed_page": 99,
+      "pdf_physical_page": 105,
+      "covered_pdf_pages": [
+        105
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 128,
+      "section_id": "pg106_sec001",
+      "href": "pg106_sec001.html",
+      "printed_page": 100,
+      "pdf_physical_page": 106,
+      "covered_pdf_pages": [
+        106
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 129,
+      "section_id": "qz022",
+      "href": "qz022.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 130,
+      "section_id": "pg107_sec001",
+      "href": "pg107_sec001.html",
+      "printed_page": 101,
+      "pdf_physical_page": 107,
+      "covered_pdf_pages": [
+        107
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 131,
+      "section_id": "pg108_sec001",
+      "href": "pg108_sec001.html",
+      "printed_page": 102,
+      "pdf_physical_page": 108,
+      "covered_pdf_pages": [
+        108
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 132,
+      "section_id": "pg109_sec001",
+      "href": "pg109_sec001.html",
+      "printed_page": 103,
+      "pdf_physical_page": 109,
+      "covered_pdf_pages": [
+        109
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 133,
+      "section_id": "pg110_sec001",
+      "href": "pg110_sec001.html",
+      "printed_page": 104,
+      "pdf_physical_page": 110,
+      "covered_pdf_pages": [
+        110
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 134,
+      "section_id": "pg111_sec001",
+      "href": "pg111_sec001.html",
+      "printed_page": 105,
+      "pdf_physical_page": 111,
+      "covered_pdf_pages": [
+        111,
+        112
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 135,
+      "section_id": "pg112_sec001",
+      "href": "pg112_sec001.html",
+      "printed_page": 106,
+      "pdf_physical_page": 112,
+      "covered_pdf_pages": [
+        112
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 136,
+      "section_id": "pg113_sec001",
+      "href": "pg113_sec001.html",
+      "printed_page": 107,
+      "pdf_physical_page": 113,
+      "covered_pdf_pages": [
+        113
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 137,
+      "section_id": "pg114_sec001",
+      "href": "pg114_sec001.html",
+      "printed_page": 108,
+      "pdf_physical_page": 114,
+      "covered_pdf_pages": [
+        114
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 138,
+      "section_id": "pg115_sec001",
+      "href": "pg115_sec001.html",
+      "printed_page": 109,
+      "pdf_physical_page": 115,
+      "covered_pdf_pages": [
+        115
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 139,
+      "section_id": "pg116_sec001",
+      "href": "pg116_sec001.html",
+      "printed_page": 110,
+      "pdf_physical_page": 116,
+      "covered_pdf_pages": [
+        116
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 140,
+      "section_id": "pg117_sec001",
+      "href": "pg117_sec001.html",
+      "printed_page": 111,
+      "pdf_physical_page": 117,
+      "covered_pdf_pages": [
+        117
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 141,
+      "section_id": "qz023",
+      "href": "qz023.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 142,
+      "section_id": "pg118_sec001",
+      "href": "pg118_sec001.html",
+      "printed_page": 112,
+      "pdf_physical_page": 118,
+      "covered_pdf_pages": [
+        118
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 143,
+      "section_id": "pg119_sec001",
+      "href": "pg119_sec001.html",
+      "printed_page": 113,
+      "pdf_physical_page": 119,
+      "covered_pdf_pages": [
+        119
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 144,
+      "section_id": "pg120_sec001",
+      "href": "pg120_sec001.html",
+      "printed_page": 114,
+      "pdf_physical_page": 120,
+      "covered_pdf_pages": [
+        120
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 145,
+      "section_id": "qz024",
+      "href": "qz024.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 146,
+      "section_id": "pg121_sec001",
+      "href": "pg121_sec001.html",
+      "printed_page": 115,
+      "pdf_physical_page": 121,
+      "covered_pdf_pages": [
+        121
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 147,
+      "section_id": "pg122_sec001",
+      "href": "pg122_sec001.html",
+      "printed_page": 116,
+      "pdf_physical_page": 122,
+      "covered_pdf_pages": [
+        122
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 148,
+      "section_id": "pg123_sec001",
+      "href": "pg123_sec001.html",
+      "printed_page": 117,
+      "pdf_physical_page": 123,
+      "covered_pdf_pages": [
+        123
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 149,
+      "section_id": "qz025",
+      "href": "qz025.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 150,
+      "section_id": "pg124_sec001",
+      "href": "pg124_sec001.html",
+      "printed_page": 118,
+      "pdf_physical_page": 124,
+      "covered_pdf_pages": [
+        124
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 151,
+      "section_id": "pg125_sec001",
+      "href": "pg125_sec001.html",
+      "printed_page": 119,
+      "pdf_physical_page": 125,
+      "covered_pdf_pages": [
+        125
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 152,
+      "section_id": "pg126_sec001",
+      "href": "pg126_sec001.html",
+      "printed_page": 120,
+      "pdf_physical_page": 126,
+      "covered_pdf_pages": [
+        126
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 153,
+      "section_id": "qz026",
+      "href": "qz026.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 154,
+      "section_id": "pg127_sec001",
+      "href": "pg127_sec001.html",
+      "printed_page": 121,
+      "pdf_physical_page": 127,
+      "covered_pdf_pages": [
+        127
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 155,
+      "section_id": "pg128_sec001",
+      "href": "pg128_sec001.html",
+      "printed_page": 122,
+      "pdf_physical_page": 128,
+      "covered_pdf_pages": [
+        128
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 156,
+      "section_id": "pg129_sec001",
+      "href": "pg129_sec001.html",
+      "printed_page": 123,
+      "pdf_physical_page": 129,
+      "covered_pdf_pages": [
+        129
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 157,
+      "section_id": "pg130_sec001",
+      "href": "pg130_sec001.html",
+      "printed_page": 124,
+      "pdf_physical_page": 130,
+      "covered_pdf_pages": [
+        130
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 158,
+      "section_id": "qz027",
+      "href": "qz027.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 159,
+      "section_id": "pg131_sec001",
+      "href": "pg131_sec001.html",
+      "printed_page": 125,
+      "pdf_physical_page": 131,
+      "covered_pdf_pages": [
+        131
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 160,
+      "section_id": "pg132_sec001",
+      "href": "pg132_sec001.html",
+      "printed_page": 126,
+      "pdf_physical_page": 132,
+      "covered_pdf_pages": [
+        132
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 161,
+      "section_id": "pg133_sec001",
+      "href": "pg133_sec001.html",
+      "printed_page": 127,
+      "pdf_physical_page": 133,
+      "covered_pdf_pages": [
+        133
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 162,
+      "section_id": "qz028",
+      "href": "qz028.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 163,
+      "section_id": "pg134_sec001",
+      "href": "pg134_sec001.html",
+      "printed_page": 128,
+      "pdf_physical_page": 134,
+      "covered_pdf_pages": [
+        134
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 164,
+      "section_id": "pg135_sec001",
+      "href": "pg135_sec001.html",
+      "printed_page": 129,
+      "pdf_physical_page": 135,
+      "covered_pdf_pages": [
+        135
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 165,
+      "section_id": "pg136_sec001",
+      "href": "pg136_sec001.html",
+      "printed_page": 130,
+      "pdf_physical_page": 136,
+      "covered_pdf_pages": [
+        136
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 166,
+      "section_id": "qz029",
+      "href": "qz029.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 167,
+      "section_id": "pg137_sec001",
+      "href": "pg137_sec001.html",
+      "printed_page": 131,
+      "pdf_physical_page": 137,
+      "covered_pdf_pages": [
+        137
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 168,
+      "section_id": "pg138_sec001",
+      "href": "pg138_sec001.html",
+      "printed_page": 132,
+      "pdf_physical_page": 138,
+      "covered_pdf_pages": [
+        138
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 169,
+      "section_id": "pg139_sec001",
+      "href": "pg139_sec001.html",
+      "printed_page": 133,
+      "pdf_physical_page": 139,
+      "covered_pdf_pages": [
+        139
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 170,
+      "section_id": "qz030",
+      "href": "qz030.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 171,
+      "section_id": "pg140_sec001",
+      "href": "pg140_sec001.html",
+      "printed_page": 134,
+      "pdf_physical_page": 140,
+      "covered_pdf_pages": [
+        140
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 172,
+      "section_id": "pg141_sec001",
+      "href": "pg141_sec001.html",
+      "printed_page": 135,
+      "pdf_physical_page": 141,
+      "covered_pdf_pages": [
+        141
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 173,
+      "section_id": "pg142_sec001",
+      "href": "pg142_sec001.html",
+      "printed_page": 136,
+      "pdf_physical_page": 142,
+      "covered_pdf_pages": [
+        142
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 174,
+      "section_id": "qz031",
+      "href": "qz031.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 175,
+      "section_id": "pg143_sec001",
+      "href": "pg143_sec001.html",
+      "printed_page": 137,
+      "pdf_physical_page": 143,
+      "covered_pdf_pages": [
+        143,
+        144
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 176,
+      "section_id": "pg145_sec001",
+      "href": "pg145_sec001.html",
+      "printed_page": 139,
+      "pdf_physical_page": 145,
+      "covered_pdf_pages": [
+        145
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 177,
+      "section_id": "pg146_sec001",
+      "href": "pg146_sec001.html",
+      "printed_page": 140,
+      "pdf_physical_page": 146,
+      "covered_pdf_pages": [
+        146
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 178,
+      "section_id": "qz032",
+      "href": "qz032.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 179,
+      "section_id": "pg147_sec001",
+      "href": "pg147_sec001.html",
+      "printed_page": 141,
+      "pdf_physical_page": 147,
+      "covered_pdf_pages": [
+        147
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 180,
+      "section_id": "pg148_sec001",
+      "href": "pg148_sec001.html",
+      "printed_page": 142,
+      "pdf_physical_page": 148,
+      "covered_pdf_pages": [
+        148
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 181,
+      "section_id": "pg149_sec001",
+      "href": "pg149_sec001.html",
+      "printed_page": 143,
+      "pdf_physical_page": 149,
+      "covered_pdf_pages": [
+        149
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 182,
+      "section_id": "qz033",
+      "href": "qz033.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 183,
+      "section_id": "pg150_sec001",
+      "href": "pg150_sec001.html",
+      "printed_page": 144,
+      "pdf_physical_page": 150,
+      "covered_pdf_pages": [
+        150
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 184,
+      "section_id": "pg151_sec001",
+      "href": "pg151_sec001.html",
+      "printed_page": 145,
+      "pdf_physical_page": 151,
+      "covered_pdf_pages": [
+        151
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 185,
+      "section_id": "pg152_sec001",
+      "href": "pg152_sec001.html",
+      "printed_page": 146,
+      "pdf_physical_page": 152,
+      "covered_pdf_pages": [
+        152
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 186,
+      "section_id": "pg153_sec001",
+      "href": "pg153_sec001.html",
+      "printed_page": 147,
+      "pdf_physical_page": 153,
+      "covered_pdf_pages": [
+        153
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 187,
+      "section_id": "qz034",
+      "href": "qz034.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 188,
+      "section_id": "pg154_sec001",
+      "href": "pg154_sec001.html",
+      "printed_page": 148,
+      "pdf_physical_page": 154,
+      "covered_pdf_pages": [
+        154
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 189,
+      "section_id": "pg155_sec001",
+      "href": "pg155_sec001.html",
+      "printed_page": 149,
+      "pdf_physical_page": 155,
+      "covered_pdf_pages": [
+        155
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 190,
+      "section_id": "pg156_sec001",
+      "href": "pg156_sec001.html",
+      "printed_page": 150,
+      "pdf_physical_page": 156,
+      "covered_pdf_pages": [
+        156
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 191,
+      "section_id": "qz035",
+      "href": "qz035.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 192,
+      "section_id": "pg157_sec001",
+      "href": "pg157_sec001.html",
+      "printed_page": 151,
+      "pdf_physical_page": 157,
+      "covered_pdf_pages": [
+        157
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 193,
+      "section_id": "pg158_sec001",
+      "href": "pg158_sec001.html",
+      "printed_page": 152,
+      "pdf_physical_page": 158,
+      "covered_pdf_pages": [
+        158
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 194,
+      "section_id": "pg159_sec001",
+      "href": "pg159_sec001.html",
+      "printed_page": 153,
+      "pdf_physical_page": 159,
+      "covered_pdf_pages": [
+        159
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 195,
+      "section_id": "qz036",
+      "href": "qz036.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 196,
+      "section_id": "pg160_sec001",
+      "href": "pg160_sec001.html",
+      "printed_page": 154,
+      "pdf_physical_page": 160,
+      "covered_pdf_pages": [
+        160
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 197,
+      "section_id": "pg161_sec001",
+      "href": "pg161_sec001.html",
+      "printed_page": 155,
+      "pdf_physical_page": 161,
+      "covered_pdf_pages": [
+        161
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 198,
+      "section_id": "pg162_sec001",
+      "href": "pg162_sec001.html",
+      "printed_page": 156,
+      "pdf_physical_page": 162,
+      "covered_pdf_pages": [
+        162
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 199,
+      "section_id": "qz037",
+      "href": "qz037.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 200,
+      "section_id": "pg163_sec001",
+      "href": "pg163_sec001.html",
+      "printed_page": 157,
+      "pdf_physical_page": 163,
+      "covered_pdf_pages": [
+        163
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 201,
+      "section_id": "pg164_sec001",
+      "href": "pg164_sec001.html",
+      "printed_page": 158,
+      "pdf_physical_page": 164,
+      "covered_pdf_pages": [
+        164
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 202,
+      "section_id": "qz038",
+      "href": "qz038.html",
+      "printed_page": null,
+      "pdf_physical_page": null,
+      "covered_pdf_pages": [],
+      "kind": "quiz",
+      "exists": true
+    },
+    {
+      "reading_order": 203,
+      "section_id": "pg165_sec001",
+      "href": "pg165_sec001.html",
+      "printed_page": 159,
+      "pdf_physical_page": 165,
+      "covered_pdf_pages": [
+        165
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 204,
+      "section_id": "pg166_sec001",
+      "href": "pg166_sec001.html",
+      "printed_page": 160,
+      "pdf_physical_page": 166,
+      "covered_pdf_pages": [
+        166
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 205,
+      "section_id": "pg167_sec001",
+      "href": "pg167_sec001.html",
+      "printed_page": 161,
+      "pdf_physical_page": 167,
+      "covered_pdf_pages": [
+        167,
+        168
+      ],
+      "kind": "book_page",
+      "exists": true
+    },
+    {
+      "reading_order": 206,
+      "section_id": "pg168_sec001",
+      "href": "pg168_sec001.html",
+      "printed_page": 162,
+      "pdf_physical_page": 168,
+      "covered_pdf_pages": [
+        168
+      ],
+      "kind": "book_page",
+      "exists": true
+    }
+  ]
+}

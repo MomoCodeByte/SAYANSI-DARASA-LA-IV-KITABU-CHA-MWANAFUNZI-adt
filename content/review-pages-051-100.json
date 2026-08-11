@@ -1,0 +1,1367 @@
+{
+  "scope": "converted pages 51-100",
+  "page_files": 50,
+  "matrix_items": 57,
+  "matrix_statuses": {
+    "HOLD_QUIZ_CONFLICT": 4,
+    "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT": 20,
+    "IMPLEMENTED_AUDIO_REGENERATED": 27,
+    "IMPLEMENTED_EXACT_OR_VERIFIED": 6
+  },
+  "missing_images": 0,
+  "interactive_pages": 26,
+  "pages": [
+    {
+      "converted_page": 51,
+      "file": "pg041_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 1,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 3,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 52,
+      "file": "pg041_sec002.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 1,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 3,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 53,
+      "file": "pg042_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 3,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 54,
+      "file": "pg043_sec001.html",
+      "section_type": "text_and_images",
+      "images": 8,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 55,
+      "file": "pg044_sec001.html",
+      "section_type": "text_and_single_image",
+      "images": 1,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 56,
+      "file": "pg045_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 4,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 57,
+      "file": "pg046_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 2,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 58,
+      "file": "pg047_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 3,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 59,
+      "file": "pg048_sec001.html",
+      "section_type": "text_only",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 60,
+      "file": "qz010.html",
+      "section_type": "activity_quiz",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 3,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 61,
+      "file": "pg049_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 3,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 62,
+      "file": "pg050_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 1,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 1,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 63,
+      "file": "pg051_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 3,
+      "textareas": 3,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 64,
+      "file": "pg052_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 2,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 65,
+      "file": "pg053_sec001.html",
+      "section_type": "text_and_single_image",
+      "images": 1,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 66,
+      "file": "pg054_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 2,
+      "textareas": 5,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 67,
+      "file": "pg055_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 2,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 68,
+      "file": "pg056_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 1,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 2,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 69,
+      "file": "pg057_sec001.html",
+      "section_type": "text_and_images",
+      "images": 4,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 70,
+      "file": "pg058_sec001.html",
+      "section_type": "text_and_single_image",
+      "images": 2,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 71,
+      "file": "qz011.html",
+      "section_type": "activity_quiz",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 3,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 72,
+      "file": "pg059_sec001.html",
+      "section_type": "boxed_text",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 73,
+      "file": "pg060_sec001.html",
+      "section_type": "boxed_text",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 74,
+      "file": "pg061_sec001.html",
+      "section_type": "boxed_text",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 75,
+      "file": "qz012.html",
+      "section_type": "activity_quiz",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 3,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 76,
+      "file": "pg062_sec001.html",
+      "section_type": "boxed_text",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 77,
+      "file": "pg063_sec001.html",
+      "section_type": "boxed_text",
+      "images": 1,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 78,
+      "file": "pg064_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 4,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 79,
+      "file": "pg065_sec001.html",
+      "section_type": "boxed_text",
+      "images": 1,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 80,
+      "file": "qz013.html",
+      "section_type": "activity_quiz",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 3,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 81,
+      "file": "pg066_sec001.html",
+      "section_type": "text_only",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 82,
+      "file": "pg067_sec001.html",
+      "section_type": "activity_fill_in_the_blank",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 83,
+      "file": "pg068_sec001.html",
+      "section_type": "activity_multiple_choice",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 20,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 84,
+      "file": "pg069_sec001.html",
+      "section_type": "activity_true_false",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 10,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 85,
+      "file": "pg069_sec002.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 4,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 86,
+      "file": "pg070_sec001.html",
+      "section_type": "text_only",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 87,
+      "file": "pg071_sec001.html",
+      "section_type": "separator",
+      "images": 2,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 88,
+      "file": "pg072_sec001.html",
+      "section_type": "activity_open_ended_answer",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 2,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 89,
+      "file": "pg073_sec001.html",
+      "section_type": "text_and_single_image",
+      "images": 1,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 90,
+      "file": "qz014.html",
+      "section_type": "activity_quiz",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 3,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 91,
+      "file": "pg074_sec001.html",
+      "section_type": "boxed_text",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 92,
+      "file": "pg075_sec001.html",
+      "section_type": "boxed_text",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 93,
+      "file": "pg076_sec001.html",
+      "section_type": "boxed_text",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 94,
+      "file": "qz015.html",
+      "section_type": "activity_quiz",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 3,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 95,
+      "file": "pg078_sec001.html",
+      "section_type": "text_and_images",
+      "images": 2,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 96,
+      "file": "pg079_sec001.html",
+      "section_type": "text_and_images",
+      "images": 2,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 97,
+      "file": "pg080_sec001.html",
+      "section_type": "activity_multiple_choice",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 98,
+      "file": "pg081_sec001.html",
+      "section_type": "activity_multiple_choice",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 16,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 99,
+      "file": "pg082_sec001.html",
+      "section_type": "boxed_text",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 0,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    },
+    {
+      "converted_page": 100,
+      "file": "qz016.html",
+      "section_type": "activity_quiz",
+      "images": 0,
+      "missing_images": [],
+      "inputs": 3,
+      "textareas": 0,
+      "buttons": 0,
+      "matrix_script": true
+    }
+  ],
+  "matrix": [
+    {
+      "matrix_item": 78,
+      "area": "Zoezi la 54",
+      "issue": "Zoezi la 4 lipo ukurasa wa 51 badala y uk 49uk 51",
+      "reference": "pg041_sec001.html",
+      "recommendation": "Rekebisha zoezi hilo liwekwe uk 49 baada ya maelezo ya namna ya kuzia tetekuwanga",
+      "category": "content_correction",
+      "status": "pending",
+      "files": [
+        "pg041_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 79,
+      "area": "Zoezi namba 4",
+      "issue": "Zoezi namba 4 linatamkwa zoezi namba “omba”uk 51",
+      "reference": "pg041_sec001.html",
+      "recommendation": "Rekebisha litamkwe zoezi namba nne",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg041_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 80,
+      "area": "Zoezi la 4",
+      "issue": "Zoezi la 4 limejirudia mara 3 angalia uk 51 na 52",
+      "reference": "pg041_sec001.htm",
+      "recommendation": "Liondolewa shemu isiyohusika Rejea uk34,35,36",
+      "category": "layout_order",
+      "status": "pending",
+      "files": [
+        "pg041_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 81,
+      "area": "Zoezi la 4",
+      "issue": "Zoezi la 4 limejirudia mara 3 angalia uk 51 na 52 uk 52",
+      "reference": "pg041_sec002.html",
+      "recommendation": "Liondolewa shemu isiyohusika Rejea uk34,35,36",
+      "category": "layout_order",
+      "status": "pending",
+      "files": [
+        "pg041_sec002.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 82,
+      "area": "Zoezi namba 5",
+      "issue": "Zoezi namba 5 linatamkwa namba “chambo” badala ya tano uk 53",
+      "reference": "pg042_sec001.html",
+      "recommendation": "Rekebisha itamkwe zoezi namba tano",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg042_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 84,
+      "area": "Virusi vya ukimwi VVU",
+      "issue": "“watu wanoishi na VVU” badala ya “wanaoishi” uk 53",
+      "reference": "pg042_sec001.html",
+      "recommendation": "Rekebisha kuwa “watu wanaoishi na VVU.”",
+      "category": "content_correction",
+      "status": "pending",
+      "files": [
+        "pg042_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 86,
+      "area": "Njia za maambukizi ya vvu",
+      "issue": "“c” Inatamkwa “ki” uk 55",
+      "reference": "pg044_sec001.html",
+      "recommendation": "Rekebisha itamkwe c",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg044_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 87,
+      "area": "Zoezi namba 6",
+      "issue": "Zoezi namba 6 inatamkwa zoezi namba sosi Uk 56",
+      "reference": "pg044_sec001.html",
+      "recommendation": "Rekebisha itamkwe zoezi namba sita",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg044_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 88,
+      "area": "Saratani",
+      "issue": "Sauti katika haya ya saratani haijamalizia kutamkwa “uitwa saratani,”,,,,,,uk 56",
+      "reference": "pg045_sec001.html",
+      "recommendation": "Rejea na sauti imalizie kutamka maneno yanayofuata",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg045_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 89,
+      "area": "Kazi namba 2",
+      "issue": "Kazi namba 2 inatamkwa kazi namba “duaa”uk 57",
+      "reference": "pg046_sec001.html",
+      "recommendation": "Rekebisha itamkwe kazi namba mbili",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg046_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 90,
+      "area": "Kazi ya kufanya namba 2",
+      "issue": "Sauti ya kazi ya kufanya namba 2 imejitokeza mwishoni mwa ukurasa 57",
+      "reference": "pg046_sec001.html",
+      "recommendation": "Iondoe sauti hiyo",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg046_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 91,
+      "area": "Namna ya kuzuai pumu",
+      "issue": "Sehemu hii heru b hakutamkwa uk 59",
+      "reference": "pg048_sec001.html",
+      "recommendation": "Rekebisha itamkwe",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg048_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 92,
+      "area": "Zoezi 8",
+      "issue": "Nane imetamkwa “ ato” badala ya nane uk 61",
+      "reference": "pg049_sec001.html",
+      "recommendation": "Rekebisha itamkwe nane",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg049_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 93,
+      "area": "Kielelezo namba 6",
+      "issue": "Maneno lava, mayai, nzi, buu hayapo kwenye picha husika (rejea uk 44 kwenye original textbook) uk 62",
+      "reference": "pg050_sec001.html",
+      "recommendation": "Weka maneno hayo kwenye picha husika",
+      "category": "figure_accessibility",
+      "status": "pending",
+      "files": [
+        "pg050_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 94,
+      "area": "Kazi ya kufanya namba 3",
+      "issue": "Program saidizi haipo kwenye orodha ya mahitaj uk 62i",
+      "reference": "pg050_sec001.html",
+      "recommendation": "Ongeza program saidizi katika orodha ya mahitaji",
+      "category": "assistive_technology",
+      "status": "pending",
+      "files": [
+        "pg050_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 95,
+      "area": "Kazi ya kufanya namba 3",
+      "issue": "Kukosekana kwa neno “umehisi” katka sehemu namba 3 inayosomeka “ je umeona nini? uk 62",
+      "reference": "pg050_sec001.html",
+      "recommendation": "Ongeza “umehisi” isomeke “je, umeona/ umehisi nini “",
+      "category": "inclusive_language",
+      "status": "pending",
+      "files": [
+        "pg050_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 96,
+      "area": "Kazi ya kufanya namba 3",
+      "issue": "Kukosekana kwa neno” umegusa/hisii” katika sentensi “c” “ je umeviona viumbe vingapi?” uk 62",
+      "reference": "pg050_sec001.html",
+      "recommendation": "Ongeza neno “umegusa/hisiii” itamkwe “andika “je umeviona/umegusa/hisi viumbe vingapi…”",
+      "category": "inclusive_language",
+      "status": "pending",
+      "files": [
+        "pg050_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 97,
+      "area": "Kazi ya kufanya namba 4",
+      "issue": "Zoezi namba 4 linatamkwa namba one badala ya namba nne uk 63",
+      "reference": "pg051_sec001.html",
+      "recommendation": "Zoezi namba 4 litamkwe namba nne",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg051_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 98,
+      "area": "Kazi ya kufanya namba 4",
+      "issue": "Program saidizi haipo kwenye orodha ya mahitaji uk 63",
+      "reference": "pg051_sec001.html",
+      "recommendation": "Ongeza program saidizi katika orodha ya mahitaji",
+      "category": "assistive_technology",
+      "status": "pending",
+      "files": [
+        "pg051_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 99,
+      "area": "Kazi ya kufanya namba 4 (Maswali)",
+      "issue": "Maswali yamekosa neno his/eleza katika sentensi hizi “1.je umeona,,,, 2. chora hatua za ukuaji wa mbu uk 64",
+      "reference": "pg052_sec001.html",
+      "recommendation": "Ongeza neno umehisi/eleza itamkwe na kusomekea 1. je umeona /hisi….. 2. chora/eleza hatua za ukuaji wa mbu",
+      "category": "inclusive_language",
+      "status": "pending",
+      "files": [
+        "pg052_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 100,
+      "area": "Kazi ya kufanya namba 5",
+      "issue": "Kazi ya kufanya namba 5 inatamkwa kazi ya kufanya namba tatu badala ya namba tanouk 64",
+      "reference": "pg052_sec001.html",
+      "recommendation": "Rekebisha itamkwe kazi ya kufanya namba tano",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg052_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 101,
+      "area": "Kielelezo namba 7",
+      "issue": "Maneno hayao kwenye mchoro husika uk 65",
+      "reference": "pg053_sec001.html",
+      "recommendation": "Rekebisha kwa kuweka maneno kwenye mchoro husika",
+      "category": "figure_accessibility",
+      "status": "pending",
+      "files": [
+        "pg053_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 102,
+      "area": "Zoezi la marudio",
+      "issue": "Zoezi la marudio halikupangiliwa vizuri sehemu A na B (rejea uk 47 na 48) uk 65",
+      "reference": "pg053_sec001.html",
+      "recommendation": "Pangili vyema zozi hili",
+      "category": "layout_order",
+      "status": "pending",
+      "files": [
+        "pg053_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 103,
+      "area": "Swali namba 7 na 8",
+      "issue": "Swali namba 7 na 8 yamerudiwa angalia original text book uk 49 kuna saut tu uk 67",
+      "reference": "pg055_sec001.html",
+      "recommendation": "Rekebisha maswali haya yasijirudie",
+      "category": "layout_order",
+      "status": "pending",
+      "files": [
+        "pg055_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 104,
+      "area": "Masamiati",
+      "issue": "Neno msamiati limetamkwa “samiati” uk 67",
+      "reference": "pg055_sec001.html",
+      "recommendation": "Rekebisha itamkwe “msamiati”",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg055_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 105,
+      "area": "Swali 7 na 8",
+      "issue": "Saiti imejirudia swali 7 na 8 uk 67",
+      "reference": "pg055_sec001.html",
+      "recommendation": "Rekebisha kwa kuondoa sauti ya maswali haya",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg055_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 106,
+      "area": "Makosa ya matamshi",
+      "issue": "Uk.68 Makosa ya matamshi -balimbali -dahana -mchanganyiko wa lugha Namba one,two -chunga mikao yake",
+      "reference": "pg056_sec001.html",
+      "recommendation": "Itamkwe mbalimbali Itamkwe dhana -itamkwe kwa Kiswahili -Itamkwe chunguza sifa zake",
+      "category": "inclusive_language",
+      "status": "pending",
+      "files": [
+        "pg056_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 107,
+      "area": "Mchanganyiko wa lugha",
+      "issue": "Uk 69 mchanganyiko wa lugha",
+      "reference": "pg057_sec001.html",
+      "recommendation": "-itamkwe namba moja",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg057_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 108,
+      "area": "Jaraibio namba 2",
+      "issue": "Kukosekana kwa program saidizi uk 70",
+      "reference": "pg058_sec001.html",
+      "recommendation": "Ongeza [rogram saidizi kwenye orofdha ya mahitaji",
+      "category": "assistive_technology",
+      "status": "pending",
+      "files": [
+        "pg058_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 109,
+      "area": "Kuchunguza sifa za maada",
+      "issue": "Uk 70 Makosa ya matamshi katika kutaja namba na kuwepo kwa sauti inayosoma maandishi katika footer",
+      "reference": "pg058_sec001.html",
+      "recommendation": "Kuchunguza sifa za maada: Katika paragrafu hii itamkwe kielelezo namba moja hadi nne,jaribio namba moja -maandishi yaliyopo chini kabisa katika ukurasa huu yaondolewe",
+      "category": "figure_accessibility",
+      "status": "pending",
+      "files": [
+        "pg058_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 110,
+      "area": "Chemsha bongo",
+      "issue": "Uk 71.lugha mchanganyiko katika nmba za chemsha bongo",
+      "reference": "qz011.html",
+      "recommendation": "-itumike lugha ya kiswahilikatika kutajannamba",
+      "category": "quiz",
+      "status": "conflict_needs_user_decision",
+      "files": [
+        "qz011.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 111,
+      "area": "Zingatia",
+      "issue": "Uk 72.sauti zisizohitajika baada kwenye zingatia -mchanganyiko wa lugha",
+      "reference": "pg059_sec001.html",
+      "recommendation": "-sauti iondolewe - itumike lugha ya kiswahili",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg059_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 112,
+      "area": "Hatua",
+      "issue": "-uk 73 mchanganyiko wa lugha katika namba zinazotamkwa",
+      "reference": "pg060_sec001.html",
+      "recommendation": "--itumike lugha ya kingereza katika matamshi ya namba zote katika kurasa 73",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg060_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 113,
+      "area": "Jaribio namba 1 (Hatua ya 3)",
+      "issue": "Uk 74. Lugha mchanganyiko katika matamshi ya namba -lugha si jumuishi -upande wa mwisho kutamkwa na kuandikwa kimakosa",
+      "reference": "pg061_sec001.html",
+      "recommendation": "-tumia matamshi ya Kiswahili -tumia vitenzi jumuishi katika hatua ya 3 chunguza unachokiona/hisi -ondoa matamshi na maandishi mwisho wa ukurasa",
+      "category": "inclusive_language",
+      "status": "pending",
+      "files": [
+        "pg061_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 114,
+      "area": "Jaribio namba 1",
+      "issue": "Kukosekana kwa program saidizi na kipima joto sauti uk 74",
+      "reference": "pg061_sec001.html",
+      "recommendation": "Ongeza “program saidizi na “kipima joto sauti” kwenye orofdha ya mahitaji",
+      "category": "assistive_technology",
+      "status": "pending",
+      "files": [
+        "pg061_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 115,
+      "area": "Jaribio namba 3",
+      "issue": "Uk 75 -Lugha mchanganyiko katika namba -mwingiliano wa chemsha bongo kati ya mwendelezo wa jaribio la 3",
+      "reference": "qz012.html",
+      "recommendation": "-tumia lugha Kiswahili katika matamshi - jaribio dogo katika uk 75 iandikwe baada ya jaribio la nne",
+      "category": "quiz",
+      "status": "conflict_needs_user_decision",
+      "files": [
+        "qz012.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 116,
+      "area": "Jaribio namba 4",
+      "issue": "Uk 76. -katika mahitaji jiko halijatamkwa -mchanganyiko wa lugha katika namba",
+      "reference": "pg062_sec001.html",
+      "recommendation": "-yawekwe matamshi ya jiko -itumike lugha ya Kiswahili kutamka namba",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg062_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 117,
+      "area": "Jaribio namba 4",
+      "issue": "Program saidizi haijaweka katika orodha 76",
+      "reference": "pg062_sec001.html",
+      "recommendation": "Ongeza program saidizi na iwekewe sauti",
+      "category": "assistive_technology",
+      "status": "pending",
+      "files": [
+        "pg062_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 118,
+      "area": "Jaribio namba 4",
+      "issue": "Kukosekana kwa program saidizi na kipima joto sauti uk 76",
+      "reference": "pg062_sec001.html",
+      "recommendation": "Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji",
+      "category": "assistive_technology",
+      "status": "pending",
+      "files": [
+        "pg062_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 119,
+      "area": "Jaribio namba 4",
+      "issue": "Uk.77 -matamshi si sahihi",
+      "reference": "pg063_sec001.htm",
+      "recommendation": "-Jaribio la nne: Itamkwe mchakato",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg063_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 121,
+      "area": "sentigredi 0 (nyuzijoto",
+      "issue": "Uk 78.kurudia rudia maelezo -lugha mchanganyiko",
+      "reference": "pg064_sec001.html",
+      "recommendation": "sentigredi 0 (nyuzijoto farenhaiti 32), barafu huyeyuka polepole na kuwa kimiminika ,maelezo yaondolewe katika uk 78 -itumike lugha ya Kiswahili katika matamshi ya namba zote",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg064_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 122,
+      "area": "Jaribio namba 5",
+      "issue": "Kukosekana kwa “program saidizi” na kipimajoto sauti” kwenye orodha ya mahitaji",
+      "reference": "pg065_sec001.html",
+      "recommendation": "Ongeza program saidizi” na kipimajoto sauti” kwenye orodha ya mahitaji",
+      "category": "assistive_technology",
+      "status": "pending",
+      "files": [
+        "pg065_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 123,
+      "area": "Lugha mchanganyiko",
+      "issue": "Uk 79 Lugha mchanganyikokatika kutamka namba",
+      "reference": "pg065_sec001.html",
+      "recommendation": "Itumike lugha ya Kiswahili katka kutamka namba",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg065_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 124,
+      "area": "Uk 80",
+      "issue": "Uk 80. -mwingiliano wa chemsha bongo kati ya mwendelezo wa jaribio la 5",
+      "reference": "qz013.html",
+      "recommendation": "-chemsha bongo itolewe",
+      "category": "quiz",
+      "status": "conflict_needs_user_decision",
+      "files": [
+        "qz013.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 125,
+      "area": "Jaribio namba 6",
+      "issue": "Uk 82 lugha mchanganyiko katika kutamka namba",
+      "reference": "pg067_sec001.html",
+      "recommendation": "-itumike lugha ya Kiswahili fasaha katika matamshi ya namba -katika uk 82 Jaribio la 6:itamkwe kuchunguza",
+      "category": "inclusive_language",
+      "status": "pending",
+      "files": [
+        "pg067_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 126,
+      "area": "Jaribio namba 6",
+      "issue": "Kukosekana kwa program saidizi na kipima joto sauti uk 82",
+      "reference": "pg067_sec001.html",
+      "recommendation": "Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji",
+      "category": "assistive_technology",
+      "status": "pending",
+      "files": [
+        "pg067_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 127,
+      "area": "zoezi la marudio",
+      "issue": "Uk 83,84&85 Zoezi limepangiliwa vibaya -swali la 1 limekosewa kabisa (for reading only” -lugha mchanganyiko -namba zimejiruia kutamkwa 6 , 6",
+      "reference": "pg068_sec001.html pg069_sec002.html",
+      "recommendation": "-zoezi la marudio lipangwe vizuri -swali la 1 lirekebishwe -matamshi ya namba yawe katika lugha ya Kiswahili Rekebisha Itamkwe mara moja",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg068_sec001.html",
+        "pg069_sec002.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 128,
+      "area": "Msamiati",
+      "issue": "Uk 86 Matamshi si sahihi ya neno msamiati na namba inatamkwa “samiati”",
+      "reference": "pg070_sec001.html",
+      "recommendation": "-katika msamiati Namba zitamkwe kwa usahihi Itamkwe “msamiati”",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg070_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 129,
+      "area": "Namba zote uk 88",
+      "issue": "Uk 88 Matamshi si sahihi",
+      "reference": "pg072_sec001.html",
+      "recommendation": "- Namba zitamkwe kwa usahihi",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg072_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 130,
+      "area": "uunguaji wa vitu",
+      "issue": "Uk 89 Lugha si jumuishi",
+      "reference": "pg073_sec001.html",
+      "recommendation": "-katika uunguaji wa vitu itumike lugha itakayowajumuisha wanafunzi wote wenye mahitaji maalum na wa kawaida kama:chunguza/gusa/angalia/hisi",
+      "category": "inclusive_language",
+      "status": "pending",
+      "files": [
+        "pg073_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 131,
+      "area": "Jaribio namba 1",
+      "issue": "Kukosekana kwa program saidizi na kipima joto sauti uk 89",
+      "reference": "pg073_sec001.html",
+      "recommendation": "Ongeza program saidizi na kwenye orofdha ya mahitaji",
+      "category": "assistive_technology",
+      "status": "pending",
+      "files": [
+        "pg073_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 132,
+      "area": "Chemsha bongo",
+      "issue": "Uk 90 Chemsha bongo ipo ukurasa usio sahihi",
+      "reference": "qz014.html",
+      "recommendation": "-ihamishiwe ukurasa wa 87",
+      "category": "quiz",
+      "status": "conflict_needs_user_decision",
+      "files": [
+        "qz014.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 133,
+      "area": "Jaribio 2",
+      "issue": "Uk 91 -lugha na matamshi si sahihi",
+      "reference": "pg074_sec001.html",
+      "recommendation": "-yawekwe matamshi kwa lugha ya Kiswahili sahihi -pia latika jaribio ongeza vitenzi jumuishi kama hisi/wasilisha/eleza",
+      "category": "inclusive_language",
+      "status": "pending",
+      "files": [
+        "pg074_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 134,
+      "area": "Jaribio la 3",
+      "issue": "Uk 93 &94 -maandishi na matamshi na lugha katika namba si sahihi , neno ulilijiandaa si sahihi -maelezo katika jaribio la tatu hayajakamilika,",
+      "reference": "pg076_sec001.html",
+      "recommendation": "Jaribio la 3:hatua ya 1 Iandikwe eneo la wazi uliloliandaa -andika , tamka na malizia maelezo ya matokeo ,hitimisho na kichwa cha habari cha matokeo ya kuungua kwa vitu , faida za kuungua kwa vitu herifi(a)iwekwe kama inavyoonekana katika uk 71 kitabu cha zamani.",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg076_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 135,
+      "area": "hasara za kuungua",
+      "issue": "Uk 96 Makosa ya matamshi",
+      "reference": "pg079_sec001.html",
+      "recommendation": "-katika hasara za kuungua kwa vitu (d)itamkwe upotevu mkubwa",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg079_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 136,
+      "area": "mioto iliyo wazi",
+      "issue": "Uk .97 simamia mioto iliyo wazi Kukosekana matamshi hayaeleweki vizuri",
+      "reference": "pg080_sec001.html",
+      "recommendation": "Rekebisha matamshi yatamkwe vizuri",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg080_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 137,
+      "area": "Namba za kufanya na maswali",
+      "issue": "Uk.98&99 Lugha mchanganyiko na matamshi si sahihi katika namba za maswali na kazi za kufanya",
+      "reference": "pg081_sec001.html",
+      "recommendation": "Namba zitamkwe kwa Kiswahili",
+      "category": "audio_pronunciation",
+      "status": "pending",
+      "files": [
+        "pg081_sec001.html"
+      ],
+      "missing_files": [],
+      "implementation_status": "IMPLEMENTED_AUDIO_REGENERATED"
+    }
+  ],
+  "qa_issues": []
+}

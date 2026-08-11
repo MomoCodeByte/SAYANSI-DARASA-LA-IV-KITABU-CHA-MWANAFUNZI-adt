@@ -1,0 +1,504 @@
+{
+  "pg008_sec001.html": [
+    {
+      "matrix_item": 12,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha isomeke kwa kiswahili"
+    }
+  ],
+  "pg010_sec001.html": [
+    {
+      "matrix_item": 18,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Namba nne isomeke vizuri"
+    }
+  ],
+  "pg012_sec001.html": [
+    {
+      "matrix_item": 20,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Kitamkwe namba kielelezo namba sita (6)"
+    }
+  ],
+  "pg013_sec001.html": [
+    {
+      "matrix_item": 21,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Kitamkwe namba kielelezo namba saba (7)"
+    }
+  ],
+  "pg014_sec001.html": [
+    {
+      "matrix_item": 22,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha kitamkwe namba nane"
+    },
+    {
+      "matrix_item": 23,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Yarekebishe yawe nje ya mchoro"
+    }
+  ],
+  "pg015_sec001.html": [
+    {
+      "matrix_item": 24,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha itamkwe namba tisa"
+    }
+  ],
+  "pg017_sec001.html": [
+    {
+      "matrix_item": 29,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Kielelzo hiki kitamkwe namba 18"
+    }
+  ],
+  "pg023_sec001.html": [
+    {
+      "matrix_item": 38,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Kirekebiswe matamshi kisomeke “kielelezo namba kumi na tatu” (13)"
+    }
+  ],
+  "pg025_sec001.html": [
+    {
+      "matrix_item": 43,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha kitamkwe kielezo namba 15"
+    },
+    {
+      "matrix_item": 44,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha kitamkwe kielezo namba 11"
+    }
+  ],
+  "pg028_sec001.html": [
+    {
+      "matrix_item": 51,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha itamkwe kielezo namba 18"
+    }
+  ],
+  "pg029_sec001.html": [
+    {
+      "matrix_item": 52,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha kitamkwe kielelezo 19"
+    },
+    {
+      "matrix_item": 53,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha kitamkwe kumi na tisa"
+    }
+  ],
+  "pg030_sec001.html": [
+    {
+      "matrix_item": 54,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha kitamkwe kielezo namba 19"
+    }
+  ],
+  "pg037_sec001.html": [
+    {
+      "matrix_item": 68,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha kulingana na original textbook"
+    },
+    {
+      "matrix_item": 69,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha kitamkwe kielelezo namba moja"
+    }
+  ],
+  "pg039_sec001.html": [
+    {
+      "matrix_item": 73,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha maelezo yaendane na picha husika"
+    }
+  ],
+  "pg040_sec001.html": [
+    {
+      "matrix_item": 74,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha itamkwe kielelezo namba tatu"
+    },
+    {
+      "matrix_item": 76,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha kitamkwe namba tatu"
+    }
+  ],
+  "pg043_sec001.html": [
+    {
+      "matrix_item": 85,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha itamkwe kielezo namba nne"
+    }
+  ],
+  "pg050_sec001.html": [
+    {
+      "matrix_item": 93,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Weka maneno hayo kwenye picha husika"
+    },
+    {
+      "matrix_item": 94,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza program saidizi katika orodha ya mahitaji"
+    },
+    {
+      "matrix_item": 95,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza “umehisi” isomeke “je, umeona/ umehisi nini “"
+    },
+    {
+      "matrix_item": 96,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza neno “umegusa/hisiii” itamkwe “andika “je umeviona/umegusa/hisi viumbe vingapi…”"
+    }
+  ],
+  "pg051_sec001.html": [
+    {
+      "matrix_item": 98,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza program saidizi katika orodha ya mahitaji"
+    }
+  ],
+  "pg052_sec001.html": [
+    {
+      "matrix_item": 99,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza neno umehisi/eleza itamkwe na kusomekea 1. je umeona /hisi….. 2. chora/eleza hatua za ukuaji wa mbu"
+    }
+  ],
+  "pg053_sec001.html": [
+    {
+      "matrix_item": 101,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha kwa kuweka maneno kwenye mchoro husika"
+    }
+  ],
+  "pg056_sec001.html": [
+    {
+      "matrix_item": 106,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Itamkwe mbalimbali Itamkwe dhana -itamkwe kwa Kiswahili -Itamkwe chunguza sifa zake"
+    }
+  ],
+  "pg058_sec001.html": [
+    {
+      "matrix_item": 108,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza [rogram saidizi kwenye orofdha ya mahitaji"
+    },
+    {
+      "matrix_item": 109,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Kuchunguza sifa za maada: Katika paragrafu hii itamkwe kielelezo namba moja hadi nne,jaribio namba moja -maandishi yaliyopo chini kabisa katika ukurasa huu yaondolewe"
+    }
+  ],
+  "pg061_sec001.html": [
+    {
+      "matrix_item": 113,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: -tumia matamshi ya Kiswahili -tumia vitenzi jumuishi katika hatua ya 3 chunguza unachokiona/hisi -ondoa matamshi na maandishi mwisho wa ukurasa"
+    },
+    {
+      "matrix_item": 114,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza “program saidizi na “kipima joto sauti” kwenye orofdha ya mahitaji"
+    }
+  ],
+  "pg062_sec001.html": [
+    {
+      "matrix_item": 117,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza program saidizi na iwekewe sauti"
+    },
+    {
+      "matrix_item": 118,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji"
+    }
+  ],
+  "pg076_sec001.html": [
+    {
+      "matrix_item": 120,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Isomeke na kutamkwa 3“chunguza kinachoonekana/ unachohisi……” 4. kielelezo kinaonesha/kinabainisha…. 5.chunguza kinachoonekana/unachohisi kwenye….."
+    }
+  ],
+  "pg065_sec001.html": [
+    {
+      "matrix_item": 122,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza program saidizi” na kipimajoto sauti” kwenye orodha ya mahitaji"
+    }
+  ],
+  "pg067_sec001.html": [
+    {
+      "matrix_item": 125,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: -itumike lugha ya Kiswahili fasaha katika matamshi ya namba -katika uk 82 Jaribio la 6:itamkwe kuchunguza"
+    },
+    {
+      "matrix_item": 126,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji"
+    }
+  ],
+  "pg073_sec001.html": [
+    {
+      "matrix_item": 130,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: -katika uunguaji wa vitu itumike lugha itakayowajumuisha wanafunzi wote wenye mahitaji maalum na wa kawaida kama:chunguza/gusa/angalia/hisi"
+    },
+    {
+      "matrix_item": 131,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza program saidizi na kwenye orofdha ya mahitaji"
+    }
+  ],
+  "pg074_sec001.html": [
+    {
+      "matrix_item": 133,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: -yawekwe matamshi kwa lugha ya Kiswahili sahihi -pia latika jaribio ongeza vitenzi jumuishi kama hisi/wasilisha/eleza"
+    }
+  ],
+  "pg084_sec001.html": [
+    {
+      "matrix_item": 138,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Katika vielelezo vya nishati ya joto;iandikwe na itamkwe :kielelezo kinahusika/kinatambulisha/ -itumike lugha ya Kiswahili sahihi katika matamshi ya namba"
+    }
+  ],
+  "pg085_sec001.html": [
+    {
+      "matrix_item": 139,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza program saidzi” katika orodha ya mahitaji"
+    },
+    {
+      "matrix_item": 141,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Isomeke angalia./chunguza katika hatua 1, 2, 3, 4"
+    },
+    {
+      "matrix_item": 142,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Rekebisha picha zionekana visuri"
+    }
+  ],
+  "pg088_sec001.html": [
+    {
+      "matrix_item": 145,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji"
+    }
+  ],
+  "pg090_sec001.html": [
+    {
+      "matrix_item": 147,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji"
+    }
+  ],
+  "pg092_sec001.html": [
+    {
+      "matrix_item": 149,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: itamkwe kielelezo namba 5 katika ukurasa 112 -namba zitamkwe kwa lugha ya Kiswahili sanifu"
+    },
+    {
+      "matrix_item": 150,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza neno inavyobainishwa itamkwe na kuandikwa kama /inavyoonyeshwa:ilivyobainishwa/"
+    }
+  ],
+  "pg094_sec001.html": [
+    {
+      "matrix_item": 154,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: -katika uk 115 Andika herufi D Ondoa c iliyojirudia kama ilivyokosewa katika kitabu cha zamani uk 88."
+    }
+  ],
+  "pg095_sec001.html": [
+    {
+      "matrix_item": 156,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza neno “baini” itamkwe Tumia vyanzo mbalimbali vya taarifa ikiwemo maktaba mtandao, video za kielektroniki na maabara za kidijitali kubaini/kuchunguza vyanzo vya nishati ya mwanga"
+    }
+  ],
+  "pg097_sec001.html": [
+    {
+      "matrix_item": 158,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza [rogram saidizi kwenye orofdha ya mahitaji"
+    }
+  ],
+  "pg098_sec001.html": [
+    {
+      "matrix_item": 159,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza maneno “kuchunguza, kupima” itamkwe “kuchunguza/kupima/kutathmini kupenya……."
+    }
+  ],
+  "pg099_sec001.html": [
+    {
+      "matrix_item": 161,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: -katika jaribio na 6:itumike vitenzi jumuishi kama:kupima/kutathmini/kuonyesha mwanga"
+    }
+  ],
+  "pg101_sec001.html": [
+    {
+      "matrix_item": 163,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza neno kueleza” “kuhisi” isomeke “kuonyesha/kuhisi kivli kinavyotokea”"
+    },
+    {
+      "matrix_item": 164,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza [rogram saidizi kwenye orofdha ya mahitaji"
+    }
+  ],
+  "pg102_sec001.html": [
+    {
+      "matrix_item": 165,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: -katika kielelezo na. 10 kutokea kwa kivuli,tumia vitenzi shirikishi kama kutambua/kuhisi/kuelezea"
+    }
+  ],
+  "pg103_sec001.html": [
+    {
+      "matrix_item": 166,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza maneno “gusa/papasa/tazama/kuwakilisha kuona/ mwali wa mwanga"
+    }
+  ],
+  "pg104_sec001.html": [
+    {
+      "matrix_item": 168,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: -andika kwa usahihi chunguza kielelezo namba 12 hii namba itamkwe kwa usahihi"
+    },
+    {
+      "matrix_item": 169,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji"
+    }
+  ],
+  "pg107_sec001.html": [
+    {
+      "matrix_item": 171,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: - ”itumike vitenzi jumuishi kama kugusa /kuhisi/kutambua namna sauti inavyosafiri katika hewa"
+    }
+  ],
+  "pg108_sec001.html": [
+    {
+      "matrix_item": 172,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza neno “kuhisi/kutambua”/ sauti iliyoakisiwa"
+    }
+  ],
+  "pg109_sec001.html": [
+    {
+      "matrix_item": 173,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza neno “kugusa” itamkwe “:kuonyesha/kugusa” mtetemo wa sauti unavyotokea"
+    },
+    {
+      "matrix_item": 174,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Isomeke ““kuonesha/kubaini mwangwi unavyotokea"
+    },
+    {
+      "matrix_item": 175,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Songeza saa ya mtetemo, programu saidizi 133 katika orodha ya mahitaji"
+    }
+  ],
+  "pg110_sec001.html": [
+    {
+      "matrix_item": 176,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Hatua hizo zisomeke 3,Sogeza sikio lak/mkono wako o karibu na maji yalikoishia 4,Gonga kengele ndani ya maji kama Kielelezo namba 15 kinavyoonesha/bainsiha 5.Je, unasikia/hisi nini?"
+    }
+  ],
+  "pg111_sec001.html": [
+    {
+      "matrix_item": 177,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza maneno “kuhisi/ kugusa” Sentensi hizo zisomeke 2.Mwambie rafiki yako aweke sikio lakemkono wake …… 4. Muulize anasikia /hisi nini na uandike. 5 Weka sikio/mkono wako upande mmoja wa chuma 7,Andika unachokisikia/hisi."
+    }
+  ],
+  "pg112_sec001.html": [
+    {
+      "matrix_item": 179,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza neno :baini katika eneno la Baadhi ya vifaa vinavyotumia nishati ya sauti"
+    }
+  ],
+  "pg113_sec001.html": [
+    {
+      "matrix_item": 180,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza maneno “:gusa/hisi/tambua/chunguza aina za nishati katika mazingira na uhusiano wake -namba katika vielelezo zitamkwe kwa usahihi"
+    }
+  ],
+  "pg118_sec001.html": [
+    {
+      "matrix_item": 185,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Weka sauti ADT Kitabu"
+    }
+  ],
+  "pg119_sec001.html": [
+    {
+      "matrix_item": 186,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Maelezo ya sauti ya picha yawekwe katika ADT kitabu cha sauti."
+    }
+  ],
+  "pg120_sec001.html": [
+    {
+      "matrix_item": 189,
+      "category": "inclusive_language",
+      "text": "Maelekezo jumuishi: Ongeza neno chunguza"
+    },
+    {
+      "matrix_item": 191,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: weka maelezo ya Quorum program katika kielelezo namba 3 ili iwe fikivu Zaidi. Ukurasa"
+    }
+  ],
+  "pg121_sec001.html": [
+    {
+      "matrix_item": 194,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Weka maelezo ya Quorum program katika kielelezo namba 4 na 5 ili iwe fikivu."
+    }
+  ],
+  "pg122_sec001.html": [
+    {
+      "matrix_item": 195,
+      "category": "assistive_technology",
+      "text": "Teknolojia saidizi: Weka maelezo ya Quorum program katika kielelezo namba 6 na 7."
+    },
+    {
+      "matrix_item": 196,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Weka maelezo ya picha hayapo katika ADT kitabu cha sauti. Ukurasa 148"
+    }
+  ],
+  "pg123_sec001.html": [
+    {
+      "matrix_item": 197,
+      "category": "figure_accessibility",
+      "text": "Maelezo fikivu ya kielelezo: Weka maelezo ya picha hayapo katika ADT kitabu cha sauti."
+    }
+  ]
+}

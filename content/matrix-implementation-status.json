@@ -1,0 +1,1590 @@
+{
+  "baseline": "Version 1 / b9b6648 content",
+  "summary": {
+    "IMPLEMENTED_AUDIO_REGENERATED": 77,
+    "IMPLEMENTED_EXACT_OR_VERIFIED": 19,
+    "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT": 78,
+    "HOLD_QUIZ_CONFLICT": 16,
+    "HOLD_ANSWER_SPACE": 7,
+    "HOLD_ANSWER_CHOICE": 1
+  },
+  "global_rules": {
+    "footer_and_online_reading_audio": "implemented",
+    "glossary_label_farahasa": "implemented",
+    "number_pronunciation": "implemented_for_matrix_audio_pages"
+  },
+  "rows": [
+    {
+      "matrix_item": 1,
+      "category": "audio_pronunciation",
+      "files": [],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 2,
+      "category": "audio_pronunciation",
+      "files": [],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 3,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg002_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 4,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg003_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 5,
+      "category": "audio_pronunciation",
+      "files": [],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 6,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg004_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 7,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg005_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 8,
+      "category": "content_correction",
+      "files": [
+        "pg007_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 9,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg007_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 10,
+      "category": "inclusive_language",
+      "files": [
+        "pg007_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 11,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg007_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 12,
+      "category": "figure_accessibility",
+      "files": [
+        "pg008_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 13,
+      "category": "quiz",
+      "files": [
+        "qz001.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 14,
+      "category": "figure_accessibility",
+      "files": [
+        "pg009_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 15,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg009_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 16,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg009_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 17,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg010_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 18,
+      "category": "figure_accessibility",
+      "files": [
+        "pg010_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 19,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg011_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 20,
+      "category": "figure_accessibility",
+      "files": [
+        "pg012_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 21,
+      "category": "figure_accessibility",
+      "files": [
+        "pg013_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 22,
+      "category": "figure_accessibility",
+      "files": [
+        "pg014_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 23,
+      "category": "figure_accessibility",
+      "files": [
+        "pg014_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 24,
+      "category": "figure_accessibility",
+      "files": [
+        "pg015_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 25,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg015_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 26,
+      "category": "figure_accessibility",
+      "files": [
+        "pg016_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 27,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg016_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 28,
+      "category": "answer_space",
+      "files": [
+        "pg016_sec001.html"
+      ],
+      "status": "HOLD_ANSWER_SPACE"
+    },
+    {
+      "matrix_item": 29,
+      "category": "figure_accessibility",
+      "files": [
+        "pg017_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 30,
+      "category": "content_correction",
+      "files": [
+        "pg019_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 31,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg019_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 32,
+      "category": "content_correction",
+      "files": [
+        "pg019_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 33,
+      "category": "content_correction",
+      "files": [
+        "pg020_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 34,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg021_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 35,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg022_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 36,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg022_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 37,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg023_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 38,
+      "category": "figure_accessibility",
+      "files": [
+        "pg023_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 39,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg023_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 40,
+      "category": "answer_space",
+      "files": [
+        "pg023_sec001.html"
+      ],
+      "status": "HOLD_ANSWER_SPACE"
+    },
+    {
+      "matrix_item": 41,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg024_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 42,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg024_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 43,
+      "category": "figure_accessibility",
+      "files": [
+        "pg025_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 44,
+      "category": "figure_accessibility",
+      "files": [
+        "pg025_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 45,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg025_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 46,
+      "category": "answer_space",
+      "files": [
+        "pg025_sec001.html"
+      ],
+      "status": "HOLD_ANSWER_SPACE"
+    },
+    {
+      "matrix_item": 47,
+      "category": "answer_space",
+      "files": [
+        "pg026_sec001.html"
+      ],
+      "status": "HOLD_ANSWER_SPACE"
+    },
+    {
+      "matrix_item": 48,
+      "category": "quiz",
+      "files": [
+        "qz006.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 49,
+      "category": "answer_space",
+      "files": [
+        "pg027_sec001.html"
+      ],
+      "status": "HOLD_ANSWER_SPACE"
+    },
+    {
+      "matrix_item": 50,
+      "category": "answer_space",
+      "files": [
+        "pg027_sec001.html"
+      ],
+      "status": "HOLD_ANSWER_SPACE"
+    },
+    {
+      "matrix_item": 51,
+      "category": "figure_accessibility",
+      "files": [
+        "pg028_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 52,
+      "category": "figure_accessibility",
+      "files": [
+        "pg029_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 53,
+      "category": "figure_accessibility",
+      "files": [
+        "pg029_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 54,
+      "category": "figure_accessibility",
+      "files": [
+        "pg030_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 55,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg030_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 56,
+      "category": "answer_space",
+      "files": [
+        "pg031_sec001.html"
+      ],
+      "status": "HOLD_ANSWER_SPACE"
+    },
+    {
+      "matrix_item": 57,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg031_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 58,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg032_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 59,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg032_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 60,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg034_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 61,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg035_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 62,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg036_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 63,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg036_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 64,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg036_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 65,
+      "category": "content_correction",
+      "files": [
+        "pg036_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 66,
+      "category": "layout_order",
+      "files": [
+        "pg036_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 67,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg037_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 68,
+      "category": "figure_accessibility",
+      "files": [
+        "pg037_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 69,
+      "category": "figure_accessibility",
+      "files": [
+        "pg037_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 70,
+      "category": "audio_pronunciation",
+      "files": [],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 71,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg038_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 72,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg038_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 73,
+      "category": "figure_accessibility",
+      "files": [
+        "pg039_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 74,
+      "category": "figure_accessibility",
+      "files": [
+        "pg040_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 75,
+      "category": "content_correction",
+      "files": [
+        "pg040_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 76,
+      "category": "figure_accessibility",
+      "files": [
+        "pg040_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 77,
+      "category": "content_correction",
+      "files": [
+        "pg040_sec002.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 78,
+      "category": "content_correction",
+      "files": [
+        "pg041_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 79,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg041_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 80,
+      "category": "layout_order",
+      "files": [
+        "pg041_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 81,
+      "category": "layout_order",
+      "files": [
+        "pg041_sec002.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 82,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg042_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 83,
+      "category": "audio_pronunciation",
+      "files": [],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 84,
+      "category": "content_correction",
+      "files": [
+        "pg042_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 85,
+      "category": "figure_accessibility",
+      "files": [],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 86,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg044_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 87,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg044_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 88,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg045_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 89,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg046_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 90,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg046_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 91,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg048_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 92,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg049_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 93,
+      "category": "figure_accessibility",
+      "files": [
+        "pg050_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 94,
+      "category": "assistive_technology",
+      "files": [
+        "pg050_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 95,
+      "category": "inclusive_language",
+      "files": [
+        "pg050_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 96,
+      "category": "inclusive_language",
+      "files": [
+        "pg050_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 97,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg051_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 98,
+      "category": "assistive_technology",
+      "files": [
+        "pg051_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 99,
+      "category": "inclusive_language",
+      "files": [
+        "pg052_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 100,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg052_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 101,
+      "category": "figure_accessibility",
+      "files": [
+        "pg053_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 102,
+      "category": "layout_order",
+      "files": [
+        "pg053_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 103,
+      "category": "layout_order",
+      "files": [
+        "pg055_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 104,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg055_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 105,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg055_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 106,
+      "category": "inclusive_language",
+      "files": [
+        "pg056_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 107,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg057_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 108,
+      "category": "assistive_technology",
+      "files": [
+        "pg058_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 109,
+      "category": "figure_accessibility",
+      "files": [
+        "pg058_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 110,
+      "category": "quiz",
+      "files": [
+        "qz011.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 111,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg059_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 112,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg060_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 113,
+      "category": "inclusive_language",
+      "files": [
+        "pg061_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 114,
+      "category": "assistive_technology",
+      "files": [
+        "pg061_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 115,
+      "category": "quiz",
+      "files": [
+        "qz012.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 116,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg062_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 117,
+      "category": "assistive_technology",
+      "files": [
+        "pg062_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 118,
+      "category": "assistive_technology",
+      "files": [
+        "pg062_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 119,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg063_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 120,
+      "category": "figure_accessibility",
+      "files": [],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 121,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg064_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 122,
+      "category": "assistive_technology",
+      "files": [
+        "pg065_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 123,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg065_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 124,
+      "category": "quiz",
+      "files": [
+        "qz013.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 125,
+      "category": "inclusive_language",
+      "files": [
+        "pg067_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 126,
+      "category": "assistive_technology",
+      "files": [
+        "pg067_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 127,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg068_sec001.html",
+        "pg069_sec002.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 128,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg070_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 129,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg072_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 130,
+      "category": "inclusive_language",
+      "files": [
+        "pg073_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 131,
+      "category": "assistive_technology",
+      "files": [
+        "pg073_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 132,
+      "category": "quiz",
+      "files": [
+        "qz014.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 133,
+      "category": "inclusive_language",
+      "files": [
+        "pg074_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 134,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg076_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 135,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg079_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 136,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg080_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 137,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg081_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 138,
+      "category": "figure_accessibility",
+      "files": [
+        "pg084_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 139,
+      "category": "assistive_technology",
+      "files": [
+        "pg085_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 140,
+      "category": "quiz",
+      "files": [
+        "pg085_sec001.html",
+        "qz017.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 141,
+      "category": "inclusive_language",
+      "files": [
+        "pg085_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 142,
+      "category": "figure_accessibility",
+      "files": [
+        "pg085_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 143,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg086_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 144,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg088_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 145,
+      "category": "assistive_technology",
+      "files": [
+        "pg088_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 146,
+      "category": "quiz",
+      "files": [
+        "qz018.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 147,
+      "category": "assistive_technology",
+      "files": [
+        "pg090_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 148,
+      "category": "content_correction",
+      "files": [
+        "pg092_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 149,
+      "category": "figure_accessibility",
+      "files": [
+        "pg092_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 150,
+      "category": "inclusive_language",
+      "files": [
+        "pg092_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 151,
+      "category": "quiz",
+      "files": [
+        "pg092_sec001.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 152,
+      "category": "content_correction",
+      "files": [
+        "pg093_sec001.html"
+      ],
+      "status": "HOLD_ANSWER_CHOICE"
+    },
+    {
+      "matrix_item": 153,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg094_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 154,
+      "category": "figure_accessibility",
+      "files": [
+        "pg094_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 155,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg095_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 156,
+      "category": "inclusive_language",
+      "files": [
+        "pg095_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 157,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg097_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 158,
+      "category": "assistive_technology",
+      "files": [
+        "pg097_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 159,
+      "category": "inclusive_language",
+      "files": [
+        "pg098_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 160,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg098_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 161,
+      "category": "inclusive_language",
+      "files": [
+        "pg099_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 162,
+      "category": "quiz",
+      "files": [
+        "qz020.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 163,
+      "category": "inclusive_language",
+      "files": [
+        "pg101_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 164,
+      "category": "assistive_technology",
+      "files": [
+        "pg101_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 165,
+      "category": "figure_accessibility",
+      "files": [
+        "pg102_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 166,
+      "category": "inclusive_language",
+      "files": [
+        "pg103_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 167,
+      "category": "quiz",
+      "files": [
+        "qz021.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 168,
+      "category": "figure_accessibility",
+      "files": [
+        "pg104_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 169,
+      "category": "assistive_technology",
+      "files": [
+        "pg104_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 170,
+      "category": "quiz",
+      "files": [
+        "qz022.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 171,
+      "category": "inclusive_language",
+      "files": [
+        "pg107_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 172,
+      "category": "inclusive_language",
+      "files": [
+        "pg108_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 173,
+      "category": "inclusive_language",
+      "files": [
+        "pg109_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 174,
+      "category": "inclusive_language",
+      "files": [
+        "pg109_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 175,
+      "category": "assistive_technology",
+      "files": [
+        "pg109_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 176,
+      "category": "figure_accessibility",
+      "files": [
+        "pg110_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 177,
+      "category": "inclusive_language",
+      "files": [
+        "pg111_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 178,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg111_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 179,
+      "category": "inclusive_language",
+      "files": [
+        "pg112_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 180,
+      "category": "inclusive_language",
+      "files": [
+        "pg113_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 181,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg114_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 182,
+      "category": "layout_order",
+      "files": [
+        "pg116_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "matrix_item": 183,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg117_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 184,
+      "category": "quiz",
+      "files": [
+        "qz023.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 185,
+      "category": "figure_accessibility",
+      "files": [
+        "pg118_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 186,
+      "category": "figure_accessibility",
+      "files": [
+        "pg119_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 187,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg119_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 188,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg119_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 189,
+      "category": "inclusive_language",
+      "files": [
+        "pg120_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 190,
+      "category": "audio_pronunciation",
+      "files": [
+        "pg120_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "matrix_item": 191,
+      "category": "assistive_technology",
+      "files": [
+        "pg120_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 192,
+      "category": "quiz",
+      "files": [
+        "qz024.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 193,
+      "category": "quiz",
+      "files": [
+        "qz024.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    },
+    {
+      "matrix_item": 194,
+      "category": "assistive_technology",
+      "files": [
+        "pg121_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 195,
+      "category": "assistive_technology",
+      "files": [
+        "pg122_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 196,
+      "category": "figure_accessibility",
+      "files": [
+        "pg122_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 197,
+      "category": "figure_accessibility",
+      "files": [
+        "pg123_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "matrix_item": 198,
+      "category": "quiz",
+      "files": [
+        "qz025.html"
+      ],
+      "status": "HOLD_QUIZ_CONFLICT"
+    }
+  ]
+}
