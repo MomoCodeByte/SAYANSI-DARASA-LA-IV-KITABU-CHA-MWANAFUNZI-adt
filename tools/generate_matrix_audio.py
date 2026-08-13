@@ -14,6 +14,8 @@ import edge_tts
 ROOT = Path(__file__).resolve().parents[1]
 LANG = ROOT / "content" / "i18n" / "sw-TZ"
 VOICE = "sw-TZ-RehemaNeural"
+FOOTER_TAG = re.compile(r"<[^>]*book-production-footer-text[^>]*>", re.I)
+DATA_ID = re.compile(r"data-id=[\"']([^\"']+)", re.I)
 
 ONES = {0:"sifuri",1:"moja",2:"mbili",3:"tatu",4:"nne",5:"tano",6:"sita",7:"saba",8:"nane",9:"tisa"}
 TENS = {10:"kumi",20:"ishirini",30:"thelathini",40:"arobaini",50:"hamsini",60:"sitini",70:"sabini",80:"themanini",90:"tisini"}
@@ -78,17 +80,24 @@ async def render(job: tuple[str, str, list[int], Path]) -> tuple[str, dict]:
 
 
 async def main() -> None:
-    parser = argparse.ArgumentParser(); parser.add_argument("--limit", type=int); parser.add_argument("--workers", type=int, default=12); parser.add_argument("--ids", nargs="*"); parser.add_argument("--force", action="store_true")
+    parser = argparse.ArgumentParser(); parser.add_argument("--limit", type=int); parser.add_argument("--workers", type=int, default=12); parser.add_argument("--ids", nargs="*"); parser.add_argument("--force", action="store_true"); parser.add_argument("--all", action="store_true")
     args = parser.parse_args()
     plan = json.loads((ROOT / "content/validation-matrix-plan.json").read_text(encoding="utf-8"))
     texts = json.loads((LANG / "texts.json").read_text(encoding="utf-8")); audios = json.loads((LANG / "audios.json").read_text(encoding="utf-8"))
     files = {f for item in plan["items"] if item["category"] == "audio_pronunciation" for f in item["files"] if f.startswith("pg")}
     prefixes = {filename[:5] + "_" for filename in files}
+    footer_ids: set[str] = set()
+    for page in ROOT.glob("pg*_sec*.html"):
+        source = page.read_text(encoding="utf-8-sig")
+        for tag in FOOTER_TAG.findall(source):
+            match = DATA_ID.search(tag)
+            if match:
+                footer_ids.add(match.group(1))
     jobs = []
     requested = set(args.ids or [])
     for text_id, filename in audios.items():
-        if text_id.endswith("_easy_read") or (requested and text_id not in requested): continue
-        if not requested and not any(text_id.startswith(prefix) for prefix in prefixes): continue
+        if text_id.endswith("_easy_read") or text_id in footer_ids or (requested and text_id not in requested): continue
+        if not requested and not args.all and not any(text_id.startswith(prefix) for prefix in prefixes): continue
         shown = str(texts.get(text_id, "")).strip()
         if not shown: continue
         destination = LANG / "audio" / str(filename).split("?")[0]
@@ -106,7 +115,7 @@ async def main() -> None:
             timecodes[text_id] = timing; done += 1
         timecode_path.write_text(json.dumps(timecodes, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         print(f"generated {done}/{len(jobs)}", flush=True)
-    print(f"complete={done} voice={VOICE} rate=natural")
+    print(f"complete={done} voice={VOICE} rate=natural excluded_footers={len(footer_ids)}")
 
 
 if __name__ == "__main__": asyncio.run(main())

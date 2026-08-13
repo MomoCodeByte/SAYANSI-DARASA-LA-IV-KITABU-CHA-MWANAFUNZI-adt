@@ -1,5 +1,36 @@
 (function () {
   "use strict";
+
+  // Enforce one audible media stream for the whole textbook. The bundled
+  // reader and interface sounds both use HTMLMediaElement; without this lock
+  // a second play request can overlap an active narration clip.
+  if (!window.__matrixSingleAudioLock) {
+    window.__matrixSingleAudioLock = true;
+    var activeMedia = null;
+    var nativePlay = HTMLMediaElement.prototype.play;
+    HTMLMediaElement.prototype.play = function () {
+      if (activeMedia && activeMedia !== this) {
+        try {
+          activeMedia.pause();
+          activeMedia.currentTime = 0;
+        } catch (_) {}
+      }
+      activeMedia = this;
+      var result = nativePlay.apply(this, arguments);
+      if (result && typeof result.catch === "function") {
+        result.catch(function () {});
+      }
+      return result;
+    };
+    window.addEventListener("pagehide", function () {
+      if (!activeMedia) return;
+      try {
+        activeMedia.pause();
+        activeMedia.currentTime = 0;
+      } catch (_) {}
+      activeMedia = null;
+    });
+  }
   var bookTypography = document.createElement("style");
   bookTypography.id = "book-typography-consistency";
   bookTypography.textContent = [

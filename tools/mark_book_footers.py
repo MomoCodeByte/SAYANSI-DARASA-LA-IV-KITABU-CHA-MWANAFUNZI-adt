@@ -23,6 +23,7 @@ def add_class(node, name: str) -> None:
 
 changed = 0
 marked = 0
+removed_ids = set()
 for path in sorted(ROOT.glob("*.html")):
     source = path.read_text(encoding="utf-8-sig")
     doctype = "<!DOCTYPE html>\n" if source.lstrip().lower().startswith("<!doctype html") else ""
@@ -33,6 +34,9 @@ for path in sorted(ROOT.glob("*.html")):
         if not STAMP.search(text):
             continue
         node.set("aria-hidden", "true")
+        if node.get("data-id"):
+            removed_ids.add(node.get("data-id"))
+            del node.attrib["data-id"]
         add_class(node, "book-production-footer-text")
         parent = node.getparent()
         if parent is not None:
@@ -46,4 +50,13 @@ for path in sorted(ROOT.glob("*.html")):
         changed += 1
         marked += page_marked
 
-print({"changed_pages": changed, "marked_footer_items": marked})
+timecode_path = ROOT / "content" / "i18n" / "sw-TZ" / "timecode" / "timecode_output.json"
+if timecode_path.exists() and removed_ids:
+    import json
+    timecodes = json.loads(timecode_path.read_text(encoding="utf-8"))
+    for text_id in removed_ids:
+        timecodes.pop(text_id, None)
+        timecodes.pop(text_id + "_easy_read", None)
+    timecode_path.write_text(json.dumps(timecodes, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+print({"changed_pages": changed, "marked_footer_items": marked, "removed_audio_ids": len(removed_ids)})
