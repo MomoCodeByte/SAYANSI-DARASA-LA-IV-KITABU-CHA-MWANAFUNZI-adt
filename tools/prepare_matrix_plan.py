@@ -10,15 +10,16 @@ from docx import Document
 
 
 ROOT = Path(__file__).resolve().parents[1]
-REPORT = Path(r"C:\Users\Admin\Downloads\RIPOTI YA ADT VALIDATION SAYANSI 11.08.2026.docx")
+REPORT = Path(r"C:\Users\Admin\Downloads\RIPOTI YA ADT VALIDATION SAYANSI 11.08.2026 (6).docx")
+LEGACY_REPORT = Path(r"C:\Users\Admin\Downloads\RIPOTI YA ADT VALIDATION SAYANSI 11.08.2026.docx")
 
 
 def category(text: str) -> tuple[str, str]:
     low = text.lower()
     if re.search(r"nafasi.{0,30}kuji(?:bu|bia)|sehemu.{0,20}kuji(?:bu|bia)|uingizaji.{0,20}majibu|sehemu.{0,20}kujaza", low):
-        return "answer_space", "hold_user_instruction"
+        return "answer_space", "pending"
     if re.search(r"chemsha ?bongo|bangua ?bongo|\bqz\d+", low):
-        return "quiz", "conflict_needs_user_decision"
+        return "quiz", "pending"
     if re.search(r"quorum|scratch|paint|pr(?:ogram|oram)(?:u)? said(?:izi|zi)|kipima joto sauti|saa ya mtetemo", low):
         return "assistive_technology", "pending"
     if re.search(r"kielelezo|picha|mchoro|maelezo ya sauti", low):
@@ -44,12 +45,18 @@ def references(value: str) -> list[str]:
 
 doc = Document(REPORT)
 table = doc.tables[0]
+legacy_table = Document(LEGACY_REPORT).tables[0] if LEGACY_REPORT.exists() else None
 items = []
 for number, row in enumerate(table.rows[1:], 1):
     cells = [" ".join(cell.text.split()) for cell in row.cells]
     joined = " ".join(cells)
     kind, status = category(joined)
     refs = references(cells[2])
+    # The revised matrix uses printed page numbers in its reference column.
+    # Preserve the validator's earlier explicit HTML mapping for the same row.
+    if not refs and legacy_table is not None and number < len(legacy_table.rows):
+        legacy_reference = " ".join(legacy_table.rows[number].cells[2].text.split())
+        refs = references(legacy_reference)
     items.append({
         "matrix_item": number,
         "area": cells[0],
@@ -71,8 +78,8 @@ result = {
     "baseline": "Version 1 / b9b6648 content",
     "total_items": len(items),
     "policy": {
-        "answer_spaces": "HOLD: do not change",
-        "quizzes": "HOLD: matrix contains remove/move/fix conflicts",
+        "answer_spaces": "Implement for genuine learner-response prompts",
+        "quizzes": "Remove standalone Chemsha bongo/Bangua bongo pages; preserve textbook exercises and make them interactive",
         "content": "Preserve visible textbook content unless a matrix row explicitly corrects it",
     },
     "category_summary": summary,

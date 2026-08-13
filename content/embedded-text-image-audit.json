@@ -1,8 +1,8 @@
 {
-  "candidate_count": 31,
+  "candidate_count": 27,
   "candidates": [
     {
-      "converted_page": 23,
+      "converted_page": 19,
       "file": "pg019_sec001.html",
       "image": "images/pg019_im001.png",
       "data_id": "pg019_im001",
@@ -10,23 +10,7 @@
       "description": "Kisanduku cha kazi ya kufanya namba 6 chenye maelekezo mawili. Mwanafunzi atafute taarifa kuhusu utunzaji wa kinywa na azishirikishe na wenzake."
     },
     {
-      "converted_page": 26,
-      "file": "pg022_sec001.html",
-      "image": "images/pg022_im001.png",
-      "data_id": "pg022_im001",
-      "hidden": false,
-      "description": "Kazi ya kufanya namba 8: Tafuta taarifa kuhusu usafi wa nywele, kucha na nguo. Kisha fanya ukaguzi darasani na utoe ushauri wa kudumisha usafi."
-    },
-    {
-      "converted_page": 26,
-      "file": "pg022_sec001.html",
-      "image": "images/pg022_im002.png",
-      "data_id": "pg022_im002",
-      "hidden": false,
-      "description": "Kazi ya kufanya namba 9: Tembelea mazingira ya shule na ubainishe alama zinazopatikana hapo. Chini yake kuna kichwa cha sehemu mpya, Aina za alama."
-    },
-    {
-      "converted_page": 50,
+      "converted_page": 41,
       "file": "pg041_sec001.html",
       "image": "images/pg041_im001.png",
       "data_id": "pg041_im001",
@@ -34,7 +18,7 @@
       "description": "Zoezi namba 4 lenye maswali matatu kuhusu tetekuwanga: jinsi ugonjwa huenea, namna ya kumtambua mgonjwa, na jinsi ya kuzuia kuenea kwake."
     },
     {
-      "converted_page": 64,
+      "converted_page": 54,
       "file": "pg053_sec001.html",
       "image": "images/pg053_im001.jpg",
       "data_id": "pg053_im001",
@@ -42,7 +26,7 @@
       "description": "Hatua za ukuaji wa mende: yai, tunutu, kisha mende mkubwa. Mishale inaonyesha mzunguko wa maisha yake."
     },
     {
-      "converted_page": 69,
+      "converted_page": 59,
       "file": "pg058_sec001.html",
       "image": "images/pg058_im002.png",
       "data_id": "pg058_im002",
@@ -50,7 +34,7 @@
       "description": "Jaribio namba 1: Kuchunguza sifa za maji katika hali yabisi. Lengo ni kuonesha tabia za maji katika hali yabisi, kwa kutumia vipande vya barafu na vifaa vingine."
     },
     {
-      "converted_page": 108,
+      "converted_page": 90,
       "file": "pg089_sec001.html",
       "image": "images/pg089_im002.png",
       "data_id": "pg089_im002",
@@ -58,15 +42,7 @@
       "description": "Jedwali la kuandika matokeo ya jaribio. Lina nafasi ya kabla na baada ya kuwasha jiko, muda wa dakika 5 na 10, kiasi cha jotoridi, na matokeo."
     },
     {
-      "converted_page": 117,
-      "file": "pg097_sec001.html",
-      "image": "images/pg097_im001.png",
-      "data_id": "pg097_im001",
-      "hidden": false,
-      "description": "Jaribio namba 5 la kuchunguza kupenya kwa mwanga katika vitu. Linaonyesha lengo la kuona uwezo wa vitu mbalimbali kupitisha mwanga, vifaa vinavyotumika, na hatua za kuanza kwa kuwasha kurunzi na kupanga vitu juu ya meza kwenye chumba chenye giza."
-    },
-    {
-      "converted_page": 119,
+      "converted_page": 100,
       "file": "pg099_sec001.html",
       "image": "images/pg099_im001.jpg",
       "data_id": "pg099_im001",
@@ -74,7 +50,7 @@
       "description": "Mwanga wa tochi unapita kwenye tundu la karatasi, kisha kwenye glasi yenye maji, na kutoka upande wa pili. Jaribio linaonyesha mwanga unasafiri katika mstari unapokuwa kwenye mpangilio sahihi."
     },
     {
-      "converted_page": 131,
+      "converted_page": 109,
       "file": "pg108_sec001.html",
       "image": "images/pg108_im001.png",
       "data_id": "pg108_im001",
@@ -82,7 +58,7 @@
       "description": "Kazi ya kufanya namba 7 inaeleza jaribio la kutua mwangwi. Mwanafunzi aingie kwenye ukumbi mtupu, asimame mbali na ukuta, apige kelele kubwa, asikilize anachosikia, kisha aandike matokeo."
     },
     {
-      "converted_page": 134,
+      "converted_page": 112,
       "file": "pg111_sec001.html",
       "image": "images/pg111_im001.jpg",
       "data_id": "pg111_im001",
@@ -90,31 +66,31 @@
       "description": "Watoto wawili wanafanya jaribio la sauti kwenye kipande cha chuma juu ya meza. Mmoja anagonga chuma kwa rula, na mwingine anasikiliza sauti upande wa pili."
     },
     {
-      "converted_page": 144,
+      "converted_page": 121,
       "file": "pg120_sec001.html",
       "image": "images/pg120_im001.jpg",
       "data_id": "pg120_im001",
       "hidden": false,
-      "description": "Hatua za kufungua Paint kwenye Windows: bofya Start au sehemu ya kutafutia, andika “paint”, kisha chagua programu ya Paint."
+      "description": "Hatua za kufungua Paint/Quorum kwenye Windows: bofya au tumia mishale Start au sehemu ya kutafutia, andika “paint/Quorum”, kisha chagua programu ya Paint/Quorum."
     },
     {
-      "converted_page": 150,
+      "converted_page": 125,
       "file": "pg124_sec001.html",
       "image": "images/pg124_im001.jpg",
       "data_id": "pg124_im001",
       "hidden": false,
-      "description": "Bofya Faili, chagua Save as, halafu chagua PNG picture. Hatua hizi zinaonyesha mwanzo wa kuhifadhi kazi yako."
+      "description": "Bofya au tumia mishale Faili, chagua Save as, halafu chagua PNG picture. Hatua hizi zinaonyesha mwanzo wa kuhifadhi kazi yako."
     },
     {
-      "converted_page": 150,
+      "converted_page": 125,
       "file": "pg124_sec001.html",
       "image": "images/pg124_im002.jpg",
       "data_id": "pg124_im002",
       "hidden": false,
-      "description": "Chagua Documents, andika jina la faili, kisha bofya Save. Hii ni hatua ya mwisho ya kuhifadhi kazi yako."
+      "description": "Chagua Documents, andika jina la faili, kisha bofya au tumia mishale Save. Hii ni hatua ya mwisho ya kuhifadhi kazi yako."
     },
     {
-      "converted_page": 151,
+      "converted_page": 126,
       "file": "pg125_sec001.html",
       "image": "images/pg125_im001.jpg",
       "data_id": "pg125_im001",
@@ -122,7 +98,7 @@
       "description": "Skrini ya programu ya kuchora inaonyesha hatua za kupaka rangi maumbo. Mishale na namba zinaelekeza zana ya kujaza rangi, sehemu ya pembetatu, na rangi zilizochaguliwa juu ya skrini."
     },
     {
-      "converted_page": 163,
+      "converted_page": 135,
       "file": "pg134_sec001.html",
       "image": "images/pg134_im001.jpg",
       "data_id": "pg134_im001",
@@ -130,31 +106,31 @@
       "description": "Chagua bloku ya Mwendo ya “songa hatua 10” na uiweke chini ya bloku ya kuanza. Unaweza kubadilisha namba 10 kuwa idadi nyingine ya hatua."
     },
     {
-      "converted_page": 163,
+      "converted_page": 135,
       "file": "pg134_sec001.html",
       "image": "images/pg134_im002.jpg",
       "data_id": "pg134_im002",
       "hidden": false,
-      "description": "Bonyeza bendera ya kijani ili kuanza mchezo. Paka wa Scratch huanza kusonga kwa hatua ulizoweka."
+      "description": "Bonyeza bendera ya kijani ili kuanza mchezo. Paka wa Scratch/Quorum huanza kusonga kwa hatua ulizoweka."
     },
     {
-      "converted_page": 165,
+      "converted_page": 137,
       "file": "pg136_sec001.html",
       "image": "images/pg136_im002.png",
       "data_id": "pg136_im002",
       "hidden": true,
-      "description": "Maelekezo ya kazi ya kutengeneza programu ya kumzungusha sprite kwenye Scratch. Hatua zinaonyesha kuchagua bloku za Matukio na Mwendo, kisha kuunganisha “wakati inapobonyezwa” na “zunguka digrii 15”."
+      "description": "Maelekezo ya kazi ya kutengeneza programu ya kumzungusha sprite kwenye Scratch/Quorum. Hatua zinaonyesha kuchagua bloku za Matukio na Mwendo, kisha kuunganisha “wakati inapobonyezwa” na “zunguka digrii 15”."
     },
     {
-      "converted_page": 169,
+      "converted_page": 140,
       "file": "pg139_sec001.html",
       "image": "images/pg139_im001.jpg",
       "data_id": "pg139_im001",
       "hidden": false,
-      "description": "Hatua za kuunganisha blokuu za programu kwenye Scratch. Blokuu zinawekwa kwa mpangilio: wakati bendera ya kijani inapobonyezwa, enda kwa mahali popote, zunguka digrii 15, kisha rejea ukigusa ukingo wa jukwaa."
+      "description": "Hatua za kuunganisha blokuu za programu kwenye Scratch/Quorum. Blokuu zinawekwa kwa mpangilio: wakati bendera ya kijani inapobonyezwa, enda kwa mahali popote, zunguka digrii 15, kisha rejea ukigusa ukingo wa jukwaa."
     },
     {
-      "converted_page": 171,
+      "converted_page": 141,
       "file": "pg140_sec001.html",
       "image": "images/pg140_im001.png",
       "data_id": "pg140_im001",
@@ -162,7 +138,7 @@
       "description": "Menyu ya Sauti imefunguliwa, na bloku ya ‘wakati inapobonyezwa’ imeunganishwa na bloku ya ‘cheza sauti Meow hadi ikamilike’. Namba 1, 2 na 3 zinaonyesha hatua za kuunda programu ya sauti."
     },
     {
-      "converted_page": 173,
+      "converted_page": 143,
       "file": "pg142_sec001.html",
       "image": "images/pg142_im001.jpg",
       "data_id": "pg142_im001",
@@ -170,7 +146,7 @@
       "description": "Mpangilio wa blokuu za usimbaji: wakati inapobonyezwa, enda kwa mahali popote, zunguka digrii 15, kisha ikiwa kwenye ukingo wa jukwaa, rejesha. Namba 1 hadi 4 zinaonyesha hatua za kufuata kutoka juu kwenda chini."
     },
     {
-      "converted_page": 183,
+      "converted_page": 150,
       "file": "pg150_sec001.html",
       "image": "images/pg150_im001.png",
       "data_id": "pg150_im001",
@@ -178,15 +154,15 @@
       "description": "Bloku za programu zinaonyesha: kishale juu kikibonyezwa, songa hatua 10, kisha cheza sauti ya Meow hadi ikamilike."
     },
     {
-      "converted_page": 185,
+      "converted_page": 152,
       "file": "pg152_sec001.html",
       "image": "images/pg152_im002.png",
       "data_id": "pg152_im002",
       "hidden": false,
-      "description": "Kielelezo cha programu ya Scratch kinaonyesha kuwa ukibonyeza kishale juu, mhusika husonga hatua 10 na kutoa sauti ya Meow. Ukibonyeza kishale chini, mhusika huzunguka digrii 15 na pia kutoa sauti ya Meow."
+      "description": "Kielelezo cha programu ya Scratch/Quorum kinaonyesha kuwa ukibonyeza kishale juu, mhusika husonga hatua 10 na kutoa sauti ya Meow. Ukibonyeza kishale chini, mhusika huzunguka digrii 15 na pia kutoa sauti ya Meow."
     },
     {
-      "converted_page": 188,
+      "converted_page": 154,
       "file": "pg154_sec001.html",
       "image": "images/pg154_im002.png",
       "data_id": "pg154_im002",
@@ -194,23 +170,23 @@
       "description": "Programu inaanza kwa kubonyeza kishale juu, inaelekeza mwelekeo kuwa nyuzi 0, kisha sprite inasonga hatua 10 na kucheza sauti ya Meow hadi ikamilike."
     },
     {
-      "converted_page": 189,
+      "converted_page": 155,
       "file": "pg155_sec001.html",
       "image": "images/pg155_im002_seg001_v1.png",
       "data_id": "pg155_im002_seg001_v1",
       "hidden": false,
-      "description": "Programu ya Scratch: kitufe cha kishale juu kinapobonyezwa, sprite huelekezwa kwa mwelekeo 0, husonga hatua 10, kisha hutoa sauti ya Meow hadi ikamilike."
+      "description": "Programu ya Scratch/Quorum: kitufe cha kishale juu kinapobonyezwa, sprite huelekezwa kwa mwelekeo 0, husonga hatua 10, kisha hutoa sauti ya Meow hadi ikamilike."
     },
     {
-      "converted_page": 189,
+      "converted_page": 155,
       "file": "pg155_sec001.html",
       "image": "images/pg155_im002_seg002_v1.png",
       "data_id": "pg155_im002_seg002_v1",
       "hidden": false,
-      "description": "Nakala ya programu ya Scratch yenye bloku zilezile: kitufe cha kishale juu kinapobonyezwa, sprite huelekezwa kwa mwelekeo 0, husonga hatua 10, kisha hutoa sauti ya Meow hadi ikamilike."
+      "description": "Nakala ya programu ya Scratch/Quorum yenye bloku zilezile: kitufe cha kishale juu kinapobonyezwa, sprite huelekezwa kwa mwelekeo 0, husonga hatua 10, kisha hutoa sauti ya Meow hadi ikamilike."
     },
     {
-      "converted_page": 190,
+      "converted_page": 156,
       "file": "pg156_sec001.html",
       "image": "images/pg156_im001_seg001_v1.png",
       "data_id": "pg156_im001_seg001_v1",
@@ -218,7 +194,7 @@
       "description": "Wakati kitufe cha kishale juu kinapobonyezwa, mhusika hugeuka nyuzi 0, husonga hatua 10, kisha hutoa sauti ya Meow."
     },
     {
-      "converted_page": 190,
+      "converted_page": 156,
       "file": "pg156_sec001.html",
       "image": "images/pg156_im001_seg002_v1.png",
       "data_id": "pg156_im001_seg002_v1",
@@ -226,28 +202,20 @@
       "description": "Wakati kitufe cha kishale chini kinapobonyezwa, mhusika hugeuka nyuzi 180, husonga hatua 10, kisha hutoa sauti ya Meow."
     },
     {
-      "converted_page": 192,
+      "converted_page": 157,
       "file": "pg157_sec001.html",
       "image": "images/pg157_im002.png",
       "data_id": "pg157_im002",
       "hidden": false,
-      "description": "Programu ya Scratch ina vizuizi vinavyofanya paka asogee juu, chini, kushoto na kulia kwa vitufe vya mshale. Kila kitufe huweka mwelekeo, kusonga hatua 10, na kucheza sauti ya Meow."
+      "description": "Programu ya Scratch/Quorum ina vizuizi vinavyofanya paka asogee juu, chini, kushoto na kulia kwa vitufe vya mshale. Kila kitufe huweka mwelekeo, kusonga hatua 10, na kucheza sauti ya Meow."
     },
     {
-      "converted_page": 198,
+      "converted_page": 162,
       "file": "pg162_sec001.html",
       "image": "images/pg162_im001.png",
       "data_id": "pg162_im001",
       "hidden": false,
       "description": "Bloku za programu zinaonyesha kuwa kiumbe huendelea kufanya kazi milele. Kikigusa ukingo, hugeuka kwa mwelekeo 0 na kusonga hatua 10."
-    },
-    {
-      "converted_page": 203,
-      "file": "pg165_sec001.html",
-      "image": "images/pg165_im001.png",
-      "data_id": "pg165_im001",
-      "hidden": false,
-      "description": "Zoezi la marudio, Sehemu A: Chagua jibu sahihi. Mwanzo wa swali la kwanza unauliza ni aina gani ya maunzi laini unaweza kutumia kuunda michezo na hadithi."
     }
   ]
 }

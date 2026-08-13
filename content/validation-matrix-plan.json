@@ -1,21 +1,20 @@
 {
-  "source": "C:\\Users\\Admin\\Downloads\\RIPOTI YA ADT VALIDATION SAYANSI 11.08.2026.docx",
+  "source": "C:\\Users\\Admin\\Downloads\\RIPOTI YA ADT VALIDATION SAYANSI 11.08.2026 (6).docx",
   "baseline": "Version 1 / b9b6648 content",
   "total_items": 198,
   "policy": {
-    "answer_spaces": "HOLD: do not change",
-    "quizzes": "HOLD: matrix contains remove/move/fix conflicts",
+    "answer_spaces": "Implement for genuine learner-response prompts",
+    "quizzes": "Remove standalone Chemsha bongo/Bangua bongo pages; preserve textbook exercises and make them interactive",
     "content": "Preserve visible textbook content unless a matrix row explicitly corrects it"
   },
   "category_summary": {
-    "audio_pronunciation": 77,
-    "content_correction": 11,
-    "inclusive_language": 24,
-    "figure_accessibility": 38,
-    "quiz": 16,
-    "answer_space": 7,
-    "layout_order": 6,
-    "assistive_technology": 19
+    "audio_pronunciation": 83,
+    "content_correction": 19,
+    "figure_accessibility": 46,
+    "answer_space": 6,
+    "layout_order": 5,
+    "assistive_technology": 20,
+    "inclusive_language": 19
   },
   "general_suggestions": [
     "RIPOTI YA ADT DARASA LA NNE SAYANSI",
@@ -35,24 +34,7 @@
     "Kwenye vielelezo vyote iwe kwenye caption au intext weka neno bainisha isomeke “kielezo namba…..kinaonesha/kinabainisha……..”",
     "Ondoa bangua bongo kwenye Kurasa zote mfano uk, 60, 71, 75, 80, 94, 100, 106, 113",
     "ondoa maandishi “head footer” yaliyoanikwa for online reading only",
-    "ingiza kwenye vielelezo vyote neno “ chunguza “ mfano “angalia kielelezo namba….. iwe “angalia/chunguza kielelezo”……..” na “kielelezo namba…. kinaonesha…” iwe “kielelezo namba ….kinaonesha/kinabainisha…….”",
-    "maneno mbadala katika sura ya site",
-    "scratchi/quorum",
-    "ona/sikiliza",
-    "angalia/chunguza",
-    "paint/quorum",
-    "Kiambatisho (maelekezo katika kila activity)",
-    "1 Sura ya Sita Kazi ya kufanya namba 2: kazi ya kufanya sio fikifu, badirisha kazi hiyo iwe fikivu kama ifuatavyo:",
-    "Kufungua program ya paint/Quorum",
-    "Hatua za kufungua programu ya Paint/Quorum kwa kutumia Windows 11 zinaonyeshwa kwenye Kielelezo namba 3. Mahali pa upau wa utafutaji inaweza kutofautiana kidogo katika matoleo mengine ya Windows.",
-    "Hatua",
-    "1.Bofya kwenye kitufe cha ‘Windows Start’ kama inavyoonesha katika Kielelezo namba 3.2.Andika ‘Paint’/Quorum katika upau wa utafutaji.3.Bofya ‘PaintQuorum’.",
-    "Hatua za kufungua Paint/Quorum kwenye Windows: bofya Start au sehemu ya kutafutia, andika “paintQuorum”, kisha chagua programu ya Paint/Quorum.",
-    "Kielelezo namba 3: Kufungua programu ya Paint/Quorum",
-    "2 Sura ya Sita Uchoraji wa maumbo: kazi ya kufanya sio fikivu, weka kazi ya kufanya fikivu kwa kutumia program ya Quorum:",
-    "Uchoraji wa maumbo",
-    "Programu ya ‘Paint/Quorum’ itafunguka.Kielelezo namba 4 kinaonesha sehemu za programu ya Paint/Quorum.",
-    "Sehemu za programu ya PaintQuorum zenye majina kama penseli, kifutio, rangi, brashi, maumbo na sehemu ya kuchorea."
+    "ingiza kwenye vielelezo vyote neno “ chunguza “ mfano “angalia kielelezo namba….. iwe “angalia/chunguza kielelezo”……..” na “kielelezo namba…. kinaonesha…” iwe “kielelezo namba ….kinaonesha/kinabainisha…….”"
   ],
   "items": [
     {
@@ -69,9 +51,9 @@
     {
       "matrix_item": 2,
       "area": "Cheti cha Ithibati",
-      "issue": "Matamshi ya kwenye cheti cha ithibati hayatamkwi vizuri” Uk 1",
-      "reference": "adt/index.html",
-      "recommendation": "Rudi kwenye audio kurekebisha",
+      "issue": "Matamshi ya kwenye cheti cha ithibati hayatamkwi vizuri” Kwenye ISBN – kuna neno “ondoa” Check na, ya ithibati inavyotamkwa",
+      "reference": "1",
+      "recommendation": "Rudi kwenye audio kurekebisha Rekebisha sauti na utamkwaji wa namba katika cheti cha ithibati",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [],
@@ -80,9 +62,9 @@
     {
       "matrix_item": 3,
       "area": "Copy rights",
-      "issue": "Matamshi yamechanganywa Kiswahili, kiingereza na lugha nyingine uk 2",
-      "reference": "pg002_sec001.html",
-      "recommendation": "Rudi kwenye audio kurekebisha",
+      "issue": "Matamshi yamechanganywa Kiswahili, kiingereza na lugha nyingine Namba zinatamkwa vibaya kwenye copy right Kuna sauti ya foot note zinasomwa",
+      "reference": "2",
+      "recommendation": "Rudi kwenye audio kurekebisha Namba zitamkwe vizuri Maneno ya foot not yasisomwe a u kutamka",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -93,9 +75,9 @@
     {
       "matrix_item": 4,
       "area": "Yaliyomo",
-      "issue": "Kuna mchanganyiko wa lugha katika kutaja namba za Kurasa uk 3",
-      "reference": "pg003_sec001.html",
-      "recommendation": "Rejea audio na kurekebisha",
+      "issue": "Kuna mchanganyiko wa lugha katika kutaja namba za Kurasa Namba za kitumi zinatamkwa kama ivi “iv” , vii “v” Table of content (yaliyomo) haiendani namba ya ukurasa husika",
+      "reference": "3",
+      "recommendation": "Rejea audio na kurekebisha Update table of content iendane na namba za Kurasa husika",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -117,8 +99,8 @@
     {
       "matrix_item": 6,
       "area": "Shukurani",
-      "issue": "Kukosekana kwa matamshi sahihi ya baadhi ya maneno kama TET, DUCE, SUA, BW uk 4",
-      "reference": "pg004_sec001.html",
+      "issue": "Kukosekana kwa matamshi sahihi ya baadhi ya maneno kama TET, DUCE, SUA, BW",
+      "reference": "4",
       "recommendation": "Rejea audio na kurekebisha",
       "category": "audio_pronunciation",
       "status": "pending",
@@ -130,9 +112,9 @@
     {
       "matrix_item": 7,
       "area": "Utangulizi",
-      "issue": "Neno mfano VI limetamkwa vibaya",
-      "reference": "pg005_sec001.html",
-      "recommendation": "Rejea audio na kurekebisha",
+      "issue": "Neno mfano VI haijatamkwa Mpangilio haujabe justified kwenye utangulizi",
+      "reference": "5",
+      "recommendation": "Rejea audio na kurekebisha Justify utangulizi",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -143,8 +125,8 @@
     {
       "matrix_item": 8,
       "area": "Fikiri",
-      "issue": "Neno kufanya limekatika “kufany.. uk 7",
-      "reference": "pg007_sec001.html",
+      "issue": "Neno kufanya limekatika “kufany..",
+      "reference": "7",
       "recommendation": "Rekebisha lisomeke “Kufanya”",
       "category": "content_correction",
       "status": "pending",
@@ -156,8 +138,8 @@
     {
       "matrix_item": 9,
       "area": "Maelezo ya Kielezo namba 1",
-      "issue": "Kielezo namba 1 katika sauti kin asomeka kwa lugha ya kiingereza “namba one” badala ya kielezo namba moja uk 7",
-      "reference": "pg007_sec001.html",
+      "issue": "Kielezo namba 1 katika sauti kin asomeka kwa lugha ya kiingereza “namba one” badala ya kielezo namba moja",
+      "reference": "7",
       "recommendation": "Badilisha kisomeke kielezo namba moja",
       "category": "audio_pronunciation",
       "status": "pending",
@@ -169,10 +151,10 @@
     {
       "matrix_item": 10,
       "area": "Kieelezo namba 1",
-      "issue": "Kukosekana kwa neno “kinaeleza” uk 7",
-      "reference": "pg007_sec001.html",
-      "recommendation": "Ongeza neno “kinaeleza” Isomeke “kielezo namba 1 kinaonesha/ kinaeleza …….”",
-      "category": "inclusive_language",
+      "issue": "Kukosekana kwa neno “kinabainisha” Kielelezo (a) kinatamka fanya badala ya kufanya na (a) haitamkwi uk 8",
+      "reference": "8",
+      "recommendation": "Ongeza neno “kinaeleza” Isomeke “kielezo namba 1 kinaonesha/ kinabainisha …….” Rekebisha sauti isome kufanya na (a) itamkwe",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg007_sec001.html"
@@ -181,10 +163,10 @@
     },
     {
       "matrix_item": 11,
-      "area": "Kielezo namba 1",
-      "issue": "Kukosewa kwa usahihi wa matamshi “kielezo namba uno” uk 7",
-      "reference": "pg007_sec001.html",
-      "recommendation": "Rejea sauti kurekebisha",
+      "area": "Kieelezo namba 1",
+      "issue": "Caption ya kielelzo kinatamkwa kelelezo namba uno badala ya namba moja",
+      "reference": "8",
+      "recommendation": "Rekebisha caption isome namaba moja",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -194,11 +176,11 @@
     },
     {
       "matrix_item": 12,
-      "area": "Kielelezo namba 2",
-      "issue": "Kielezo namba 2 katika sauti kin asomeka kwa lugha ya kiingereza “namba two” badala ya kielezo namba moja uk 8",
-      "reference": "pg008_sec001.html",
-      "recommendation": "Rekebisha isomeke kwa kiswahili",
-      "category": "figure_accessibility",
+      "area": "Kielezo namba 1",
+      "issue": "Kukosewa kwa usahihi wa matamshi “kielezo namba uno”",
+      "reference": "8",
+      "recommendation": "Rejea sauti kurekebisha",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg008_sec001.html"
@@ -207,23 +189,25 @@
     },
     {
       "matrix_item": 13,
-      "area": "Ukurasa 9",
-      "issue": "Kuwepo kwa swali moja (mlo kamili) uk 9",
-      "reference": "qz001.html",
-      "recommendation": "Rejea ukurasa wa -9",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Kielelezo namba 2",
+      "issue": "Kielezo namba 2 katika sauti kin asomeka kwa lugha ya kiingereza “namba two” badala ya kielezo namba moja",
+      "reference": "8",
+      "recommendation": "Rekebisha isomeke kwa kiswahili",
+      "category": "figure_accessibility",
+      "status": "pending",
       "files": [
         "qz001.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz001.html"
+      ]
     },
     {
       "matrix_item": 14,
-      "area": "Kielezo namba 2",
-      "issue": "Maelezo ya makundi ya vyakula hayapo kwenye picha yamejiandika chini uk 10",
-      "reference": "pg009_sec001.html",
-      "recommendation": "Rejea kielezo namba 2 na kurekeisha",
+      "area": "Kielelezo namba 2",
+      "issue": "Maneno hayapo kwenye picha husika",
+      "reference": "9",
+      "recommendation": "Rekebisha maneno yakae kwenye picha husika",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -233,11 +217,11 @@
     },
     {
       "matrix_item": 15,
-      "area": "Kazi ya kufanya namba 2",
-      "issue": "Matamshi ya kazi ya kufanya namba 2 hayapo sawa uk 10",
-      "reference": "pg009_sec001.html",
-      "recommendation": "Rejea sauti kielezo namba 2",
-      "category": "audio_pronunciation",
+      "area": "Ukurasa 9",
+      "issue": "Kuwepo kwa swali moja (mlo kamili)",
+      "reference": "9",
+      "recommendation": "Rejea ukurasa wa -9",
+      "category": "content_correction",
       "status": "pending",
       "files": [
         "pg009_sec001.html"
@@ -246,11 +230,11 @@
     },
     {
       "matrix_item": 16,
-      "area": "Kazi ya kufanya namba 2",
-      "issue": "Namba 2 imetawaja kwa lugha ya kiingereza",
-      "reference": "pg009_sec001.html",
-      "recommendation": "Rekebisha isome kwa Kiswahili",
-      "category": "audio_pronunciation",
+      "area": "Kielezo namba 2",
+      "issue": "Maelezo ya makundi ya vyakula hayapo kwenye picha yamejiandika chini",
+      "reference": "9",
+      "recommendation": "Rejea kielezo namba 2 na kurekeisha",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg009_sec001.html"
@@ -259,10 +243,10 @@
     },
     {
       "matrix_item": 17,
-      "area": "Matamshi yasiyo sahihi",
-      "issue": "Matamshi yasio sahihi “nyegere”uk 11",
-      "reference": "pg010_sec001.html",
-      "recommendation": "Isomeke njegere",
+      "area": "Kazi ya kufanya namba 2",
+      "issue": "Matamshi ya kazi ya kufanya namba 2 hayapo",
+      "reference": "9",
+      "recommendation": "Rejea sauti kielezo namba 2",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -272,11 +256,11 @@
     },
     {
       "matrix_item": 18,
-      "area": "Kielezo namba 4",
-      "issue": "Matamshi yasio sahihi “kielelezo “namba 4” uk 11",
-      "reference": "pg010_sec001.html",
-      "recommendation": "Namba nne isomeke vizuri",
-      "category": "figure_accessibility",
+      "area": "Kazi ya kufanya namba 2",
+      "issue": "Namba 2 imetawaja kwa lugha ya kiingereza",
+      "reference": "9",
+      "recommendation": "Rekebisha isome kwa Kiswahili",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg010_sec001.html"
@@ -285,10 +269,10 @@
     },
     {
       "matrix_item": 19,
-      "area": "Kielezo namba 4",
-      "issue": "Activity namba 3 imetaja 2, 2 mara mbili uk 12",
-      "reference": "pg011_sec001.html",
-      "recommendation": "Irekebiswe isome namba mbili",
+      "area": "Matamshi yasiyo sahihi",
+      "issue": "Matamshi yasio sahihi “nyegere”",
+      "reference": "10",
+      "recommendation": "Isomeke njegere",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -298,10 +282,10 @@
     },
     {
       "matrix_item": 20,
-      "area": "Kieleelzo namba 6",
-      "issue": "Kinatamkwa namba sax badala ya namba sita uk 14",
-      "reference": "pg012_sec001.html",
-      "recommendation": "Kitamkwe namba kielelezo namba sita (6)",
+      "area": "Kielezo namba 4",
+      "issue": "Matamshi yasio sahihi “kielelezo “namba 4” uk 10",
+      "reference": "10",
+      "recommendation": "Namba nne isomeke vizuri",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -311,11 +295,11 @@
     },
     {
       "matrix_item": 21,
-      "area": "Kieleelzo namba 7",
-      "issue": "Kinatamkwa namba seba badala ya namba sit auk 15",
-      "reference": "pg013_sec001.html",
-      "recommendation": "Kitamkwe namba kielelezo namba saba (7)",
-      "category": "figure_accessibility",
+      "area": "Kazi ya kufanya namba 3",
+      "issue": "Activity namba 3 imetaja 2, 2 mara mbili",
+      "reference": "11",
+      "recommendation": "Irekebiswe isome namba mbili",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg013_sec001.html"
@@ -324,11 +308,11 @@
     },
     {
       "matrix_item": 22,
-      "area": "Kielelezo namba 8",
-      "issue": "Kielelezo namba 8 kinatamkwa “ kielelezo namba” ata” uk 16",
-      "reference": "pg014_sec001.htm",
-      "recommendation": "Rekebisha kitamkwe namba nane",
-      "category": "figure_accessibility",
+      "area": "Mlo kamili",
+      "issue": "Maneno maziwa , njegere hayajatamkwa vizuri uk 12",
+      "reference": "12.",
+      "recommendation": "Rekebisha matamshi hayo",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg014_sec001.html"
@@ -337,10 +321,10 @@
     },
     {
       "matrix_item": 23,
-      "area": "Kielelezo namba 8",
-      "issue": "Maelezo yameingia ndani ya mchoro uk 16",
-      "reference": "pg014_sec001.htm",
-      "recommendation": "Yarekebishe yawe nje ya mchoro",
+      "area": "Kieleelzo namba 6",
+      "issue": "Kinatamkwa namba sax badala ya namba sita Pia kinatakundi moja la vyakula “vyakula vya kujenga mwili alafu kinasoma kilelezo namba 6…. badala ya kuendelea kutaja aina nyingine ya vyakula",
+      "reference": "12",
+      "recommendation": "Kitamkwe namba kielelezo namba sita (6) Rekebisha itaje aina yote ya vyakula alafu isome kielezo namba 6",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -350,11 +334,11 @@
     },
     {
       "matrix_item": 24,
-      "area": "Kielelezo namba 9",
-      "issue": "Kielelezo namba 9 kinasoma namba nine badala ya tisa uk 18",
-      "reference": "pg015_sec001.html",
-      "recommendation": "Rekebisha itamkwe namba tisa",
-      "category": "figure_accessibility",
+      "area": "Maneno ya kwenye foot note",
+      "issue": "Kuna maneno ya “for online reading only”",
+      "reference": "Foot note",
+      "recommendation": "Ondoa maneno hayo chini ya ukurasa",
+      "category": "content_correction",
       "status": "pending",
       "files": [
         "pg015_sec001.html"
@@ -363,11 +347,11 @@
     },
     {
       "matrix_item": 25,
-      "area": "Kazi ya kufanya namba 4",
-      "issue": "Namba 4 inasoma nine uk 18",
-      "reference": "pg015_sec001.html",
-      "recommendation": "Rekebisha itamkwe namba nne",
-      "category": "audio_pronunciation",
+      "area": "Kieleelzo namba 7",
+      "issue": "Kinatamkwa namba seba badala ya namba saba",
+      "reference": "13",
+      "recommendation": "Kitamkwe namba kielelezo namba saba (7)",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg015_sec001.html"
@@ -376,10 +360,10 @@
     },
     {
       "matrix_item": 26,
-      "area": "Kielelzo namba namba 10",
-      "issue": "Kukosekana kwa neno “kianaeleza” uk 19",
-      "reference": "pg016_sec001.html",
-      "recommendation": "Ongeza neno “ kinaeleza” isomeke” kielelezo namba 10 kinaonesha/kinaonesha…..\"",
+      "area": "Kielelezo namba 8",
+      "issue": "Kielelezo namba 8 kinatamkwa “ kielelezo namba” ata”",
+      "reference": "14",
+      "recommendation": "Rekebisha kitamkwe namba nane",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -389,11 +373,11 @@
     },
     {
       "matrix_item": 27,
-      "area": "Zoezi namba 1",
-      "issue": "Zoezi lnamba moja , matamshi yanasoma namba “uno” Uk 19",
-      "reference": "pg016_sec001.html",
-      "recommendation": "itamkwe namba “moja “ badala ya namba uno",
-      "category": "audio_pronunciation",
+      "area": "Kielelezo namba 8",
+      "issue": "Maelezo yameingia ndani ya mchoro",
+      "reference": "16",
+      "recommendation": "Yarekebishe yawe nje ya mchoro",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg016_sec001.html"
@@ -402,12 +386,12 @@
     },
     {
       "matrix_item": 28,
-      "area": "Zoezi namba 1",
-      "issue": "Kukosekana katika sehemu ya kujibu zoezi namba 1 uk 19",
-      "reference": "pg016_sec001.html",
-      "recommendation": "Weka sehemu ya kujibu zoezi namba 1",
-      "category": "answer_space",
-      "status": "hold_user_instruction",
+      "area": "Maelezo chini ya kielelezo namba 8",
+      "issue": "Katika maelezo ya watu wanaofanya kazi …….maji ya kutosha inatamka maji ya “kuosha”",
+      "reference": "14",
+      "recommendation": "Rekebisha sauti itamkwe “naji ya kutisha”",
+      "category": "figure_accessibility",
+      "status": "pending",
       "files": [
         "pg016_sec001.html"
       ],
@@ -415,10 +399,10 @@
     },
     {
       "matrix_item": 29,
-      "area": "Kielelezo nmaba 11",
-      "issue": "Kielezo hiki kinatamkwa “kielelezo namba 18 wakati ni kielelezo namba 11 uk 20",
-      "reference": "pg017_sec001.html",
-      "recommendation": "Kielelzo hiki kitamkwe namba 18",
+      "area": "Kielelezo namba 9",
+      "issue": "Kielelezo namba 9 kinasoma namba nine badala ya tisa",
+      "reference": "14",
+      "recommendation": "Rekebisha itamkwe namba tisa",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -428,23 +412,10 @@
     },
     {
       "matrix_item": 30,
-      "area": "Option ya tuma",
-      "issue": "Kuna option ya kutuma wakati hakuna zoezi uk 23",
-      "reference": "pg019_sec001.html",
-      "recommendation": "Ioption ya tuma iondolewe",
-      "category": "content_correction",
-      "status": "pending",
-      "files": [
-        "pg019_sec001.html"
-      ],
-      "missing_files": []
-    },
-    {
-      "matrix_item": 31,
-      "area": "Kazi ya kufanya namba 5",
-      "issue": "Namba za kazi ya kufanya zinatamkwa kwa kiingereza uk 23",
-      "reference": "pg019_sec001.html",
-      "recommendation": "Rekebisha itamkwe kwa kiingereza",
+      "area": "Kazi ya kufanya namba 4",
+      "issue": "Namba 4 inasoma nine",
+      "reference": "15",
+      "recommendation": "Rekebisha itamkwe namba nne",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -453,11 +424,24 @@
       "missing_files": []
     },
     {
+      "matrix_item": 31,
+      "area": "Kielelzo namba namba 10",
+      "issue": "Kukosekana kwa neno “kianaeleza”",
+      "reference": "16",
+      "recommendation": "Ongeza neno “ kinaeleza” isomeke” kielelezo namba 10 kinaonesha/kinaonesha…..\"",
+      "category": "figure_accessibility",
+      "status": "pending",
+      "files": [
+        "pg019_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
       "matrix_item": 32,
-      "area": "Kazi ya kufanya namba 6",
-      "issue": "Option ya kutuma wakati hakuna zoezi uk 23",
-      "reference": "pg019_sec001.html",
-      "recommendation": "Ondoa",
+      "area": "Kielelzo namba namba 10",
+      "issue": "Kielelzo namba 10 kinasoma vyakula vya kulinda mwili alafu kinasoma kelelezo namaba 10 alafu kinamalizia vyakula vya kuupa mwili nguvu alafu vyakula vya kujenga mwili",
+      "reference": "16",
+      "recommendation": "Rekebisha isome vyakula vyote alafu ndio isome kilelezo namba 10……",
       "category": "content_correction",
       "status": "pending",
       "files": [
@@ -467,11 +451,11 @@
     },
     {
       "matrix_item": 33,
-      "area": "Kazi ya kufanya namba 7",
-      "issue": "Option ya kutuma wakati hakuna zoezi uk 24",
-      "reference": "pg020_sec001.html",
-      "recommendation": "Ondoa",
-      "category": "content_correction",
+      "area": "Zoezi namba 1",
+      "issue": "Zoezi lnamba moja , matamshi yanasoma namba “uno”",
+      "reference": "16",
+      "recommendation": "itamkwe namba “moja “ badala ya namba uno",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg020_sec001.html"
@@ -480,11 +464,11 @@
     },
     {
       "matrix_item": 34,
-      "area": "Haya ya Usafi wa mazingira",
-      "issue": "Kwenye haya ya usafi wa mazingira imetamka “usafi wa mazira” mazingaya” uk 25",
-      "reference": "pg021_sec001.html",
-      "recommendation": "Itamkwe usafi wa mazingira",
-      "category": "audio_pronunciation",
+      "area": "Zoezi namba 1",
+      "issue": "Kukosekana katika sehemu ya kujibu zoezi namba 1",
+      "reference": "16",
+      "recommendation": "Weka sehemu ya kujibu zoezi namba 1",
+      "category": "answer_space",
       "status": "pending",
       "files": [
         "pg021_sec001.html"
@@ -493,10 +477,10 @@
     },
     {
       "matrix_item": 35,
-      "area": "Haya ya Usafi wa mazingira",
-      "issue": ",Kwenye haya ya usafi wa mazingira imetamka “usafi wa mazira” mazingaya” uk 26",
-      "reference": "pg022_sec001.html",
-      "recommendation": "Itamkwe usafi wa mazingira",
+      "area": "Zoezi namba 1",
+      "issue": "Swali namba 4 linatamkwa four four swali namba tano linatamkwa namba five",
+      "reference": "17",
+      "recommendation": "Rekebisha itamkwe namba nne Namba five itamkwe namba tano",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -506,11 +490,11 @@
     },
     {
       "matrix_item": 36,
-      "area": "Kazi ya kufanya namba 8",
-      "issue": "Imetamkwa kazi ya kufanya namba “eto” badala ya namba 8 uk 26",
-      "reference": "pg022_sec001.html",
-      "recommendation": "Itamkwe kazi ya kufanya namba nane “8”",
-      "category": "audio_pronunciation",
+      "area": "Kielelezo namba 11",
+      "issue": "Kielezo hiki kinatamkwa “kielelezo namba 18 wakati ni kielelezo namba 11 kwenye caption inatamkwa :kumi ya tine”",
+      "reference": "17",
+      "recommendation": "Kielelezo hiki kitamkwe namba 11 Rekebisha istamkwe kuimi na moja",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg022_sec001.html"
@@ -519,10 +503,10 @@
     },
     {
       "matrix_item": 37,
-      "area": "Haya ya alama za onyo",
-      "issue": "Sentensi inaanzia “zina umbo la pembe tatu” hazitamkwi vizuri uk 27",
-      "reference": "pg023_sec001.htm",
-      "recommendation": "Irekebishwe eneo hilo",
+      "area": "Kazi ya kufanya namba 5",
+      "issue": "Namba za kazi ya kufanya inatamkwa namba tatu badala ya 5",
+      "reference": "17",
+      "recommendation": "Rekebisha itamkwe namba tano",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -532,11 +516,11 @@
     },
     {
       "matrix_item": 38,
-      "area": "Kielezo namba 13",
-      "issue": "Hakijatamkwa vizuri kinatamkwa kielezo notesamba” uk 27",
-      "reference": "pg023_sec001.htm",
-      "recommendation": "Kirekebiswe matamshi kisomeke “kielelezo namba kumi na tatu” (13)",
-      "category": "figure_accessibility",
+      "area": "Faina na madhara",
+      "issue": "Aina ya maandishi hayafanani na kwingine",
+      "reference": "18",
+      "recommendation": "rekebisha",
+      "category": "content_correction",
       "status": "pending",
       "files": [
         "pg023_sec001.html"
@@ -545,10 +529,10 @@
     },
     {
       "matrix_item": 39,
-      "area": "Kielezo namba 13",
-      "issue": "Caption ya kielezo namba 13 kinatamkwa “teniteto” uk 27",
-      "reference": "pg023_sec001.htm",
-      "recommendation": "Matamshi yabadilishwe yasomeke “kieleezo namba kumi na tatu (13)",
+      "area": "Kazi ya kufanya namba 7",
+      "issue": "Namba za kazi ya kufanya zinatamkwa kwa lugha ya kiingereza",
+      "reference": "20",
+      "recommendation": "Rekebisha zitamkwe kwa kiingereza",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -558,12 +542,12 @@
     },
     {
       "matrix_item": 40,
-      "area": "Kazi ya kufanya namba 10",
-      "issue": "Kazi ya kufanya namba 10 hairuhusi kujibu uk 27",
-      "reference": "pg023_sec001.htm",
-      "recommendation": "Kurekebisha Mfumo uweze kuruhusu uingizaji wa majibu kwa No 10",
-      "category": "answer_space",
-      "status": "hold_user_instruction",
+      "area": "Haya ya Usafi wa mazingira",
+      "issue": "Kwenye haya ya usafi wa mazingira imetamka “usafi wa mazira” mazingaya”",
+      "reference": "21",
+      "recommendation": "Itamkwe usafi wa mazingira",
+      "category": "audio_pronunciation",
+      "status": "pending",
       "files": [
         "pg023_sec001.html"
       ],
@@ -571,10 +555,10 @@
     },
     {
       "matrix_item": 41,
-      "area": "Alama za kuzia au kukataza",
-      "issue": "Kielezo namba 14 kinatamkwa kielezo namba 18 uk 29",
-      "reference": "pg024_sec001.html",
-      "recommendation": "Rekebisha kitamkwe kielezo namba kumi nan ne “14)",
+      "area": "Haya ya Usafi wa mazingira",
+      "issue": ",Kwenye haya ya usafi wa mazingira imetamka “usafi wa mazira” mazingaya”",
+      "reference": "21",
+      "recommendation": "Itamkwe usafi wa mazingira",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -584,10 +568,10 @@
     },
     {
       "matrix_item": 42,
-      "area": "Caption ya kielezo namba 14",
-      "issue": "Kielezo hiki kinatamkwa namba 12 badala ya namba 14 uk 29",
-      "reference": "pg024_sec001.html",
-      "recommendation": "Rekebisha kitamkwe kielezo namba kumi nan ne (14)",
+      "area": "Kazi ya kufanya namba 8",
+      "issue": "Imetamkwa kazi ya kufanya namba “eto” badala ya namba 8",
+      "reference": "22",
+      "recommendation": "Itamkwe kazi ya kufanya namba nane “8”",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -597,11 +581,11 @@
     },
     {
       "matrix_item": 43,
-      "area": "Alama za dharura",
-      "issue": "Kielezo namba 15 kinatamkwa kielelezo namba 18 uk 30",
-      "reference": "pg025_sec001.htm",
-      "recommendation": "Rekebisha kitamkwe kielezo namba 15",
-      "category": "figure_accessibility",
+      "area": "Haya ya alama za onyo",
+      "issue": "Sentensi inaanzia “zina umbo la pembe tatu” hazitamkwi vizuri",
+      "reference": "22",
+      "recommendation": "Irekebishwe eneo hilo",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg025_sec001.html"
@@ -610,10 +594,10 @@
     },
     {
       "matrix_item": 44,
-      "area": "Kazi ya kufanya namba 11",
-      "issue": "Kinatamkwa kazi ya kufanya namba 18 badala ya kielelezo namba 11 uk 30",
-      "reference": "pg025_sec001.htm",
-      "recommendation": "Rekebisha kitamkwe kielezo namba 11",
+      "area": "Kielezo namba 13",
+      "issue": "Hakijatamkwi vizuri kinatamkwa kielezo notesamba”",
+      "reference": "23",
+      "recommendation": "Kirekebiswe matamshi kisomeke “kielelezo namba kumi na tatu” (13)",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -623,10 +607,10 @@
     },
     {
       "matrix_item": 45,
-      "area": "Kazi ya kufanya namba 11",
-      "issue": "Inatamkwa namba ya kufanya namba 11 inatakwa kazi ya kufanya namba 15",
-      "reference": "pg025_sec001.htm",
-      "recommendation": "Rekebisha kitamkwe kielezo namba 11",
+      "area": "Kielezo namba 13",
+      "issue": "Caption ya kielezo namba 13 kinatamkwa “teniteto”",
+      "reference": "23",
+      "recommendation": "Matamshi yabadilishwe yasomeke “kieleezo namba kumi na tatu (13)",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -636,12 +620,12 @@
     },
     {
       "matrix_item": 46,
-      "area": "Kazi ya kufanya namba 11",
-      "issue": "Kazi ya kufanya namba 11 Hairuhusu kujibu.uk 30",
-      "reference": "pg025_sec001.htm",
-      "recommendation": "Kurekebisha mfumo uweze kuruhusu uingizaji wa majibu kwa No 11",
+      "area": "Kazi ya kufanya namba 10",
+      "issue": "Kazi ya kufanya namba 10 hairuhusi kujibu",
+      "reference": "25",
+      "recommendation": "Kurekebisha Mfumo uweze kuruhusu uingizaji wa majibu kwa No 10",
       "category": "answer_space",
-      "status": "hold_user_instruction",
+      "status": "pending",
       "files": [
         "pg025_sec001.html"
       ],
@@ -649,12 +633,12 @@
     },
     {
       "matrix_item": 47,
-      "area": "Kazi ya kufanya namba 12",
-      "issue": "Kazi ya kufanya namba 12, Hairuhusu kujibu.uk 31",
-      "reference": "pg026_sec001.html",
-      "recommendation": "Kurekebisha/kuweka sehemu ya kujibia Kazi ya kufanya namba 12",
-      "category": "answer_space",
-      "status": "hold_user_instruction",
+      "area": "Kielelezo namba 16",
+      "issue": "Kielezo namba 16 kinatamkwa namba “ by namu” badala ya kumi na sita",
+      "reference": "26",
+      "recommendation": "Rekebisha kitamkwe “kielelezo namba “kumi na sita”",
+      "category": "figure_accessibility",
+      "status": "pending",
       "files": [
         "pg026_sec001.html"
       ],
@@ -662,25 +646,27 @@
     },
     {
       "matrix_item": 48,
-      "area": "Kazi ya kufanya namba 16",
-      "issue": "Kinatamkwa kielelezo namba “bynam” badala ya kieleezo namba 16 uk32",
-      "reference": "adt/qz006.html",
-      "recommendation": "Rekebisha itamkwe kielezo namba 16",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Alama za kuzuia au kukataza",
+      "issue": "Kielezo namba 14 kinatamkwa kielezo namba 18",
+      "reference": "24",
+      "recommendation": "Rekebisha kitamkwe kielezo namba kumi nan ne “14)",
+      "category": "audio_pronunciation",
+      "status": "pending",
       "files": [
         "qz006.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz006.html"
+      ]
     },
     {
       "matrix_item": 49,
-      "area": "Zoezi namba 2",
-      "issue": "Hakuna sehemu ya kujaza majibu ina tuma tu na pia zoezi limechanganyika matamshi uk 33",
-      "reference": "pg027_sec001.html",
-      "recommendation": "Weka sehemu ya kuweka majibu na lirekebishwe zoezi zima kwenye matamshi",
-      "category": "answer_space",
-      "status": "hold_user_instruction",
+      "area": "Caption ya kielezo namba 14",
+      "issue": "Kielezo hiki kinatamkwa namba 12 badala ya namba 14",
+      "reference": "24",
+      "recommendation": "Rekebisha kitamkwe kielezo namba kumi nan ne (14)",
+      "category": "audio_pronunciation",
+      "status": "pending",
       "files": [
         "pg027_sec001.html"
       ],
@@ -688,12 +674,12 @@
     },
     {
       "matrix_item": 50,
-      "area": "Zoezi namba 2",
-      "issue": "Zoezi namba 2 halina sehemu ya kujibu swali uk 33",
-      "reference": "pg027_sec001.html",
-      "recommendation": "Kurekebisha zoezi namba 2 liweze kujibika na kupokea majibu.",
-      "category": "answer_space",
-      "status": "hold_user_instruction",
+      "area": "Kielezo namba 15",
+      "issue": "Kielezo namba 15 kinatamkwa kielelezo namba 18",
+      "reference": "25",
+      "recommendation": "Rekebisha kitamkwe kielezo namba 15",
+      "category": "figure_accessibility",
+      "status": "pending",
       "files": [
         "pg027_sec001.html"
       ],
@@ -701,11 +687,11 @@
     },
     {
       "matrix_item": 51,
-      "area": "Kielelezo namba 18",
-      "issue": "Kielezo namba 18 kinatamkwa “ekonane” badala ya kumi na nane uk 34",
-      "reference": "pg028_sec001.html",
-      "recommendation": "Rekebisha itamkwe kielezo namba 18",
-      "category": "figure_accessibility",
+      "area": "Kazi ya kufanya namba 11",
+      "issue": "Kinatamkwa kazi ya kufanya namba 18 badala kazi ya kufanya namba 11",
+      "reference": "25",
+      "recommendation": "Rekebisha kitamkwe kielezo namba 11",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg028_sec001.html"
@@ -714,11 +700,11 @@
     },
     {
       "matrix_item": 52,
-      "area": "kielezo namba 19",
-      "issue": "Kinatamkwa “kumi nan” badala ya kumi na nane uk 35",
-      "reference": "pg029_sec001.html",
-      "recommendation": "Rekebisha kitamkwe kielelezo 19",
-      "category": "figure_accessibility",
+      "area": "Kazi ya kufanya namba 11",
+      "issue": "Inatamkwa namba ya kufanya namba 11 inatakwa kazi ya kufanya namba 15",
+      "reference": "25",
+      "recommendation": "Rekebisha kitamkwe kielezo namba 11",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg029_sec001.html"
@@ -727,11 +713,11 @@
     },
     {
       "matrix_item": 53,
-      "area": "Caption ya kielelezo namba 19",
-      "issue": "Kileezo namba 19 kinatamkwa “kumi nane” badala ya kumi na tisa uk 35",
-      "reference": "pg029_sec001.html",
-      "recommendation": "Rekebisha kitamkwe kumi na tisa",
-      "category": "figure_accessibility",
+      "area": "Kazi ya kufanya namba 11",
+      "issue": "Kazi ya kufanya namba 11 Hairuhusu kujibu.",
+      "reference": "25",
+      "recommendation": "Kurekebisha mfumo uweze kuruhusu uingizaji wa majibu kwa No 11",
+      "category": "answer_space",
       "status": "pending",
       "files": [
         "pg029_sec001.html"
@@ -740,11 +726,11 @@
     },
     {
       "matrix_item": 54,
-      "area": "Kielelezo namba 19 (ndani ya maeleoz”",
-      "issue": "Kinatamkwa kielezo namba “ichini” badala ya kumi na tisa uk 36",
-      "reference": "pg030_sec001.html",
-      "recommendation": "Rekebisha kitamkwe kielezo namba 19",
-      "category": "figure_accessibility",
+      "area": "Kazi ya kufanya namba 12",
+      "issue": "Kazi ya kufanya namba 12, Hairuhusu kujibu.uk 31",
+      "reference": "26",
+      "recommendation": "Kurekebisha/kuweka sehemu ya kujibia Kazi ya kufanya namba 12",
+      "category": "answer_space",
       "status": "pending",
       "files": [
         "pg030_sec001.html"
@@ -753,11 +739,11 @@
     },
     {
       "matrix_item": 55,
-      "area": "Kazi ya kufanya 13",
-      "issue": "Inatamkwa kazi ya kufanya namba “trimia tano” uk 36",
-      "reference": "pg030_sec001.html",
-      "recommendation": "Rekebisha itamkwe kazi ya kufanya namba 13",
-      "category": "audio_pronunciation",
+      "area": "Kilelezo namba 16",
+      "issue": "Kielelezo namba 16 kinatamkwa kielelzo nmamba by nam",
+      "reference": "26",
+      "recommendation": "Rekebisha kiitamkwe kielezo namba kumi na sita",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg030_sec001.html"
@@ -766,12 +752,12 @@
     },
     {
       "matrix_item": 56,
-      "area": "Zoezi ya marudio",
-      "issue": "Hakuna sehemu ya kujaza uk 38",
-      "reference": "pg031_sec001.html",
-      "recommendation": "Eka sehemu ya kujaza",
-      "category": "answer_space",
-      "status": "hold_user_instruction",
+      "area": "Muda wa bidhaa",
+      "issue": "Matumizi imetamkwa “matumi”",
+      "reference": "28",
+      "recommendation": "Matumi itamkwe matumizi",
+      "category": "audio_pronunciation",
+      "status": "pending",
       "files": [
         "pg031_sec001.html"
       ],
@@ -779,11 +765,11 @@
     },
     {
       "matrix_item": 57,
-      "area": "Zoezi la marudio",
-      "issue": "“c: hatamkwi katika swali namba 2, 3, 4 uk 38",
-      "reference": "pg031_sec001.html",
-      "recommendation": "Rekebisha ili yatamkwe",
-      "category": "audio_pronunciation",
+      "area": "Kielelezo namba 17",
+      "issue": "Kielelzo hiki kinatamkwa tarahe ya kuchotora mara mbili na kimeandikwa mara mbili",
+      "reference": "28",
+      "recommendation": "Ondoa maneno yaliyojirudia",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg031_sec001.html"
@@ -792,11 +778,11 @@
     },
     {
       "matrix_item": 58,
-      "area": "Swali namba 6",
-      "issue": "Namba 6 imerudiwa mara mbili uk 39",
-      "reference": "pg032_sec001.htm",
-      "recommendation": "Rekebisha itamkwe mara moja",
-      "category": "audio_pronunciation",
+      "area": "Kilelezo namba 18",
+      "issue": "Kwenye malelzo kinatamka kieleeloz namba ata nane",
+      "reference": "28",
+      "recommendation": "Rekebisha itamkwe kielelezo namba kumi na nane",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg032_sec001.html"
@@ -805,10 +791,10 @@
     },
     {
       "matrix_item": 59,
-      "area": "Swali 1-13",
-      "issue": "Namba zimetamkwa kwa lugha mbili tofauti uk 39",
-      "reference": "pg032_sec001.htm",
-      "recommendation": "Rekebisha zisomeke kwa lugha ya Kiswahili",
+      "area": "Kilelezo namab 18 caption",
+      "issue": "Caption ya kielelzo namba 18 kinatamkwa namba ambile",
+      "reference": "29",
+      "recommendation": "Rekebisha kitamkwe namba kumi na nane",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -818,10 +804,10 @@
     },
     {
       "matrix_item": 60,
-      "area": "Masamiati",
-      "issue": "Neno msamiati imetamkwa “samiati” uk 41",
-      "reference": "pg034_sec001.html",
-      "recommendation": "Rekebisha Itamkwe “msamiati",
+      "area": "Kilelelezo namba 19",
+      "issue": "Kilelezo namba 19 kinatamkwa vibaya",
+      "reference": "29",
+      "recommendation": "Rekebisha kitamkwe kumi na tisa",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -831,10 +817,10 @@
     },
     {
       "matrix_item": 61,
-      "area": "Fikiri",
-      "issue": "Fikiri sauti imejirudia mara 2 uk 42",
-      "reference": "pg035_sec001.html",
-      "recommendation": "Rekebisha iwe mara moja",
+      "area": "Kazi ya kufanya 13",
+      "issue": "Inatamkwa kazi ya kufanya namba “trimia tano”",
+      "reference": "30",
+      "recommendation": "Rekebisha itamkwe kazi ya kufanya namba 13",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -844,11 +830,11 @@
     },
     {
       "matrix_item": 62,
-      "area": "Zoezi namba 1",
-      "issue": "Limetamkwa zoezi namba “uno” uk 44",
-      "reference": "pg036_sec001.html",
-      "recommendation": "Rekebisha itamkwe zoezi namba moja",
-      "category": "audio_pronunciation",
+      "area": "Zoezi ya marudio",
+      "issue": "Hakuna sehemu ya kujaza",
+      "reference": "30",
+      "recommendation": "Eka sehemu ya kujaza",
+      "category": "answer_space",
       "status": "pending",
       "files": [
         "pg036_sec001.html"
@@ -857,10 +843,10 @@
     },
     {
       "matrix_item": 63,
-      "area": "Zoezi namba 1",
-      "issue": "Imetamkwa zoezi namba one badala ya namba moja 44",
-      "reference": "pg036_sec001.html",
-      "recommendation": "Rekebisha itamkwe zoezi namba moja",
+      "area": "Zoezi la marudio",
+      "issue": "“c: hatamkwi katika swali namba 2, 3, 4 uk 38",
+      "reference": "31",
+      "recommendation": "Rekebisha ili yatamkwe",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -870,10 +856,10 @@
     },
     {
       "matrix_item": 64,
-      "area": "Kazi ya kufanya namba 1",
-      "issue": "Imetamkwa kazi ya kufanya namba one uk 44",
-      "reference": "pg036_sec001.html",
-      "recommendation": "Rekebisha itamkwe kazi ya kufanya namba moja",
+      "area": "Swali 3",
+      "issue": "Sawali la 3 halitamkwi a, b, c, d",
+      "reference": "31",
+      "recommendation": "Rekebisha zitamkwe",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -883,11 +869,11 @@
     },
     {
       "matrix_item": 65,
-      "area": "Magonjwa ya kuambukiza",
-      "issue": "Kuna sentensi imeishia ,,,ugonjwa wa virusi vya….haikumalizia na zoezi la kamilisha uk 44",
-      "reference": "pg036_sec001.html",
-      "recommendation": "Rejea original textbook uk 30, 31, 32",
-      "category": "content_correction",
+      "area": "Swali namba 5",
+      "issue": "Namba 5 imerudiwa mara",
+      "reference": "31",
+      "recommendation": "Rekebisha itamkwe mara moja",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg036_sec001.html"
@@ -896,11 +882,11 @@
     },
     {
       "matrix_item": 66,
-      "area": "Zoezi la uk 44",
-      "issue": "Halipo katika mpangilio uk 44",
-      "reference": "pg036_sec001.html",
-      "recommendation": "Liweke katika mpangilio",
-      "category": "layout_order",
+      "area": "Swali 1-13",
+      "issue": "Namba zimetamkwa kwa lugha mbili tofauti Maswali mengine ayasomi kweli / sikweli hakuna sauti",
+      "reference": "32",
+      "recommendation": "Rekebisha zisomeke kwa lugha ya Kiswahili",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg036_sec001.html"
@@ -909,10 +895,10 @@
     },
     {
       "matrix_item": 67,
-      "area": "UVIKO 19",
-      "issue": "Imetamkwa “UVIKO kumi nini” uk 45",
-      "reference": "pg037_sec001.htm",
-      "recommendation": "Litamkwe Uviko kumi na tisa",
+      "area": "Masamiati",
+      "issue": "Neno msamiati imetamkwa “samiati”",
+      "reference": "34",
+      "recommendation": "Rekebisha Itamkwe “msamiati",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -922,11 +908,11 @@
     },
     {
       "matrix_item": 68,
-      "area": "Kielelezo namba 1",
-      "issue": "Maelezo ya kwenye picha yapo mbali na na picha (rejea uk31 original text book) uk 45",
-      "reference": "pg037_sec001.htm",
-      "recommendation": "Rekebisha kulingana na original textbook",
-      "category": "figure_accessibility",
+      "area": "Fikiri",
+      "issue": "Fikiri sauti imejirudia mara 2",
+      "reference": "35",
+      "recommendation": "Rekebisha iwe mara moja",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg037_sec001.html"
@@ -935,11 +921,11 @@
     },
     {
       "matrix_item": 69,
-      "area": "Kielelezo namba 1",
-      "issue": "Kelelezo hiki kimetamkwa kielelezo namba “uno”uk 45",
-      "reference": "pg037_sec001.htm",
-      "recommendation": "Rekebisha kitamkwe kielelezo namba moja",
-      "category": "figure_accessibility",
+      "area": "Zoezi namba 1",
+      "issue": "Limetamkwa zoezi namba “uno”",
+      "reference": "35",
+      "recommendation": "Rekebisha itamkwe zoezi namba moja",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg037_sec001.html"
@@ -948,10 +934,10 @@
     },
     {
       "matrix_item": 70,
-      "area": "Namna ya kuzia malaria",
-      "issue": "Sehemu hii neno uchunguzi limetamkwa “uchumbuzi”",
-      "reference": "46",
-      "recommendation": "Rekebisha lisomeke “uchunguzi”",
+      "area": "Zoezi namba 1",
+      "issue": "Imetamkwa zoezi namba one badala ya namba moja",
+      "reference": "35",
+      "recommendation": "Rekebisha itamkwe zoezi namba moja",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [],
@@ -959,10 +945,10 @@
     },
     {
       "matrix_item": 71,
-      "area": "Zoezi namba 2",
-      "issue": "Linatamkwa zozi namba two badala ya zoezi namba mbili uk 46",
-      "reference": "4pg038_sec001.html",
-      "recommendation": "Rekebisha itamkwe zoezi namba mbili",
+      "area": "Kazi ya kufanya namba 1",
+      "issue": "Imetamkwa kazi ya kufanya namba one",
+      "reference": "35",
+      "recommendation": "Rekebisha itamkwe kazi ya kufanya namba moja",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -972,11 +958,11 @@
     },
     {
       "matrix_item": 72,
-      "area": "Kipindupindu",
-      "issue": "Neno kipindupindu linatamkwa “pindupindu” “zidi” linatamkwa zididi uk 46",
-      "reference": "pg038_sec001.html",
-      "recommendation": "Rekebisha itamkwe “kipindupindu” zididi litamkwe “zaid”",
-      "category": "audio_pronunciation",
+      "area": "Magonjwa ya kuambukiza",
+      "issue": "Kuna sentensi imeishia ,,,ugonjwa wa virusi vya….haikumalizia na zoezi la kamilisha uk 44",
+      "reference": "35",
+      "recommendation": "Rejea original textbook uk 30, 31, 32",
+      "category": "content_correction",
       "status": "pending",
       "files": [
         "pg038_sec001.html"
@@ -985,11 +971,11 @@
     },
     {
       "matrix_item": 73,
-      "area": "Kilelezo namba 2",
-      "issue": "Kielezo hiki kinamchanganyiko wa maeleozo ya picha (angalia original uk 33) uk 47",
-      "reference": "pg039_sec001.html",
-      "recommendation": "Rekebisha maelezo yaendane na picha husika",
-      "category": "figure_accessibility",
+      "area": "Zoezi la 1",
+      "issue": "Halipo katika mpangilio",
+      "reference": "36",
+      "recommendation": "Liweke katika mpangilio",
+      "category": "layout_order",
       "status": "pending",
       "files": [
         "pg039_sec001.html"
@@ -998,11 +984,11 @@
     },
     {
       "matrix_item": 74,
-      "area": "Caption ya kielelezo namba 3",
-      "issue": "Caption ya kielelezo namba 3Caption ya kielelezo namba 3 kinatamka namba three uk 49",
-      "reference": "pg040_sec001.htm",
-      "recommendation": "Rekebisha itamkwe kielelezo namba tatu",
-      "category": "figure_accessibility",
+      "area": "UVIKO 19",
+      "issue": "Imetamkwa “UVIKO kumi nini”",
+      "reference": "37",
+      "recommendation": "Litamkwe Uviko kumi na tisa",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg040_sec001.html"
@@ -1011,11 +997,11 @@
     },
     {
       "matrix_item": 75,
-      "area": "Zoezi namba 4",
-      "issue": "Zoezi namba 4 limerukwa (rejea original textbook uk35) uk 49",
-      "reference": "pg040_sec001.htm",
-      "recommendation": "Weka zoezi hinamba 4 kama original textbokk kinavyoonekena katika ukurasa husika",
-      "category": "content_correction",
+      "area": "Kielelezo namba 1",
+      "issue": "Maelezo ya kwenye picha yapo mbali na na picha (rejea uk31 original text book) na maneno yameingia ndani ya mchoro",
+      "reference": "37",
+      "recommendation": "Rekebisha kulingana na original textbook",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg040_sec001.html"
@@ -1024,10 +1010,10 @@
     },
     {
       "matrix_item": 76,
-      "area": "Kielelezo namba 3",
-      "issue": "Kielezo namba 3 kinatamkwa kielelezo namba three uk 49",
-      "reference": "pg040_sec001.htm",
-      "recommendation": "Rekebisha kitamkwe namba tatu",
+      "area": "Kielelezo namba 1",
+      "issue": "Kelelezo hiki kimetamkwa kielelezo namba “uno”uk",
+      "reference": "37",
+      "recommendation": "Rekebisha kitamkwe kielelezo namba moja",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -1037,11 +1023,11 @@
     },
     {
       "matrix_item": 77,
-      "area": "Ukurasa 50",
-      "issue": "Ukurasa wa 50 upo tupu(empty) uk 50",
-      "reference": "pg040_sec002.html",
-      "recommendation": "Rekebisha isiwe tupu",
-      "category": "content_correction",
+      "area": "Namna ya kuzia malaria",
+      "issue": "Sehemu hii neno uchunguzi limetamkwa “uchumbuzi”",
+      "reference": "37",
+      "recommendation": "Rekebisha lisomeke “uchunguzi”",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg040_sec002.html"
@@ -1050,11 +1036,11 @@
     },
     {
       "matrix_item": 78,
-      "area": "Zoezi la 54",
-      "issue": "Zoezi la 4 lipo ukurasa wa 51 badala y uk 49uk 51",
-      "reference": "pg041_sec001.html",
-      "recommendation": "Rekebisha zoezi hilo liwekwe uk 49 baada ya maelezo ya namna ya kuzia tetekuwanga",
-      "category": "content_correction",
+      "area": "Zoezi namba 2",
+      "issue": "Linatamkwa zozi namba two badala ya zoezi namba mbili",
+      "reference": "38",
+      "recommendation": "Rekebisha itamkwe zoezi namba mbili",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg041_sec001.html"
@@ -1063,10 +1049,10 @@
     },
     {
       "matrix_item": 79,
-      "area": "Zoezi namba 4",
-      "issue": "Zoezi namba 4 linatamkwa zoezi namba “omba”uk 51",
-      "reference": "pg041_sec001.html",
-      "recommendation": "Rekebisha litamkwe zoezi namba nne",
+      "area": "Kipindupindu",
+      "issue": "Neno kipindupindu linatamkwa “pindupindu” “zidi” linatamkwa zididi",
+      "reference": "39",
+      "recommendation": "Rekebisha itamkwe “kipindupindu” zididi litamkwe “zaid”",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1076,11 +1062,11 @@
     },
     {
       "matrix_item": 80,
-      "area": "Zoezi la 4",
-      "issue": "Zoezi la 4 limejirudia mara 3 angalia uk 51 na 52",
-      "reference": "pg041_sec001.htm",
-      "recommendation": "Liondolewa shemu isiyohusika Rejea uk34,35,36",
-      "category": "layout_order",
+      "area": "Kilelezo namba 2",
+      "issue": "Kielezo hiki kinamchanganyiko wa maeleozo ya picha (angalia original uk 33) na hayana mpangilio unaoeleweka",
+      "reference": "39",
+      "recommendation": "Rekebisha maelezo yaendane na picha husika",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg041_sec001.html"
@@ -1089,11 +1075,11 @@
     },
     {
       "matrix_item": 81,
-      "area": "Zoezi la 4",
-      "issue": "Zoezi la 4 limejirudia mara 3 angalia uk 51 na 52 uk 52",
-      "reference": "pg041_sec002.html",
-      "recommendation": "Liondolewa shemu isiyohusika Rejea uk34,35,36",
-      "category": "layout_order",
+      "area": "Zoezi namba 3",
+      "issue": "Namba zinatajwa kwa kiingrereza",
+      "reference": "40",
+      "recommendation": "Rekebisha zitamkwe kwa namba za kiswahili",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg041_sec002.html"
@@ -1102,11 +1088,11 @@
     },
     {
       "matrix_item": 82,
-      "area": "Zoezi namba 5",
-      "issue": "Zoezi namba 5 linatamkwa namba “chambo” badala ya tano uk 53",
-      "reference": "pg042_sec001.html",
-      "recommendation": "Rekebisha itamkwe zoezi namba tano",
-      "category": "audio_pronunciation",
+      "area": "Caption ya kielelezo namba 3",
+      "issue": "Caption ya kielelezo namba 3Caption ya kielelezo namba 3 kinatamka namba three",
+      "reference": "40",
+      "recommendation": "Rekebisha itamkwe kielelezo namba tatu",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg042_sec001.html"
@@ -1115,21 +1101,21 @@
     },
     {
       "matrix_item": 83,
-      "area": "Virusi vya ukimwi VVU",
-      "issue": "VVU inatamkwa “veve u” veve u”",
-      "reference": "53, 54, 55",
-      "recommendation": "Rekebisha itamkwe Vivi u",
-      "category": "audio_pronunciation",
+      "area": "Kielelezo namba 3",
+      "issue": "Kielezo namba 3 kinatamkwa kielelezo namba three",
+      "reference": "40",
+      "recommendation": "Rekebisha kitamkwe namba tatu",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [],
       "missing_files": []
     },
     {
       "matrix_item": 84,
-      "area": "Virusi vya ukimwi VVU",
-      "issue": "“watu wanoishi na VVU” badala ya “wanaoishi” uk 53",
-      "reference": "pg042_sec001.html",
-      "recommendation": "Rekebisha kuwa “watu wanaoishi na VVU.”",
+      "area": "Zoezi namba 4",
+      "issue": "Zoezi namba 4 limerukwa (rejea original textbook uk35)",
+      "reference": "41",
+      "recommendation": "Weka zoezi hinamba 4 kama original textbokk kinavyoonekena katika ukurasa husika",
       "category": "content_correction",
       "status": "pending",
       "files": [
@@ -1139,22 +1125,22 @@
     },
     {
       "matrix_item": 85,
-      "area": "Kielelezo namba 4",
-      "issue": "Kielezo namba 4 kinatamkwa kielezo namba 8 uk 54",
-      "reference": "043_sec001.html",
-      "recommendation": "Rekebisha itamkwe kielezo namba nne",
-      "category": "figure_accessibility",
+      "area": "Ukurasa 50",
+      "issue": "Ukurasa wa 50 upo tupu(empty) uk 50",
+      "reference": "43",
+      "recommendation": "Rekebisha isiwe tupu",
+      "category": "content_correction",
       "status": "pending",
       "files": [],
       "missing_files": []
     },
     {
       "matrix_item": 86,
-      "area": "Njia za maambukizi ya vvu",
-      "issue": "“c” Inatamkwa “ki” uk 55",
-      "reference": "pg044_sec001.html",
-      "recommendation": "Rekebisha itamkwe c",
-      "category": "audio_pronunciation",
+      "area": "Zoezi la 54",
+      "issue": "Zoezi la 4 lipo ukurasa wa 51 badala y uk 49uk 51",
+      "reference": "43",
+      "recommendation": "Rekebisha zoezi hilo liwekwe uk 49 baada ya maelezo ya namna ya kuzia tetekuwanga",
+      "category": "content_correction",
       "status": "pending",
       "files": [
         "pg044_sec001.html"
@@ -1163,10 +1149,10 @@
     },
     {
       "matrix_item": 87,
-      "area": "Zoezi namba 6",
-      "issue": "Zoezi namba 6 inatamkwa zoezi namba sosi Uk 56",
-      "reference": "pg044_sec001.html",
-      "recommendation": "Rekebisha itamkwe zoezi namba sita",
+      "area": "Zoezi namba 4",
+      "issue": "Zoezi namba 4 linatamkwa zoezi namba “omba”uk 51",
+      "reference": "43",
+      "recommendation": "Rekebisha litamkwe zoezi namba nne",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1176,11 +1162,11 @@
     },
     {
       "matrix_item": 88,
-      "area": "Saratani",
-      "issue": "Sauti katika haya ya saratani haijamalizia kutamkwa “uitwa saratani,”,,,,,,uk 56",
-      "reference": "pg045_sec001.html",
-      "recommendation": "Rejea na sauti imalizie kutamka maneno yanayofuata",
-      "category": "audio_pronunciation",
+      "area": "Zoezi la 4",
+      "issue": "Zoezi la 4 limejirudia mara 3 angalia uk 51 na 52",
+      "reference": "43",
+      "recommendation": "Liondolewa shemu isiyohusika Rejea uk34,35,36",
+      "category": "layout_order",
       "status": "pending",
       "files": [
         "pg045_sec001.html"
@@ -1189,11 +1175,11 @@
     },
     {
       "matrix_item": 89,
-      "area": "Kazi namba 2",
-      "issue": "Kazi namba 2 inatamkwa kazi namba “duaa”uk 57",
-      "reference": "pg046_sec001.html",
-      "recommendation": "Rekebisha itamkwe kazi namba mbili",
-      "category": "audio_pronunciation",
+      "area": "Zoezi la 4",
+      "issue": "Zoezi la 4 limejirudia mara 3 angalia uk 51 na 52 uk 52",
+      "reference": "43",
+      "recommendation": "Liondolewa shemu isiyohusika Rejea uk34,35,36",
+      "category": "layout_order",
       "status": "pending",
       "files": [
         "pg046_sec001.html"
@@ -1202,10 +1188,10 @@
     },
     {
       "matrix_item": 90,
-      "area": "Kazi ya kufanya namba 2",
-      "issue": "Sauti ya kazi ya kufanya namba 2 imejitokeza mwishoni mwa ukurasa 57",
-      "reference": "pg046_sec001.html",
-      "recommendation": "Iondoe sauti hiyo",
+      "area": "Zoezi namba 5",
+      "issue": "Zoezi namba 5 linatamkwa namba “chambo” badala ya tano uk 53",
+      "reference": "43",
+      "recommendation": "Rekebisha itamkwe zoezi namba tano",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1215,10 +1201,10 @@
     },
     {
       "matrix_item": 91,
-      "area": "Namna ya kuzuai pumu",
-      "issue": "Sehemu hii heru b hakutamkwa uk 59",
-      "reference": "pg048_sec001.html",
-      "recommendation": "Rekebisha itamkwe",
+      "area": "Virusi vya ukimwi VVU",
+      "issue": "VVU inatamkwa “veve u” veve u”",
+      "reference": "43",
+      "recommendation": "Rekebisha itamkwe Vivi u",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1228,11 +1214,11 @@
     },
     {
       "matrix_item": 92,
-      "area": "Zoezi 8",
-      "issue": "Nane imetamkwa “ ato” badala ya nane uk 61",
-      "reference": "pg049_sec001.html",
-      "recommendation": "Rekebisha itamkwe nane",
-      "category": "audio_pronunciation",
+      "area": "Virusi vya ukimwi VVU",
+      "issue": "“watu wanoishi na VVU” badala ya “wanaoishi” u",
+      "reference": "44",
+      "recommendation": "Rekebisha kuwa “watu wanaoishi na VVU.”",
+      "category": "content_correction",
       "status": "pending",
       "files": [
         "pg049_sec001.html"
@@ -1241,10 +1227,10 @@
     },
     {
       "matrix_item": 93,
-      "area": "Kielelezo namba 6",
-      "issue": "Maneno lava, mayai, nzi, buu hayapo kwenye picha husika (rejea uk 44 kwenye original textbook) uk 62",
-      "reference": "pg050_sec001.html",
-      "recommendation": "Weka maneno hayo kwenye picha husika",
+      "area": "Kielelezo namba 4",
+      "issue": "Kielezo namba 4 kinatamkwa kielezo namba 8",
+      "reference": "44",
+      "recommendation": "Rekebisha itamkwe kielezo namba nne",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -1254,11 +1240,11 @@
     },
     {
       "matrix_item": 94,
-      "area": "Kazi ya kufanya namba 3",
-      "issue": "Program saidizi haipo kwenye orodha ya mahitaj uk 62i",
-      "reference": "pg050_sec001.html",
-      "recommendation": "Ongeza program saidizi katika orodha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Njia za maambukizi ya vvu",
+      "issue": "“c” Inatamkwa “ki”",
+      "reference": "45",
+      "recommendation": "Rekebisha itamkwe c",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg050_sec001.html"
@@ -1267,11 +1253,11 @@
     },
     {
       "matrix_item": 95,
-      "area": "Kazi ya kufanya namba 3",
-      "issue": "Kukosekana kwa neno “umehisi” katka sehemu namba 3 inayosomeka “ je umeona nini? uk 62",
-      "reference": "pg050_sec001.html",
-      "recommendation": "Ongeza “umehisi” isomeke “je, umeona/ umehisi nini “",
-      "category": "inclusive_language",
+      "area": "Zoezi namba 6",
+      "issue": "Zoezi namba 6 inatamkwa zoezi namba sosi",
+      "reference": "46",
+      "recommendation": "Rekebisha itamkwe zoezi namba sita",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg050_sec001.html"
@@ -1280,11 +1266,11 @@
     },
     {
       "matrix_item": 96,
-      "area": "Kazi ya kufanya namba 3",
-      "issue": "Kukosekana kwa neno” umegusa/hisii” katika sentensi “c” “ je umeviona viumbe vingapi?” uk 62",
-      "reference": "pg050_sec001.html",
-      "recommendation": "Ongeza neno “umegusa/hisiii” itamkwe “andika “je umeviona/umegusa/hisi viumbe vingapi…”",
-      "category": "inclusive_language",
+      "area": "Saratani",
+      "issue": "Sauti katika haya ya saratani haijamalizia kutamkwa “uitwa saratani,”,,,,,,uk 56",
+      "reference": "46",
+      "recommendation": "Rejea na sauti imalizie kutamka maneno yanayofuata",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg050_sec001.html"
@@ -1293,10 +1279,10 @@
     },
     {
       "matrix_item": 97,
-      "area": "Kazi ya kufanya namba 4",
-      "issue": "Zoezi namba 4 linatamkwa namba one badala ya namba nne uk 63",
-      "reference": "pg051_sec001.html",
-      "recommendation": "Zoezi namba 4 litamkwe namba nne",
+      "area": "Kazi namba 2",
+      "issue": "Kazi namba 2 inatamkwa kazi namba “duaa”uk 57",
+      "reference": "47",
+      "recommendation": "Rekebisha itamkwe kazi namba mbili",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1306,11 +1292,11 @@
     },
     {
       "matrix_item": 98,
-      "area": "Kazi ya kufanya namba 4",
-      "issue": "Program saidizi haipo kwenye orodha ya mahitaji uk 63",
-      "reference": "pg051_sec001.html",
-      "recommendation": "Ongeza program saidizi katika orodha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Kazi ya kufanya namba 2",
+      "issue": "Sauti ya kazi ya kufanya namba 2 imejitokeza mwishoni mwa ukurasa 48",
+      "reference": "47",
+      "recommendation": "Iondoe sauti hiyo",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg051_sec001.html"
@@ -1319,11 +1305,11 @@
     },
     {
       "matrix_item": 99,
-      "area": "Kazi ya kufanya namba 4 (Maswali)",
-      "issue": "Maswali yamekosa neno his/eleza katika sentensi hizi “1.je umeona,,,, 2. chora hatua za ukuaji wa mbu uk 64",
-      "reference": "pg052_sec001.html",
-      "recommendation": "Ongeza neno umehisi/eleza itamkwe na kusomekea 1. je umeona /hisi….. 2. chora/eleza hatua za ukuaji wa mbu",
-      "category": "inclusive_language",
+      "area": "Namna ya kuzuai pumu",
+      "issue": "Sehemu hii heru b hakutamkwa",
+      "reference": "49",
+      "recommendation": "Rekebisha itamkwe",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg052_sec001.html"
@@ -1332,10 +1318,10 @@
     },
     {
       "matrix_item": 100,
-      "area": "Kazi ya kufanya namba 5",
-      "issue": "Kazi ya kufanya namba 5 inatamkwa kazi ya kufanya namba tatu badala ya namba tanouk 64",
-      "reference": "pg052_sec001.html",
-      "recommendation": "Rekebisha itamkwe kazi ya kufanya namba tano",
+      "area": "Zoezi 8",
+      "issue": "Nane imetamkwa “ ato” badala ya nane uk 61",
+      "reference": "50",
+      "recommendation": "Rekebisha itamkwe nane",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1345,10 +1331,10 @@
     },
     {
       "matrix_item": 101,
-      "area": "Kielelezo namba 7",
-      "issue": "Maneno hayao kwenye mchoro husika uk 65",
-      "reference": "pg053_sec001.html",
-      "recommendation": "Rekebisha kwa kuweka maneno kwenye mchoro husika",
+      "area": "Kielelezo namba 6",
+      "issue": "Maneno lava, mayai, nzi, buu hayapo kwenye picha husika (rejea uk 44 kwenye original textbook)",
+      "reference": "50",
+      "recommendation": "Weka maneno hayo kwenye picha husika",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -1358,11 +1344,11 @@
     },
     {
       "matrix_item": 102,
-      "area": "Zoezi la marudio",
-      "issue": "Zoezi la marudio halikupangiliwa vizuri sehemu A na B (rejea uk 47 na 48) uk 65",
-      "reference": "pg053_sec001.html",
-      "recommendation": "Pangili vyema zozi hili",
-      "category": "layout_order",
+      "area": "Kazi ya kufanya namba 3",
+      "issue": "Program saidizi haipo kwenye orodha ya mahitaj",
+      "reference": "51",
+      "recommendation": "Ongeza program saidizi katika orodha ya mahitaji",
+      "category": "assistive_technology",
       "status": "pending",
       "files": [
         "pg053_sec001.html"
@@ -1371,11 +1357,11 @@
     },
     {
       "matrix_item": 103,
-      "area": "Swali namba 7 na 8",
-      "issue": "Swali namba 7 na 8 yamerudiwa angalia original text book uk 49 kuna saut tu uk 67",
-      "reference": "pg055_sec001.html",
-      "recommendation": "Rekebisha maswali haya yasijirudie",
-      "category": "layout_order",
+      "area": "Kazi ya kufanya namba 3",
+      "issue": "Kukosekana kwa neno “umehisi” katka sehemu namba 3 inayosomeka “ je umeona nini?",
+      "reference": "51",
+      "recommendation": "Ongeza “umehisi” isomeke “je, umeona/ umehisi nini “",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg055_sec001.html"
@@ -1384,11 +1370,11 @@
     },
     {
       "matrix_item": 104,
-      "area": "Masamiati",
-      "issue": "Neno msamiati limetamkwa “samiati” uk 67",
-      "reference": "pg055_sec001.html",
-      "recommendation": "Rekebisha itamkwe “msamiati”",
-      "category": "audio_pronunciation",
+      "area": "Kazi ya kufanya namba 3",
+      "issue": "Kukosekana kwa neno” umegusa/hisii” katika sentensi “c” “ je umeviona viumbe vingapi?”",
+      "reference": "51",
+      "recommendation": "Ongeza neno “umegusa/hisiii” itamkwe “andika “je umeviona/umegusa/hisi viumbe vingapi…”",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg055_sec001.html"
@@ -1397,10 +1383,10 @@
     },
     {
       "matrix_item": 105,
-      "area": "Swali 7 na 8",
-      "issue": "Saiti imejirudia swali 7 na 8 uk 67",
-      "reference": "pg055_sec001.html",
-      "recommendation": "Rekebisha kwa kuondoa sauti ya maswali haya",
+      "area": "Kazi ya kufanya namba 4",
+      "issue": "Zoezi namba 4 linatamkwa namba one badala ya namba nne",
+      "reference": "51 & 52",
+      "recommendation": "Zoezi namba 4 litamkwe namba nne",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1410,11 +1396,11 @@
     },
     {
       "matrix_item": 106,
-      "area": "Makosa ya matamshi",
-      "issue": "Uk.68 Makosa ya matamshi -balimbali -dahana -mchanganyiko wa lugha Namba one,two -chunga mikao yake",
-      "reference": "pg056_sec001.html",
-      "recommendation": "Itamkwe mbalimbali Itamkwe dhana -itamkwe kwa Kiswahili -Itamkwe chunguza sifa zake",
-      "category": "inclusive_language",
+      "area": "Kazi ya kufanya namba 4",
+      "issue": "Program saidizi haipo kwenye orodha ya mahitaji",
+      "reference": "51 & 52",
+      "recommendation": "Ongeza program saidizi katika orodha ya mahitaji",
+      "category": "assistive_technology",
       "status": "pending",
       "files": [
         "pg056_sec001.html"
@@ -1423,11 +1409,11 @@
     },
     {
       "matrix_item": 107,
-      "area": "Mchanganyiko wa lugha",
-      "issue": "Uk 69 mchanganyiko wa lugha",
-      "reference": "pg057_sec001.html",
-      "recommendation": "-itamkwe namba moja",
-      "category": "audio_pronunciation",
+      "area": "Kazi ya kufanya namba 4 (Maswali)",
+      "issue": "Maswali yamekosa neno his/eleza katika sentensi hizi “1.je umeona,,,, 2. chora hatua za ukuaji wa mbu u",
+      "reference": "51 & 52",
+      "recommendation": "Ongeza neno umehisi/eleza itamkwe na kusomekea 1. je umeona /hisi….. 2. chora/eleza hatua za ukuaji wa mbu",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg057_sec001.html"
@@ -1436,11 +1422,11 @@
     },
     {
       "matrix_item": 108,
-      "area": "Jaraibio namba 2",
-      "issue": "Kukosekana kwa program saidizi uk 70",
-      "reference": "pg058_sec001.html",
-      "recommendation": "Ongeza [rogram saidizi kwenye orofdha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Kazi ya kufanya namba 5",
+      "issue": "Kazi ya kufanya namba 5 inatamkwa kazi ya kufanya namba tatu badala ya namba tanouk 64",
+      "reference": "53",
+      "recommendation": "Rekebisha itamkwe kazi ya kufanya namba tano",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg058_sec001.html"
@@ -1449,10 +1435,10 @@
     },
     {
       "matrix_item": 109,
-      "area": "Kuchunguza sifa za maada",
-      "issue": "Uk 70 Makosa ya matamshi katika kutaja namba na kuwepo kwa sauti inayosoma maandishi katika footer",
-      "reference": "pg058_sec001.html",
-      "recommendation": "Kuchunguza sifa za maada: Katika paragrafu hii itamkwe kielelezo namba moja hadi nne,jaribio namba moja -maandishi yaliyopo chini kabisa katika ukurasa huu yaondolewe",
+      "area": "Kielelezo namba 7",
+      "issue": "Maneno hayao kwenye mchoro husika",
+      "reference": "54",
+      "recommendation": "Rekebisha kwa kuweka maneno kwenye mchoro husika",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -1462,24 +1448,26 @@
     },
     {
       "matrix_item": 110,
-      "area": "Chemsha bongo",
-      "issue": "Uk 71.lugha mchanganyiko katika nmba za chemsha bongo",
-      "reference": "qz011.html",
-      "recommendation": "-itumike lugha ya kiswahilikatika kutajannamba",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Zoezi la marudio",
+      "issue": "Zoezi la marudio halikupangiliwa vizuri sehemu A na B (rejea uk 47 na 48) uk 65",
+      "reference": "54",
+      "recommendation": "Pangili vyema zozi hili",
+      "category": "layout_order",
+      "status": "pending",
       "files": [
         "qz011.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz011.html"
+      ]
     },
     {
       "matrix_item": 111,
-      "area": "Zingatia",
-      "issue": "Uk 72.sauti zisizohitajika baada kwenye zingatia -mchanganyiko wa lugha",
-      "reference": "pg059_sec001.html",
-      "recommendation": "-sauti iondolewe - itumike lugha ya kiswahili",
-      "category": "audio_pronunciation",
+      "area": "Swali namba 7 na 8",
+      "issue": "Swali namba 7 na 8 yamerudiwa angalia original text book uk 49 kuna saut tu",
+      "reference": "56",
+      "recommendation": "Rekebisha maswali haya yasijirudie",
+      "category": "layout_order",
       "status": "pending",
       "files": [
         "pg059_sec001.html"
@@ -1488,10 +1476,10 @@
     },
     {
       "matrix_item": 112,
-      "area": "Hatua",
-      "issue": "-uk 73 mchanganyiko wa lugha katika namba zinazotamkwa",
-      "reference": "pg060_sec001.html",
-      "recommendation": "--itumike lugha ya kingereza katika matamshi ya namba zote katika kurasa 73",
+      "area": "Masamiati",
+      "issue": "Neno msamiati limetamkwa “samiati”",
+      "reference": "56",
+      "recommendation": "Rekebisha itamkwe “msamiati”",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1501,11 +1489,11 @@
     },
     {
       "matrix_item": 113,
-      "area": "Jaribio namba 1 (Hatua ya 3)",
-      "issue": "Uk 74. Lugha mchanganyiko katika matamshi ya namba -lugha si jumuishi -upande wa mwisho kutamkwa na kuandikwa kimakosa",
-      "reference": "pg061_sec001.html",
-      "recommendation": "-tumia matamshi ya Kiswahili -tumia vitenzi jumuishi katika hatua ya 3 chunguza unachokiona/hisi -ondoa matamshi na maandishi mwisho wa ukurasa",
-      "category": "inclusive_language",
+      "area": "Swali 7 na 8",
+      "issue": "Saiti imejirudia swali 7 na 8",
+      "reference": "56",
+      "recommendation": "Rekebisha kwa kuondoa sauti ya maswali haya",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg061_sec001.html"
@@ -1514,11 +1502,11 @@
     },
     {
       "matrix_item": 114,
-      "area": "Jaribio namba 1",
-      "issue": "Kukosekana kwa program saidizi na kipima joto sauti uk 74",
-      "reference": "pg061_sec001.html",
-      "recommendation": "Ongeza “program saidizi na “kipima joto sauti” kwenye orofdha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Makosa ya matamshi",
+      "issue": "Makosa ya matamshi -balimbali -dahana -mchanganyiko wa lugha Namba one,two -chunga mikao yake",
+      "reference": "Whole document",
+      "recommendation": "Itamkwe mbalimbali Itamkwe dhana namba zitajwe kwa Kiswahili -Itamkwe chunguza sifa zake",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg061_sec001.html"
@@ -1527,24 +1515,26 @@
     },
     {
       "matrix_item": 115,
-      "area": "Jaribio namba 3",
-      "issue": "Uk 75 -Lugha mchanganyiko katika namba -mwingiliano wa chemsha bongo kati ya mwendelezo wa jaribio la 3",
-      "reference": "qz012.html",
-      "recommendation": "-tumia lugha Kiswahili katika matamshi - jaribio dogo katika uk 75 iandikwe baada ya jaribio la nne",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Kazi ya kufanya namba 1",
+      "issue": "Namba zimetamkwa kwa kiingereza badala ya Kiswahili",
+      "reference": "57",
+      "recommendation": "Rekebisha zitamkwe kwa Kiswahili",
+      "category": "audio_pronunciation",
+      "status": "pending",
       "files": [
         "qz012.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz012.html"
+      ]
     },
     {
       "matrix_item": 116,
-      "area": "Jaribio namba 4",
-      "issue": "Uk 76. -katika mahitaji jiko halijatamkwa -mchanganyiko wa lugha katika namba",
-      "reference": "pg062_sec001.html",
-      "recommendation": "-yawekwe matamshi ya jiko -itumike lugha ya Kiswahili kutamka namba",
-      "category": "audio_pronunciation",
+      "area": "Jaraibio namba 1",
+      "issue": "Kukosekana kwa program saidizi",
+      "reference": "59",
+      "recommendation": "Ongeza [rogram saidizi kwenye orofdha ya mahitaji",
+      "category": "assistive_technology",
       "status": "pending",
       "files": [
         "pg062_sec001.html"
@@ -1553,11 +1543,11 @@
     },
     {
       "matrix_item": 117,
-      "area": "Jaribio namba 4",
-      "issue": "Program saidizi haijaweka katika orodha 76",
-      "reference": "pg062_sec001.html",
-      "recommendation": "Ongeza program saidizi na iwekewe sauti",
-      "category": "assistive_technology",
+      "area": "Jaribio namba 1 (Hatua ya 3)",
+      "issue": "Lugha mchanganyiko katika matamshi ya namba -lugha si jumuishi -upande wa mwisho kutamkwa na kuandikwa kimakosa",
+      "reference": "59",
+      "recommendation": "-tumia matamshi ya Kiswahili -tumia vitenzi jumuishi katika hatua ya 3 chunguza unachokiona/hisi -ondoa matamshi na maandishi mwisho wa ukurasa",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg062_sec001.html"
@@ -1566,11 +1556,11 @@
     },
     {
       "matrix_item": 118,
-      "area": "Jaribio namba 4",
-      "issue": "Kukosekana kwa program saidizi na kipima joto sauti uk 76",
-      "reference": "pg062_sec001.html",
-      "recommendation": "Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Kuchunguza sifa za maada",
+      "issue": "Makosa ya matamshi katika kutaja namba na kuwepo kwa sauti inayosoma maandishi katika footer",
+      "reference": "59",
+      "recommendation": "Kuchunguza sifa za maada: Katika paragrafu hii itamkwe kielelezo namba moja hadi nne,jaribio namba moja -maandishi yaliyopo chini kabisa katika ukurasa huu yaondolewe",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg062_sec001.html"
@@ -1579,10 +1569,10 @@
     },
     {
       "matrix_item": 119,
-      "area": "Jaribio namba 4",
-      "issue": "Uk.77 -matamshi si sahihi",
-      "reference": "pg063_sec001.htm",
-      "recommendation": "-Jaribio la nne: Itamkwe mchakato",
+      "area": "Zingatia",
+      "issue": "sauti zisizohitajika baada kwenye zingatia -mchanganyiko wa lugha",
+      "reference": "60",
+      "recommendation": "-sauti iondolewe - itumike lugha ya kiswahili",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1592,22 +1582,22 @@
     },
     {
       "matrix_item": 120,
-      "area": "Jaribio namba 4",
-      "issue": "Hatua ya 3. limekosekeana neno ”unachohisi” Hatua ya 4 “kukosekana kwa neno kinabainisha” Hatua ya 5” chunguza kinachooonekana”",
-      "reference": "76",
-      "recommendation": "Isomeke na kutamkwa 3“chunguza kinachoonekana/ unachohisi……” 4. kielelezo kinaonesha/kinabainisha…. 5.chunguza kinachoonekana/unachohisi kwenye…..",
-      "category": "figure_accessibility",
+      "area": "Hatua",
+      "issue": "-mchanganyiko wa lugha katika namba zinazotamkwa",
+      "reference": "60",
+      "recommendation": "--itumike lugha ya kingereza katika matamshi ya namba zote katika kurasa 73",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [],
       "missing_files": []
     },
     {
       "matrix_item": 121,
-      "area": "sentigredi 0 (nyuzijoto",
-      "issue": "Uk 78.kurudia rudia maelezo -lugha mchanganyiko",
-      "reference": "pg064_sec001.html",
-      "recommendation": "sentigredi 0 (nyuzijoto farenhaiti 32), barafu huyeyuka polepole na kuwa kimiminika ,maelezo yaondolewe katika uk 78 -itumike lugha ya Kiswahili katika matamshi ya namba zote",
-      "category": "audio_pronunciation",
+      "area": "Jaribio namba 2",
+      "issue": "Kukosekana kwa program saidizi",
+      "reference": "61",
+      "recommendation": "Ongeza [rogram saidizi kwenye orofdha ya mahitaji",
+      "category": "assistive_technology",
       "status": "pending",
       "files": [
         "pg064_sec001.html"
@@ -1616,11 +1606,11 @@
     },
     {
       "matrix_item": 122,
-      "area": "Jaribio namba 5",
-      "issue": "Kukosekana kwa “program saidizi” na kipimajoto sauti” kwenye orodha ya mahitaji",
-      "reference": "pg065_sec001.html",
-      "recommendation": "Ongeza program saidizi” na kipimajoto sauti” kwenye orodha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Jaribio namba",
+      "issue": "Kukosekana kwa neno umegundua “ hatua 2",
+      "reference": "61",
+      "recommendation": "Isomeka “umeona/umegundia nini?",
+      "category": "content_correction",
       "status": "pending",
       "files": [
         "pg065_sec001.html"
@@ -1629,10 +1619,10 @@
     },
     {
       "matrix_item": 123,
-      "area": "Lugha mchanganyiko",
-      "issue": "Uk 79 Lugha mchanganyikokatika kutamka namba",
-      "reference": "pg065_sec001.html",
-      "recommendation": "Itumike lugha ya Kiswahili katka kutamka namba",
+      "area": "Jaribio namba 3",
+      "issue": "-Lugha mchanganyiko katika namba -mwendelezo wa jaribio la 3",
+      "reference": "62",
+      "recommendation": "-tumia lugha Kiswahili katika matamshi naondoa sauti isiyoeleweka -",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1642,24 +1632,26 @@
     },
     {
       "matrix_item": 124,
-      "area": "Uk 80",
-      "issue": "Uk 80. -mwingiliano wa chemsha bongo kati ya mwendelezo wa jaribio la 5",
-      "reference": "qz013.html",
-      "recommendation": "-chemsha bongo itolewe",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Jaribio namba 3",
+      "issue": "Kukosekana kwa neno “unachokihisi”",
+      "reference": "62",
+      "recommendation": "Isomeke “chunguza unachokiona/unachokihisi katika hatua ya 3",
+      "category": "inclusive_language",
+      "status": "pending",
       "files": [
         "qz013.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz013.html"
+      ]
     },
     {
       "matrix_item": 125,
-      "area": "Jaribio namba 6",
-      "issue": "Uk 82 lugha mchanganyiko katika kutamka namba",
-      "reference": "pg067_sec001.html",
-      "recommendation": "-itumike lugha ya Kiswahili fasaha katika matamshi ya namba -katika uk 82 Jaribio la 6:itamkwe kuchunguza",
-      "category": "inclusive_language",
+      "area": "Jaribio namba 4",
+      "issue": "-katika mahitaji jiko halijatamkwa -mchanganyiko wa lugha katika namba",
+      "reference": "62",
+      "recommendation": "-yawekwe matamshi ya jiko -itumike lugha ya Kiswahili kutamka namba",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg067_sec001.html"
@@ -1668,10 +1660,10 @@
     },
     {
       "matrix_item": 126,
-      "area": "Jaribio namba 6",
-      "issue": "Kukosekana kwa program saidizi na kipima joto sauti uk 82",
-      "reference": "pg067_sec001.html",
-      "recommendation": "Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji",
+      "area": "Jaribio namba 4",
+      "issue": "Program saidizi haijaweka katika orodha ya mahitaji",
+      "reference": "63",
+      "recommendation": "Ongeza program saidizi na iwekewe sauti",
       "category": "assistive_technology",
       "status": "pending",
       "files": [
@@ -1681,10 +1673,10 @@
     },
     {
       "matrix_item": 127,
-      "area": "zoezi la marudio",
-      "issue": "Uk 83,84&85 Zoezi limepangiliwa vibaya -swali la 1 limekosewa kabisa (for reading only” -lugha mchanganyiko -namba zimejiruia kutamkwa 6 , 6",
-      "reference": "pg068_sec001.html pg069_sec002.html",
-      "recommendation": "-zoezi la marudio lipangwe vizuri -swali la 1 lirekebishwe -matamshi ya namba yawe katika lugha ya Kiswahili Rekebisha Itamkwe mara moja",
+      "area": "Jaribio namba 4",
+      "issue": "Uk.77 -matamshi si sahihi",
+      "reference": "63",
+      "recommendation": "-Jaribio la nne: Itamkwe mchakato",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1695,11 +1687,11 @@
     },
     {
       "matrix_item": 128,
-      "area": "Msamiati",
-      "issue": "Uk 86 Matamshi si sahihi ya neno msamiati na namba inatamkwa “samiati”",
-      "reference": "pg070_sec001.html",
-      "recommendation": "-katika msamiati Namba zitamkwe kwa usahihi Itamkwe “msamiati”",
-      "category": "audio_pronunciation",
+      "area": "Jaribio namba 4",
+      "issue": "Hatua ya 3. limekosekeana neno ”unachohisi” Hatua ya 4 “kukosekana kwa neno kinabainisha” Hatua ya 5” chunguza kinachooonekana”",
+      "reference": "76",
+      "recommendation": "Isomeke na kutamkwa 3“chunguza kinachoonekana/ unachohisi……” 4. kielelezo kinaonesha/kinabainisha…. 5.chunguza kinachoonekana/unachohisi kwenye…..",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg070_sec001.html"
@@ -1708,10 +1700,10 @@
     },
     {
       "matrix_item": 129,
-      "area": "Namba zote uk 88",
-      "issue": "Uk 88 Matamshi si sahihi",
-      "reference": "pg072_sec001.html",
-      "recommendation": "- Namba zitamkwe kwa usahihi",
+      "area": "sentigredi 0 (nyuzijoto",
+      "issue": ".kurudia rudia maelezo -lugha mchanganyiko",
+      "reference": "65",
+      "recommendation": "sentigredi 0 (nyuzijoto farenhaiti 32), barafu huyeyuka polepole na kuwa kimiminika ,maelezo yaondolewe katika -itumike lugha ya Kiswahili katika matamshi ya namba zote",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1721,23 +1713,10 @@
     },
     {
       "matrix_item": 130,
-      "area": "uunguaji wa vitu",
-      "issue": "Uk 89 Lugha si jumuishi",
-      "reference": "pg073_sec001.html",
-      "recommendation": "-katika uunguaji wa vitu itumike lugha itakayowajumuisha wanafunzi wote wenye mahitaji maalum na wa kawaida kama:chunguza/gusa/angalia/hisi",
-      "category": "inclusive_language",
-      "status": "pending",
-      "files": [
-        "pg073_sec001.html"
-      ],
-      "missing_files": []
-    },
-    {
-      "matrix_item": 131,
-      "area": "Jaribio namba 1",
-      "issue": "Kukosekana kwa program saidizi na kipima joto sauti uk 89",
-      "reference": "pg073_sec001.html",
-      "recommendation": "Ongeza program saidizi na kwenye orofdha ya mahitaji",
+      "area": "Jaribio namba 5",
+      "issue": "Kukosekana kwa “program saidizi” na kipimajoto sauti” kwenye orodha ya mahitaji",
+      "reference": "66",
+      "recommendation": "Ongeza program saidizi” na kipimajoto sauti” kwenye orodha ya mahitaji",
       "category": "assistive_technology",
       "status": "pending",
       "files": [
@@ -1746,25 +1725,40 @@
       "missing_files": []
     },
     {
-      "matrix_item": 132,
-      "area": "Chemsha bongo",
-      "issue": "Uk 90 Chemsha bongo ipo ukurasa usio sahihi",
-      "reference": "qz014.html",
-      "recommendation": "-ihamishiwe ukurasa wa 87",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "matrix_item": 131,
+      "area": "Jaribio namba 6",
+      "issue": "lugha mchanganyiko katika kutamka namba",
+      "reference": "66",
+      "recommendation": "-itumike lugha ya Kiswahili fasaha katika matamshi ya namba -katika uk 82 Jaribio la 6:itamkwe kuchunguza",
+      "category": "inclusive_language",
+      "status": "pending",
       "files": [
-        "qz014.html"
+        "pg073_sec001.html"
       ],
       "missing_files": []
     },
     {
+      "matrix_item": 132,
+      "area": "Jaribio namba 6",
+      "issue": "Kukosekana kwa program saidizi na kipima joto sauti",
+      "reference": "66",
+      "recommendation": "Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji",
+      "category": "assistive_technology",
+      "status": "pending",
+      "files": [
+        "qz014.html"
+      ],
+      "missing_files": [
+        "qz014.html"
+      ]
+    },
+    {
       "matrix_item": 133,
-      "area": "Jaribio 2",
-      "issue": "Uk 91 -lugha na matamshi si sahihi",
-      "reference": "pg074_sec001.html",
-      "recommendation": "-yawekwe matamshi kwa lugha ya Kiswahili sahihi -pia latika jaribio ongeza vitenzi jumuishi kama hisi/wasilisha/eleza",
-      "category": "inclusive_language",
+      "area": "zoezi la marudio",
+      "issue": "Zoezi limepangiliwa vibaya -swali la 1 limekosewa kabisa (for reading only”",
+      "reference": "69",
+      "recommendation": "-zoezi la marudio lipangwe vizuri -swali la 1 lirekebishwe Rekebisha Itamkwe mara moja",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg074_sec001.html"
@@ -1773,10 +1767,10 @@
     },
     {
       "matrix_item": 134,
-      "area": "Jaribio la 3",
-      "issue": "Uk 93 &94 -maandishi na matamshi na lugha katika namba si sahihi , neno ulilijiandaa si sahihi -maelezo katika jaribio la tatu hayajakamilika,",
-      "reference": "pg076_sec001.html",
-      "recommendation": "Jaribio la 3:hatua ya 1 Iandikwe eneo la wazi uliloliandaa -andika , tamka na malizia maelezo ya matokeo ,hitimisho na kichwa cha habari cha matokeo ya kuungua kwa vitu , faida za kuungua kwa vitu herifi(a)iwekwe kama inavyoonekana katika uk 71 kitabu cha zamani.",
+      "area": "Msamiati",
+      "issue": "Matamshi si sahihi ya neno msamiati na namba inatamkwa “samiati”",
+      "reference": "72",
+      "recommendation": "-katika msamiati Namba zitamkwe kwa usahihi Itamkwe “msamiati”",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1786,11 +1780,11 @@
     },
     {
       "matrix_item": 135,
-      "area": "hasara za kuungua",
-      "issue": "Uk 96 Makosa ya matamshi",
-      "reference": "pg079_sec001.html",
-      "recommendation": "-katika hasara za kuungua kwa vitu (d)itamkwe upotevu mkubwa",
-      "category": "audio_pronunciation",
+      "area": "Jaribio namba 1 na kielezo namba 1",
+      "issue": "Matamshi ya namba '1' yanatamkwa kama 'uno' badala ya 'moja' (mfano: jaribio namba uno; kielelezo namba moja).",
+      "reference": "Uk 74",
+      "recommendation": "Sahihisha rekodi ya sauti ili namba '1' itamkwe kama 'moja' badala ya 'uno' katika maelezo na vipengele vyote.",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg079_sec001.html"
@@ -1799,11 +1793,11 @@
     },
     {
       "matrix_item": 136,
-      "area": "mioto iliyo wazi",
-      "issue": "Uk .97 simamia mioto iliyo wazi Kukosekana matamshi hayaeleweki vizuri",
-      "reference": "pg080_sec001.html",
-      "recommendation": "Rekebisha matamshi yatamkwe vizuri",
-      "category": "audio_pronunciation",
+      "area": "Orodha ya mahitaji",
+      "issue": "Kukosekana kwa programu saidizi na kipimajoto sauti katika maelezo na orodha ya mahitaji.",
+      "reference": "Uk 74",
+      "recommendation": "Jumuisha programu saidizi na kipimajoto sauti kwenye orodha ya mahitaji ili kuimarisha ufikivu na ufundishaji.",
+      "category": "assistive_technology",
       "status": "pending",
       "files": [
         "pg080_sec001.html"
@@ -1812,10 +1806,10 @@
     },
     {
       "matrix_item": 137,
-      "area": "Namba za kufanya na maswali",
-      "issue": "Uk.98&99 Lugha mchanganyiko na matamshi si sahihi katika namba za maswali na kazi za kufanya",
-      "reference": "pg081_sec001.html",
-      "recommendation": "Namba zitamkwe kwa Kiswahili",
+      "area": "Matamshi ya namba",
+      "issue": "Matumizi ya lugha ya Kiingereza wakati wa kusoma namba.",
+      "reference": "Uk 76",
+      "recommendation": "Badilisha usomaji wa namba uwe kwa lugha ya Kiswahili sanifu badala ya Kiingereza.",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -1825,11 +1819,11 @@
     },
     {
       "matrix_item": 138,
-      "area": "Vielelezo vya nishati ya joto",
-      "issue": "Uk 102 -lugha si jumuishi kwani kuonyesha hubeba dhana ya kuona tu. -lugha si sahihi",
-      "reference": "pg084_sec001.html",
-      "recommendation": "Katika vielelezo vya nishati ya joto;iandikwe na itamkwe :kielelezo kinahusika/kinatambulisha/ -itumike lugha ya Kiswahili sahihi katika matamshi ya namba",
-      "category": "figure_accessibility",
+      "area": "Orodha ya mahitaji",
+      "issue": "Kukosekana kwa programu saidizi kwenye orodha ya mahitaji.",
+      "reference": "Uk 78",
+      "recommendation": "Ongeza programu saidizi inayostahili kwenye orodha ya mahitaji ya ukurasa huu.",
+      "category": "assistive_technology",
       "status": "pending",
       "files": [
         "pg084_sec001.html"
@@ -1838,11 +1832,11 @@
     },
     {
       "matrix_item": 139,
-      "area": "Jaribio namba 1",
-      "issue": "Kukosekana kwa “proram saidizi katika orodha ya mahitaji",
-      "reference": "pg085_sec001.html",
-      "recommendation": "Ongeza program saidzi” katika orodha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Maelezo ya sauti",
+      "issue": "Kurudia rudia maelezo na matumizi ya lugha mchanganyiko.",
+      "reference": "Uk 78",
+      "recommendation": "Ondoa marudio yasiyo ya lazima ya maelezo na utumie lugha moja sanifu (Kiswahili) kote.",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg085_sec001.html"
@@ -1851,25 +1845,27 @@
     },
     {
       "matrix_item": 140,
-      "area": "Chemsha bongo na jaribio",
-      "issue": "Uk 103 &104 -matamshi ya namba si sahihi -lugha si jumuishi kazi ya kufanya namba 1(4) -mwingiliano wa chemsha bongo na jaribio",
-      "reference": "pg085_sec001.html qz017.html",
-      "recommendation": "Namba zitamkwe kwa kiswahili sahihi Pamoja na maandishi mwisho wa kurasa -chemsha bongo ihamishiwe uk wa 101 ili pawe na mwendelezo wa jaribio",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Matamshi ya namba na maneno",
+      "issue": "Anarudia kutamka namba sita mara mbili; matumizi ya Kiingereza katika namba nyingine; neno 'bidhaa' linasomwa kama 'bidaha'.",
+      "reference": "Uk 83",
+      "recommendation": "Ondoa marudio ya namba sita, tumia Kiswahili sanifu kwa namba zote, na sahihisha matamshi ya neno 'bidhaa'.",
+      "category": "audio_pronunciation",
+      "status": "pending",
       "files": [
         "pg085_sec001.html",
         "qz017.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz017.html"
+      ]
     },
     {
       "matrix_item": 141,
-      "area": "Jaribio namba 1",
-      "issue": "Kukosekana kwa neno “chunguza” katika hatua 1, 2, 3, 4 uk 105",
-      "reference": "pg085_sec001.html",
-      "recommendation": "Isomeke angalia./chunguza katika hatua 1, 2, 3, 4",
-      "category": "inclusive_language",
+      "area": "Matamshi ya namba",
+      "issue": "Kusoma namba 'uno' badala ya 'moja'; matumizi ya Kiingereza na matamshi yasiyoridhishing.",
+      "reference": "Uk 87",
+      "recommendation": "Rekebisha matamshi ya namba kuwa 'moja', badilisha maneno ya Kiingereza kuwa Kiswahili, na uboreshe kiwango cha matamshi ya sauti.",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg085_sec001.html"
@@ -1878,10 +1874,10 @@
     },
     {
       "matrix_item": 142,
-      "area": "Kielelezo namba 2",
-      "issue": "Uk 105 picha zimepanfdana",
-      "reference": "pg085_sec001.html",
-      "recommendation": "Rekebisha picha zionekana visuri",
+      "area": "Mpangilio wa picha",
+      "issue": "Picha zimebanana bila kuachiana nafasi, jambo linalofanya iwe ngumu kueleweka.",
+      "reference": "Uk 87",
+      "recommendation": "Rekebisha mpangilio (layout) kwa kuweka nafasi ya kutosha kati ya picha na picha ili ziweze kuonekana na kueleweka kwa urahisi.",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -1891,11 +1887,11 @@
     },
     {
       "matrix_item": 143,
-      "area": "Matamshi Uk 105",
-      "issue": "Uk 105 -matamshi kwa lugha ya kingereza na Kiswahili kisicho sanifu mf. Nta…….ntaaa",
-      "reference": "pg086_sec001.html",
-      "recommendation": "Matamshi ya namba yawe katika lugha ya kingereza Pia matamshi ya baadhi ya maneno kama “nta”yawe sahihi",
-      "category": "audio_pronunciation",
+      "area": "Icon ya Tuma",
+      "issue": "Icon ya 'Tuma' imejitokeza mara mbili kwenye kiolesura.",
+      "reference": "Uk 87",
+      "recommendation": "Ondoa icon moja ya 'Tuma' iliyojirudia ili kuboresha muonekano wa kiolesura (UI).",
+      "category": "content_correction",
       "status": "pending",
       "files": [
         "pg086_sec001.html"
@@ -1904,11 +1900,11 @@
     },
     {
       "matrix_item": 144,
-      "area": "Vimiminika",
-      "issue": "Uk 107 Matamshi si sahihi mf.vomiminika -lugha mchanganyiko katika kutamka namba",
-      "reference": "pg088_sec001.html",
-      "recommendation": "matamshi yawe sahihi -itumike lugha ya Kiswahili sanifu",
-      "category": "audio_pronunciation",
+      "area": "Orodha ya mahitaji",
+      "issue": "Kukosekana kwa 'programu saidizi' na 'kipimajoto sauti' kwenye orodha ya mahitaji.",
+      "reference": "Uk 89",
+      "recommendation": "Ongeza 'programu saidizi' na 'kipimajoto sauti' katika orodha ya mahitaji rasmi ya ukurasa huo.",
+      "category": "assistive_technology",
       "status": "pending",
       "files": [
         "pg088_sec001.html"
@@ -1917,11 +1913,11 @@
     },
     {
       "matrix_item": 145,
-      "area": "Mahitaji",
-      "issue": "Kukosekana kwa program saidizi na kipima joto sauti uk 107",
-      "reference": "pg088_sec001.html",
-      "recommendation": "Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Matamshi ya namba",
+      "issue": "Lugha mchanganyiko katika kutamka namba.",
+      "reference": "Uk 90",
+      "recommendation": "Tumia lugha moja sanifu ya Kiswahili wakati wa kutamka namba zote.",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg088_sec001.html"
@@ -1930,24 +1926,26 @@
     },
     {
       "matrix_item": 146,
-      "area": "Chemsha bonga",
-      "issue": "Uk 108 Chemsha bongo ipo ukurasa ambao si sahihi",
-      "reference": "qz018.html",
-      "recommendation": "Chemsha bongo: ihamishiwe chini ya jaribio la pili",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Maelezo ya sauti",
+      "issue": "Lugha na matamshi si sahihi katika maelezo ya sauti.",
+      "reference": "Uk 91",
+      "recommendation": "Sahihisha matamshi na misingi ya sarufi ya Kiswahili katika rekodi zote za sauti.",
+      "category": "figure_accessibility",
+      "status": "pending",
       "files": [
         "qz018.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz018.html"
+      ]
     },
     {
       "matrix_item": 147,
-      "area": "Jaribio namba 4",
-      "issue": "Kukosekana kwa program saidizi uk 110",
-      "reference": "pg090_sec001.html",
-      "recommendation": "Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Kosa la kiuandishi",
+      "issue": "Kosa la kiijai: Neno 'mnururisho' limeandikwa badala ya 'mnunurisho'.",
+      "reference": "Uk 92",
+      "recommendation": "Sahihisha uandishi wa neno kutoka 'mnururisho' na kuwa 'mnunurisho'.",
+      "category": "content_correction",
       "status": "pending",
       "files": [
         "pg090_sec001.html"
@@ -1956,11 +1954,11 @@
     },
     {
       "matrix_item": 148,
-      "area": "Baada ya jaribio na.4",
-      "issue": "Uk 112: Baada ya jaribio na.4 kuna makosa ya uandishi herufi iliyofuata ni ” e” badala ya “C”",
-      "reference": "pg092_sec001.html",
-      "recommendation": "-andika herufi “ c ondoa e,iliyokosewa pia katika kitabu cha zamani uk 86",
-      "category": "content_correction",
+      "area": "Jaribio la 3",
+      "issue": "Maandishi, matamshi na lugha katika namba si sahihi; maelezo katika Jaribio la 3 hayajakamilika; swali haliruhusu kujibiwa.",
+      "reference": "Uk 93 & 94",
+      "recommendation": "Sahihisha maandishi na matamshi ya namba, kamilisha maelezo ya Jaribio la 3, na urekebishe mfumo wa swali ili uruhusu majibu kuingizwa.",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg092_sec001.html"
@@ -1969,11 +1967,11 @@
     },
     {
       "matrix_item": 149,
-      "area": "kielelezo namba 5",
-      "issue": "makosa katika matamshi kielelezo na 3 -matamshi ya namba kimakosa",
-      "reference": "pg092_sec001.html",
-      "recommendation": "itamkwe kielelezo namba 5 katika ukurasa 112 -namba zitamkwe kwa lugha ya Kiswahili sanifu",
-      "category": "figure_accessibility",
+      "area": "Matamshi ya sauti",
+      "issue": "Makosa ya matamshi katika rekodi ya sauti.",
+      "reference": "Uk 94",
+      "recommendation": "Rekodi upya sauti kwa kufuata matamshi sahihi ya Kiswahili sanifu.",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg092_sec001.html"
@@ -1982,11 +1980,11 @@
     },
     {
       "matrix_item": 150,
-      "area": "Matumizi ya nishati ya joto",
-      "issue": "Uk.112 Kukosekana kwa neno kama “inavyobainishwa",
-      "reference": "pg092_sec001.html",
-      "recommendation": "Ongeza neno inavyobainishwa itamkwe na kuandikwa kama /inavyoonyeshwa:ilivyobainishwa/",
-      "category": "inclusive_language",
+      "area": "Kazi ya kufanya",
+      "issue": "Sehemu ya kazi ya kufanya haina nafasi au uwanja wa kujibia.",
+      "reference": "Uk 95",
+      "recommendation": "Tengeneza na uweke uwanja au nafasi ya kutosha (answer space/input field) kwa ajili ya mwanafunzi kuandika au kuingiza majibu.",
+      "category": "answer_space",
       "status": "pending",
       "files": [
         "pg092_sec001.html"
@@ -1995,12 +1993,12 @@
     },
     {
       "matrix_item": 151,
-      "area": "Chemsha bongo",
-      "issue": "Uk 113. chemsha bongo haipo katika sehemu husika (rejea kitabu original)",
-      "reference": "pg092_sec001.html",
-      "recommendation": "chemsha bongo ihamishiwe katika ukurasa na 111",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Uhakiki wa majibu",
+      "issue": "Mfumo unapokea jibu la aina yoyote bila kufanya uhakiki (validation control).",
+      "reference": "Uk 95",
+      "recommendation": "Weka mfumo wa uhakiki wa majibu (answer validation) ili kupokea tu majibu yaliyokusudiwa au sahihi.",
+      "category": "content_correction",
+      "status": "pending",
       "files": [
         "pg092_sec001.html"
       ],
@@ -2008,10 +2006,10 @@
     },
     {
       "matrix_item": 152,
-      "area": "zoezi",
-      "issue": "Uk 114 Machaguo mawili kwa wakati mmoja",
-      "reference": "pg093_sec001.html",
-      "recommendation": "Katika zoezi uk 114 machaguo ya kweli si kweli on doa machaguo ya tiki na kosa kama ilivyo katika kitabu cha zamani uk. wa 87",
+      "area": "Icon ya Tuma",
+      "issue": "Icon ya 'Tuma' ipo mara mbili kwenye kiolesura.",
+      "reference": "Uk 96",
+      "recommendation": "Futa au ondoa icon ya 'Tuma' iliyojirudia.",
       "category": "content_correction",
       "status": "pending",
       "files": [
@@ -2021,11 +2019,11 @@
     },
     {
       "matrix_item": 153,
-      "area": "Sehemu A na sehemu B",
-      "issue": "Uk 115 Kurudia rudia maneno na namba za maswali -sauti haina mapumziko Namba zinatamkwa kwa lugha mchanganyiko",
-      "reference": "pg094_sec001.html",
-      "recommendation": "sehemu B : Ondoa maelezo yaliyojirudia rudia Itamkwe na kuandikwa Sehemu B:maswali ya majibu mafupi. -itumike lugha ya Kiswahili katika matamshi ya namba -pawekwe pumziko katika kuingia kutamka mada ndogo ya nishati ya mwanga -matamshi yazingatie “alama za uandishi”",
-      "category": "audio_pronunciation",
+      "area": "Lugha jumuishi",
+      "issue": "Lugha si jumuishi kwani neno 'kuonyesha' linabeba dhana ya kuona tu; lugha si sahihi.",
+      "reference": "Uk 98",
+      "recommendation": "Badilisha msamiati na utumie vitenzi jumuishi kama vile 'kutambua', 'baini', au 'kueleza' vinavyowajumuisha na wanafunzi wasioona.",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg094_sec001.html"
@@ -2034,11 +2032,11 @@
     },
     {
       "matrix_item": 154,
-      "area": "Kielelezo na 6",
-      "issue": "Uk 115, katika Kielelezo na 6 herufi c katika vyanzo vya nishati ya mwanga imejirudia",
-      "reference": "pg094_sec001.html",
-      "recommendation": "-katika uk 115 Andika herufi D Ondoa c iliyojirudia kama ilivyokosewa katika kitabu cha zamani uk 88.",
-      "category": "figure_accessibility",
+      "area": "Orodha ya mahitaji na Icon ya Tuma",
+      "issue": "Kukosekana kwa programu saidizi katika orodha ya mahitaji; Icon ya 'Tuma' ipo mara mbili.",
+      "reference": "Uk 98 & 99",
+      "recommendation": "Ongeza programu saidizi kwenye orodha ya mahitaji na uondoe icon iliyojirudia ya 'Tuma'.",
+      "category": "assistive_technology",
       "status": "pending",
       "files": [
         "pg094_sec001.html"
@@ -2047,11 +2045,11 @@
     },
     {
       "matrix_item": 155,
-      "area": "Nishati ya mwanga:namba",
-      "issue": "Uk 116 Matamshi ya Nishati ya mwanga:namba hajatamkwa vizuri",
-      "reference": "pg095_sec001.html",
-      "recommendation": "-Nishati ya mwanga:namba zitamkwe kwa usahihi",
-      "category": "audio_pronunciation",
+      "area": "Kazi ya Kufanya namba 1(4)",
+      "issue": "Matamshi ya namba si sahihi; lugha si jumuishi kwenye Kazi ya Kufanya namba 1(4); Icon ya 'Tuma' ipo mara mbili.",
+      "reference": "Uk 100",
+      "recommendation": "Rekebisha matamshi ya namba, tumia vitenzi jumuishi katika Kazi ya Kufanya 1(4), na uondoe icon ya 'Tuma' iliyojirudia.",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg095_sec001.html"
@@ -2060,11 +2058,11 @@
     },
     {
       "matrix_item": 156,
-      "area": "Nishati ya mwanga",
-      "issue": "Uk 116 kukosekana kwa neno baini",
-      "reference": "pg095_sec001.html",
-      "recommendation": "Ongeza neno “baini” itamkwe Tumia vyanzo mbalimbali vya taarifa ikiwemo maktaba mtandao, video za kielektroniki na maabara za kidijitali kubaini/kuchunguza vyanzo vya nishati ya mwanga",
-      "category": "inclusive_language",
+      "area": "Mpangilio wa picha",
+      "issue": "Picha zimepandana na kuharibu muonekano.",
+      "reference": "Uk 103",
+      "recommendation": "Pangilia upya kielelezo na picha zote ili kuzuia kupandana na kuboresha mwonekano.",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg095_sec001.html"
@@ -2073,11 +2071,11 @@
     },
     {
       "matrix_item": 157,
-      "area": "Jaribio na.5",
-      "issue": "Uk 118 Hakuna sauti katika jaribio na.5 -matamshi ya alama ya tiki /vema si sahihi",
-      "reference": "pg097_sec001.html",
-      "recommendation": "Katika jaribio namba 5:uk 118 iwekwe sauti -matamshi ya alama ya tiki au vema yatamkwe kwa usahihi",
-      "category": "audio_pronunciation",
+      "area": "Matamshi ya sauti",
+      "issue": "Matamshi kwa lugha ya Kiingereza na Kiswahili kisicho sanifu.",
+      "reference": "Uk 104",
+      "recommendation": "Rekebisha maelezo ya sauti yatunze Kiswahili sanifu pekee na kuondoa maneno ya Kiingereza.",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg097_sec001.html"
@@ -2086,11 +2084,11 @@
     },
     {
       "matrix_item": 158,
-      "area": "Mahitaji",
-      "issue": "Kukosekana kwa program saidizi sauti uk 118",
-      "reference": "pg097_sec001.html",
-      "recommendation": "Ongeza [rogram saidizi kwenye orofdha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Matamshi ya sauti",
+      "issue": "Matamshi kwa lugha ya Kiingereza na Kiswahili kisicho sanifu chenye vigugumizi (mfano: 'Nta... ntaaa').",
+      "reference": "Uk 105",
+      "recommendation": "Rekodi upya sauti bila kuwa na vigugumizi wala maneno yasiyo sanifu na utumie Kiswahili fasaha.",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg097_sec001.html"
@@ -2099,23 +2097,10 @@
     },
     {
       "matrix_item": 159,
-      "area": "Jaribio kuchunguza kupenya kwa mwale wa mwanga",
-      "issue": "Uk 119 kukosekana kwa kuchunguza, kupima",
-      "reference": "pg098_sec001.html",
-      "recommendation": "Ongeza maneno “kuchunguza, kupima” itamkwe “kuchunguza/kupima/kutathmini kupenya…….",
-      "category": "inclusive_language",
-      "status": "pending",
-      "files": [
-        "pg098_sec001.html"
-      ],
-      "missing_files": []
-    },
-    {
-      "matrix_item": 160,
-      "area": "hatua ya 3 na ya 5",
-      "issue": "Uk 119 kukosekana kwa maneno pima na tathmini",
-      "reference": "pg098_sec001.html",
-      "recommendation": "Ongeza maneno “”pima na tathmin itamkwe “andika matokeo uliyoyaona/pima/tathmini “",
+      "area": "Matamshi ya sauti",
+      "issue": "Matamshi ya sauti si sahihi.",
+      "reference": "Uk 107",
+      "recommendation": "Sahihisha matamshi katika rekodi ya sauti ili iwe wazi na sahihi.",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -2124,12 +2109,25 @@
       "missing_files": []
     },
     {
+      "matrix_item": 160,
+      "area": "Orodha ya mahitaji",
+      "issue": "Kukosekana kwa programu saidizi na kipimajoto sauti katika mahitaji.",
+      "reference": "Uk 107",
+      "recommendation": "Ongeza programu saidizi na kipimajoto sauti kwenye orodha ya mahitaji.",
+      "category": "assistive_technology",
+      "status": "pending",
+      "files": [
+        "pg098_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
       "matrix_item": 161,
-      "area": "Jaribio namba 6",
-      "issue": "Uk 120 Kukosekana kwa lugha jumuishi yenye maneno kupima/kutathmini",
-      "reference": "pg099_sec001.html",
-      "recommendation": "-katika jaribio na 6:itumike vitenzi jumuishi kama:kupima/kutathmini/kuonyesha mwanga",
-      "category": "inclusive_language",
+      "area": "Maelezo ya picha",
+      "issue": "Hakuna sauti zinazoelezea picha kwa ajili ya mwanafunzi asiyeona.",
+      "reference": "Uk 108",
+      "recommendation": "Weka sauti ya maelezo ya picha (audio description) ili kumsaidia mwanafunzi asiyeona.",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg099_sec001.html"
@@ -2138,23 +2136,25 @@
     },
     {
       "matrix_item": 162,
-      "area": "Chemsha bongo",
-      "issue": "Uk 121 Ukurasa wa chemsha bongo umekosewa -mchanganyo wa lugha katika matamshi ya namba",
-      "reference": "qz020.html",
-      "recommendation": "Chemsha bongo iwekwe baada ya hitimisho",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Orodha ya mahitaji",
+      "issue": "Kukosekana kwa programu saidizi kwenye orodha ya mahitaji.",
+      "reference": "Uk 110",
+      "recommendation": "Ongeza programu saidizi kwenye orodha ya mahitaji ya somo/jaribio.",
+      "category": "assistive_technology",
+      "status": "pending",
       "files": [
         "qz020.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz020.html"
+      ]
     },
     {
       "matrix_item": 163,
-      "area": "Jaribio namba 7",
-      "issue": "Uk 123 kukosekana kwa neno “kueleza” “kuhisi”",
-      "reference": "pg101_sec001.html",
-      "recommendation": "Ongeza neno kueleza” “kuhisi” isomeke “kuonyesha/kuhisi kivli kinavyotokea”",
+      "area": "Hatua ya 5 na 7",
+      "issue": "Maswali ya hatua ya 5 na 7 ('Je unasikia nini...', 'Anasikia nini...') hayana mtiririko na lugha jumuishi.",
+      "reference": "Uk 111",
+      "recommendation": "Rekebisha uandishi wa maswali hayo ili yatumie nafsi na lugha jumuishi inayoeleweka vizuri.",
       "category": "inclusive_language",
       "status": "pending",
       "files": [
@@ -2164,11 +2164,11 @@
     },
     {
       "matrix_item": 164,
-      "area": "Mahitaji",
-      "issue": "Kukosekana kwa program saidizi katika orodha ya mahitaji uk 123",
-      "reference": "pg101_sec001.html",
-      "recommendation": "Ongeza [rogram saidizi kwenye orofdha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Maelezo ya picha",
+      "issue": "Hakuna sauti zinazoelezea picha kwa ajili ya mwanafunzi asiyeona.",
+      "reference": "Uk 112",
+      "recommendation": "Ongeza maelezo ya sauti (audio description) kwenye picha na vipengele vya ukurasa.",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg101_sec001.html"
@@ -2177,10 +2177,10 @@
     },
     {
       "matrix_item": 165,
-      "area": "Kielelezo na. 10",
-      "issue": "Uk 124 Lugha si jumuishi",
-      "reference": "pg102_sec001.html",
-      "recommendation": "-katika kielelezo na. 10 kutokea kwa kivuli,tumia vitenzi shirikishi kama kutambua/kuhisi/kuelezea",
+      "area": "Maelezo ya picha",
+      "issue": "Hamna sauti zinazoelezea zaidi kuhusu picha kwa mwanafunzi asiyeona.",
+      "reference": "Uk 113",
+      "recommendation": "Weka rekodi ya sauti ya ufafanuzi wa picha kwa ajili ya wanafunzi wenye ulemavu wa macho.",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -2190,11 +2190,11 @@
     },
     {
       "matrix_item": 166,
-      "area": "Sauti Uk 125",
-      "issue": "Uk 125 kukosekana kwa maneno kukosekana kwa maneno “kutambua/kuhisi/kuelezea”",
-      "reference": "pg103_sec001.html",
-      "recommendation": "Ongeza maneno “gusa/papasa/tazama/kuwakilisha kuona/ mwali wa mwanga",
-      "category": "inclusive_language",
+      "area": "Maelezo ya picha",
+      "issue": "Hamna sauti zinazoelezea picha kwa mwanafunzi asiyeona; Matumizi yasiyo sahihi ya Kiingereza.",
+      "reference": "Uk 114",
+      "recommendation": "Ongeza sauti ya maelezo ya picha na utumie Kiswahili sanifu badala ya Kiingereza.",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg103_sec001.html"
@@ -2203,23 +2203,25 @@
     },
     {
       "matrix_item": 167,
-      "area": "Chemsha bongo",
-      "issue": "Uk.126 -makosa kimaandishi na matamshi",
-      "reference": "qz021.html",
-      "recommendation": "-chemsha bongo iandikwe tena na kutamkwa maneno na namba za machaguo kwa usahihi",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Mfumo wa kujibu swali",
+      "issue": "Swali halijibiki katika mfumo wa kidijitali.",
+      "reference": "Uk 114/115",
+      "recommendation": "Rekebisha mantiki na ujenzi wa swali ili mwanafunzi aweze kujibu na kuwasilisha majibu.",
+      "category": "content_correction",
+      "status": "pending",
       "files": [
         "qz021.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz021.html"
+      ]
     },
     {
       "matrix_item": 168,
-      "area": "Kielelezo namba 12",
-      "issue": "Uk 127 -matamshi sio sahihi",
-      "reference": "pg104_sec001.html",
-      "recommendation": "-andika kwa usahihi chunguza kielelezo namba 12 hii namba itamkwe kwa usahihi",
+      "area": "Kielelezo na. 6",
+      "issue": "Katika Kielelezo na. 6, herufi 'c' katika vyanzo vya nishati ya mwanga imejirudia.",
+      "reference": "Uk 115",
+      "recommendation": "Sahihisha na kupanga herufi kwa mtiririko sahihi (a, b, c, d...) bila kujirudia herufi 'c'.",
       "category": "figure_accessibility",
       "status": "pending",
       "files": [
@@ -2229,11 +2231,11 @@
     },
     {
       "matrix_item": 169,
-      "area": "Jaribio namba 8",
-      "issue": "Kukosekana kwa program saidizi 127",
-      "reference": "pg104_sec001.html",
-      "recommendation": "Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Sehemu B",
+      "issue": "Sehemu B kwenye viboksi havijaandikwa 'Kweli' au 'Si Kweli' (viko tupu); Anarudia neno 'sita' mara mbili kwenye sauti.",
+      "reference": "Uk 116",
+      "recommendation": "Jaza maandishi ya 'Kweli' au 'Si Kweli' ndani ya viboksi na uondoe marudio ya neno 'sita' katika sauti.",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg104_sec001.html"
@@ -2242,24 +2244,26 @@
     },
     {
       "matrix_item": 170,
-      "area": "Chemsha bongo",
-      "issue": "Uk 130 -chemsha bongo ipo katika ukurasa usio sahihi",
-      "reference": "qz022.html",
-      "recommendation": "-chemsha bongo ihamishiwe uk 127 pia namba zitamkwe kwa kiswahili",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Nishati ya mwanga",
+      "issue": "Matamshi ya maelezo ya 'Nishati ya mwanga' na namba hayajatamkwa vizuri.",
+      "reference": "Uk 116",
+      "recommendation": "Rekebisha matamshi ya namba na maelezo ya sauti ya mada ya nishati ya mwanga.",
+      "category": "figure_accessibility",
+      "status": "pending",
       "files": [
         "qz022.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz022.html"
+      ]
     },
     {
       "matrix_item": 171,
-      "area": "Sauti inavyosafiri",
-      "issue": "Uk 131 kukosekana kwa neno “kuhisi{ “kutambua”",
-      "reference": "pg107_sec001.html",
-      "recommendation": "- ”itumike vitenzi jumuishi kama kugusa /kuhisi/kutambua namna sauti inavyosafiri katika hewa",
-      "category": "inclusive_language",
+      "area": "Swali la 14 na 15",
+      "issue": "Anasoma vibaya namba za Kirumi; Swali la 14 ni gumu kujibu kwani viboksi viko tupu; Swali la 15 ni gumu kulijibu kwa kuoanisha.",
+      "reference": "Uk 117",
+      "recommendation": "Rekebisha usomaji wa namba za Kirumi, jaza maelezo kwenye viboksi vya Swali la 14, na uboreshe muundo wa kuoanisha katika Swali la 15.",
+      "category": "content_correction",
       "status": "pending",
       "files": [
         "pg107_sec001.html"
@@ -2268,11 +2272,11 @@
     },
     {
       "matrix_item": 172,
-      "area": "Kazi za kufanya na. 7",
-      "issue": "Uk 132 kukosekana kwa maneno “kuhisi: “kutambua”",
-      "reference": "/pg108_sec001.html",
-      "recommendation": "Ongeza neno “kuhisi/kutambua”/ sauti iliyoakisiwa",
-      "category": "inclusive_language",
+      "area": "Orodha ya mahitaji",
+      "issue": "Kukosekana kwa programu saidizi ya sauti kwenye orodha ya mahitaji.",
+      "reference": "Uk 118",
+      "recommendation": "Ongeza programu saidizi ya sauti kwenye orodha ya mahitaji.",
+      "category": "assistive_technology",
       "status": "pending",
       "files": [
         "pg108_sec001.html"
@@ -2281,10 +2285,10 @@
     },
     {
       "matrix_item": 173,
-      "area": "Kuonyesha mwangwi unavyotokea",
-      "issue": "Uk 133: kukosekana kwa maneno “kugusa”",
-      "reference": "pg109_sec001.html",
-      "recommendation": "Ongeza neno “kugusa” itamkwe “:kuonyesha/kugusa” mtetemo wa sauti unavyotokea",
+      "area": "Jaribio la kuchunguza kupenya kwa mwale",
+      "issue": "(Jaribio la kuchunguza kupenya kwa mwale) Kukosekana kwa vitenzi 'kuchunguza' na 'kupima'.",
+      "reference": "Uk 119",
+      "recommendation": "Ongeza vitenzi jumuishi na vya kiutendaji 'kuchunguza' na 'kupima' katika hatua za jaribio.",
       "category": "inclusive_language",
       "status": "pending",
       "files": [
@@ -2294,11 +2298,11 @@
     },
     {
       "matrix_item": 174,
-      "area": "Kielezo namba 14",
-      "issue": "Kukosekana kwa vitenzi jumuishi “kuonesha mwangwi unavyotokea 133",
-      "reference": "pg109_sec001.html",
-      "recommendation": "Isomeke ““kuonesha/kubaini mwangwi unavyotokea",
-      "category": "inclusive_language",
+      "area": "Hatua ya 3 na 5",
+      "issue": "Matamshi yasiyo sahihi ya Kiswahili katika hatua ya 3 na 5 (mfano: neno 'mbalimbali' linatamkwa 'mbambalimba').",
+      "reference": "Uk 119",
+      "recommendation": "Sahihisha matamshi ya sauti ili itamke neno 'mbalimbali' kwa usahihi kabisa.",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg109_sec001.html"
@@ -2307,11 +2311,11 @@
     },
     {
       "matrix_item": 175,
-      "area": "Mahitaji",
-      "issue": "Kukosekana saa ya mtetemo, programu saidizi 133",
-      "reference": "pg109_sec001.html",
-      "recommendation": "Songeza saa ya mtetemo, programu saidizi 133 katika orodha ya mahitaji",
-      "category": "assistive_technology",
+      "area": "Jaribio namba 6",
+      "issue": "(Jaribio namba 6) Kukosekana kwa maelezo ya sauti juu ya picha kwa mwanafunzi asiyeona.",
+      "reference": "Uk 120",
+      "recommendation": "Ongeza maelezo ya sauti juu ya picha ili kumwezesha mwanafunzi asiyeona kuelewa jaribio.",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg109_sec001.html"
@@ -2320,11 +2324,11 @@
     },
     {
       "matrix_item": 176,
-      "area": "Kazi ya kufanya na.8",
-      "issue": "Uk 134 kukosekana kwa vitenzi jumuishi katika hatua ya 3, 4, 5",
-      "reference": "pg110_sec001.html",
-      "recommendation": "Hatua hizo zisomeke 3,Sogeza sikio lak/mkono wako o karibu na maji yalikoishia 4,Gonga kengele ndani ya maji kama Kielelezo namba 15 kinavyoonesha/bainsiha 5.Je, unasikia/hisi nini?",
-      "category": "figure_accessibility",
+      "area": "Lugha jumuishi",
+      "issue": "Kukosekana kwa vitenzi jumuishi 'kueleza' na 'kuhisi'.",
+      "reference": "Uk 123",
+      "recommendation": "Jumuisha vitenzi 'kueleza' na 'kuhisi' katika maelezo na maelekezo ya somo.",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg110_sec001.html"
@@ -2333,11 +2337,11 @@
     },
     {
       "matrix_item": 177,
-      "area": "Kazi ya ku fanya na.9",
-      "issue": "Uk 135 kukosekana kwa vitenzi jumuishi kwenye hatua za kazi ya kufanya 2, 3, 4, 5, 7 -luigha mchanganyiko",
-      "reference": "pg111_sec001.html",
-      "recommendation": "Ongeza maneno “kuhisi/ kugusa” Sentensi hizo zisomeke 2.Mwambie rafiki yako aweke sikio lakemkono wake …… 4. Muulize anasikia /hisi nini na uandike. 5 Weka sikio/mkono wako upande mmoja wa chuma 7,Andika unachokisikia/hisi.",
-      "category": "inclusive_language",
+      "area": "Orodha ya mahitaji",
+      "issue": "Kukosekana kwa programu saidizi katika orodha ya mahitaji.",
+      "reference": "Uk 123",
+      "recommendation": "Ongeza programu saidizi kwenye orodha ya mahitaji.",
+      "category": "assistive_technology",
       "status": "pending",
       "files": [
         "pg111_sec001.html"
@@ -2346,11 +2350,11 @@
     },
     {
       "matrix_item": 178,
-      "area": "Kazi ya kufanya namba 10",
-      "issue": "Namba katika kazi ya kufanya namba 10 zimetamkwa kwa kiingereza",
-      "reference": "pg111_sec001.html",
-      "recommendation": "Namba katika kazi ya kufanya namba 10 zitamkwe kwa kiswahili",
-      "category": "audio_pronunciation",
+      "area": "Kielelezo na. 10",
+      "issue": "(Kielelezo na. 10) Lugha iliyotumika si jumuishi.",
+      "reference": "Uk 124",
+      "recommendation": "Badilisha lugha iwe jumuishi inayozingatia mahitaji ya wanafunzi wote.",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg111_sec001.html"
@@ -2359,11 +2363,11 @@
     },
     {
       "matrix_item": 179,
-      "area": "Baadhi ya vifaa vinavyotumia nishati ya sauti",
-      "issue": "Uk 136 kukosekana kwa neno baini",
-      "reference": "pg112_sec001.html",
-      "recommendation": "Ongeza neno :baini katika eneno la Baadhi ya vifaa vinavyotumia nishati ya sauti",
-      "category": "inclusive_language",
+      "area": "Lugha jumuishi",
+      "issue": "Kukosekana kwa maneno/vitenzi jumuishi 'kutambua', 'kuhisi', au 'kuelezea' katika rekodi ya sauti.",
+      "reference": "Uk 125",
+      "recommendation": "Ongeza maneno 'kutambua', 'kuhisi', na 'kuelezea' katika maelezo ya sauti.",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg112_sec001.html"
@@ -2372,11 +2376,11 @@
     },
     {
       "matrix_item": 180,
-      "area": "Kazi ya kufanya namba 11",
-      "issue": "Uk 137;Kazi ya kufanya namba 11 haina Vitenzi si jumuishi",
-      "reference": "pg113_sec001.html",
-      "recommendation": "Ongeza maneno “:gusa/hisi/tambua/chunguza aina za nishati katika mazingira na uhusiano wake -namba katika vielelezo zitamkwe kwa usahihi",
-      "category": "inclusive_language",
+      "area": "Kielelezo namba 12",
+      "issue": "(Kielelezo namba 12) Matamshi ya sauti sio sahihi.",
+      "reference": "Uk 127",
+      "recommendation": "Rekebisha sauti ili kutoa matamshi sahihi ya maelezo ya kielelezo namba 12.",
+      "category": "figure_accessibility",
       "status": "pending",
       "files": [
         "pg113_sec001.html"
@@ -2385,11 +2389,11 @@
     },
     {
       "matrix_item": 181,
-      "area": "zoezi la marudio",
-      "issue": "Uk 138 -matamshi ya maneno si sahihi -lugha mchanganyiko katika matamshi ya namba",
-      "reference": "pg114_sec001.html",
-      "recommendation": "-katika zoezi la marudio uk 138:matamshi ya maneno yawe sahihi,pia namba zitamkwe kwa lugha ya kiswahili",
-      "category": "audio_pronunciation",
+      "area": "Jaribio namba 8",
+      "issue": "(Jaribio namba 8) Kukosekana kwa programu saidizi.",
+      "reference": "Uk 127",
+      "recommendation": "Jumuisha programu saidizi kwenye orodha ya mahitaji ya jaribio namba 8.",
+      "category": "assistive_technology",
       "status": "pending",
       "files": [
         "pg114_sec001.html"
@@ -2398,11 +2402,11 @@
     },
     {
       "matrix_item": 182,
-      "area": "kuoanisha sehemu A na B",
-      "issue": "Uk 140 -maneno ya sehemu A hayajapangiliwa",
-      "reference": "pg116_sec001.html",
-      "recommendation": "Uk 148:pangilia maneno katika kuoanisha sehemu A na B kama ilivyo katika kitabu cha zamani uk 110",
-      "category": "layout_order",
+      "area": "Sauti Inavyosafiri",
+      "issue": "(Sauti inavyosafiri) Kukosekana kwa maneno jumuishi 'kuhisi' na 'kutambua'.",
+      "reference": "Uk 131",
+      "recommendation": "Ongeza maneno 'kuhisi' na 'kutambua' katika maelezo ya mada ya usafiri wa sauti.",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg116_sec001.html"
@@ -2411,11 +2415,11 @@
     },
     {
       "matrix_item": 183,
-      "area": "Dhana ya Ombwe",
-      "issue": "Uk 141 -maana ya ombwe imeandikwa kimakosa",
-      "reference": "pg117_sec001.html",
-      "recommendation": "Dhana ya Ombwe:iandikwe na itamkwe ni nafsi tupu",
-      "category": "audio_pronunciation",
+      "area": "Kazi ya Kufanya na. 7",
+      "issue": "(Kazi ya kufanya na. 7) Kukosekana kwa maneno 'kuhisi' na 'kutambua'.",
+      "reference": "Uk 132",
+      "recommendation": "Weka vitenzi jumuishi 'kuhisi' na 'kutambua' katika hatua za kazi ya kufanya na. 7.",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg117_sec001.html"
@@ -2424,24 +2428,26 @@
     },
     {
       "matrix_item": 184,
-      "area": "chemshabongo",
-      "issue": "Uk.142 Chemshabongo ipo ukurasa ambao si sahihi",
-      "reference": "qz023.html",
-      "recommendation": "-chemshabongo ihamishiwe katika uk 132",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Kuonyesha Mwangwi",
+      "issue": "(Kuonyesha mwangwi) Kukosekana kwa neno 'kugusa' na vitenzi jumuishi; kukosekana saa ya mtetemo na programu saidizi kwenye mahitaji.",
+      "reference": "Uk 133",
+      "recommendation": "Ongeza neno 'kugusa', tumia vitenzi jumuishi, na uongeze saa ya mtetemo pamoja na programu saidizi kwenye orodha ya mahitaji.",
+      "category": "assistive_technology",
+      "status": "pending",
       "files": [
         "qz023.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz023.html"
+      ]
     },
     {
       "matrix_item": 185,
-      "area": "Maelezo ya sauti",
-      "issue": "Maelezo ya sauti ya picha hayapo katika ADT kitabu cha sauti. 143",
-      "reference": "pg118_sec001.html",
-      "recommendation": "Weka sauti ADT Kitabu",
-      "category": "figure_accessibility",
+      "area": "Kazi ya Kufanya na. 8",
+      "issue": "(Kazi ya kufanya na. 8) Kukosekana kwa vitenzi jumuishi katika hatua ya 3, 4, na 5.",
+      "reference": "Uk 134",
+      "recommendation": "Weka vitenzi jumuishi katika hatua ya 3, 4, na 5 za Kazi ya Kufanya na. 8.",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg118_sec001.html"
@@ -2450,11 +2456,11 @@
     },
     {
       "matrix_item": 186,
-      "area": "Kazi ya kufanya namba 1",
-      "issue": "Kazi ya kufanya namba 1: maelezo ya sauti ya picha hayapo katika ADT kitabu cha sauti. 144",
-      "reference": "pg119_sec001.htm",
-      "recommendation": "Maelezo ya sauti ya picha yawekwe katika ADT kitabu cha sauti.",
-      "category": "figure_accessibility",
+      "area": "Kazi ya Kufanya na. 9 & 10",
+      "issue": "(Kazi ya kufanya na. 9 & 10) Kukosekana kwa vitenzi jumuishi katika hatua ya 2, 3, 4, 5, 7; lugha mchanganyiko; maneno 'save as' yanasomwa vibaya; icon ya 'Tuma' imejitokeza mara mbili; namba katika kazi ya kufanya na. 10 zimetamkwa kwa Kiingereza.",
+      "reference": "Uk 135",
+      "recommendation": "Ongeza vitenzi jumuishi, tamka 'save as' kwa Kiingereza sahihi, ondoa icon iliyojirudia ya 'Tuma', na tamka namba zote kwa Kiswahili.",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg119_sec001.html"
@@ -2463,11 +2469,11 @@
     },
     {
       "matrix_item": 187,
-      "area": "Kazi ya kufanya namba 1",
-      "issue": "Kazi ya kufanya namba 1: kisoma skrini hakisomi sahihi namba moja katika ADT kitabu cha sauti. 144",
-      "reference": "pg119_sec001.htm",
-      "recommendation": "Rekebisha kisoma skrini kisome sahihi namba moja katika ADT kitabu cha sauti. Ukurasa 144",
-      "category": "audio_pronunciation",
+      "area": "Lugha jumuishi",
+      "issue": "Kukosekana kwa neno/kitenzi 'baini'.",
+      "reference": "Uk 136",
+      "recommendation": "Ongeza kitenzi jumuishi 'baini' katika maelezo au hatua za kazi.",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg119_sec001.html"
@@ -2476,11 +2482,11 @@
     },
     {
       "matrix_item": 188,
-      "area": "Kazi ya kufanya namba 1",
-      "issue": "Kazi ya kufanya namba 1: kisoma skrini hakisomi sahihi namba moja katika ADT kitabu cha sauti.144",
-      "reference": "pg119_sec001.htm",
-      "recommendation": "Kazi ya kufanya namba 1: kisoma skrini kisome kwa usahihi namba moja katika ADT kitabu cha sauti.",
-      "category": "audio_pronunciation",
+      "area": "Kazi ya Kufanya namba 11",
+      "issue": "Kazi ya kufanya namba 11 haina vitenzi jumuishi.",
+      "reference": "Uk 137",
+      "recommendation": "Ongeza vitenzi jumuishi katika maelekezo ya Kazi ya Kufanya namba 11.",
+      "category": "inclusive_language",
       "status": "pending",
       "files": [
         "pg119_sec001.html"
@@ -2489,23 +2495,10 @@
     },
     {
       "matrix_item": 189,
-      "area": "",
-      "issue": "Badirisha neno tazama kuwa chunguza. 145",
-      "reference": "pg120_sec001.html",
-      "recommendation": "Ongeza neno chunguza",
-      "category": "inclusive_language",
-      "status": "pending",
-      "files": [
-        "pg120_sec001.html"
-      ],
-      "missing_files": []
-    },
-    {
-      "matrix_item": 190,
-      "area": "Kazi ya kufanya namba 2",
-      "issue": "Sura ya Sita Kazi ya kufanya namba 2: kisoma skrini hakisomi sahihi namba mbili katika ADT kitabu cha sauti. 145",
-      "reference": "pg120_sec001.html",
-      "recommendation": "kisoma skrini kisome kwa sahihi namba mbili katika ADT kitabu cha sauti.",
+      "area": "Matamshi ya namba",
+      "issue": "Matamshi ya maneno si sahihi; lugha mchanganyiko katika kutamka namba.",
+      "reference": "Uk 138",
+      "recommendation": "Sahihisha matamshi ya maneno yote na utumie Kiswahili sanifu katika kutamka namba.",
       "category": "audio_pronunciation",
       "status": "pending",
       "files": [
@@ -2514,12 +2507,25 @@
       "missing_files": []
     },
     {
+      "matrix_item": 190,
+      "area": "Sehemu A",
+      "issue": "Maneno ya Sehemu A hayajapangiliwa vyema.",
+      "reference": "Uk 140",
+      "recommendation": "Pangilia maneno ya Sehemu A kwa mtiririko wenye mantiki na urahisi wa kusoma.",
+      "category": "inclusive_language",
+      "status": "pending",
+      "files": [
+        "pg120_sec001.html"
+      ],
+      "missing_files": []
+    },
+    {
       "matrix_item": 191,
-      "area": "Kazi ya kufanya namba 2",
-      "issue": "Kazi ya kufanya namba 2: hakuna maelezo ya Quorum program katika kielelezo namba 3 ili iwe fikivu Zaidi. Ukurasa 145",
-      "reference": "pg120_sec001.html",
-      "recommendation": "weka maelezo ya Quorum program katika kielelezo namba 3 ili iwe fikivu Zaidi. Ukurasa",
-      "category": "assistive_technology",
+      "area": "Neno 'ombwe'",
+      "issue": "Maana ya neno 'ombwe' imeandikwa kimakosa.",
+      "reference": "Uk 141",
+      "recommendation": "Rekebisha na uandike maana sahihi ya kisayansi ya neno 'ombwe'.",
+      "category": "content_correction",
       "status": "pending",
       "files": [
         "pg120_sec001.html"
@@ -2528,37 +2534,41 @@
     },
     {
       "matrix_item": 192,
-      "area": "Mchezo sahili",
-      "issue": "Muundo ni nini kulingana na somo hili?maelezo ya mfano wa mchezo sahili hayapo katika ADT kitabu cha sauti. 146",
-      "reference": "adt/qz024.html",
-      "recommendation": "maelezo ya mfano wa mchezo sahili yawekwe kama ilivyo katika kitabu husika katika ADT kitabu cha sauti",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Kazi ya Kufanya namba 1",
+      "issue": "Kazi ya kufanya namba 1: Maelezo ya sauti ya picha hayapo katika ADT kitabu cha sauti; kisoma skrini hakisomi sahihi namba 1.",
+      "reference": "Uk 144",
+      "recommendation": "Weka maelezo ya sauti ya picha kwenye kitabu cha sauti na uboreshe kisoma skrini ili kisome namba 1 kwa usahihi.",
+      "category": "figure_accessibility",
+      "status": "pending",
       "files": [
         "qz024.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz024.html"
+      ]
     },
     {
       "matrix_item": 193,
-      "area": "",
-      "issue": "Muundo ni nini kulingana na somo hili? haipo program ya Quorum badala ya scratch. 146",
-      "reference": "adt/qz024.html",
-      "recommendation": "weka maelezo ya Quorum program badala ya scratch",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "area": "Kazi ya Kufanya namba 2",
+      "issue": "Matumizi ya neno 'tazama' badala ya 'chunguza'; anakosea kusoma namba 12; Kazi ya kufanya namba 2 haina maelezo ya programu ya Quorum katika Kielelezo na. 3.",
+      "reference": "Uk 145",
+      "recommendation": "Badilisha 'tazama' kuwa 'chunguza', sahihisha usomaji wa namba 12, na uongeze maelezo ya programu ya Quorum katika Kielelezo na. 3.",
+      "category": "assistive_technology",
+      "status": "pending",
       "files": [
         "qz024.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz024.html"
+      ]
     },
     {
       "matrix_item": 194,
-      "area": "Uchoraji wa maumbo",
-      "issue": "Uchoraji wa maumbo: weka maelezo ya Quorum program katika kielelezo namba 4 na 5 ili iwe fikivu. 147",
-      "reference": "pg121_sec001.html",
-      "recommendation": "Weka maelezo ya Quorum program katika kielelezo namba 4 na 5 ili iwe fikivu.",
-      "category": "assistive_technology",
+      "area": "Mchezo Sahili",
+      "issue": "Maelezo ya mfano wa mchezo sahili hayapo katika ADT kitabu cha sauti; Icon ya 'Tuma' ipo mara mbili.",
+      "reference": "Uk 146",
+      "recommendation": "Ongeza maelezo ya mchezo sahili katika kitabu cha sauti na uondoe icon iliyojirudia ya 'Tuma'.",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg121_sec001.html"
@@ -2567,10 +2577,10 @@
     },
     {
       "matrix_item": 195,
-      "area": "kielelezo namba 6 na 7",
-      "issue": "Uchoraji wa maumbo:maelezo ya Quorum program katika kielelezo namba 6 na 7 hayapo 148",
-      "reference": "pg122_sec001.html",
-      "recommendation": "Weka maelezo ya Quorum program katika kielelezo namba 6 na 7.",
+      "area": "Uchoraji wa Maumbo",
+      "issue": "Uchoraji wa maumbo: Kukosekana kwa maelezo ya programu ya Quorum katika Kielelezo na. 4 na 5.",
+      "reference": "Uk 147",
+      "recommendation": "Ongeza maelezo ya programu ya Quorum kwenye Kielelezo na. 4 na 5 ili kuongeza ufikivu.",
       "category": "assistive_technology",
       "status": "pending",
       "files": [
@@ -2580,11 +2590,11 @@
     },
     {
       "matrix_item": 196,
-      "area": "Sura ya sita Uchoraji wa maumbo",
-      "issue": "Uchoraji wa maumbo: maelezo ya picha hayapo katika ADT kitabu cha sauti. 148",
-      "reference": "pg122_sec001.html",
-      "recommendation": "Weka maelezo ya picha hayapo katika ADT kitabu cha sauti. Ukurasa 148",
-      "category": "figure_accessibility",
+      "area": "Uchoraji wa Maumbo",
+      "issue": "Uchoraji wa maumbo: Kukosekana kwa maelezo ya programu ya Quorum katika Kielelezo na. 6 na 7; maelezo ya picha hayapo katika ADT kitabu cha sauti.",
+      "reference": "Uk 148",
+      "recommendation": "Weka maelezo ya programu ya Quorum kwenye Kielelezo na. 6 na 7, pamoja na kuweka sauti ya maelezo ya picha katika kitabu cha sauti.",
+      "category": "assistive_technology",
       "status": "pending",
       "files": [
         "pg122_sec001.html"
@@ -2593,11 +2603,11 @@
     },
     {
       "matrix_item": 197,
-      "area": "maelezo ya picha",
-      "issue": "Maelezo ya picha hayapo katika ADT kitabu cha sauti. 149",
-      "reference": "pg123_sec001.html",
-      "recommendation": "Weka maelezo ya picha hayapo katika ADT kitabu cha sauti.",
-      "category": "figure_accessibility",
+      "area": "Namba Sifuri (0)",
+      "issue": "Makosa katika uandishi/matamshi ya namba sifuri (0).",
+      "reference": "Uk 149",
+      "recommendation": "Rekebisha uandishi na matamshi ya namba sifuri ili yawe sahihi na sanifu.",
+      "category": "audio_pronunciation",
       "status": "pending",
       "files": [
         "pg123_sec001.html"
@@ -2607,15 +2617,17 @@
     {
       "matrix_item": 198,
       "area": "Zoezi",
-      "issue": "Maelezo ya kufanya zoezi sio fikivu. 150",
-      "reference": "adt/qz025.html",
-      "recommendation": "Maelezo ya kufanya zoezi yawe fikivu (rejea kiamba chini).",
-      "category": "quiz",
-      "status": "conflict_needs_user_decision",
+      "issue": "Maelezo ya kufanya zoezi sio fikivu kwa wanafunzi wenye mahitaji maalum.",
+      "reference": "Uk 150",
+      "recommendation": "Rekebisha maelezo ya zoezi ili yawe fikivu (accessible) kikamilifu kwa wanafunzi wote, ikiwa ni pamoja na wanafunzi wasioona.",
+      "category": "content_correction",
+      "status": "pending",
       "files": [
         "qz025.html"
       ],
-      "missing_files": []
+      "missing_files": [
+        "qz025.html"
+      ]
     }
   ]
 }

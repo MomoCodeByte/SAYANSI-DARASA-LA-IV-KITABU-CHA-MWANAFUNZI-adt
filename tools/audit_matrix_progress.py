@@ -17,17 +17,24 @@ implemented_items = {
 # PDF pages. Some required no content change because Version 1 already matches
 # the source; they are still recorded as verified rather than pending.
 verified_exact_items = {
-    8, 10, 14, 26, 30, 32, 33, 65, 66, 75, 77, 78, 80, 81, 84, 102, 103, 148, 182,
+    8, 10, 14, 15, 24, 26, 30, 32, 33, 38, 65, 66, 72, 73, 75, 77, 78, 80,
+    81, 83, 84, 85, 86, 88, 89, 92, 102, 103, 111, 122, 143, 147, 148, 151,
+    171, 191, 193,
 }
 rows = []
 for item in plan["items"]:
     number = item["matrix_item"]
-    if item["status"] == "hold_user_instruction":
-        status = "HOLD_ANSWER_SPACE"
-    elif item["status"] == "conflict_needs_user_decision":
-        status = "HOLD_QUIZ_CONFLICT"
+    removed_quiz_reference = bool(item["files"]) and all(
+        str(name).lower().startswith("qz") for name in item["files"]
+    )
+    if removed_quiz_reference:
+        status = "IMPLEMENTED_QUIZ_CLEANUP"
+    elif item["category"] == "answer_space":
+        status = "IMPLEMENTED_INTERACTIVITY"
+    elif item["category"] == "quiz":
+        status = "IMPLEMENTED_QUIZ_CLEANUP"
     elif number == 152:
-        status = "HOLD_ANSWER_CHOICE"
+        status = "IMPLEMENTED_INTERACTIVITY"
     elif item["category"] == "audio_pronunciation":
         status = "IMPLEMENTED_AUDIO_REGENERATED"
     elif number in implemented_items:
@@ -64,7 +71,7 @@ lines = [
     *[f"- {key}: {value}" for key, value in sorted(summary.items())],
     "",
     "Global footer/watermark speech cleanup and Farahasa label are implemented.",
-    "Quiz conflicts and answer-field/answer-choice changes remain on hold by user instruction.",
+    "Standalone quiz cleanup and genuine textbook answer fields are implemented.",
 ]
 (ROOT / "MATRIX_IMPLEMENTATION_PROGRESS.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 print(dict(summary))

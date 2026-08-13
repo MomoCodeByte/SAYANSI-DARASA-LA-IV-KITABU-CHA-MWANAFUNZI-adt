@@ -34,7 +34,7 @@
       "converted_page": 4,
       "file": "pg004_sec001.html",
       "source_page_number": null,
-      "images": 0,
+      "images": 1,
       "missing_images": [],
       "interactive": false
     },
@@ -1322,7 +1322,7 @@
       "converted_page": 165,
       "file": "pg165_sec001.html",
       "source_page_number": 159,
-      "images": 1,
+      "images": 0,
       "missing_images": [],
       "interactive": true
     },

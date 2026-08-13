@@ -20,6 +20,9 @@ def matching_div_end(text: str, start: int) -> int:
                 return cursor
 
 def add_after_container(source: str, marker: str, opening: str, control: str) -> str:
+    aria_marker = control.split('data-aria-id="', 1)[1].split('"', 1)[0]
+    if f'data-aria-id="{aria_marker}"' in source:
+        return source
     marker_at = source.index(f'data-id="{marker}"')
     start = source.rfind(opening, 0, marker_at)
     if start < 0:
@@ -69,4 +72,4 @@ source = add_after_container(
 source = source.replace('data-section-type="text_and_single_image"', 'data-section-type="activity_open_ended_answer"', 1)
 source = source.replace('offline-preloader.js?v=full-order-1', 'offline-preloader.js?v=static-exercises-10', 1)
 path.write_text(source, encoding="utf-8")
-print("static_exercises_made_interactive=3 answer_controls_added=6")
+print("static_exercises_checked=3")

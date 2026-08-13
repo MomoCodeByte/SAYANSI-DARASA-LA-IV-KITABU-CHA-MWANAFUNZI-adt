@@ -209,6 +209,16 @@
     controls.appendChild(submit);
     host.appendChild(controls);
   }
+  function removeDuplicateResponseControls() {
+    var matrixControls = document.querySelector("[data-matrix-response-controls]");
+    if (!matrixControls) return;
+    var hasNativeSubmit = Array.from(document.querySelectorAll("button")).some(function (button) {
+      return !button.closest("[data-matrix-response-controls]") &&
+        /^(tuma|wasilisha)$/i.test((button.textContent || "").trim()) &&
+        button.offsetParent !== null;
+    });
+    if (hasNativeSubmit) matrixControls.remove();
+  }
   var matchingStyle = document.createElement("style");
   matchingStyle.textContent = ".matrix-match-select{display:block;width:100%;max-width:15rem;padding:.7rem .85rem;border:2px solid #38bdf8;border-radius:.65rem;background:#fff;color:#1f2937;font-size:1.05rem}.matrix-match-select:focus{outline:3px solid rgba(14,165,233,.35);outline-offset:2px}.matrix-match-submit{margin-top:1rem;padding:.7rem 2rem;border:0;border-radius:.75rem;background:#374151;color:#fff;font-size:1.05rem;font-weight:700;box-shadow:0 3px 6px rgba(0,0,0,.24)}.matrix-match-submit:focus{outline:3px solid rgba(14,165,233,.45);outline-offset:3px}.matrix-page39-heading{max-width:100%!important;font-size:1.75rem!important;line-height:1.3!important;overflow-wrap:anywhere!important}.matrix-page39-answer-card{margin-top:.8rem;padding:1rem;border-radius:.85rem;background:rgba(255,255,255,.7)}.matrix-page39-answer{display:block;width:100%;min-height:7rem;margin-top:.75rem;padding:.75rem 1rem;border:1px solid #38bdf8;border-radius:.65rem;background:#fff;resize:vertical}.matrix-page39-answer:focus{outline:3px solid rgba(14,165,233,.35);outline-offset:2px}.matrix-page39-note{margin:.7rem 0 0 3.5rem;color:#475569;font-size:.9rem;font-style:italic}.matrix-sign-meaning-answer{display:block;width:calc(100% - 1rem);min-height:10rem;margin:.5rem;padding:.75rem;border:2px solid #38bdf8;border-radius:.65rem;background:#fff;resize:vertical}.matrix-sign-meaning-answer:focus{outline:3px solid rgba(14,165,233,.35);outline-offset:2px}.matrix-sign-controls{text-align:center;padding:1.25rem 0 .25rem}.matrix-sign-feedback{min-height:1.5rem;margin:0 0 .75rem;font-weight:700}.matrix-sign-submit{padding:.7rem 2.2rem;border:0;border-radius:.75rem;background:#374151;color:#fff;font-size:1.05rem;font-weight:700;box-shadow:0 3px 6px rgba(0,0,0,.24)}.matrix-sign-submit:focus{outline:3px solid rgba(14,165,233,.45);outline-offset:3px}.matrix-response-controls{text-align:center;padding:1.25rem 0 .25rem}.matrix-response-feedback{min-height:1.5rem;margin:0 0 .75rem;font-weight:700}.matrix-response-submit{padding:.75rem 2.4rem;border:0;border-radius:.75rem;background:#374151;color:#fff;font-size:1.05rem;font-weight:700;box-shadow:0 3px 6px rgba(0,0,0,.24)}.matrix-response-submit:focus{outline:3px solid rgba(14,165,233,.45);outline-offset:3px}@media(max-width:640px){.matrix-page39-heading{font-size:1.3rem!important}.matrix-page39-note{margin-left:0}.matrix-sign-meaning-answer{min-height:7rem}}";
   document.head.appendChild(matchingStyle);
@@ -216,6 +226,8 @@
   improvePageThirtyNine();
   improvePageThirtyThreeTable();
   improveResponseSubmission();
+  removeDuplicateResponseControls();
+  new MutationObserver(removeDuplicateResponseControls).observe(document.body, { childList: true, subtree: true });
   fetch("./content/accessibility-overrides.json?v=matrix-final-59", { cache: "no-store" })
     .then(function (response) { return response.json(); })
     .then(function (overrides) {
