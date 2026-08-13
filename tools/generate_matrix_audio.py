@@ -56,9 +56,10 @@ async def render(job: tuple[str, str, list[int], Path]) -> tuple[str, dict]:
         try:
             audio = bytearray(); boundaries = []
             request = edge_tts.Communicate(text, VOICE, rate="+0%", boundary="WordBoundary")
-            async for part in request.stream():
-                if part["type"] == "audio": audio.extend(part["data"])
-                elif part["type"] == "WordBoundary": boundaries.append(part)
+            async with asyncio.timeout(45):
+                async for part in request.stream():
+                    if part["type"] == "audio": audio.extend(part["data"])
+                    elif part["type"] == "WordBoundary": boundaries.append(part)
             if not audio: raise RuntimeError("empty audio")
             destination.parent.mkdir(parents=True, exist_ok=True)
             destination.write_bytes(audio)
@@ -77,7 +78,7 @@ async def render(job: tuple[str, str, list[int], Path]) -> tuple[str, dict]:
 
 
 async def main() -> None:
-    parser = argparse.ArgumentParser(); parser.add_argument("--limit", type=int); parser.add_argument("--workers", type=int, default=12); parser.add_argument("--ids", nargs="*")
+    parser = argparse.ArgumentParser(); parser.add_argument("--limit", type=int); parser.add_argument("--workers", type=int, default=12); parser.add_argument("--ids", nargs="*"); parser.add_argument("--force", action="store_true")
     args = parser.parse_args()
     plan = json.loads((ROOT / "content/validation-matrix-plan.json").read_text(encoding="utf-8"))
     texts = json.loads((LANG / "texts.json").read_text(encoding="utf-8")); audios = json.loads((LANG / "audios.json").read_text(encoding="utf-8"))
@@ -91,7 +92,7 @@ async def main() -> None:
         shown = str(texts.get(text_id, "")).strip()
         if not shown: continue
         destination = LANG / "audio" / str(filename).split("?")[0]
-        if destination.exists() and destination.stat().st_size > 100 and not requested: continue
+        if destination.exists() and destination.stat().st_size > 100 and not requested and not args.force: continue
         normalized, display_map = spoken(shown); jobs.append((text_id, normalized, display_map, destination))
     if args.limit is not None: jobs = jobs[:args.limit]
     timecode_path = LANG / "timecode" / "timecode_output.json"; timecode_path.parent.mkdir(exist_ok=True)
