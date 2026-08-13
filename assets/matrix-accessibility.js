@@ -208,6 +208,7 @@
     }
   }
   function improveResponseSubmission() {
+    if (pageName() === "pg033_sec001.html") return;
     var fields = Array.from(document.querySelectorAll(
       'textarea[data-response-for], input[type="text"][data-response-for], textarea[data-aria-id], input[type="text"][data-aria-id]'
     )).filter(function (field) {
@@ -255,10 +256,17 @@
     Array.from(document.querySelectorAll("button")).forEach(function (button) {
       var isSubmit = /^(tuma|wasilisha)$/i.test((button.textContent || "").trim());
       if (isSubmit && !content.contains(button)) {
-        button.hidden = true;
-        button.style.display = "none";
-        button.setAttribute("aria-hidden", "true");
+        button.remove();
       }
+    });
+  }
+  function keepSinglePageTwentySevenSubmit() {
+    if (pageName() !== "pg027_sec001.html") return;
+    var preferred = document.querySelector("#pg027-submit-matching");
+    if (!preferred) return;
+    Array.from(document.querySelectorAll("button")).forEach(function (button) {
+      var isSubmit = /^(tuma|wasilisha)$/i.test((button.textContent || "").trim());
+      if (isSubmit && button !== preferred) button.remove();
     });
   }
   var matchingStyle = document.createElement("style");
@@ -269,7 +277,9 @@
   improvePageThirtyThreeTable();
   improveResponseSubmission();
   hideDockResponseSubmit();
+  keepSinglePageTwentySevenSubmit();
   new MutationObserver(hideDockResponseSubmit).observe(document.body, { childList: true, subtree: true });
+  new MutationObserver(keepSinglePageTwentySevenSubmit).observe(document.body, { childList: true, subtree: true });
   fetch("./content/accessibility-overrides.json?v=matrix-final-59", { cache: "no-store" })
     .then(function (response) { return response.json(); })
     .then(function (overrides) {

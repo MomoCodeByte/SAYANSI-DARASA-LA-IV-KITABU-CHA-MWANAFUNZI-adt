@@ -3,7 +3,7 @@
   "page_files": 168,
   "unique_files": 168,
   "missing_images": 0,
-  "interactive_pages": 78,
+  "interactive_pages": 79,
   "qa_issues": [],
   "pages": [
     {
@@ -164,7 +164,7 @@
       "source_page_number": 14,
       "images": 0,
       "missing_images": [],
-      "interactive": false
+      "interactive": true
     },
     {
       "converted_page": 21,

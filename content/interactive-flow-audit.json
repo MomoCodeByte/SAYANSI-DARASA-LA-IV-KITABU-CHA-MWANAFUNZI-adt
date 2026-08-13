@@ -1,5 +1,5 @@
 {
-  "pages_with_textareas": 64,
+  "pages_with_textareas": 65,
   "pages_with_duplicate_ids": 0,
   "pages_with_repeated_text": 0,
   "pages": [
@@ -49,6 +49,13 @@
       "converted_page": 19,
       "file": "pg019_sec001.html",
       "textareas": 1,
+      "duplicate_ids": {},
+      "repeated_text": {}
+    },
+    {
+      "converted_page": 20,
+      "file": "pg020_sec001.html",
+      "textareas": 2,
       "duplicate_ids": {},
       "repeated_text": {}
     },
