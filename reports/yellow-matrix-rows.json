@@ -1,0 +1,1924 @@
+[
+  {
+    "table": 1,
+    "yellow_rows": [
+      {
+        "row": 3,
+        "cells": [
+          "Cheti cha Ithibati",
+          "Matamshi ya kwenye cheti cha ithibati hayatamkwi vizuri” Kwenye ISBN – kuna neno “ondoa” Check na, ya ithibati inavyotamkwa",
+          "1",
+          "Rudi kwenye audio kurekebisha Rekebisha sauti na utamkwaji wa namba katika cheti cha ithibati"
+        ],
+        "yellow_cells": [
+          2
+        ]
+      },
+      {
+        "row": 4,
+        "cells": [
+          "Copy rights",
+          "Matamshi yamechanganywa Kiswahili, kiingereza na lugha nyingine Namba zinatamkwa vibaya kwenye copy right Kuna sauti ya foot note zinasomwa",
+          "2",
+          "Rudi kwenye audio kurekebisha Namba zitamkwe vizuriManeno ya foot not yasisomwe a u kutamka"
+        ],
+        "yellow_cells": [
+          2,
+          4
+        ]
+      },
+      {
+        "row": 5,
+        "cells": [
+          "Yaliyomo",
+          "Kuna mchanganyiko wa lugha katika kutaja namba za Kurasa Namba za kitumi zinatamkwa kama ivi “iv” , vii “v”Table of content (yaliyomo) haiendani namba ya ukurasa husika",
+          "3",
+          "Rejea audio na kurekebishaUpdate table of content iendane na namba za Kurasa husika"
+        ],
+        "yellow_cells": [
+          2,
+          4
+        ]
+      },
+      {
+        "row": 8,
+        "cells": [
+          "Utangulizi",
+          "Neno mfano VI haijatamkwaMpangilio haujabe justified kwenye utangulizi",
+          "5",
+          "Rejea audio na kurekebishaJustify utangulizi"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 11,
+        "cells": [
+          "Kieelezo namba 1",
+          "Kukosekana kwa neno “kinabainisha” Kielelezo (a) kinatamka fanya badala ya kufanya na (a) haitamkwi uk 8",
+          "8",
+          "Ongeza neno “kinaeleza” Isomeke “kielezo namba 1 kinaonesha/ kinabainisha …….”Rekebisha sauti isome kufanya na (a) itamkwe"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 12,
+        "cells": [
+          "Kieelezo namba 1",
+          "Caption ya kielelzo kinatamkwa kelelezo namba uno badala ya namba moja",
+          "8",
+          "Rekebisha caption isome namaba moja"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 13,
+        "cells": [
+          "Kielezo namba 1",
+          "Kukosewa kwa usahihi wa matamshi “kielezo namba uno”",
+          "8",
+          "Rejea sauti kurekebisha"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 15,
+        "cells": [
+          "Kielelezo namba 2",
+          "Maneno hayapo kwenye picha husika",
+          "9",
+          "Rekebisha maneno yakae kwenye picha husika"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 23,
+        "cells": [
+          "Mlo kamili",
+          "Maneno maziwa , njegere hayajatamkwa vizuri uk 12",
+          "12.",
+          "Rekebisha matamshi hayo"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 24,
+        "cells": [
+          "Kieleelzo namba 6",
+          "Kinatamkwa namba sax badala ya namba sita Pia kinatakundi moja la vyakula “vyakula vya kujenga mwili alafu kinasoma kilelezo namba 6…. badala ya kuendelea kutaja aina nyingine ya vyakula",
+          "12",
+          "Kitamkwe namba kielelezo namba sita (6)Rekebisha itaje aina yote ya vyakula alafu isome kielezo namba 6"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 25,
+        "cells": [
+          "Maneno ya kwenye foot note",
+          "Kuna maneno ya “for online reading only”",
+          "Foot note",
+          "Ondoa maneno hayo chini ya ukurasa"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 26,
+        "cells": [
+          "Kieleelzo namba 7",
+          "Kinatamkwa namba seba badala ya namba saba",
+          "13",
+          "Kitamkwe namba kielelezo namba saba (7)"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 27,
+        "cells": [
+          "Kielelezo namba 8",
+          "Kielelezo namba 8 kinatamkwa “ kielelezo namba” ata”",
+          "14",
+          "Rekebisha kitamkwe namba nane"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 28,
+        "cells": [
+          "Kielelezo namba 8",
+          "Maelezo yameingia ndani ya mchoro",
+          "16",
+          "Yarekebishe yawe nje ya mchoro"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 29,
+        "cells": [
+          "Maelezo chini ya kielelezo namba 8",
+          "Katika maelezo ya watu wanaofanya kazi …….maji ya kutosha inatamka maji ya “kuosha”",
+          "14",
+          "Rekebisha sauti itamkwe “naji ya kutisha”"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 30,
+        "cells": [
+          "Kielelezo namba 9",
+          "Kielelezo namba 9 kinasoma namba nine badala ya tisa",
+          "14",
+          "Rekebisha itamkwe namba tisa"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 33,
+        "cells": [
+          "Kielelzo namba namba 10",
+          "Kielelzo namba 10 kinasoma vyakula vya kulinda mwili alafu kinasoma kelelezo namaba 10 alafu kinamalizia vyakula vya kuupa mwili nguvu alafu vyakula vya kujenga mwili",
+          "16",
+          "Rekebisha isome vyakula vyote alafu ndio isome kilelezo namba 10……"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 36,
+        "cells": [
+          "Zoezi namba 1",
+          "Swali namba 4 linatamkwa four four swali namba tano linatamkwa namba five",
+          "17",
+          "Rekebisha itamkwe namba nne Namba five itamkwe namba tano"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 37,
+        "cells": [
+          "Kielelezo namba 11",
+          "Kielezo hiki kinatamkwa “kielelezo namba 18 wakati ni kielelezo namba 11 kwenye caption inatamkwa :kumi ya tine”",
+          "17",
+          "Kielelezo hiki kitamkwe namba 11Rekebisha istamkwe kuimi na moja"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 38,
+        "cells": [
+          "Kazi ya kufanya namba 5",
+          "Namba za kazi ya kufanya inatamkwa namba tatu badala ya 5",
+          "17",
+          "Rekebisha itamkwe namba tano"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 39,
+        "cells": [
+          "Faina na madhara",
+          "Aina ya maandishi hayafanani na kwingine",
+          "18",
+          "rekebisha"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 40,
+        "cells": [
+          "Kazi ya kufanya namba 7",
+          "Namba za kazi ya kufanya zinatamkwa kwa lugha ya kiingereza",
+          "20",
+          "Rekebisha zitamkwe kwa kiingereza"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 48,
+        "cells": [
+          "Kielelezo namba 16",
+          "Kielezo namba 16 kinatamkwa namba “ by namu” badala ya kumi na sita",
+          "26",
+          "Rekebisha kitamkwe “kielelezo namba “kumi na sita”"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 56,
+        "cells": [
+          "Kilelezo namba 16",
+          "Kielelezo namba 16 kinatamkwa kielelzo nmamba by nam",
+          "26",
+          "Rekebisha kiitamkwe kielezo namba kumi na sita"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 57,
+        "cells": [
+          "Muda wa bidhaa",
+          "Matumizi imetamkwa “matumi”",
+          "28",
+          "Matumi itamkwe matumizi"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 58,
+        "cells": [
+          "Kielelezo namba 17",
+          "Kielelzo hiki kinatamkwa tarahe ya kuchotora mara mbili na kimeandikwa mara mbili",
+          "28",
+          "Ondoa maneno yaliyojirudia"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 59,
+        "cells": [
+          "Kilelezo namba 18",
+          "Kwenye malelzo kinatamka kieleeloz namba ata nane",
+          "28",
+          "Rekebisha itamkwe kielelezo namba kumi na nane"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 60,
+        "cells": [
+          "Kilelezo namab 18 caption",
+          "Caption ya kielelzo namba 18 kinatamkwa namba ambile",
+          "29",
+          "Rekebisha kitamkwe namba kumi na nane"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 61,
+        "cells": [
+          "Kilelelezo namba 19",
+          "Kilelezo namba 19 kinatamkwa vibaya",
+          "29",
+          "Rekebisha kitamkwe kumi na tisa"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 65,
+        "cells": [
+          "Swali 3",
+          "Sawali la 3 halitamkwi a, b, c, d",
+          "31",
+          "Rekebisha zitamkwe"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 67,
+        "cells": [
+          "Swali 1-13",
+          "Namba zimetamkwa kwa lugha mbili tofauti Maswali mengine ayasomi kweli / sikweli hakuna sauti",
+          "32",
+          "Rekebisha zisomeke kwa lugha ya Kiswahili"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 81,
+        "cells": [
+          "Kilelezo namba 2",
+          "Kielezo hiki kinamchanganyiko wa maeleozo ya picha (angalia original uk 33) na hayana mpangilio unaoeleweka",
+          "39",
+          "Rekebisha maelezo yaendane na picha husika"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 82,
+        "cells": [
+          "Zoezi namba 3",
+          "Namba zinatajwa kwa kiingrereza",
+          "40",
+          "Rekebisha zitamkwe kwa namba za kiswahili"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 84,
+        "cells": [
+          "Kielelezo namba 3",
+          "Kielezo namba 3 kinatamkwa kielelezo namba three",
+          "40",
+          "Rekebisha kitamkwe namba tatu"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 92,
+        "cells": [
+          "Virusi vya ukimwi VVU",
+          "VVU inatamkwa “veve u” veve u”",
+          "43",
+          "Rekebisha itamkwe Vivi u"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 93,
+        "cells": [
+          "Virusi vya ukimwi VVU",
+          "“watu wanoishi na VVU” badala ya “wanaoishi” u",
+          "44",
+          "Rekebisha kuwa “watu wanaoishi na VVU.”"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 102,
+        "cells": [
+          "Kielelezo namba 6",
+          "Maneno lava, mayai, nzi, buu hayapo kwenye picha husika (rejea uk 44 kwenye original textbook)",
+          "50",
+          "Weka maneno hayo kwenye picha husika"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 103,
+        "cells": [
+          "Kazi ya kufanya namba 3",
+          "Program saidizi haipo kwenye orodha ya mahitaj",
+          "51",
+          "Ongeza program saidizi katika orodha ya mahitaji"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 104,
+        "cells": [
+          "Kazi ya kufanya namba 3",
+          "Kukosekana kwa neno “umehisi” katka sehemu namba 3 inayosomeka “ je umeona nini?",
+          "51",
+          "Ongeza “umehisi” isomeke “je, umeona/ umehisi nini “"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 105,
+        "cells": [
+          "Kazi ya kufanya namba 3",
+          "Kukosekana kwa neno” umegusa/hisii” katika sentensi “c” “ je umeviona viumbe vingapi?”",
+          "51",
+          "Ongeza neno “umegusa/hisiii” itamkwe “andika “je umeviona/umegusa/hisi viumbe vingapi…”"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 106,
+        "cells": [
+          "Kazi ya kufanya namba 4",
+          "Zoezi namba 4 linatamkwa namba one badala ya namba nne",
+          "51 & 52",
+          "Zoezi namba 4 litamkwe namba nne"
+        ],
+        "yellow_cells": [
+          3
+        ]
+      },
+      {
+        "row": 107,
+        "cells": [
+          "Kazi ya kufanya namba 4",
+          "Program saidizi haipo kwenye orodha ya mahitaji",
+          "51 & 52",
+          "Ongeza program saidizi katika orodha ya mahitaji"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 108,
+        "cells": [
+          "Kazi ya kufanya namba 4 (Maswali)",
+          "Maswali yamekosa neno his/eleza katika sentensi hizi “1.je umeona,,,, 2. chora hatua za ukuaji wa mbu u",
+          "51 & 52",
+          "Ongeza neno umehisi/eleza itamkwe na kusomekea 1. je umeona /hisi….. 2. chora/eleza hatua za ukuaji wa mbu"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 109,
+        "cells": [
+          "Kazi ya kufanya namba 5",
+          "Kazi ya kufanya namba 5 inatamkwa kazi ya kufanya namba tatu badala ya namba tanouk 64",
+          "53",
+          "Rekebisha itamkwe kazi ya kufanya namba tano"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 110,
+        "cells": [
+          "Kielelezo namba 7",
+          "Maneno hayao kwenye mchoro husika",
+          "54",
+          "Rekebisha kwa kuweka maneno kwenye mchoro husika"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 111,
+        "cells": [
+          "Zoezi la marudio",
+          "Zoezi la marudio halikupangiliwa vizuri sehemu A na B (rejea uk 47 na 48) uk 65",
+          "54",
+          "Pangili vyema zozi hili"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 115,
+        "cells": [
+          "Makosa ya matamshi",
+          "Makosa ya matamshi -balimbali-dahana-mchanganyiko wa lughaNamba one,two-chunga mikao yake",
+          "Whole document",
+          "Itamkwe mbalimbaliItamkwe dhananamba zitajwe kwa Kiswahili -Itamkwe chunguza sifa zake"
+        ],
+        "yellow_cells": [
+          1
+        ]
+      },
+      {
+        "row": 116,
+        "cells": [
+          "Kazi ya kufanya namba 1",
+          "Namba zimetamkwa kwa kiingereza badala ya Kiswahili",
+          "57",
+          "Rekebisha zitamkwe kwa Kiswahili"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 117,
+        "cells": [
+          "Jaraibio namba 1",
+          "Kukosekana kwa program saidizi",
+          "59",
+          "Ongeza [rogram saidizi kwenye orofdha ya mahitaji"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 118,
+        "cells": [
+          "Jaribio namba 1 (Hatua ya 3)",
+          "Lugha mchanganyiko katika matamshi ya namba-lugha si jumuishi-upande wa mwisho kutamkwa na kuandikwa kimakosa",
+          "59",
+          "-tumia matamshi ya Kiswahili-tumia vitenzi jumuishi katika hatua ya 3 chunguza unachokiona/hisi -ondoa matamshi na maandishi mwisho wa ukurasa"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 119,
+        "cells": [
+          "Kuchunguza sifa za maada",
+          "Makosa ya matamshi katika kutaja namba na kuwepo kwa sauti inayosoma maandishi katika footer",
+          "59",
+          "Kuchunguza sifa za maada:Katika paragrafu hii itamkwe kielelezo namba moja hadi nne,jaribio namba moja-maandishi yaliyopo chini kabisa katika ukurasa huu yaondolewe"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 122,
+        "cells": [
+          "Jaribio namba 2",
+          "Kukosekana kwa program saidizi",
+          "61",
+          "Ongeza [rogram saidizi kwenye orofdha ya mahitaji"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "row": 123,
+        "cells": [
+          "Jaribio namba",
+          "Kukosekana kwa neno umegundua “ hatua 2",
+          "61",
+          "Isomeka “umeona/umegundia nini?"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "row": 124,
+        "cells": [
+          "Jaribio namba 3",
+          "-Lugha mchanganyiko katika namba -mwendelezo wa jaribio la 3",
+          "62",
+          "-tumia lugha Kiswahili katika matamshi naondoa sauti isiyoeleweka -"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 125,
+        "cells": [
+          "Jaribio namba 3",
+          "Kukosekana kwa neno “unachokihisi”",
+          "62",
+          "Isomeke “chunguza unachokiona/unachokihisi katika hatua ya 3"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 126,
+        "cells": [
+          "Jaribio namba 4",
+          "-katika mahitaji jiko halijatamkwa-mchanganyiko wa lugha katika namba",
+          "62",
+          "-yawekwe matamshi ya jiko-itumike lugha ya Kiswahili kutamka namba"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 127,
+        "cells": [
+          "Jaribio namba 4",
+          "Program saidizi haijaweka katika orodha ya mahitaji",
+          "63",
+          "Ongeza program saidizi na iwekewe sauti"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 128,
+        "cells": [
+          "Jaribio namba 4",
+          "Uk.77-matamshi si sahihi",
+          "63",
+          "-Jaribio la nne:Itamkwe mchakato"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 129,
+        "cells": [
+          "Jaribio namba 4",
+          "Hatua ya 3. limekosekeana neno ”unachohisi”Hatua ya 4 “kukosekana kwa neno kinabainisha”Hatua ya 5” chunguza kinachooonekana”",
+          "76",
+          "Isomeke na kutamkwa 3“chunguza kinachoonekana/ unachohisi……”4. kielelezo kinaonesha/kinabainisha….5.chunguza kinachoonekana/unachohisi kwenye….."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 130,
+        "cells": [
+          "sentigredi 0 (nyuzijoto",
+          ".kurudia rudia maelezo-lugha mchanganyiko",
+          "65",
+          "sentigredi 0 (nyuzijoto farenhaiti 32), barafu huyeyuka polepole na kuwa kimiminika,maelezo yaondolewe katika -itumike lugha ya Kiswahili katika matamshi ya namba zote"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 131,
+        "cells": [
+          "Jaribio namba 5",
+          "Kukosekana kwa “program saidizi” na kipimajoto sauti” kwenye orodha ya mahitaji",
+          "66",
+          "Ongeza program saidizi” na kipimajoto sauti” kwenye orodha ya mahitaji"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 132,
+        "cells": [
+          "Jaribio namba 6",
+          "lugha mchanganyiko katika kutamka namba",
+          "66",
+          "-itumike lugha ya Kiswahili fasaha katika matamshi ya namba-katika uk 82 Jaribio la 6:itamkwe kuchunguza"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 133,
+        "cells": [
+          "Jaribio namba 6",
+          "Kukosekana kwa program saidizi na kipima joto sauti",
+          "66",
+          "Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 134,
+        "cells": [
+          "zoezi la marudio",
+          "Zoezi limepangiliwa vibaya-swali la 1 limekosewa kabisa (for reading only”",
+          "69",
+          "-zoezi la marudio lipangwe vizuri-swali la 1 lirekebishweRekebisha Itamkwe mara moja"
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 135,
+        "cells": [
+          "Msamiati",
+          "Matamshi si sahihi ya neno msamiati na namba inatamkwa “samiati”",
+          "72",
+          "-katika msamiatiNamba zitamkwe kwa usahihiItamkwe “msamiati”"
+        ],
+        "yellow_cells": [
+          1
+        ]
+      },
+      {
+        "row": 136,
+        "cells": [
+          "Jaribio namba 1 na kielezo namba 1",
+          "Matamshi ya namba '1' yanatamkwa kama 'uno' badala ya 'moja' (mfano: jaribio namba uno; kielelezo namba moja).",
+          "Uk 74",
+          "Sahihisha rekodi ya sauti ili namba '1' itamkwe kama 'moja' badala ya 'uno' katika maelezo na vipengele vyote."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 137,
+        "cells": [
+          "Orodha ya mahitaji",
+          "Kukosekana kwa programu saidizi na kipimajoto sauti katika maelezo na orodha ya mahitaji.",
+          "Uk 74",
+          "Jumuisha programu saidizi na kipimajoto sauti kwenye orodha ya mahitaji ili kuimarisha ufikivu na ufundishaji."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 138,
+        "cells": [
+          "Matamshi ya namba",
+          "Matumizi ya lugha ya Kiingereza wakati wa kusoma namba.",
+          "Uk 76",
+          "Badilisha usomaji wa namba uwe kwa lugha ya Kiswahili sanifu badala ya Kiingereza."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 139,
+        "cells": [
+          "Orodha ya mahitaji",
+          "Kukosekana kwa programu saidizi kwenye orodha ya mahitaji.",
+          "Uk 78",
+          "Ongeza programu saidizi inayostahili kwenye orodha ya mahitaji ya ukurasa huu."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 140,
+        "cells": [
+          "Maelezo ya sauti",
+          "Kurudia rudia maelezo na matumizi ya lugha mchanganyiko.",
+          "Uk 78",
+          "Ondoa marudio yasiyo ya lazima ya maelezo na utumie lugha moja sanifu (Kiswahili) kote."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 141,
+        "cells": [
+          "Matamshi ya namba na maneno",
+          "Anarudia kutamka namba sita mara mbili; matumizi ya Kiingereza katika namba nyingine; neno 'bidhaa' linasomwa kama 'bidaha'.",
+          "Uk 83",
+          "Ondoa marudio ya namba sita, tumia Kiswahili sanifu kwa namba zote, na sahihisha matamshi ya neno 'bidhaa'."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 142,
+        "cells": [
+          "Matamshi ya namba",
+          "Kusoma namba 'uno' badala ya 'moja'; matumizi ya Kiingereza na matamshi yasiyoridhishing.",
+          "Uk 87",
+          "Rekebisha matamshi ya namba kuwa 'moja', badilisha maneno ya Kiingereza kuwa Kiswahili, na uboreshe kiwango cha matamshi ya sauti."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 143,
+        "cells": [
+          "Mpangilio wa picha",
+          "Picha zimebanana bila kuachiana nafasi, jambo linalofanya iwe ngumu kueleweka.",
+          "Uk 87",
+          "Rekebisha mpangilio (layout) kwa kuweka nafasi ya kutosha kati ya picha na picha ili ziweze kuonekana na kueleweka kwa urahisi."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 144,
+        "cells": [
+          "Icon ya Tuma",
+          "Icon ya 'Tuma' imejitokeza mara mbili kwenye kiolesura.",
+          "Uk 87",
+          "Ondoa icon moja ya 'Tuma' iliyojirudia ili kuboresha muonekano wa kiolesura (UI)."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 145,
+        "cells": [
+          "Orodha ya mahitaji",
+          "Kukosekana kwa 'programu saidizi' na 'kipimajoto sauti' kwenye orodha ya mahitaji.",
+          "Uk 89",
+          "Ongeza 'programu saidizi' na 'kipimajoto sauti' katika orodha ya mahitaji rasmi ya ukurasa huo."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 146,
+        "cells": [
+          "Matamshi ya namba",
+          "Lugha mchanganyiko katika kutamka namba.",
+          "Uk 90",
+          "Tumia lugha moja sanifu ya Kiswahili wakati wa kutamka namba zote."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 147,
+        "cells": [
+          "Maelezo ya sauti",
+          "Lugha na matamshi si sahihi katika maelezo ya sauti.",
+          "Uk 91",
+          "Sahihisha matamshi na misingi ya sarufi ya Kiswahili katika rekodi zote za sauti."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 148,
+        "cells": [
+          "Kosa la kiuandishi",
+          "Kosa la kiijai: Neno 'mnururisho' limeandikwa badala ya 'mnunurisho'.",
+          "Uk 92",
+          "Sahihisha uandishi wa neno kutoka 'mnururisho' na kuwa 'mnunurisho'."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 149,
+        "cells": [
+          "Jaribio la 3",
+          "Maandishi, matamshi na lugha katika namba si sahihi; maelezo katika Jaribio la 3 hayajakamilika; swali haliruhusu kujibiwa.",
+          "Uk 93 & 94",
+          "Sahihisha maandishi na matamshi ya namba, kamilisha maelezo ya Jaribio la 3, na urekebishe mfumo wa swali ili uruhusu majibu kuingizwa."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 150,
+        "cells": [
+          "Matamshi ya sauti",
+          "Makosa ya matamshi katika rekodi ya sauti.",
+          "Uk 94",
+          "Rekodi upya sauti kwa kufuata matamshi sahihi ya Kiswahili sanifu."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 151,
+        "cells": [
+          "Kazi ya kufanya",
+          "Sehemu ya kazi ya kufanya haina nafasi au uwanja wa kujibia.",
+          "Uk 95",
+          "Tengeneza na uweke uwanja au nafasi ya kutosha (answer space/input field) kwa ajili ya mwanafunzi kuandika au kuingiza majibu."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 152,
+        "cells": [
+          "Uhakiki wa majibu",
+          "Mfumo unapokea jibu la aina yoyote bila kufanya uhakiki (validation control).",
+          "Uk 95",
+          "Weka mfumo wa uhakiki wa majibu (answer validation) ili kupokea tu majibu yaliyokusudiwa au sahihi."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 153,
+        "cells": [
+          "Icon ya Tuma",
+          "Icon ya 'Tuma' ipo mara mbili kwenye kiolesura.",
+          "Uk 96",
+          "Futa au ondoa icon ya 'Tuma' iliyojirudia."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 154,
+        "cells": [
+          "Lugha jumuishi",
+          "Lugha si jumuishi kwani neno 'kuonyesha' linabeba dhana ya kuona tu; lugha si sahihi.",
+          "Uk 98",
+          "Badilisha msamiati na utumie vitenzi jumuishi kama vile 'kutambua', 'baini', au 'kueleza' vinavyowajumuisha na wanafunzi wasioona."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 155,
+        "cells": [
+          "Orodha ya mahitaji na Icon ya Tuma",
+          "Kukosekana kwa programu saidizi katika orodha ya mahitaji; Icon ya 'Tuma' ipo mara mbili.",
+          "Uk 98 & 99",
+          "Ongeza programu saidizi kwenye orodha ya mahitaji na uondoe icon iliyojirudia ya 'Tuma'."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 156,
+        "cells": [
+          "Kazi ya Kufanya namba 1(4)",
+          "Matamshi ya namba si sahihi; lugha si jumuishi kwenye Kazi ya Kufanya namba 1(4); Icon ya 'Tuma' ipo mara mbili.",
+          "Uk 100",
+          "Rekebisha matamshi ya namba, tumia vitenzi jumuishi katika Kazi ya Kufanya 1(4), na uondoe icon ya 'Tuma' iliyojirudia."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 157,
+        "cells": [
+          "Mpangilio wa picha",
+          "Picha zimepandana na kuharibu muonekano.",
+          "Uk 103",
+          "Pangilia upya kielelezo na picha zote ili kuzuia kupandana na kuboresha mwonekano."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 158,
+        "cells": [
+          "Matamshi ya sauti",
+          "Matamshi kwa lugha ya Kiingereza na Kiswahili kisicho sanifu.",
+          "Uk 104",
+          "Rekebisha maelezo ya sauti yatunze Kiswahili sanifu pekee na kuondoa maneno ya Kiingereza."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 159,
+        "cells": [
+          "Matamshi ya sauti",
+          "Matamshi kwa lugha ya Kiingereza na Kiswahili kisicho sanifu chenye vigugumizi (mfano: 'Nta... ntaaa').",
+          "Uk 105",
+          "Rekodi upya sauti bila kuwa na vigugumizi wala maneno yasiyo sanifu na utumie Kiswahili fasaha."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 160,
+        "cells": [
+          "Matamshi ya sauti",
+          "Matamshi ya sauti si sahihi.",
+          "Uk 107",
+          "Sahihisha matamshi katika rekodi ya sauti ili iwe wazi na sahihi."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 161,
+        "cells": [
+          "Orodha ya mahitaji",
+          "Kukosekana kwa programu saidizi na kipimajoto sauti katika mahitaji.",
+          "Uk 107",
+          "Ongeza programu saidizi na kipimajoto sauti kwenye orodha ya mahitaji."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 162,
+        "cells": [
+          "Maelezo ya picha",
+          "Hakuna sauti zinazoelezea picha kwa ajili ya mwanafunzi asiyeona.",
+          "Uk 108",
+          "Weka sauti ya maelezo ya picha (audio description) ili kumsaidia mwanafunzi asiyeona."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 163,
+        "cells": [
+          "Orodha ya mahitaji",
+          "Kukosekana kwa programu saidizi kwenye orodha ya mahitaji.",
+          "Uk 110",
+          "Ongeza programu saidizi kwenye orodha ya mahitaji ya somo/jaribio."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 164,
+        "cells": [
+          "Hatua ya 5 na 7",
+          "Maswali ya hatua ya 5 na 7 ('Je unasikia nini...', 'Anasikia nini...') hayana mtiririko na lugha jumuishi.",
+          "Uk 111",
+          "Rekebisha uandishi wa maswali hayo ili yatumie nafsi na lugha jumuishi inayoeleweka vizuri."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 165,
+        "cells": [
+          "Maelezo ya picha",
+          "Hakuna sauti zinazoelezea picha kwa ajili ya mwanafunzi asiyeona.",
+          "Uk 112",
+          "Ongeza maelezo ya sauti (audio description) kwenye picha na vipengele vya ukurasa."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 166,
+        "cells": [
+          "Maelezo ya picha",
+          "Hamna sauti zinazoelezea zaidi kuhusu picha kwa mwanafunzi asiyeona.",
+          "Uk 113",
+          "Weka rekodi ya sauti ya ufafanuzi wa picha kwa ajili ya wanafunzi wenye ulemavu wa macho."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 167,
+        "cells": [
+          "Maelezo ya picha",
+          "Hamna sauti zinazoelezea picha kwa mwanafunzi asiyeona; Matumizi yasiyo sahihi ya Kiingereza.",
+          "Uk 114",
+          "Ongeza sauti ya maelezo ya picha na utumie Kiswahili sanifu badala ya Kiingereza."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 168,
+        "cells": [
+          "Mfumo wa kujibu swali",
+          "Swali halijibiki katika mfumo wa kidijitali.",
+          "Uk 114/115",
+          "Rekebisha mantiki na ujenzi wa swali ili mwanafunzi aweze kujibu na kuwasilisha majibu."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 169,
+        "cells": [
+          "Kielelezo na. 6",
+          "Katika Kielelezo na. 6, herufi 'c' katika vyanzo vya nishati ya mwanga imejirudia.",
+          "Uk 115",
+          "Sahihisha na kupanga herufi kwa mtiririko sahihi (a, b, c, d...) bila kujirudia herufi 'c'."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 170,
+        "cells": [
+          "Sehemu B",
+          "Sehemu B kwenye viboksi havijaandikwa 'Kweli' au 'Si Kweli' (viko tupu); Anarudia neno 'sita' mara mbili kwenye sauti.",
+          "Uk 116",
+          "Jaza maandishi ya 'Kweli' au 'Si Kweli' ndani ya viboksi na uondoe marudio ya neno 'sita' katika sauti."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 171,
+        "cells": [
+          "Nishati ya mwanga",
+          "Matamshi ya maelezo ya 'Nishati ya mwanga' na namba hayajatamkwa vizuri.",
+          "Uk 116",
+          "Rekebisha matamshi ya namba na maelezo ya sauti ya mada ya nishati ya mwanga."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 172,
+        "cells": [
+          "Swali la 14 na 15",
+          "Anasoma vibaya namba za Kirumi; Swali la 14 ni gumu kujibu kwani viboksi viko tupu; Swali la 15 ni gumu kulijibu kwa kuoanisha.",
+          "Uk 117",
+          "Rekebisha usomaji wa namba za Kirumi, jaza maelezo kwenye viboksi vya Swali la 14, na uboreshe muundo wa kuoanisha katika Swali la 15."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 173,
+        "cells": [
+          "Orodha ya mahitaji",
+          "Kukosekana kwa programu saidizi ya sauti kwenye orodha ya mahitaji.",
+          "Uk 118",
+          "Ongeza programu saidizi ya sauti kwenye orodha ya mahitaji."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 174,
+        "cells": [
+          "Jaribio la kuchunguza kupenya kwa mwale",
+          "(Jaribio la kuchunguza kupenya kwa mwale) Kukosekana kwa vitenzi 'kuchunguza' na 'kupima'.",
+          "Uk 119",
+          "Ongeza vitenzi jumuishi na vya kiutendaji 'kuchunguza' na 'kupima' katika hatua za jaribio."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 175,
+        "cells": [
+          "Hatua ya 3 na 5",
+          "Matamshi yasiyo sahihi ya Kiswahili katika hatua ya 3 na 5 (mfano: neno 'mbalimbali' linatamkwa 'mbambalimba').",
+          "Uk 119",
+          "Sahihisha matamshi ya sauti ili itamke neno 'mbalimbali' kwa usahihi kabisa."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 176,
+        "cells": [
+          "Jaribio namba 6",
+          "(Jaribio namba 6) Kukosekana kwa maelezo ya sauti juu ya picha kwa mwanafunzi asiyeona.",
+          "Uk 120",
+          "Ongeza maelezo ya sauti juu ya picha ili kumwezesha mwanafunzi asiyeona kuelewa jaribio."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 177,
+        "cells": [
+          "Lugha jumuishi",
+          "Kukosekana kwa vitenzi jumuishi 'kueleza' na 'kuhisi'.",
+          "Uk 123",
+          "Jumuisha vitenzi 'kueleza' na 'kuhisi' katika maelezo na maelekezo ya somo."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 178,
+        "cells": [
+          "Orodha ya mahitaji",
+          "Kukosekana kwa programu saidizi katika orodha ya mahitaji.",
+          "Uk 123",
+          "Ongeza programu saidizi kwenye orodha ya mahitaji."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 179,
+        "cells": [
+          "Kielelezo na. 10",
+          "(Kielelezo na. 10) Lugha iliyotumika si jumuishi.",
+          "Uk 124",
+          "Badilisha lugha iwe jumuishi inayozingatia mahitaji ya wanafunzi wote."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 180,
+        "cells": [
+          "Lugha jumuishi",
+          "Kukosekana kwa maneno/vitenzi jumuishi 'kutambua', 'kuhisi', au 'kuelezea' katika rekodi ya sauti.",
+          "Uk 125",
+          "Ongeza maneno 'kutambua', 'kuhisi', na 'kuelezea' katika maelezo ya sauti."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 181,
+        "cells": [
+          "Kielelezo namba 12",
+          "(Kielelezo namba 12) Matamshi ya sauti sio sahihi.",
+          "Uk 127",
+          "Rekebisha sauti ili kutoa matamshi sahihi ya maelezo ya kielelezo namba 12."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 182,
+        "cells": [
+          "Jaribio namba 8",
+          "(Jaribio namba 8) Kukosekana kwa programu saidizi.",
+          "Uk 127",
+          "Jumuisha programu saidizi kwenye orodha ya mahitaji ya jaribio namba 8."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 183,
+        "cells": [
+          "Sauti Inavyosafiri",
+          "(Sauti inavyosafiri) Kukosekana kwa maneno jumuishi 'kuhisi' na 'kutambua'.",
+          "Uk 131",
+          "Ongeza maneno 'kuhisi' na 'kutambua' katika maelezo ya mada ya usafiri wa sauti."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 184,
+        "cells": [
+          "Kazi ya Kufanya na. 7",
+          "(Kazi ya kufanya na. 7) Kukosekana kwa maneno 'kuhisi' na 'kutambua'.",
+          "Uk 132",
+          "Weka vitenzi jumuishi 'kuhisi' na 'kutambua' katika hatua za kazi ya kufanya na. 7."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 185,
+        "cells": [
+          "Kuonyesha Mwangwi",
+          "(Kuonyesha mwangwi) Kukosekana kwa neno 'kugusa' na vitenzi jumuishi; kukosekana saa ya mtetemo na programu saidizi kwenye mahitaji.",
+          "Uk 133",
+          "Ongeza neno 'kugusa', tumia vitenzi jumuishi, na uongeze saa ya mtetemo pamoja na programu saidizi kwenye orodha ya mahitaji."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 186,
+        "cells": [
+          "Kazi ya Kufanya na. 8",
+          "(Kazi ya kufanya na. 8) Kukosekana kwa vitenzi jumuishi katika hatua ya 3, 4, na 5.",
+          "Uk 134",
+          "Weka vitenzi jumuishi katika hatua ya 3, 4, na 5 za Kazi ya Kufanya na. 8."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 187,
+        "cells": [
+          "Kazi ya Kufanya na. 9 & 10",
+          "(Kazi ya kufanya na. 9 & 10) Kukosekana kwa vitenzi jumuishi katika hatua ya 2, 3, 4, 5, 7; lugha mchanganyiko; maneno 'save as' yanasomwa vibaya; icon ya 'Tuma' imejitokeza mara mbili; namba katika kazi ya kufanya na. 10 zimetamkwa kwa Kiingereza.",
+          "Uk 135",
+          "Ongeza vitenzi jumuishi, tamka 'save as' kwa Kiingereza sahihi, ondoa icon iliyojirudia ya 'Tuma', na tamka namba zote kwa Kiswahili."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 188,
+        "cells": [
+          "Lugha jumuishi",
+          "Kukosekana kwa neno/kitenzi 'baini'.",
+          "Uk 136",
+          "Ongeza kitenzi jumuishi 'baini' katika maelezo au hatua za kazi."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 189,
+        "cells": [
+          "Kazi ya Kufanya namba 11",
+          "Kazi ya kufanya namba 11 haina vitenzi jumuishi.",
+          "Uk 137",
+          "Ongeza vitenzi jumuishi katika maelekezo ya Kazi ya Kufanya namba 11."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 190,
+        "cells": [
+          "Matamshi ya namba",
+          "Matamshi ya maneno si sahihi; lugha mchanganyiko katika kutamka namba.",
+          "Uk 138",
+          "Sahihisha matamshi ya maneno yote na utumie Kiswahili sanifu katika kutamka namba."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 191,
+        "cells": [
+          "Sehemu A",
+          "Maneno ya Sehemu A hayajapangiliwa vyema.",
+          "Uk 140",
+          "Pangilia maneno ya Sehemu A kwa mtiririko wenye mantiki na urahisi wa kusoma."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 192,
+        "cells": [
+          "Neno 'ombwe'",
+          "Maana ya neno 'ombwe' imeandikwa kimakosa.",
+          "Uk 141",
+          "Rekebisha na uandike maana sahihi ya kisayansi ya neno 'ombwe'."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 193,
+        "cells": [
+          "Kazi ya Kufanya namba 1",
+          "Kazi ya kufanya namba 1: Maelezo ya sauti ya picha hayapo katika ADT kitabu cha sauti; kisoma skrini hakisomi sahihi namba 1.",
+          "Uk 144",
+          "Weka maelezo ya sauti ya picha kwenye kitabu cha sauti na uboreshe kisoma skrini ili kisome namba 1 kwa usahihi."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 194,
+        "cells": [
+          "Kazi ya Kufanya namba 2",
+          "Matumizi ya neno 'tazama' badala ya 'chunguza'; anakosea kusoma namba 12; Kazi ya kufanya namba 2 haina maelezo ya programu ya Quorum katika Kielelezo na. 3.",
+          "Uk 145",
+          "Badilisha 'tazama' kuwa 'chunguza', sahihisha usomaji wa namba 12, na uongeze maelezo ya programu ya Quorum katika Kielelezo na. 3."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 195,
+        "cells": [
+          "Mchezo Sahili",
+          "Maelezo ya mfano wa mchezo sahili hayapo katika ADT kitabu cha sauti; Icon ya 'Tuma' ipo mara mbili.",
+          "Uk 146",
+          "Ongeza maelezo ya mchezo sahili katika kitabu cha sauti na uondoe icon iliyojirudia ya 'Tuma'."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 196,
+        "cells": [
+          "Uchoraji wa Maumbo",
+          "Uchoraji wa maumbo: Kukosekana kwa maelezo ya programu ya Quorum katika Kielelezo na. 4 na 5.",
+          "Uk 147",
+          "Ongeza maelezo ya programu ya Quorum kwenye Kielelezo na. 4 na 5 ili kuongeza ufikivu."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 197,
+        "cells": [
+          "Uchoraji wa Maumbo",
+          "Uchoraji wa maumbo: Kukosekana kwa maelezo ya programu ya Quorum katika Kielelezo na. 6 na 7; maelezo ya picha hayapo katika ADT kitabu cha sauti.",
+          "Uk 148",
+          "Weka maelezo ya programu ya Quorum kwenye Kielelezo na. 6 na 7, pamoja na kuweka sauti ya maelezo ya picha katika kitabu cha sauti."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 198,
+        "cells": [
+          "Namba Sifuri (0)",
+          "Makosa katika uandishi/matamshi ya namba sifuri (0).",
+          "Uk 149",
+          "Rekebisha uandishi na matamshi ya namba sifuri ili yawe sahihi na sanifu."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "row": 199,
+        "cells": [
+          "Zoezi",
+          "Maelezo ya kufanya zoezi sio fikivu kwa wanafunzi wenye mahitaji maalum.",
+          "Uk 150",
+          "Rekebisha maelezo ya zoezi ili yawe fikivu (accessible) kikamilifu kwa wanafunzi wote, ikiwa ni pamoja na wanafunzi wasioona."
+        ],
+        "yellow_cells": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+]

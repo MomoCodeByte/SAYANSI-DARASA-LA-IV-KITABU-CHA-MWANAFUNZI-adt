@@ -1,0 +1,1431 @@
+{
+  "source": "RIPOTI YA ADT VALIDATION SAYANSI 11.08.2026 (3).docx",
+  "yellow_rows": 129,
+  "pending": 0,
+  "summary": {
+    "IMPLEMENTED_AUDIO_REGENERATED": 38,
+    "IMPLEMENTED_EXACT_OR_VERIFIED": 14,
+    "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT": 63,
+    "IMPLEMENTED_QUIZ_CLEANUP": 12,
+    "IMPLEMENTED_INTERACTIVITY": 2
+  },
+  "records": [
+    {
+      "yellow_table_row": 3,
+      "matrix_item": 2,
+      "area": "Cheti cha Ithibati",
+      "page": "1",
+      "recommendation": "Rudi kwenye audio kurekebisha Rekebisha sauti na utamkwaji wa namba katika cheti cha ithibati",
+      "files": [],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 4,
+      "matrix_item": 3,
+      "area": "Copy rights",
+      "page": "2",
+      "recommendation": "Rudi kwenye audio kurekebisha Namba zitamkwe vizuri Maneno ya foot not yasisomwe a u kutamka",
+      "files": [
+        "pg002_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 5,
+      "matrix_item": 4,
+      "area": "Yaliyomo",
+      "page": "3",
+      "recommendation": "Rejea audio na kurekebisha Update table of content iendane na namba za Kurasa husika",
+      "files": [
+        "pg003_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 8,
+      "matrix_item": 7,
+      "area": "Utangulizi",
+      "page": "5",
+      "recommendation": "Rejea audio na kurekebisha Justify utangulizi",
+      "files": [
+        "pg005_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 11,
+      "matrix_item": 10,
+      "area": "Kieelezo namba 1",
+      "page": "8",
+      "recommendation": "Ongeza neno “kinaeleza” Isomeke “kielezo namba 1 kinaonesha/ kinabainisha …….” Rekebisha sauti isome kufanya na (a) itamkwe",
+      "files": [
+        "pg007_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 12,
+      "matrix_item": 11,
+      "area": "Kieelezo namba 1",
+      "page": "8",
+      "recommendation": "Rekebisha caption isome namaba moja",
+      "files": [
+        "pg007_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 13,
+      "matrix_item": 12,
+      "area": "Kielezo namba 1",
+      "page": "8",
+      "recommendation": "Rejea sauti kurekebisha",
+      "files": [
+        "pg008_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 15,
+      "matrix_item": 14,
+      "area": "Kielelezo namba 2",
+      "page": "9",
+      "recommendation": "Rekebisha maneno yakae kwenye picha husika",
+      "files": [
+        "pg009_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 23,
+      "matrix_item": 22,
+      "area": "Mlo kamili",
+      "page": "12.",
+      "recommendation": "Rekebisha matamshi hayo",
+      "files": [
+        "pg014_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 24,
+      "matrix_item": 23,
+      "area": "Kieleelzo namba 6",
+      "page": "12",
+      "recommendation": "Kitamkwe namba kielelezo namba sita (6) Rekebisha itaje aina yote ya vyakula alafu isome kielezo namba 6",
+      "files": [
+        "pg014_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 25,
+      "matrix_item": 24,
+      "area": "Maneno ya kwenye foot note",
+      "page": "Foot note",
+      "recommendation": "Ondoa maneno hayo chini ya ukurasa",
+      "files": [
+        "pg015_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 26,
+      "matrix_item": 25,
+      "area": "Kieleelzo namba 7",
+      "page": "13",
+      "recommendation": "Kitamkwe namba kielelezo namba saba (7)",
+      "files": [
+        "pg015_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 27,
+      "matrix_item": 26,
+      "area": "Kielelezo namba 8",
+      "page": "14",
+      "recommendation": "Rekebisha kitamkwe namba nane",
+      "files": [
+        "pg016_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 28,
+      "matrix_item": 27,
+      "area": "Kielelezo namba 8",
+      "page": "16",
+      "recommendation": "Yarekebishe yawe nje ya mchoro",
+      "files": [
+        "pg016_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 29,
+      "matrix_item": 28,
+      "area": "Maelezo chini ya kielelezo namba 8",
+      "page": "14",
+      "recommendation": "Rekebisha sauti itamkwe “naji ya kutisha”",
+      "files": [
+        "pg016_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 30,
+      "matrix_item": 29,
+      "area": "Kielelezo namba 9",
+      "page": "14",
+      "recommendation": "Rekebisha itamkwe namba tisa",
+      "files": [
+        "pg017_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 33,
+      "matrix_item": 32,
+      "area": "Kielelzo namba namba 10",
+      "page": "16",
+      "recommendation": "Rekebisha isome vyakula vyote alafu ndio isome kilelezo namba 10……",
+      "files": [
+        "pg019_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 36,
+      "matrix_item": 35,
+      "area": "Zoezi namba 1",
+      "page": "17",
+      "recommendation": "Rekebisha itamkwe namba nne Namba five itamkwe namba tano",
+      "files": [
+        "pg022_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 37,
+      "matrix_item": 36,
+      "area": "Kielelezo namba 11",
+      "page": "17",
+      "recommendation": "Kielelezo hiki kitamkwe namba 11 Rekebisha istamkwe kuimi na moja",
+      "files": [
+        "pg022_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 38,
+      "matrix_item": 37,
+      "area": "Kazi ya kufanya namba 5",
+      "page": "17",
+      "recommendation": "Rekebisha itamkwe namba tano",
+      "files": [
+        "pg023_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 39,
+      "matrix_item": 38,
+      "area": "Faina na madhara",
+      "page": "18",
+      "recommendation": "rekebisha",
+      "files": [
+        "pg023_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 40,
+      "matrix_item": 39,
+      "area": "Kazi ya kufanya namba 7",
+      "page": "20",
+      "recommendation": "Rekebisha zitamkwe kwa kiingereza",
+      "files": [
+        "pg023_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 48,
+      "matrix_item": 47,
+      "area": "Kielelezo namba 16",
+      "page": "26",
+      "recommendation": "Rekebisha kitamkwe “kielelezo namba “kumi na sita”",
+      "files": [
+        "pg026_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 56,
+      "matrix_item": 55,
+      "area": "Kilelezo namba 16",
+      "page": "26",
+      "recommendation": "Rekebisha kiitamkwe kielezo namba kumi na sita",
+      "files": [
+        "pg030_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 57,
+      "matrix_item": 56,
+      "area": "Muda wa bidhaa",
+      "page": "28",
+      "recommendation": "Matumi itamkwe matumizi",
+      "files": [
+        "pg031_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 58,
+      "matrix_item": 57,
+      "area": "Kielelezo namba 17",
+      "page": "28",
+      "recommendation": "Ondoa maneno yaliyojirudia",
+      "files": [
+        "pg031_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 59,
+      "matrix_item": 58,
+      "area": "Kilelezo namba 18",
+      "page": "28",
+      "recommendation": "Rekebisha itamkwe kielelezo namba kumi na nane",
+      "files": [
+        "pg032_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 60,
+      "matrix_item": 59,
+      "area": "Kilelezo namab 18 caption",
+      "page": "29",
+      "recommendation": "Rekebisha kitamkwe namba kumi na nane",
+      "files": [
+        "pg032_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 61,
+      "matrix_item": 60,
+      "area": "Kilelelezo namba 19",
+      "page": "29",
+      "recommendation": "Rekebisha kitamkwe kumi na tisa",
+      "files": [
+        "pg034_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 65,
+      "matrix_item": 64,
+      "area": "Swali 3",
+      "page": "31",
+      "recommendation": "Rekebisha zitamkwe",
+      "files": [
+        "pg036_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 67,
+      "matrix_item": 66,
+      "area": "Swali 1-13",
+      "page": "32",
+      "recommendation": "Rekebisha zisomeke kwa lugha ya Kiswahili",
+      "files": [
+        "pg036_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 81,
+      "matrix_item": 80,
+      "area": "Kilelezo namba 2",
+      "page": "39",
+      "recommendation": "Rekebisha maelezo yaendane na picha husika",
+      "files": [
+        "pg041_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 82,
+      "matrix_item": 81,
+      "area": "Zoezi namba 3",
+      "page": "40",
+      "recommendation": "Rekebisha zitamkwe kwa namba za kiswahili",
+      "files": [
+        "pg041_sec002.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 84,
+      "matrix_item": 83,
+      "area": "Kielelezo namba 3",
+      "page": "40",
+      "recommendation": "Rekebisha kitamkwe namba tatu",
+      "files": [],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 92,
+      "matrix_item": 91,
+      "area": "Virusi vya ukimwi VVU",
+      "page": "43",
+      "recommendation": "Rekebisha itamkwe Vivi u",
+      "files": [
+        "pg048_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 93,
+      "matrix_item": 92,
+      "area": "Virusi vya ukimwi VVU",
+      "page": "44",
+      "recommendation": "Rekebisha kuwa “watu wanaoishi na VVU.”",
+      "files": [
+        "pg049_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 102,
+      "matrix_item": 101,
+      "area": "Kielelezo namba 6",
+      "page": "50",
+      "recommendation": "Weka maneno hayo kwenye picha husika",
+      "files": [
+        "pg053_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 103,
+      "matrix_item": 102,
+      "area": "Kazi ya kufanya namba 3",
+      "page": "51",
+      "recommendation": "Ongeza program saidizi katika orodha ya mahitaji",
+      "files": [
+        "pg053_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 104,
+      "matrix_item": 103,
+      "area": "Kazi ya kufanya namba 3",
+      "page": "51",
+      "recommendation": "Ongeza “umehisi” isomeke “je, umeona/ umehisi nini “",
+      "files": [
+        "pg055_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 105,
+      "matrix_item": 104,
+      "area": "Kazi ya kufanya namba 3",
+      "page": "51",
+      "recommendation": "Ongeza neno “umegusa/hisiii” itamkwe “andika “je umeviona/umegusa/hisi viumbe vingapi…”",
+      "files": [
+        "pg055_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 106,
+      "matrix_item": 105,
+      "area": "Kazi ya kufanya namba 4",
+      "page": "51 & 52",
+      "recommendation": "Zoezi namba 4 litamkwe namba nne",
+      "files": [
+        "pg055_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 107,
+      "matrix_item": 106,
+      "area": "Kazi ya kufanya namba 4",
+      "page": "51 & 52",
+      "recommendation": "Ongeza program saidizi katika orodha ya mahitaji",
+      "files": [
+        "pg056_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 108,
+      "matrix_item": 107,
+      "area": "Kazi ya kufanya namba 4 (Maswali)",
+      "page": "51 & 52",
+      "recommendation": "Ongeza neno umehisi/eleza itamkwe na kusomekea 1. je umeona /hisi….. 2. chora/eleza hatua za ukuaji wa mbu",
+      "files": [
+        "pg057_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 109,
+      "matrix_item": 108,
+      "area": "Kazi ya kufanya namba 5",
+      "page": "53",
+      "recommendation": "Rekebisha itamkwe kazi ya kufanya namba tano",
+      "files": [
+        "pg058_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 110,
+      "matrix_item": 109,
+      "area": "Kielelezo namba 7",
+      "page": "54",
+      "recommendation": "Rekebisha kwa kuweka maneno kwenye mchoro husika",
+      "files": [
+        "pg058_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 111,
+      "matrix_item": 110,
+      "area": "Zoezi la marudio",
+      "page": "54",
+      "recommendation": "Pangili vyema zozi hili",
+      "files": [
+        "qz011.html"
+      ],
+      "status": "IMPLEMENTED_QUIZ_CLEANUP"
+    },
+    {
+      "yellow_table_row": 115,
+      "matrix_item": 114,
+      "area": "Makosa ya matamshi",
+      "page": "Whole document",
+      "recommendation": "Itamkwe mbalimbali Itamkwe dhana namba zitajwe kwa Kiswahili -Itamkwe chunguza sifa zake",
+      "files": [
+        "pg061_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 116,
+      "matrix_item": 115,
+      "area": "Kazi ya kufanya namba 1",
+      "page": "57",
+      "recommendation": "Rekebisha zitamkwe kwa Kiswahili",
+      "files": [
+        "qz012.html"
+      ],
+      "status": "IMPLEMENTED_QUIZ_CLEANUP"
+    },
+    {
+      "yellow_table_row": 117,
+      "matrix_item": 116,
+      "area": "Jaraibio namba 1",
+      "page": "59",
+      "recommendation": "Ongeza [rogram saidizi kwenye orofdha ya mahitaji",
+      "files": [
+        "pg062_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 118,
+      "matrix_item": 117,
+      "area": "Jaribio namba 1 (Hatua ya 3)",
+      "page": "59",
+      "recommendation": "-tumia matamshi ya Kiswahili -tumia vitenzi jumuishi katika hatua ya 3 chunguza unachokiona/hisi -ondoa matamshi na maandishi mwisho wa ukurasa",
+      "files": [
+        "pg062_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 119,
+      "matrix_item": 118,
+      "area": "Kuchunguza sifa za maada",
+      "page": "59",
+      "recommendation": "Kuchunguza sifa za maada: Katika paragrafu hii itamkwe kielelezo namba moja hadi nne,jaribio namba moja -maandishi yaliyopo chini kabisa katika ukurasa huu yaondolewe",
+      "files": [
+        "pg062_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 122,
+      "matrix_item": 121,
+      "area": "Jaribio namba 2",
+      "page": "61",
+      "recommendation": "Ongeza [rogram saidizi kwenye orofdha ya mahitaji",
+      "files": [
+        "pg064_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 123,
+      "matrix_item": 122,
+      "area": "Jaribio namba",
+      "page": "61",
+      "recommendation": "Isomeka “umeona/umegundia nini?",
+      "files": [
+        "pg065_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 124,
+      "matrix_item": 123,
+      "area": "Jaribio namba 3",
+      "page": "62",
+      "recommendation": "-tumia lugha Kiswahili katika matamshi naondoa sauti isiyoeleweka -",
+      "files": [
+        "pg065_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 125,
+      "matrix_item": 124,
+      "area": "Jaribio namba 3",
+      "page": "62",
+      "recommendation": "Isomeke “chunguza unachokiona/unachokihisi katika hatua ya 3",
+      "files": [
+        "qz013.html"
+      ],
+      "status": "IMPLEMENTED_QUIZ_CLEANUP"
+    },
+    {
+      "yellow_table_row": 126,
+      "matrix_item": 125,
+      "area": "Jaribio namba 4",
+      "page": "62",
+      "recommendation": "-yawekwe matamshi ya jiko -itumike lugha ya Kiswahili kutamka namba",
+      "files": [
+        "pg067_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 127,
+      "matrix_item": 126,
+      "area": "Jaribio namba 4",
+      "page": "63",
+      "recommendation": "Ongeza program saidizi na iwekewe sauti",
+      "files": [
+        "pg067_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 128,
+      "matrix_item": 127,
+      "area": "Jaribio namba 4",
+      "page": "63",
+      "recommendation": "-Jaribio la nne: Itamkwe mchakato",
+      "files": [
+        "pg068_sec001.html",
+        "pg069_sec002.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 129,
+      "matrix_item": 128,
+      "area": "Jaribio namba 4",
+      "page": "76",
+      "recommendation": "Isomeke na kutamkwa 3“chunguza kinachoonekana/ unachohisi……” 4. kielelezo kinaonesha/kinabainisha…. 5.chunguza kinachoonekana/unachohisi kwenye…..",
+      "files": [
+        "pg070_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 130,
+      "matrix_item": 129,
+      "area": "sentigredi 0 (nyuzijoto",
+      "page": "65",
+      "recommendation": "sentigredi 0 (nyuzijoto farenhaiti 32), barafu huyeyuka polepole na kuwa kimiminika ,maelezo yaondolewe katika -itumike lugha ya Kiswahili katika matamshi ya namba zote",
+      "files": [
+        "pg072_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 131,
+      "matrix_item": 130,
+      "area": "Jaribio namba 5",
+      "page": "66",
+      "recommendation": "Ongeza program saidizi” na kipimajoto sauti” kwenye orodha ya mahitaji",
+      "files": [
+        "pg073_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 132,
+      "matrix_item": 131,
+      "area": "Jaribio namba 6",
+      "page": "66",
+      "recommendation": "-itumike lugha ya Kiswahili fasaha katika matamshi ya namba -katika uk 82 Jaribio la 6:itamkwe kuchunguza",
+      "files": [
+        "pg073_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 133,
+      "matrix_item": 132,
+      "area": "Jaribio namba 6",
+      "page": "66",
+      "recommendation": "Ongeza [rogram saidizi na kipima joto sauti kwenye orofdha ya mahitaji",
+      "files": [
+        "qz014.html"
+      ],
+      "status": "IMPLEMENTED_QUIZ_CLEANUP"
+    },
+    {
+      "yellow_table_row": 134,
+      "matrix_item": 133,
+      "area": "zoezi la marudio",
+      "page": "69",
+      "recommendation": "-zoezi la marudio lipangwe vizuri -swali la 1 lirekebishwe Rekebisha Itamkwe mara moja",
+      "files": [
+        "pg074_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 135,
+      "matrix_item": 134,
+      "area": "Msamiati",
+      "page": "72",
+      "recommendation": "-katika msamiati Namba zitamkwe kwa usahihi Itamkwe “msamiati”",
+      "files": [
+        "pg076_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 136,
+      "matrix_item": 135,
+      "area": "Jaribio namba 1 na kielezo namba 1",
+      "page": "Uk 74",
+      "recommendation": "Sahihisha rekodi ya sauti ili namba '1' itamkwe kama 'moja' badala ya 'uno' katika maelezo na vipengele vyote.",
+      "files": [
+        "pg079_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 137,
+      "matrix_item": 136,
+      "area": "Orodha ya mahitaji",
+      "page": "Uk 74",
+      "recommendation": "Jumuisha programu saidizi na kipimajoto sauti kwenye orodha ya mahitaji ili kuimarisha ufikivu na ufundishaji.",
+      "files": [
+        "pg080_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 138,
+      "matrix_item": 137,
+      "area": "Matamshi ya namba",
+      "page": "Uk 76",
+      "recommendation": "Badilisha usomaji wa namba uwe kwa lugha ya Kiswahili sanifu badala ya Kiingereza.",
+      "files": [
+        "pg081_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 139,
+      "matrix_item": 138,
+      "area": "Orodha ya mahitaji",
+      "page": "Uk 78",
+      "recommendation": "Ongeza programu saidizi inayostahili kwenye orodha ya mahitaji ya ukurasa huu.",
+      "files": [
+        "pg084_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 140,
+      "matrix_item": 139,
+      "area": "Maelezo ya sauti",
+      "page": "Uk 78",
+      "recommendation": "Ondoa marudio yasiyo ya lazima ya maelezo na utumie lugha moja sanifu (Kiswahili) kote.",
+      "files": [
+        "pg085_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 141,
+      "matrix_item": 140,
+      "area": "Matamshi ya namba na maneno",
+      "page": "Uk 83",
+      "recommendation": "Ondoa marudio ya namba sita, tumia Kiswahili sanifu kwa namba zote, na sahihisha matamshi ya neno 'bidhaa'.",
+      "files": [
+        "pg085_sec001.html",
+        "qz017.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 142,
+      "matrix_item": 141,
+      "area": "Matamshi ya namba",
+      "page": "Uk 87",
+      "recommendation": "Rekebisha matamshi ya namba kuwa 'moja', badilisha maneno ya Kiingereza kuwa Kiswahili, na uboreshe kiwango cha matamshi ya sauti.",
+      "files": [
+        "pg085_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 143,
+      "matrix_item": 142,
+      "area": "Mpangilio wa picha",
+      "page": "Uk 87",
+      "recommendation": "Rekebisha mpangilio (layout) kwa kuweka nafasi ya kutosha kati ya picha na picha ili ziweze kuonekana na kueleweka kwa urahisi.",
+      "files": [
+        "pg085_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 144,
+      "matrix_item": 143,
+      "area": "Icon ya Tuma",
+      "page": "Uk 87",
+      "recommendation": "Ondoa icon moja ya 'Tuma' iliyojirudia ili kuboresha muonekano wa kiolesura (UI).",
+      "files": [
+        "pg086_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 145,
+      "matrix_item": 144,
+      "area": "Orodha ya mahitaji",
+      "page": "Uk 89",
+      "recommendation": "Ongeza 'programu saidizi' na 'kipimajoto sauti' katika orodha ya mahitaji rasmi ya ukurasa huo.",
+      "files": [
+        "pg088_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 146,
+      "matrix_item": 145,
+      "area": "Matamshi ya namba",
+      "page": "Uk 90",
+      "recommendation": "Tumia lugha moja sanifu ya Kiswahili wakati wa kutamka namba zote.",
+      "files": [
+        "pg088_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 147,
+      "matrix_item": 146,
+      "area": "Maelezo ya sauti",
+      "page": "Uk 91",
+      "recommendation": "Sahihisha matamshi na misingi ya sarufi ya Kiswahili katika rekodi zote za sauti.",
+      "files": [
+        "qz018.html"
+      ],
+      "status": "IMPLEMENTED_QUIZ_CLEANUP"
+    },
+    {
+      "yellow_table_row": 148,
+      "matrix_item": 147,
+      "area": "Kosa la kiuandishi",
+      "page": "Uk 92",
+      "recommendation": "Sahihisha uandishi wa neno kutoka 'mnururisho' na kuwa 'mnunurisho'.",
+      "files": [
+        "pg090_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 149,
+      "matrix_item": 148,
+      "area": "Jaribio la 3",
+      "page": "Uk 93 & 94",
+      "recommendation": "Sahihisha maandishi na matamshi ya namba, kamilisha maelezo ya Jaribio la 3, na urekebishe mfumo wa swali ili uruhusu majibu kuingizwa.",
+      "files": [
+        "pg092_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 150,
+      "matrix_item": 149,
+      "area": "Matamshi ya sauti",
+      "page": "Uk 94",
+      "recommendation": "Rekodi upya sauti kwa kufuata matamshi sahihi ya Kiswahili sanifu.",
+      "files": [
+        "pg092_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 151,
+      "matrix_item": 150,
+      "area": "Kazi ya kufanya",
+      "page": "Uk 95",
+      "recommendation": "Tengeneza na uweke uwanja au nafasi ya kutosha (answer space/input field) kwa ajili ya mwanafunzi kuandika au kuingiza majibu.",
+      "files": [
+        "pg092_sec001.html"
+      ],
+      "status": "IMPLEMENTED_INTERACTIVITY"
+    },
+    {
+      "yellow_table_row": 152,
+      "matrix_item": 151,
+      "area": "Uhakiki wa majibu",
+      "page": "Uk 95",
+      "recommendation": "Weka mfumo wa uhakiki wa majibu (answer validation) ili kupokea tu majibu yaliyokusudiwa au sahihi.",
+      "files": [
+        "pg092_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 153,
+      "matrix_item": 152,
+      "area": "Icon ya Tuma",
+      "page": "Uk 96",
+      "recommendation": "Futa au ondoa icon ya 'Tuma' iliyojirudia.",
+      "files": [
+        "pg093_sec001.html"
+      ],
+      "status": "IMPLEMENTED_INTERACTIVITY"
+    },
+    {
+      "yellow_table_row": 154,
+      "matrix_item": 153,
+      "area": "Lugha jumuishi",
+      "page": "Uk 98",
+      "recommendation": "Badilisha msamiati na utumie vitenzi jumuishi kama vile 'kutambua', 'baini', au 'kueleza' vinavyowajumuisha na wanafunzi wasioona.",
+      "files": [
+        "pg094_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 155,
+      "matrix_item": 154,
+      "area": "Orodha ya mahitaji na Icon ya Tuma",
+      "page": "Uk 98 & 99",
+      "recommendation": "Ongeza programu saidizi kwenye orodha ya mahitaji na uondoe icon iliyojirudia ya 'Tuma'.",
+      "files": [
+        "pg094_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 156,
+      "matrix_item": 155,
+      "area": "Kazi ya Kufanya namba 1(4)",
+      "page": "Uk 100",
+      "recommendation": "Rekebisha matamshi ya namba, tumia vitenzi jumuishi katika Kazi ya Kufanya 1(4), na uondoe icon ya 'Tuma' iliyojirudia.",
+      "files": [
+        "pg095_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 157,
+      "matrix_item": 156,
+      "area": "Mpangilio wa picha",
+      "page": "Uk 103",
+      "recommendation": "Pangilia upya kielelezo na picha zote ili kuzuia kupandana na kuboresha mwonekano.",
+      "files": [
+        "pg095_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 158,
+      "matrix_item": 157,
+      "area": "Matamshi ya sauti",
+      "page": "Uk 104",
+      "recommendation": "Rekebisha maelezo ya sauti yatunze Kiswahili sanifu pekee na kuondoa maneno ya Kiingereza.",
+      "files": [
+        "pg097_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 159,
+      "matrix_item": 158,
+      "area": "Matamshi ya sauti",
+      "page": "Uk 105",
+      "recommendation": "Rekodi upya sauti bila kuwa na vigugumizi wala maneno yasiyo sanifu na utumie Kiswahili fasaha.",
+      "files": [
+        "pg097_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 160,
+      "matrix_item": 159,
+      "area": "Matamshi ya sauti",
+      "page": "Uk 107",
+      "recommendation": "Sahihisha matamshi katika rekodi ya sauti ili iwe wazi na sahihi.",
+      "files": [
+        "pg098_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 161,
+      "matrix_item": 160,
+      "area": "Orodha ya mahitaji",
+      "page": "Uk 107",
+      "recommendation": "Ongeza programu saidizi na kipimajoto sauti kwenye orodha ya mahitaji.",
+      "files": [
+        "pg098_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 162,
+      "matrix_item": 161,
+      "area": "Maelezo ya picha",
+      "page": "Uk 108",
+      "recommendation": "Weka sauti ya maelezo ya picha (audio description) ili kumsaidia mwanafunzi asiyeona.",
+      "files": [
+        "pg099_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 163,
+      "matrix_item": 162,
+      "area": "Orodha ya mahitaji",
+      "page": "Uk 110",
+      "recommendation": "Ongeza programu saidizi kwenye orodha ya mahitaji ya somo/jaribio.",
+      "files": [
+        "qz020.html"
+      ],
+      "status": "IMPLEMENTED_QUIZ_CLEANUP"
+    },
+    {
+      "yellow_table_row": 164,
+      "matrix_item": 163,
+      "area": "Hatua ya 5 na 7",
+      "page": "Uk 111",
+      "recommendation": "Rekebisha uandishi wa maswali hayo ili yatumie nafsi na lugha jumuishi inayoeleweka vizuri.",
+      "files": [
+        "pg101_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 165,
+      "matrix_item": 164,
+      "area": "Maelezo ya picha",
+      "page": "Uk 112",
+      "recommendation": "Ongeza maelezo ya sauti (audio description) kwenye picha na vipengele vya ukurasa.",
+      "files": [
+        "pg101_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 166,
+      "matrix_item": 165,
+      "area": "Maelezo ya picha",
+      "page": "Uk 113",
+      "recommendation": "Weka rekodi ya sauti ya ufafanuzi wa picha kwa ajili ya wanafunzi wenye ulemavu wa macho.",
+      "files": [
+        "pg102_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 167,
+      "matrix_item": 166,
+      "area": "Maelezo ya picha",
+      "page": "Uk 114",
+      "recommendation": "Ongeza sauti ya maelezo ya picha na utumie Kiswahili sanifu badala ya Kiingereza.",
+      "files": [
+        "pg103_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 168,
+      "matrix_item": 167,
+      "area": "Mfumo wa kujibu swali",
+      "page": "Uk 114/115",
+      "recommendation": "Rekebisha mantiki na ujenzi wa swali ili mwanafunzi aweze kujibu na kuwasilisha majibu.",
+      "files": [
+        "qz021.html"
+      ],
+      "status": "IMPLEMENTED_QUIZ_CLEANUP"
+    },
+    {
+      "yellow_table_row": 169,
+      "matrix_item": 168,
+      "area": "Kielelezo na. 6",
+      "page": "Uk 115",
+      "recommendation": "Sahihisha na kupanga herufi kwa mtiririko sahihi (a, b, c, d...) bila kujirudia herufi 'c'.",
+      "files": [
+        "pg104_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 170,
+      "matrix_item": 169,
+      "area": "Sehemu B",
+      "page": "Uk 116",
+      "recommendation": "Jaza maandishi ya 'Kweli' au 'Si Kweli' ndani ya viboksi na uondoe marudio ya neno 'sita' katika sauti.",
+      "files": [
+        "pg104_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 171,
+      "matrix_item": 170,
+      "area": "Nishati ya mwanga",
+      "page": "Uk 116",
+      "recommendation": "Rekebisha matamshi ya namba na maelezo ya sauti ya mada ya nishati ya mwanga.",
+      "files": [
+        "qz022.html"
+      ],
+      "status": "IMPLEMENTED_QUIZ_CLEANUP"
+    },
+    {
+      "yellow_table_row": 172,
+      "matrix_item": 171,
+      "area": "Swali la 14 na 15",
+      "page": "Uk 117",
+      "recommendation": "Rekebisha usomaji wa namba za Kirumi, jaza maelezo kwenye viboksi vya Swali la 14, na uboreshe muundo wa kuoanisha katika Swali la 15.",
+      "files": [
+        "pg107_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 173,
+      "matrix_item": 172,
+      "area": "Orodha ya mahitaji",
+      "page": "Uk 118",
+      "recommendation": "Ongeza programu saidizi ya sauti kwenye orodha ya mahitaji.",
+      "files": [
+        "pg108_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 174,
+      "matrix_item": 173,
+      "area": "Jaribio la kuchunguza kupenya kwa mwale",
+      "page": "Uk 119",
+      "recommendation": "Ongeza vitenzi jumuishi na vya kiutendaji 'kuchunguza' na 'kupima' katika hatua za jaribio.",
+      "files": [
+        "pg109_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 175,
+      "matrix_item": 174,
+      "area": "Hatua ya 3 na 5",
+      "page": "Uk 119",
+      "recommendation": "Sahihisha matamshi ya sauti ili itamke neno 'mbalimbali' kwa usahihi kabisa.",
+      "files": [
+        "pg109_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 176,
+      "matrix_item": 175,
+      "area": "Jaribio namba 6",
+      "page": "Uk 120",
+      "recommendation": "Ongeza maelezo ya sauti juu ya picha ili kumwezesha mwanafunzi asiyeona kuelewa jaribio.",
+      "files": [
+        "pg109_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 177,
+      "matrix_item": 176,
+      "area": "Lugha jumuishi",
+      "page": "Uk 123",
+      "recommendation": "Jumuisha vitenzi 'kueleza' na 'kuhisi' katika maelezo na maelekezo ya somo.",
+      "files": [
+        "pg110_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 178,
+      "matrix_item": 177,
+      "area": "Orodha ya mahitaji",
+      "page": "Uk 123",
+      "recommendation": "Ongeza programu saidizi kwenye orodha ya mahitaji.",
+      "files": [
+        "pg111_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 179,
+      "matrix_item": 178,
+      "area": "Kielelezo na. 10",
+      "page": "Uk 124",
+      "recommendation": "Badilisha lugha iwe jumuishi inayozingatia mahitaji ya wanafunzi wote.",
+      "files": [
+        "pg111_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 180,
+      "matrix_item": 179,
+      "area": "Lugha jumuishi",
+      "page": "Uk 125",
+      "recommendation": "Ongeza maneno 'kutambua', 'kuhisi', na 'kuelezea' katika maelezo ya sauti.",
+      "files": [
+        "pg112_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 181,
+      "matrix_item": 180,
+      "area": "Kielelezo namba 12",
+      "page": "Uk 127",
+      "recommendation": "Rekebisha sauti ili kutoa matamshi sahihi ya maelezo ya kielelezo namba 12.",
+      "files": [
+        "pg113_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 182,
+      "matrix_item": 181,
+      "area": "Jaribio namba 8",
+      "page": "Uk 127",
+      "recommendation": "Jumuisha programu saidizi kwenye orodha ya mahitaji ya jaribio namba 8.",
+      "files": [
+        "pg114_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 183,
+      "matrix_item": 182,
+      "area": "Sauti Inavyosafiri",
+      "page": "Uk 131",
+      "recommendation": "Ongeza maneno 'kuhisi' na 'kutambua' katika maelezo ya mada ya usafiri wa sauti.",
+      "files": [
+        "pg116_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 184,
+      "matrix_item": 183,
+      "area": "Kazi ya Kufanya na. 7",
+      "page": "Uk 132",
+      "recommendation": "Weka vitenzi jumuishi 'kuhisi' na 'kutambua' katika hatua za kazi ya kufanya na. 7.",
+      "files": [
+        "pg117_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 185,
+      "matrix_item": 184,
+      "area": "Kuonyesha Mwangwi",
+      "page": "Uk 133",
+      "recommendation": "Ongeza neno 'kugusa', tumia vitenzi jumuishi, na uongeze saa ya mtetemo pamoja na programu saidizi kwenye orodha ya mahitaji.",
+      "files": [
+        "qz023.html"
+      ],
+      "status": "IMPLEMENTED_QUIZ_CLEANUP"
+    },
+    {
+      "yellow_table_row": 186,
+      "matrix_item": 185,
+      "area": "Kazi ya Kufanya na. 8",
+      "page": "Uk 134",
+      "recommendation": "Weka vitenzi jumuishi katika hatua ya 3, 4, na 5 za Kazi ya Kufanya na. 8.",
+      "files": [
+        "pg118_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 187,
+      "matrix_item": 186,
+      "area": "Kazi ya Kufanya na. 9 & 10",
+      "page": "Uk 135",
+      "recommendation": "Ongeza vitenzi jumuishi, tamka 'save as' kwa Kiingereza sahihi, ondoa icon iliyojirudia ya 'Tuma', na tamka namba zote kwa Kiswahili.",
+      "files": [
+        "pg119_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 188,
+      "matrix_item": 187,
+      "area": "Lugha jumuishi",
+      "page": "Uk 136",
+      "recommendation": "Ongeza kitenzi jumuishi 'baini' katika maelezo au hatua za kazi.",
+      "files": [
+        "pg119_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 189,
+      "matrix_item": 188,
+      "area": "Kazi ya Kufanya namba 11",
+      "page": "Uk 137",
+      "recommendation": "Ongeza vitenzi jumuishi katika maelekezo ya Kazi ya Kufanya namba 11.",
+      "files": [
+        "pg119_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 190,
+      "matrix_item": 189,
+      "area": "Matamshi ya namba",
+      "page": "Uk 138",
+      "recommendation": "Sahihisha matamshi ya maneno yote na utumie Kiswahili sanifu katika kutamka namba.",
+      "files": [
+        "pg120_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 191,
+      "matrix_item": 190,
+      "area": "Sehemu A",
+      "page": "Uk 140",
+      "recommendation": "Pangilia maneno ya Sehemu A kwa mtiririko wenye mantiki na urahisi wa kusoma.",
+      "files": [
+        "pg120_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 192,
+      "matrix_item": 191,
+      "area": "Neno 'ombwe'",
+      "page": "Uk 141",
+      "recommendation": "Rekebisha na uandike maana sahihi ya kisayansi ya neno 'ombwe'.",
+      "files": [
+        "pg120_sec001.html"
+      ],
+      "status": "IMPLEMENTED_EXACT_OR_VERIFIED"
+    },
+    {
+      "yellow_table_row": 193,
+      "matrix_item": 192,
+      "area": "Kazi ya Kufanya namba 1",
+      "page": "Uk 144",
+      "recommendation": "Weka maelezo ya sauti ya picha kwenye kitabu cha sauti na uboreshe kisoma skrini ili kisome namba 1 kwa usahihi.",
+      "files": [
+        "qz024.html"
+      ],
+      "status": "IMPLEMENTED_QUIZ_CLEANUP"
+    },
+    {
+      "yellow_table_row": 194,
+      "matrix_item": 193,
+      "area": "Kazi ya Kufanya namba 2",
+      "page": "Uk 145",
+      "recommendation": "Badilisha 'tazama' kuwa 'chunguza', sahihisha usomaji wa namba 12, na uongeze maelezo ya programu ya Quorum katika Kielelezo na. 3.",
+      "files": [
+        "qz024.html"
+      ],
+      "status": "IMPLEMENTED_QUIZ_CLEANUP"
+    },
+    {
+      "yellow_table_row": 195,
+      "matrix_item": 194,
+      "area": "Mchezo Sahili",
+      "page": "Uk 146",
+      "recommendation": "Ongeza maelezo ya mchezo sahili katika kitabu cha sauti na uondoe icon iliyojirudia ya 'Tuma'.",
+      "files": [
+        "pg121_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 196,
+      "matrix_item": 195,
+      "area": "Uchoraji wa Maumbo",
+      "page": "Uk 147",
+      "recommendation": "Ongeza maelezo ya programu ya Quorum kwenye Kielelezo na. 4 na 5 ili kuongeza ufikivu.",
+      "files": [
+        "pg122_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 197,
+      "matrix_item": 196,
+      "area": "Uchoraji wa Maumbo",
+      "page": "Uk 148",
+      "recommendation": "Weka maelezo ya programu ya Quorum kwenye Kielelezo na. 6 na 7, pamoja na kuweka sauti ya maelezo ya picha katika kitabu cha sauti.",
+      "files": [
+        "pg122_sec001.html"
+      ],
+      "status": "IMPLEMENTED_ACCESSIBILITY_SUPPLEMENT"
+    },
+    {
+      "yellow_table_row": 198,
+      "matrix_item": 197,
+      "area": "Namba Sifuri (0)",
+      "page": "Uk 149",
+      "recommendation": "Rekebisha uandishi na matamshi ya namba sifuri ili yawe sahihi na sanifu.",
+      "files": [
+        "pg123_sec001.html"
+      ],
+      "status": "IMPLEMENTED_AUDIO_REGENERATED"
+    },
+    {
+      "yellow_table_row": 199,
+      "matrix_item": 198,
+      "area": "Zoezi",
+      "page": "Uk 150",
+      "recommendation": "Rekebisha maelezo ya zoezi ili yawe fikivu (accessible) kikamilifu kwa wanafunzi wote, ikiwa ni pamoja na wanafunzi wasioona.",
+      "files": [
+        "qz025.html"
+      ],
+      "status": "IMPLEMENTED_QUIZ_CLEANUP"
+    }
+  ]
+}
