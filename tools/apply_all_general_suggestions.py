@@ -5,7 +5,8 @@ from lxml import html, etree
 ROOT = Path(__file__).resolve().parents[1]
 TEXT_PATH = ROOT / "content/i18n/sw-TZ/texts.json"
 texts = json.loads(TEXT_PATH.read_text(encoding="utf-8-sig"))
-changed_ids = set()
+UPDATED_IDS_PATH = ROOT / "content/general-suggestions-updated-ids.json"
+changed_ids = set(json.loads(UPDATED_IDS_PATH.read_text(encoding="utf-8"))) if UPDATED_IDS_PATH.exists() else set()
 changed_pages = []
 
 blank_captions = {
@@ -36,8 +37,14 @@ for path in sorted(ROOT.glob("pg*_sec*.html")):
             shown = new
 
         # General suggestions 9 and 13: every caption must explain/bainisha.
-        if re.match(r"^Kielelezo (?:namba|na\.)\s*\d+", shown, re.I) and not re.search(r"kinaonesha|kinabainisha", shown, re.I):
-            if key in blank_captions:
+        if re.match(r"^(?:Maelezo ya )?Kielelezo (?:namba|na\.)\s*\d+", shown, re.I) and not (
+            re.search(r"kinaonesha", shown, re.I) and re.search(r"kinabainisha", shown, re.I)
+        ):
+            if re.search(r"kinaonesha", shown, re.I):
+                new = re.sub(r"kinaonesha(?:\s*/\s*kinabainisha)?", "kinaonesha/kinabainisha", shown, count=1, flags=re.I)
+            elif re.search(r"kinabainisha", shown, re.I):
+                new = re.sub(r"kinabainisha", "kinaonesha/kinabainisha", shown, count=1, flags=re.I)
+            elif key in blank_captions:
                 new = blank_captions[key]
             else:
                 m = re.match(r"^(Kielelezo (?:namba|na\.)\s*[^:]+):?\s*(.*)$", shown, re.I)
@@ -66,7 +73,7 @@ for path in sorted(ROOT.glob("pg*_sec*.html")):
         changed_pages.append(path.name)
 
 TEXT_PATH.write_text(json.dumps(texts, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-(ROOT / "content/general-suggestions-updated-ids.json").write_text(
+UPDATED_IDS_PATH.write_text(
     json.dumps(sorted(changed_ids), ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
 )
 print({"changed_pages": len(changed_pages), "changed_ids": len(changed_ids)})

@@ -99,10 +99,6 @@ def main() -> None:
             texts[key] = updated
             changed_ids.append(key)
 
-    texts["pg118_n0023"] = (
-        "Kwa ufikivu, unaweza kutumia programu ya Quorum sambamba na programu zilizoelezwa katika sura hii. "
-        "Tumia kibodi, kitufe cha Tab, vitufe vya mishale na kisoma skrini kulingana na kifaa chako."
-    )
     texts["pg120_n0029"] = (
         "Kwa kutumia Quorum au kisoma skrini, tumia Tab na vitufe vya mishale kuchagua programu na kutekeleza hatua hizi."
     )

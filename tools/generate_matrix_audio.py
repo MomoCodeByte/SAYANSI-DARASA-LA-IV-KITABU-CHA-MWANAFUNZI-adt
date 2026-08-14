@@ -31,6 +31,7 @@ PRONUNCIATION_OVERRIDES = {
     "SUA": "sua", "MU": "em yu",
     "maziwa": "ma-ziwa", "njegere": "nje-ge-re", "matumizi": "ma-tu-mi-zi",
     "bidhaa": "bi-dhaa", "msamiati": "m-sa-mi-a-ti",
+    "Quorum": "Kuramu", "quorum": "Kuramu", "au": "auu",
 }
 
 
@@ -60,11 +61,43 @@ def roman_to_int(token: str) -> int | None:
 
 
 def spoken(text: str) -> tuple[str, list[int]]:
+    # Standalone lower-case Roman numerals are used in the front-matter TOC.
+    # Expand them for Rehema while preserving the printed form on the page.
+    standalone_roman = text.strip().upper()
+    if text.strip().islower() and re.fullmatch(r"[IVXLCDM]+", standalone_roman):
+        text = number_sw(roman_to_int(standalone_roman) or 0)
+    text = text.replace("©", "Hakimiliki ")
+    text = text.replace("√", " alama ya tiki ")
+    text = re.sub(r"(?i)\bmbalimbali\b", "mbali mbali", text)
+    text = re.sub(r"(?i)\bCity\s+Bus\b", "siti basi", text)
+    text = re.sub(r"(?i)\bcar\b", "kaa", text)
+    text = re.sub(r"(?i)\bhttps\b", "echititipi", text)
+    text = re.sub(r"(?i)\bJPEG\s+picture\b", "jipieji picha", text)
+    text = re.sub(r"(?i)\bPNG\s+picture\b", "pieniji picha", text)
+    text = re.sub(r"(?i)\bBMP\s+picture\b", "biempi picha", text)
+    text = re.sub(r"(?i)\bPNG\b", "piendiji", text)
+    text = re.sub(r"(?i)\bBMP\b", "bempi", text)
+    text = re.sub(r"(?i)\bShape\b", "shapu", text)
+    text = re.sub(r"(?i)\bPurple\b", "papo", text)
+    text = re.sub(r"(?i)\bRose\b", "rozi", text)
+    text = re.sub(r"(?i)\bRectangle\b", "rectango", text)
+    text = re.sub(
+        r"(?i)\bSave\s+as\b",
+        "savu azi",
+        text,
+    )
+    text = re.sub(r"(?i)\bSave\b", "savu", text)
+    text = re.sub(r"(?i)\bDesktop\b", "desikitop", text)
+    text = re.sub(
+        r"(?i)\bRight\s+angled\s+triangle\b",
+        "raiti engo traiengo",
+        text,
+    )
     display = re.findall(r"\S+", text)
     words: list[str] = []
     display_map: list[int] = []
     for index, token in enumerate(display):
-        value = token
+        value = token.replace("/", " au ")
         if re.fullmatch(r"\d+(?:-\d+){2,}", value.strip(".,;:()")):
             value = re.sub(r"\d", lambda m: ONES[int(m.group())] + " ", value).replace("-", " ")
         value = re.sub(r"(?<!\w)Dkt\.?(?!\w)", "Doctor", value, flags=re.I)
@@ -116,7 +149,7 @@ async def render(job: tuple[str, str, list[int], Path]) -> tuple[str, dict]:
 
 
 async def main() -> None:
-    parser = argparse.ArgumentParser(); parser.add_argument("--limit", type=int); parser.add_argument("--workers", type=int, default=12); parser.add_argument("--ids", nargs="*"); parser.add_argument("--force", action="store_true"); parser.add_argument("--all", action="store_true"); parser.add_argument("--page-start", type=int); parser.add_argument("--page-end", type=int)
+    parser = argparse.ArgumentParser(); parser.add_argument("--limit", type=int); parser.add_argument("--workers", type=int, default=12); parser.add_argument("--ids", nargs="*"); parser.add_argument("--ids-file"); parser.add_argument("--force", action="store_true"); parser.add_argument("--all", action="store_true"); parser.add_argument("--page-start", type=int); parser.add_argument("--page-end", type=int)
     args = parser.parse_args()
     plan = json.loads((ROOT / "content/validation-matrix-plan.json").read_text(encoding="utf-8"))
     texts = json.loads((LANG / "texts.json").read_text(encoding="utf-8")); audios = json.loads((LANG / "audios.json").read_text(encoding="utf-8"))
@@ -131,8 +164,10 @@ async def main() -> None:
                 footer_ids.add(match.group(1))
     jobs = []
     requested = set(args.ids or [])
+    if args.ids_file:
+        requested.update(json.loads((ROOT / args.ids_file).read_text(encoding="utf-8")))
     for text_id, filename in audios.items():
-        if text_id.endswith("_easy_read") or text_id in footer_ids or (requested and text_id not in requested): continue
+        if (text_id.endswith("_easy_read") and text_id not in requested) or text_id in footer_ids or (requested and text_id not in requested): continue
         page_match = re.match(r"pg(\d{3})_", text_id)
         page_number = int(page_match.group(1)) if page_match else None
         if args.page_start is not None and (page_number is None or page_number < args.page_start): continue

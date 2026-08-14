@@ -19,18 +19,7 @@ replacements = {
     "pg117_n0070": "Ombwe",
 }
 
-append_after = {
-    "pg108_im001": ("pg108_fix_desc", "Maelezo ya picha: Mwanafunzi yuko katika ukumbi mtupu, amesimama mbali na ukuta na anapiga kelele ili achunguze mwangwi unaorudi kutoka ukutani."),
-    "pg113_im003": ("pg113_fix_desc", "Maelezo ya picha: Watu wanatazama televisheni sebuleni. Umeme unatoa mwanga kwenye balbu na picha pamoja na sauti kwenye televisheni."),
-    "pg120_n0028": ("pg120_fix_desc", "Maelezo ya Kielelezo namba 3: Skrini inaonesha hatua za kufungua programu ya Paint/Quorum kwa kutumia kitufe cha Windows na sehemu ya utafutaji."),
-    "pg121_n0005": ("pg121_fix_desc", "Maelezo ya Kielelezo namba 4: Dirisha la Paint/Quorum lina eneo la kuchorea, upau wa zana, maumbo na sehemu ya kuchagua rangi."),
-    "pg122_n0012": ("pg122_fix_desc6", "Maelezo ya Kielelezo namba 6: Kishale kinaonesha kuburuta kipanya ili kuchora pembetatu mraba."),
-    "pg122_n0014": ("pg122_fix_desc7", "Maelezo ya Kielelezo namba 7: Pembetatu mraba iliyochorwa inaonekana kama mteremko."),
-    "pg147_n0002": ("pg147_fix_desc", "Maelezo ya programu ya Quorum: Bloku ya ‘ikiwa basi’ imeunganishwa katika eneo la kuandikia ili programu ifanye kitendo masharti yanapotimia."),
-    "pg147_n0014": ("pg147_fix_desc2", "Maelezo ya programu ya Quorum: Bloku ya ‘kubwa kuliko’ imewekwa ndani ya bloku ya ‘ikiwa basi’ ili kulinganisha thamani mbili."),
-    "pg148_n0016": ("pg148_fix_desc", "Maelezo ya programu ya Quorum: Bloku ya kucheza sauti hadi ikamilike imewekwa ndani ya bloku ya ‘ikiwa basi’."),
-    "pg148_n0022": ("pg148_fix_desc2", "Maelezo ya programu ya Quorum: Programu iliyokamilika hucheza sauti pale hali iliyowekwa inapokuwa ya kweli."),
-}
+append_after = {}
 
 def clean_mojibake(s: str) -> str:
     # Repair only the common mangled smart quotes, without guessing other content.
