@@ -6,10 +6,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 pages = json.loads((ROOT / "content/pages.json").read_text(encoding="utf-8-sig"))
-CACHE_VERSION = "voice-playback-highlight-60"
+CACHE_VERSION = "voice-sequence-stable-61"
 updated = 0
-for entry in pages:
-    path = ROOT / entry["href"]
+reading_paths = [ROOT / entry["href"] for entry in pages]
+reading_paths.extend(sorted(ROOT.glob("pg*_sec*.html")))
+for path in dict.fromkeys(reading_paths):
     source = path.read_text(encoding="utf-8-sig")
     normalized = re.sub(
         r'(<script\s+src="\./assets/offline-preloader\.js)(?:\?v=[^"]*)?("[^>]*></script>)',
