@@ -32,6 +32,7 @@ PRONUNCIATION_OVERRIDES = {
     "maziwa": "ma-ziwa", "njegere": "nje-ge-re", "matumizi": "ma-tu-mi-zi",
     "bidhaa": "bi-dhaa", "msamiati": "m-sa-mi-a-ti",
     "Quorum": "Kuramu", "quorum": "Kuramu", "au": "auu",
+    "TIE": "tai", "tie": "tai",
 }
 
 

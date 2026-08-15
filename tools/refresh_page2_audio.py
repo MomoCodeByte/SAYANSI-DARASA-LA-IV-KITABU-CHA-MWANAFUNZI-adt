@@ -17,7 +17,7 @@ ids = [
     if key.startswith("pg002_") and not key.endswith("_easy_read")
 ]
 for key in ids:
-    audios[key] = audios[key].split("?")[0] + "?v=page2-audio-highlight-1"
+    audios[key] = audios[key].split("?")[0] + "?v=page2-tai-highlight-2"
 
 texts_path.write_text(json.dumps(texts, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 audio_path.write_text(json.dumps(audios, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
