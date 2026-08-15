@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import asyncio
+import difflib
 import json
 import re
 from pathlib import Path
@@ -62,6 +63,7 @@ def roman_to_int(token: str) -> int | None:
 
 
 def spoken(text: str) -> tuple[str, list[int]]:
+    original_display = re.findall(r"\S+", text)
     # Standalone lower-case Roman numerals are used in the front-matter TOC.
     # Expand them for Rehema while preserving the printed form on the page.
     standalone_roman = text.strip().upper()
@@ -95,6 +97,29 @@ def spoken(text: str) -> tuple[str, list[int]]:
         text,
     )
     display = re.findall(r"\S+", text)
+    original_normalized = [re.sub(r"\W+", "", token, flags=re.UNICODE).casefold() for token in original_display]
+    transformed_normalized = [re.sub(r"\W+", "", token, flags=re.UNICODE).casefold() for token in display]
+    transformed_to_original: list[int | None] = [None] * len(display)
+    matcher = difflib.SequenceMatcher(None, original_normalized, transformed_normalized, autojunk=False)
+    for operation, original_start, original_end, transformed_start, transformed_end in matcher.get_opcodes():
+        if operation == "equal":
+            for offset in range(transformed_end - transformed_start):
+                transformed_to_original[transformed_start + offset] = original_start + offset
+            continue
+        original_length = original_end - original_start
+        transformed_length = transformed_end - transformed_start
+        for offset in range(transformed_length):
+            if original_length:
+                mapped_offset = min((offset * original_length) // max(transformed_length, 1), original_length - 1)
+                transformed_to_original[transformed_start + offset] = original_start + mapped_offset
+            elif original_display:
+                transformed_to_original[transformed_start + offset] = min(original_start, len(original_display) - 1)
+    fallback = 0
+    for index, mapped in enumerate(transformed_to_original):
+        if mapped is None:
+            transformed_to_original[index] = fallback
+        else:
+            fallback = mapped
     words: list[str] = []
     display_map: list[int] = []
     for index, token in enumerate(display):
@@ -115,9 +140,9 @@ def spoken(text: str) -> tuple[str, list[int]]:
         for written, pronounced in PRONUNCIATION_OVERRIDES.items():
             flags = re.I if written.islower() else 0
             value = re.sub(rf"(?<!\w){re.escape(written)}(?!\w)", pronounced, value, flags=flags)
-        expanded = re.findall(r"\S+", value)
+        expanded = [token for token in re.findall(r"\S+", value) if re.search(r"\w", token, flags=re.UNICODE)]
         words.extend(expanded)
-        display_map.extend([index] * len(expanded))
+        display_map.extend([int(transformed_to_original[index])] * len(expanded))
     return " ".join(words), display_map
 
 
