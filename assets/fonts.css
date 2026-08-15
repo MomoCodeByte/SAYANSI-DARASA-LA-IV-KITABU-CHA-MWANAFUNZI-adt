@@ -53,6 +53,129 @@ label, button, input, textarea, select {
   font-family: "Atkinson Hyperlegible", sans-serif !important;
 }
 
+/* One canonical Fikiri component across the whole book. */
+#content div:has(> :is(
+  [data-id="pg007_im004"], [data-id="pg035_im004"], [data-id="pg056_im004"],
+  [data-id="pg071_im004"], [data-id="pg083_im001"], [data-id="pg118_im004"]
+)) {
+  z-index: 10 !important;
+  width: 94px !important;
+  height: 94px !important;
+  flex: 0 0 94px !important;
+  margin: 0 -18px 0 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  border: 4px solid #43a34d !important;
+  border-radius: 9999px !important;
+  background: #fff !important;
+  box-shadow: 0 2px 5px rgba(0,0,0,.22) !important;
+}
+
+#content :is(
+  [data-id="pg007_im004"], [data-id="pg035_im004"], [data-id="pg056_im004"],
+  [data-id="pg071_im004"], [data-id="pg083_im001"], [data-id="pg118_im004"]
+) {
+  display: block !important;
+  width: 440px !important;
+  min-width: 440px !important;
+  max-width: none !important;
+  height: 94px !important;
+  object-fit: fill !important;
+  transform: translateX(-1px) !important;
+}
+
+#content :is(
+  div:has(> [data-id="pg007_n0013"]),
+  div:has(> [data-id="pg035_n0015"]),
+  div:has(> div > [data-id="pg056_n0014"]),
+  div:has(> [data-id="pg071_n0015"]),
+  div:has(> p > [data-id="pg083_n0014"]),
+  div:has(> [data-id="pg118_n0015"])
+) {
+  min-height: 94px !important;
+  flex: 1 1 auto !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: .7rem !important;
+  padding: .75rem 1.5rem .75rem 2.5rem !important;
+  border: 0 !important;
+  border-right: 18px solid #22d3ee !important;
+  border-radius: 0 !important;
+  background: #0ea5e9 !important;
+  color: #fff !important;
+  box-shadow: 0 2px 5px rgba(0,0,0,.18) !important;
+}
+
+#content div:has(> p > [data-id="pg083_n0014"]) > p {
+  display: flex !important;
+  align-items: center !important;
+  gap: .7rem !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+#content :is(
+  div:has(> [data-id="pg007_n0013"]),
+  div:has(> p > [data-id="pg083_n0014"])
+) > div.absolute,
+#content div:has(> p > [data-id="pg083_n0014"]) > div.border-dotted {
+  display: none !important;
+}
+
+#content :is(
+  [data-id="pg007_n0013"], [data-id="pg035_n0015"], [data-id="pg056_n0014"],
+  [data-id="pg071_n0015"], [data-id="pg083_n0014"], [data-id="pg118_n0015"]
+) {
+  flex: 0 0 auto !important;
+  font-size: 1.15rem !important;
+  line-height: 1.2 !important;
+  font-weight: 700 !important;
+  color: #fde047 !important;
+}
+
+#content :is(
+  [data-id="pg007_n0014"], [data-id="pg035_n0016"], [data-id="pg056_n0015"],
+  [data-id="pg071_n0016"], [data-id="pg083_n0015"], [data-id="pg118_n0016"]
+) {
+  font-size: 1.15rem !important;
+  line-height: 1.35 !important;
+  color: #fff !important;
+}
+
+@media (max-width: 640px) {
+  #content div:has(> :is(
+    [data-id="pg007_im004"], [data-id="pg035_im004"], [data-id="pg056_im004"],
+    [data-id="pg071_im004"], [data-id="pg083_im001"], [data-id="pg118_im004"]
+  )) {
+    width: 78px !important;
+    height: 78px !important;
+    flex-basis: 78px !important;
+    margin: 0 0 -12px .75rem !important;
+  }
+
+  #content :is(
+    [data-id="pg007_im004"], [data-id="pg035_im004"], [data-id="pg056_im004"],
+    [data-id="pg071_im004"], [data-id="pg083_im001"], [data-id="pg118_im004"]
+  ) {
+    width: 365px !important;
+    min-width: 365px !important;
+    height: 78px !important;
+  }
+
+  #content :is(
+    div:has(> [data-id="pg007_n0013"]),
+    div:has(> [data-id="pg035_n0015"]),
+    div:has(> div > [data-id="pg056_n0014"]),
+    div:has(> [data-id="pg071_n0015"]),
+    div:has(> p > [data-id="pg083_n0014"]),
+    div:has(> [data-id="pg118_n0015"])
+  ) {
+    min-height: 78px !important;
+    padding: 1rem 1rem 1rem 1.25rem !important;
+    border-right-width: 10px !important;
+  }
+}
+
 #nav-container, #nav-container *,
 #interface-container, #interface-container * {
   font-family: 'Atkinson Hyperlegible', sans-serif;
@@ -144,4 +267,447 @@ label, button, input, textarea, select {
 html, body, body * {
   font-variant-numeric: normal;
   font-feature-settings: "zero" 0;
+}
+
+/* One consistent printed-page canvas across the complete ADT. */
+html {
+  background: #d9f5f7 !important;
+}
+
+body {
+  background: #d9f5f7 !important;
+}
+
+#content {
+  position: relative;
+  width: min(100%, 54rem) !important;
+  min-height: calc(100vh - 5.5rem);
+  box-sizing: border-box;
+  background: #ffffff !important;
+  box-shadow: 0 0 34px rgba(13, 148, 163, .28) !important;
+}
+
+#content::before,
+#content::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 14px;
+  z-index: 20;
+  pointer-events: none;
+}
+
+#content::before {
+  left: 0;
+  background: linear-gradient(90deg, #65b9c2 0%, #9dd8dd 42%, rgba(217, 245, 247, .2) 100%);
+}
+
+#content::after {
+  right: 0;
+  background: linear-gradient(270deg, #65b9c2 0%, #9dd8dd 42%, rgba(217, 245, 247, .2) 100%);
+}
+
+@media (max-width: 640px) {
+  #content {
+    width: 100% !important;
+    min-height: calc(100vh - 4.75rem);
+    box-shadow: 0 0 20px rgba(13, 148, 163, .22) !important;
+  }
+
+  #content::before,
+  #content::after {
+    width: 9px;
+  }
+}
+
+/* Responsive textbook design system: presentation only; textbook content stays locked. */
+:root {
+  --book-ink: #202a32;
+  --book-muted: #52616b;
+  --book-blue: #009fe3;
+  --book-teal: #3f9ca8;
+  --book-green: #2f8733;
+  --book-rule: #9dcfd5;
+  --book-paper: #fffefd;
+  --book-soft: #eef8f9;
+  --book-space-1: .4rem;
+  --book-space-2: .75rem;
+  --book-space-3: 1.15rem;
+  --book-space-4: 1.75rem;
+}
+
+#content {
+  max-width: 56rem !important;
+  color: var(--book-ink);
+  background: var(--book-paper) !important;
+  overflow-wrap: break-word;
+}
+
+#content section:not([data-section-id="pg001_sec001"]) {
+  color: var(--book-ink);
+}
+
+#content section:not([data-section-id="pg001_sec001"]) [data-id]:not(img):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not([aria-hidden="true"]),
+#content section:not([data-section-id="pg001_sec001"]) p,
+#content section:not([data-section-id="pg001_sec001"]) li,
+#content section:not([data-section-id="pg001_sec001"]) td,
+#content section:not([data-section-id="pg001_sec001"]) th,
+#content section:not([data-section-id="pg001_sec001"]) label,
+#content section:not([data-section-id="pg001_sec001"]) input,
+#content section:not([data-section-id="pg001_sec001"]) textarea,
+#content section:not([data-section-id="pg001_sec001"]) select,
+#content section:not([data-section-id="pg001_sec001"]) button {
+  font-size: 17px !important;
+  line-height: 1.52 !important;
+}
+
+#content section:not([data-section-id="pg001_sec001"]) h1,
+#content section:not([data-section-id="pg001_sec001"]) h1[data-id] {
+  font-size: clamp(1.7rem, 3vw, 2rem) !important;
+  line-height: 1.22 !important;
+  letter-spacing: -.015em;
+}
+
+#content section:not([data-section-id="pg001_sec001"]) h2,
+#content section:not([data-section-id="pg001_sec001"]) h2[data-id] {
+  font-size: clamp(1.4rem, 2.6vw, 1.7rem) !important;
+  line-height: 1.28 !important;
+}
+
+#content section:not([data-section-id="pg001_sec001"]) h3,
+#content section:not([data-section-id="pg001_sec001"]) h3[data-id] {
+  font-size: clamp(1.2rem, 2.2vw, 1.42rem) !important;
+  line-height: 1.34 !important;
+}
+
+#content section:not([data-section-id="pg001_sec001"]) h4,
+#content section:not([data-section-id="pg001_sec001"]) h4[data-id] {
+  font-size: clamp(1.08rem, 2vw, 1.22rem) !important;
+  line-height: 1.38 !important;
+}
+
+#content section:not([data-section-id="pg001_sec001"]) p:not(.text-center),
+#content section:not([data-section-id="pg001_sec001"]) li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+#content section:not([data-section-id="pg001_sec001"]) p + p {
+  margin-top: var(--book-space-2);
+}
+
+#content section:not([data-section-id="pg001_sec001"]) img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+}
+
+#content img.hidden {
+  display: none !important;
+}
+
+#content [data-figure-caption-prefix="true"] {
+  font-weight: 700 !important;
+}
+
+#content p:has([data-figure-caption-prefix="true"]),
+#content div:has(> [data-figure-caption-prefix="true"]),
+#content span:has(> [data-figure-caption-prefix="true"]) {
+  font-size: 15.5px !important;
+  line-height: 1.4 !important;
+  color: #27343c;
+}
+
+#content .overflow-x-auto {
+  scrollbar-color: var(--book-teal) #e7f4f5;
+  scrollbar-width: thin;
+}
+
+#content table {
+  width: 100%;
+  border-color: var(--book-teal) !important;
+  background: #fff;
+}
+
+#content table th {
+  font-weight: 700;
+  color: #17333a;
+  background: #bfe7ec;
+}
+
+#content table th,
+#content table td {
+  padding: .7rem .8rem;
+  vertical-align: top;
+  border-color: var(--book-teal) !important;
+}
+
+#content input:not([type="checkbox"]):not([type="radio"]),
+#content textarea,
+#content select {
+  min-height: 2.8rem;
+  border: 1.5px solid #4ba8bd !important;
+  border-radius: .55rem;
+  background: #fff !important;
+  color: var(--book-ink);
+  padding: .58rem .7rem;
+}
+
+#content textarea {
+  min-height: 7rem;
+  line-height: 1.5 !important;
+  resize: vertical;
+}
+
+#content input:focus,
+#content textarea:focus,
+#content select:focus {
+  border-color: #036f8c !important;
+  outline: 3px solid rgba(14, 165, 233, .28) !important;
+  outline-offset: 2px;
+}
+
+#content button:not([aria-label*="audio"]):not([aria-label*="sauti"]) {
+  min-height: 2.75rem;
+}
+
+@media (max-width: 768px) {
+  #content section:not([data-section-id="pg001_sec001"]) [data-id]:not(img):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not([aria-hidden="true"]),
+  #content section:not([data-section-id="pg001_sec001"]) p,
+  #content section:not([data-section-id="pg001_sec001"]) li,
+  #content section:not([data-section-id="pg001_sec001"]) td,
+  #content section:not([data-section-id="pg001_sec001"]) th,
+  #content section:not([data-section-id="pg001_sec001"]) label,
+  #content section:not([data-section-id="pg001_sec001"]) input,
+  #content section:not([data-section-id="pg001_sec001"]) textarea,
+  #content section:not([data-section-id="pg001_sec001"]) select,
+  #content section:not([data-section-id="pg001_sec001"]) button {
+    font-size: 16px !important;
+    line-height: 1.5 !important;
+  }
+
+  #content table {
+    min-width: 42rem;
+  }
+
+  #content table th,
+  #content table td {
+    padding: .6rem .65rem;
+  }
+}
+
+@media (max-width: 480px) {
+  #content section:not([data-section-id="pg001_sec001"]) p:not(.text-center),
+  #content section:not([data-section-id="pg001_sec001"]) li {
+    text-align: left;
+  }
+
+  #content p:has([data-figure-caption-prefix="true"]),
+  #content div:has(> [data-figure-caption-prefix="true"]),
+  #content span:has(> [data-figure-caption-prefix="true"]) {
+    font-size: 14px !important;
+  }
+}
+
+/* Consistent compact Fikiri callouts throughout the textbook. */
+#content div:has(> :is(
+  [data-id="pg007_im004"], [data-id="pg035_im004"], [data-id="pg056_im004"],
+  [data-id="pg071_im004"], [data-id="pg083_im001"], [data-id="pg118_im004"]
+)) {
+  width: 94px !important;
+  height: 94px !important;
+  flex: 0 0 94px !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  border: 4px solid #43a34d !important;
+  border-radius: 9999px !important;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .2) !important;
+}
+
+#content :is(
+  [data-id="pg007_im004"], [data-id="pg035_im004"], [data-id="pg056_im004"],
+  [data-id="pg071_im004"], [data-id="pg118_im004"]
+) {
+  display: block !important;
+  width: 440px !important;
+  min-width: 440px !important;
+  max-width: none !important;
+  height: 94px !important;
+  object-fit: fill !important;
+}
+
+#content [data-id="pg083_im001"] {
+  width: 86px !important;
+  min-width: 86px !important;
+  max-width: 86px !important;
+  height: 86px !important;
+  object-fit: contain !important;
+}
+
+#content :is(
+  [data-id="pg007_n0013"], [data-id="pg035_n0015"], [data-id="pg056_n0014"],
+  [data-id="pg071_n0015"], [data-id="pg083_n0014"], [data-id="pg118_n0015"]
+) {
+  font-size: 1.15rem !important;
+  line-height: 1.2 !important;
+}
+
+#content div:has(> :is(
+  [data-id="pg007_n0013"], [data-id="pg035_n0015"], [data-id="pg056_n0014"],
+  [data-id="pg071_n0015"], [data-id="pg118_n0015"]
+)) {
+  min-height: 94px !important;
+  gap: .7rem !important;
+  padding-top: .75rem !important;
+  padding-bottom: .75rem !important;
+}
+
+#content div:has(> p > [data-id="pg083_n0014"]) {
+  min-height: 94px !important;
+  padding-top: .75rem !important;
+  padding-bottom: .75rem !important;
+}
+
+@media (max-width: 640px) {
+  #content div:has(> :is(
+    [data-id="pg007_im004"], [data-id="pg035_im004"], [data-id="pg056_im004"],
+    [data-id="pg071_im004"], [data-id="pg083_im001"], [data-id="pg118_im004"]
+  )) {
+    width: 78px !important;
+    height: 78px !important;
+    flex-basis: 78px !important;
+  }
+
+  #content :is(
+    [data-id="pg007_im004"], [data-id="pg035_im004"], [data-id="pg056_im004"],
+    [data-id="pg071_im004"], [data-id="pg118_im004"]
+  ) {
+    width: 365px !important;
+    min-width: 365px !important;
+    height: 78px !important;
+  }
+
+  #content [data-id="pg083_im001"] {
+    width: 70px !important;
+    min-width: 70px !important;
+    max-width: 70px !important;
+    height: 70px !important;
+  }
+}
+
+/* Keep the page 56 nested text row from adding a second panel height. */
+html body #content div:has(> [data-id="pg056_n0014"]) {
+  min-height: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+html body #content div:has(> div > [data-id="pg056_n0014"]) {
+  min-height: 94px !important;
+  padding: .75rem 1.5rem .75rem 2.5rem !important;
+  border: 0 !important;
+  border-right: 18px solid #22d3ee !important;
+  border-radius: 0 !important;
+  background: #0ea5e9 !important;
+}
+
+/* Page 84 uses the same wide Fikiri sprite; crop it like every other page. */
+html body #content [data-id="pg083_im001"] {
+  display: block !important;
+  width: 440px !important;
+  min-width: 440px !important;
+  max-width: none !important;
+  height: 94px !important;
+  object-fit: fill !important;
+  transform: translateX(-1px) !important;
+}
+
+@media (max-width: 640px) {
+  html body #content [data-id="pg083_im001"] {
+    width: 365px !important;
+    min-width: 365px !important;
+    max-width: none !important;
+    height: 78px !important;
+  }
+}
+
+/* Production heading scale: one hierarchy on every reading page. */
+html body #content#content h1 {
+  font-size: 32px !important;
+  line-height: 1.22 !important;
+  font-weight: 700 !important;
+  letter-spacing: -.012em !important;
+}
+
+html body #content#content h2 {
+  font-size: 28px !important;
+  line-height: 1.28 !important;
+  font-weight: 700 !important;
+}
+
+html body #content#content h3 {
+  font-size: 24px !important;
+  line-height: 1.34 !important;
+  font-weight: 700 !important;
+}
+
+html body #content#content h4,
+html body #content#content h5,
+html body #content#content h6 {
+  font-size: 21px !important;
+  line-height: 1.38 !important;
+  font-weight: 700 !important;
+}
+
+/* Converted pages sometimes use div/span elements as visual headings. */
+html body #content#content :is(.font-bold,.font-semibold).text-5xl {
+  font-size: 32px !important;
+  line-height: 1.22 !important;
+}
+
+html body #content#content :is(.font-bold,.font-semibold).text-4xl {
+  font-size: 28px !important;
+  line-height: 1.28 !important;
+}
+
+html body #content#content :is(.font-bold,.font-semibold).text-3xl {
+  font-size: 24px !important;
+  line-height: 1.34 !important;
+}
+
+html body #content#content :is(.font-bold,.font-semibold).text-2xl {
+  font-size: 21px !important;
+  line-height: 1.38 !important;
+}
+
+@media (max-width: 640px) {
+  html body #content#content h1,
+  html body #content#content :is(.font-bold,.font-semibold).text-5xl {
+    font-size: 28px !important;
+  }
+  html body #content#content h2,
+  html body #content#content :is(.font-bold,.font-semibold).text-4xl {
+    font-size: 25px !important;
+  }
+  html body #content#content h3,
+  html body #content#content :is(.font-bold,.font-semibold).text-3xl {
+    font-size: 22px !important;
+  }
+  html body #content#content :is(h4,h5,h6),
+  html body #content#content :is(.font-bold,.font-semibold).text-2xl {
+    font-size: 20px !important;
+  }
+}
+
+/* Fikiri is a compact callout label, not a page heading. */
+html body #content#content#content :is(
+  [data-id="pg007_n0013"], [data-id="pg035_n0015"], [data-id="pg056_n0014"],
+  [data-id="pg071_n0015"], [data-id="pg083_n0014"], [data-id="pg118_n0015"]
+) {
+  font-size: 1.15rem !important;
+  line-height: 1.2 !important;
 }

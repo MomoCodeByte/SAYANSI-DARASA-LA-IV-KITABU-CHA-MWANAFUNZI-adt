@@ -148,6 +148,21 @@ lucide-react/dist/esm/lucide-react.js:
    * @license lucide-react v0.469.0 - ISC
    *
    * This source code is licensed under the ISC license.
-   * See the LICENSE file in the root directory of this source tree.
-   *)
+ * See the LICENSE file in the root directory of this source tree.
+ *)
 */
+
+/* Multi-panel figures already speak their full A/B descriptions through the
+ * hidden image-description nodes. Remove the immediately repeated visible
+ * (a)/(b) label from the audio queue while leaving it visible on the page. */
+(()=>{document.addEventListener("DOMContentLoaded",()=>{const e=()=>{document.querySelectorAll(".image-audio-description[data-id]").forEach(t=>{let o=t.nextElementSibling;for(;o&&!o.hasAttribute("data-id");)o=o.querySelector("[data-id]")||o.nextElementSibling;o&&/^\s*\([a-z]\)\s+/i.test(o.textContent||"")&&o.removeAttribute("data-id")})};e(),new MutationObserver(e).observe(document.getElementById("content")||document.body,{subtree:!0,childList:!0})})})();
+
+/* In the read-aloud order, introduce each illustration with its printed
+ * caption, then play the hidden detailed image description. The visible page
+ * layout is unchanged. Multi-panel descriptions retain their A-then-B order. */
+(()=>{document.addEventListener("DOMContentLoaded",()=>{const e=()=>{const t=Array.from(document.querySelectorAll("#content [data-id]")),o=new Map;t.forEach((n,a)=>{if(!n.classList.contains("image-audio-description")||n.dataset.captionFirstOrdered)return;let r=null;for(let i=a+1;i<Math.min(t.length,a+24);i++){const s=(t[i].textContent||"").trim();if(/^Kielelezo\s+namba\s+\d+(?:\s*\([^)]+\))?\s*:/i.test(s)){r=t[i];break}if(t[i].classList.contains("image-audio-description")&&i>a+8)break}r&&(o.has(r)||o.set(r,[]),o.get(r).push(n))}),o.forEach((n,a)=>{let r=a;n.forEach(i=>{r.after(i),i.dataset.captionFirstOrdered="true",r=i})})};e(),new MutationObserver(e).observe(document.getElementById("content")||document.body,{subtree:!0,childList:!0})})})();
+
+/* Keep only the figure-caption prefix bold after language resources replace
+ * data-id element contents. The observer is idempotent and does not alter
+ * narrative references to figures. */
+(()=>{const e=/^(Kielelezo\s+namba\s+\d+(?:\s*\([^)]+\))?\s*:)/i,t=n=>{if(!(n instanceof Element)||n.querySelector(":scope > strong[data-figure-caption-prefix='true']"))return;const r=n.textContent||"",o=r.match(e);if(!o)return;const i=document.createElement("strong");i.dataset.figureCaptionPrefix="true",i.textContent=o[1],n.replaceChildren(i,document.createTextNode(r.slice(o[1].length)))};document.addEventListener("DOMContentLoaded",()=>{const n=document.getElementById("content")||document.body,a=()=>n.querySelectorAll("[data-id]").forEach(t);a(),new MutationObserver(a).observe(n,{subtree:!0,childList:!0,characterData:!0})})})();

@@ -12,7 +12,7 @@ def main():
     parser.add_argument("ids_file")
     parser.add_argument("version")
     args = parser.parse_args()
-    ids = set(json.loads((ROOT / args.ids_file).read_text(encoding="utf-8")))
+    ids = set(json.loads((ROOT / args.ids_file).read_text(encoding="utf-8-sig")))
     audios = json.loads(AUDIO_PATH.read_text(encoding="utf-8"))
     changed = 0
     for text_id in ids:

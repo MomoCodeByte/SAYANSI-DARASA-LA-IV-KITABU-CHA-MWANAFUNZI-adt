@@ -9,13 +9,42 @@
     <meta name="page-section-id" content="106">
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
-    <link href="./assets/fonts.css?v=flow-67" rel="stylesheet">
+    <link href="./assets/fonts.css?v=production-headings-134" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&amp;display=swap" rel="stylesheet">
 
     <style>
       body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select { font-family: 'Atkinson Hyperlegible','Merriweather',sans-serif; }
+      /* Keep Jedwali namba 4 faithful to the original two-column layout. */
+      #content div:has(> [data-id="pg105_n0036"]) {
+        grid-template-columns: 1fr 1fr !important;
+      }
+      #content [data-id="pg105_n0036"],
+      #content [data-id="pg105_n0038"] {
+        padding: .35rem .45rem !important;
+        font-size: 1rem !important;
+        line-height: 1.25 !important;
+      }
+      #content div:has(> [data-id="pg105_im001"]) {
+        padding: .45rem !important;
+        border-right: 2px solid rgb(56 189 248) !important;
+        border-bottom: 0 !important;
+      }
+      #content [data-id="pg105_im001"] {
+        width: 100% !important;
+        max-width: 190px !important;
+        height: 102px !important;
+        object-fit: contain !important;
+      }
+      #content div:has(> [data-id="pg105_n0042"]) {
+        padding: .45rem !important;
+        font-size: 1rem !important;
+        line-height: 1.35 !important;
+      }
+      #content div:has(> div > [data-id="pg105_n0036"]) {
+        border-radius: 0 !important;
+      }
     </style></head>
 
 <body class="min-h-screen flex items-center justify-center">
@@ -79,10 +108,10 @@
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=voice-sequence-stable-61"></script>
+    <script src="./assets/offline-preloader.js?v=page-frame-94"></script>
     <script src="./assets/scorm.js"></script>
-    <script src="./assets/base.bundle.local.js?v=voice-sequence-stable-61"></script>
-    <script src="./assets/matrix-accessibility.js?v=voice-sequence-stable-61" defer></script>
+    <script src="./assets/base.bundle.local.js?v=page-frame-94"></script>
+    <script src="./assets/matrix-accessibility.js?v=page-frame-94" defer></script>
 </body>
 
 </html>

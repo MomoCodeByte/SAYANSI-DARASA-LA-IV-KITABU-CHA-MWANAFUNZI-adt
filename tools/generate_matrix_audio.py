@@ -28,8 +28,8 @@ TENS = {10:"kumi",20:"ishirini",30:"thelathini",40:"arobaini",50:"hamsini",60:"s
 ROMAN_VALUES = {"I":1,"V":5,"X":10,"L":50,"C":100,"D":500,"M":1000}
 PRONUNCIATION_OVERRIDES = {
     "VVU": "vivi u", "UKIMWI": "ukimwi", "ISBN": "ai es bi en",
-    "TET": "te e te", "DUCE": "dyu si i", "UDOM": "yu dom",
-    "SUA": "sua", "MU": "em yu",
+    "TET": "teti", "DUCE": "duse", "UDOM": "yudomu",
+    "SUA": "suaa", "MOTCO": "motiko", "MU": "Muu",
     "maziwa": "ma-ziwa", "njegere": "nje-ge-re", "matumizi": "ma-tu-mi-zi",
     "bidhaa": "bi-dhaa", "msamiati": "m-sa-mi-a-ti",
     "Quorum": "Kuramu", "quorum": "Kuramu", "au": "auu",
@@ -64,32 +64,44 @@ def roman_to_int(token: str) -> int | None:
 
 def spoken(text: str) -> tuple[str, list[int]]:
     original_display = re.findall(r"\S+", text)
+    text = re.sub(r"(?i)(?<!\w)S\.L\.P\.?(?!\w)", "esielopi", text)
+    text = re.sub(r"(?i)(?<!\w)www(?!\w)", "dabiliyu dabiliyu dabiliyu", text)
+    text = re.sub(r"(?i)(?<!\w)tz(?!\w)", "Tanzania", text)
     # Standalone lower-case Roman numerals are used in the front-matter TOC.
     # Expand them for Rehema while preserving the printed form on the page.
     standalone_roman = text.strip().upper()
     if text.strip().islower() and re.fullmatch(r"[IVXLCDM]+", standalone_roman):
         text = number_sw(roman_to_int(standalone_roman) or 0)
-    text = text.replace("©", "Hakimiliki ")
+    text = text.replace("©", "atimiliki ")
+    text = text.replace("+", " jumlisha ")
+    text = re.sub(r"(?i)\bdirector\b", "dairecta", text)
+    text = re.sub(r"(?i)\bgeneral\b", "jenerali", text)
     text = text.replace("√", " alama ya tiki ")
     text = re.sub(r"(?i)\bmbalimbali\b", "mbali mbali", text)
     text = re.sub(r"(?i)\bCity\s+Bus\b", "siti basi", text)
     text = re.sub(r"(?i)\bcar\b", "kaa", text)
+    text = re.sub(r"(?i)\bPicha\s+C\b", "picha sii", text)
+    text = re.sub(r"(?i)\bPicha\s+D\b", "picha dii", text)
+    text = re.sub(r"(?i)\bPicha\s+E\b", "picha iii", text)
+    text = re.sub(r"(?i)^\(c\)\s+(?=Jiko\s+la\s+mkaa)", "picha sii ", text)
+    text = re.sub(r"(?i)^\(d\)\s+(?=Jiko\s+la\s+umeme)", "picha dii ", text)
+    text = re.sub(r"(?i)^\(e\)\s+(?=Jiko\s+la\s+gesi)", "picha iii ", text)
     text = re.sub(r"(?i)\bhttps\b", "echititipi", text)
     text = re.sub(r"(?i)\bJPEG\s+picture\b", "jipieji picha", text)
     text = re.sub(r"(?i)\bPNG\s+picture\b", "pieniji picha", text)
     text = re.sub(r"(?i)\bBMP\s+picture\b", "biempi picha", text)
     text = re.sub(r"(?i)\bPNG\b", "piendiji", text)
     text = re.sub(r"(?i)\bBMP\b", "bempi", text)
-    text = re.sub(r"(?i)\bShape\b", "shapu", text)
+    text = re.sub(r"(?i)\bShape\b", "shepu", text)
     text = re.sub(r"(?i)\bPurple\b", "papo", text)
     text = re.sub(r"(?i)\bRose\b", "rozi", text)
     text = re.sub(r"(?i)\bRectangle\b", "rectango", text)
     text = re.sub(
         r"(?i)\bSave\s+as\b",
-        "savu azi",
+        "sevuu azi",
         text,
     )
-    text = re.sub(r"(?i)\bSave\b", "savu", text)
+    text = re.sub(r"(?i)\bSave\b", "sevuu", text)
     text = re.sub(r"(?i)\bDesktop\b", "desikitop", text)
     text = re.sub(
         r"(?i)\bRight\s+angled\s+triangle\b",
