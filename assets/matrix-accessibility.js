@@ -39,9 +39,91 @@
     "#content section h1,#content section h2,#content section h3,#content section h4,#content section h5,#content section h6,#content section .text-center{font-family:'Atkinson Hyperlegible',sans-serif!important}",
     "#content section h1.text-center,#content section h2.text-center,#content section h3.text-center,#content section h4.text-center,#content section .text-center{text-align:center!important}",
     "#content section .text-right{text-align:right!important}",
-    "#content section textarea,#content section input,#content section select,#content section button{font-family:'Atkinson Hyperlegible',sans-serif!important}"
+    "#content section textarea,#content section input,#content section select,#content section button{font-family:'Atkinson Hyperlegible',sans-serif!important}",
+    "html.matrix-content-page #content section h1{font-size:28px!important;line-height:1.25!important}",
+    "html.matrix-content-page #content section h2{font-size:25px!important;line-height:1.28!important}",
+    "html.matrix-content-page #content section h3{font-size:22px!important;line-height:1.3!important}",
+    "html.matrix-content-page #content section h4,html.matrix-content-page #content section h5,html.matrix-content-page #content section h6{font-size:19px!important;line-height:1.35!important}",
+    "html.matrix-content-page #content section p,html.matrix-content-page #content section li{font-size:17px!important;line-height:1.55!important}",
+    "html.matrix-content-page #content section td,html.matrix-content-page #content section th{font-size:16px!important;line-height:1.45!important}",
+    "html.matrix-content-page #content section textarea,html.matrix-content-page #content section input,html.matrix-content-page #content section select,html.matrix-content-page #content section button{font-size:16px!important;line-height:1.4!important}",
+    "html.matrix-content-page #content .matrix-work-title{font-size:24px!important;line-height:1.3!important;font-weight:400!important}",
+    "html.matrix-content-page #content .matrix-work-title .matrix-work-title-prefix{font-weight:700!important}",
+    "html.matrix-content-page #content .matrix-section-heading{font-size:21px!important;line-height:1.35!important;font-weight:700!important}",
+    "html.matrix-content-page #content .matrix-figure-caption{font-size:16px!important;line-height:1.45!important;font-weight:400!important;text-align:center!important}",
+    "html.matrix-content-page #content .matrix-figure-caption strong[data-figure-caption-prefix]{font-weight:700!important}",
+    "@media(max-width:640px){html.matrix-content-page #content section h1{font-size:22px!important}html.matrix-content-page #content section h2{font-size:20px!important}html.matrix-content-page #content section h3{font-size:18px!important}html.matrix-content-page #content section h4,html.matrix-content-page #content section h5,html.matrix-content-page #content section h6{font-size:17px!important}html.matrix-content-page #content section p,html.matrix-content-page #content section li{font-size:16px!important}html.matrix-content-page #content .matrix-work-title{font-size:19px!important}html.matrix-content-page #content .matrix-section-heading{font-size:18px!important}html.matrix-content-page #content .matrix-figure-caption{font-size:15px!important}}"
   ].join("");
   document.head.appendChild(bookTypography);
+  var contentPageMatch = location.pathname.match(/pg(\d{3})_sec\d+\.html$/i);
+  if (contentPageMatch && Number(contentPageMatch[1]) >= 5) {
+    document.documentElement.classList.add("matrix-content-page");
+  }
+  function boldWorkTitlePrefix() {
+    document.querySelectorAll("[data-id]").forEach(function (node) {
+      var text = (node.textContent || "").trim();
+      var match = text.match(/^(Kazi ya kufanya namba\s+\d+:)\s+(.+)$/i);
+      if (!match || node.querySelector(".matrix-work-title-prefix")) return;
+      node.classList.add("matrix-work-title");
+      node.textContent = "";
+      node.style.fontWeight = "400";
+      var prefix = document.createElement("strong");
+      prefix.className = "matrix-work-title-prefix";
+      prefix.style.fontWeight = "700";
+      prefix.textContent = match[1];
+      node.appendChild(prefix);
+      node.appendChild(document.createTextNode(" " + match[2]));
+    });
+  }
+  function normalizeSemanticTypography() {
+    document.querySelectorAll("[data-id]").forEach(function (node) {
+      var captionText = (node.textContent || "").trim();
+      var captionMatch = captionText.match(/^((?:Kielelezo|Jedwali|Picha) namba\s+[^:.\n]+[:.])\s*(.*)$/i);
+      if (!captionMatch) return;
+      node.classList.add("matrix-figure-caption");
+      if (!node.querySelector("strong[data-figure-caption-prefix]") && captionMatch[2]) {
+        node.textContent = "";
+        var captionPrefix = document.createElement("strong");
+        captionPrefix.dataset.figureCaptionPrefix = "true";
+        captionPrefix.textContent = captionMatch[1];
+        node.appendChild(captionPrefix);
+        node.appendChild(document.createTextNode(" " + captionMatch[2]));
+      }
+    });
+    document.querySelectorAll("strong[data-figure-caption-prefix]").forEach(function (prefix) {
+      var caption = prefix.closest("p,figcaption") || prefix.parentElement;
+      if (caption) caption.classList.add("matrix-figure-caption");
+    });
+    document.querySelectorAll("[data-id]").forEach(function (node) {
+      var text = (node.textContent || "").trim();
+      if (/^(Hatua|Mahitaji|Matokeo|Hitimisho|Tahadhari|Maswali?|Sehemu\s+[A-D])[:.]?$/i.test(text)) {
+        node.classList.add("matrix-section-heading");
+      }
+    });
+    var mobileHeadingSizes = { H1: "22px", H2: "20px", H3: "18px", H4: "17px", H5: "17px", H6: "17px" };
+    var desktopHeadingSizes = { H1: "28px", H2: "25px", H3: "22px", H4: "19px", H5: "19px", H6: "19px" };
+    var headingSizes = window.matchMedia("(max-width:640px)").matches ? mobileHeadingSizes : desktopHeadingSizes;
+    document.querySelectorAll("#content h1,#content h2,#content h3,#content h4,#content h5,#content h6").forEach(function (heading) {
+      if (heading.querySelector(".matrix-work-title")) heading.classList.add("matrix-work-title");
+      if (heading.querySelector(".matrix-section-heading")) heading.classList.add("matrix-section-heading");
+      var size = headingSizes[heading.tagName] || headingSizes.H4;
+      if (heading.classList.contains("matrix-work-title")) size = window.matchMedia("(max-width:640px)").matches ? "19px" : "24px";
+      if (heading.classList.contains("matrix-section-heading")) size = window.matchMedia("(max-width:640px)").matches ? "18px" : "21px";
+      heading.style.setProperty("font-size", size, "important");
+      heading.style.setProperty("line-height", "1.3", "important");
+    });
+  }
+  boldWorkTitlePrefix();
+  normalizeSemanticTypography();
+  new MutationObserver(function () {
+    boldWorkTitlePrefix();
+    normalizeSemanticTypography();
+  }).observe(document.documentElement, {
+    childList: true,
+    characterData: true,
+    subtree: true
+  });
+  window.addEventListener("resize", normalizeSemanticTypography);
   function pageName() {
     var name = location.pathname.split("/").pop() || "index.html";
     return name === "index.html" ? "index.html" : name;

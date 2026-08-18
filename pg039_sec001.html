@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Sayansi: Kitabu cha Mwanafunzi, Darasa la Nne</title>
     <meta name="title-id" content="pg039_sec001">
-    <meta name="page-section-id" content="39">
+    <meta name="page-section-id" content="38">
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
-    <link href="./assets/fonts.css?v=production-headings-134" rel="stylesheet">
+    <link href="./assets/fonts.css?v=matrix-16082026-final" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&amp;display=swap" rel="stylesheet">
@@ -20,8 +20,12 @@
       .cholera-figure-labels .figure-art { position: absolute; left: 22%; top: 0; width: 56%; }
       .cholera-figure-labels .figure-label { position: absolute; width: 22%; font-size: 24px; line-height: 1.45; text-align: left !important; text-align-last: left; word-spacing: normal; }
       .cholera-figure-labels .label-fly { left: 0; top: 2%; }
-      .cholera-figure-labels .label-stool { left: 0; top: 65%; }
+      .cholera-figure-labels .label-stool { left: 0; top: 52%; }
       .cholera-figure-labels .label-person { right: 0; top: 38%; }
+      .cholera-label-line { position: absolute; z-index: 2; height: 2px; background: #4b5563; transform-origin: center; }
+      .cholera-label-line.fly { left: 20.5%; top: 22%; width: 10%; transform: rotate(27deg); }
+      .cholera-label-line.stool { left: 20.5%; top: 60%; width: 10%; }
+      .cholera-label-line.person { right: 20.5%; top: 50%; width: 10%; }
       @media (max-width: 768px) {
         .cholera-figure-labels .figure-label { font-size: 17px; line-height: 1.32; }
       }
@@ -33,6 +37,7 @@
         .cholera-figure-labels .label-fly { order: 1; }
         .cholera-figure-labels .label-stool { order: 3; }
         .cholera-figure-labels .label-person { order: 4; }
+        .cholera-label-line { display: none; }
       }
     </style></head>
 
@@ -48,14 +53,13 @@
         <span data-id="pg039_n0002">na nzi.</span> <span data-id="pg039_n0003">Nzi anaweza kubeba vimelea kutoka kwenye matapishi au kinyesi chenye vimelea kwenda kwenye chakula au maji.</span> <span data-id="pg039_n0004">Kielelezo namba 2 kinaonesha uenezwaji wa ugonjwa wa kipindupindu.</span>
  </p>
 
-      <div class="cholera-figure-labels mt-8 mb-6" style="position:relative;width:100%;aspect-ratio:686/487;">
-        <div class="figure-label label-fly" data-id="pg039_n0006" style="position:absolute;left:0;top:2%;width:22%;font-size:24px;line-height:1.45;text-align:left;">Nzi aliyebeba vimelea vya ugonjwa akielekea kwenye chakula</div>
-        <div class="figure-label label-stool" data-id="pg039_n0007" style="position:absolute;left:0;top:65%;width:22%;font-size:24px;line-height:1.45;text-align:left;">Kinyesi chenye vimelea vya ugonjwa wa kipindupindu</div>
-        <div class="figure-art flex flex-col items-center justify-center" style="position:absolute;left:22%;top:0;width:56%;">
-          <img data-id="pg039_im001" src="images/pg039_im001.jpg" alt="Uenezaji wa kipindupindu: nzi hubeba vijidudu kutoka kwenye kinyesi na kuvileta kwenye chakula. Mtu akila chakula hicho huambukizwa na kuugua." class="relative z-0 mx-auto max-w-full w-[520px] max-lg:w-[320px] max-sm:w-full max-sm:max-w-[360px]" style="max-width: 100%; height: auto;">
- <span data-id="pg039_im001_audio_desc" class="sr-only image-audio-description">Maelezo ya picha: Uenezaji wa kipindupindu: nzi hubeba vijidudu kutoka kwenye kinyesi na kuvileta kwenye chakula. Mtu akila chakula hicho huambukizwa na kuugua.</span></div>
-        <div class="figure-label label-person" data-id="pg039_n0008" style="position:absolute;right:0;top:38%;width:22%;font-size:24px;line-height:1.45;text-align:left;">Mtu aliyeambukizwa ugonjwa wa kipindupindu</div>
-      </div>
+      <figure class="mx-auto mt-8 mb-6 w-[760px] max-w-full">
+        <img data-id="pg039_im001" src="images/pg039_im001_labeled.png" alt="Uenezaji wa kipindupindu: nzi hubeba vimelea kutoka kwenye kinyesi na kuvileta kwenye chakula; mtu akila chakula hicho huambukizwa kipindupindu." class="mx-auto block h-auto w-full max-w-full">
+        <span data-id="pg039_n0006" class="sr-only">Nzi aliyebeba vimelea vya ugonjwa akielekea kwenye chakula</span>
+        <span data-id="pg039_n0007" class="sr-only">Kinyesi chenye vimelea vya ugonjwa wa kipindupindu</span>
+        <span data-id="pg039_n0008" class="sr-only">Mtu aliyeambukizwa ugonjwa wa kipindupindu</span>
+        <span data-id="pg039_im001_audio_desc" class="sr-only image-audio-description">Maelezo ya picha: Uenezaji wa kipindupindu: nzi hubeba vijidudu kutoka kwenye kinyesi na kuvileta kwenye chakula. Mtu akila chakula hicho huambukizwa na kuugua.</span>
+      </figure>
       <div class="mt-3 text-center text-[24px] italic leading-[1.2] text-neutral-800 max-lg:text-[21px] max-sm:text-[17px]">
         <div data-id="pg039_n0009"><strong data-figure-caption-prefix="true">Kielelezo namba 2:</strong> uenezwaji wa ugonjwa wa kipindupindu.</div>
  </div>
@@ -97,10 +101,10 @@
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=page-frame-94"></script>
+    <script src="./assets/offline-preloader.js?v=matrix-16082026-final"></script>
     <script src="./assets/scorm.js"></script>
-    <script src="./assets/base.bundle.local.js?v=multi-panel-audio-135"></script>
-    <script src="./assets/matrix-accessibility.js?v=page-frame-94" defer></script>
+    <script src="./assets/base.bundle.local.js?v=matrix-16082026-final"></script>
+    <script src="./assets/matrix-accessibility.js?v=heading-consistency-v9" defer></script>
 </body>
 
 </html>

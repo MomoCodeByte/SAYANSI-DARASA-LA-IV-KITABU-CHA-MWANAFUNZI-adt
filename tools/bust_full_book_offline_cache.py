@@ -6,7 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 pages = json.loads((ROOT / "content/pages.json").read_text(encoding="utf-8-sig"))
-CACHE_VERSION = "page-frame-94"
+CACHE_VERSION = "matrix-16082026-final"
 updated = 0
 reading_paths = [ROOT / entry["href"] for entry in pages]
 reading_paths.extend(sorted(ROOT.glob("pg*_sec*.html")))

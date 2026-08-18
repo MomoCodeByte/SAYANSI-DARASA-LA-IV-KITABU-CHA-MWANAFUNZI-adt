@@ -1,7 +1,7 @@
 {
   "scope": "canonical full book",
-  "page_files": 167,
-  "unique_files": 167,
+  "page_files": 168,
+  "unique_files": 168,
   "missing_images": 0,
   "interactive_pages": 79,
   "qa_issues": [],
@@ -146,7 +146,7 @@
       "converted_page": 18,
       "file": "pg019_sec001.html",
       "source_page_number": 13,
-      "images": 1,
+      "images": 0,
       "missing_images": [],
       "interactive": true
     },
@@ -346,7 +346,7 @@
       "converted_page": 43,
       "file": "pg043_sec001.html",
       "source_page_number": 37,
-      "images": 8,
+      "images": 1,
       "missing_images": [],
       "interactive": false
     },
@@ -624,6 +624,14 @@
     },
     {
       "converted_page": 78,
+      "file": "pg077_sec001.html",
+      "source_page_number": 71,
+      "images": 0,
+      "missing_images": [],
+      "interactive": false
+    },
+    {
+      "converted_page": 79,
       "file": "pg078_sec001.html",
       "source_page_number": 72,
       "images": 2,
@@ -631,7 +639,7 @@
       "interactive": false
     },
     {
-      "converted_page": 79,
+      "converted_page": 80,
       "file": "pg079_sec001.html",
       "source_page_number": 73,
       "images": 2,
@@ -639,7 +647,7 @@
       "interactive": false
     },
     {
-      "converted_page": 80,
+      "converted_page": 81,
       "file": "pg080_sec001.html",
       "source_page_number": 74,
       "images": 0,
@@ -647,7 +655,7 @@
       "interactive": false
     },
     {
-      "converted_page": 81,
+      "converted_page": 82,
       "file": "pg081_sec001.html",
       "source_page_number": 75,
       "images": 0,
@@ -655,7 +663,7 @@
       "interactive": true
     },
     {
-      "converted_page": 82,
+      "converted_page": 83,
       "file": "pg082_sec001.html",
       "source_page_number": 76,
       "images": 0,
@@ -663,7 +671,7 @@
       "interactive": true
     },
     {
-      "converted_page": 83,
+      "converted_page": 84,
       "file": "pg083_sec001.html",
       "source_page_number": 77,
       "images": 1,
@@ -671,7 +679,7 @@
       "interactive": false
     },
     {
-      "converted_page": 84,
+      "converted_page": 85,
       "file": "pg084_sec001.html",
       "source_page_number": 78,
       "images": 5,
@@ -679,7 +687,7 @@
       "interactive": false
     },
     {
-      "converted_page": 85,
+      "converted_page": 86,
       "file": "pg085_sec001.html",
       "source_page_number": 79,
       "images": 0,
@@ -687,15 +695,15 @@
       "interactive": true
     },
     {
-      "converted_page": 86,
+      "converted_page": 87,
       "file": "pg086_sec001.html",
       "source_page_number": 80,
-      "images": 3,
+      "images": 1,
       "missing_images": [],
       "interactive": true
     },
     {
-      "converted_page": 87,
+      "converted_page": 88,
       "file": "pg087_sec001.html",
       "source_page_number": 81,
       "images": 0,
@@ -703,7 +711,7 @@
       "interactive": true
     },
     {
-      "converted_page": 88,
+      "converted_page": 89,
       "file": "pg088_sec001.html",
       "source_page_number": 82,
       "images": 0,
@@ -711,7 +719,7 @@
       "interactive": false
     },
     {
-      "converted_page": 89,
+      "converted_page": 90,
       "file": "pg089_sec001.html",
       "source_page_number": 83,
       "images": 3,
@@ -719,7 +727,7 @@
       "interactive": true
     },
     {
-      "converted_page": 90,
+      "converted_page": 91,
       "file": "pg090_sec001.html",
       "source_page_number": 84,
       "images": 0,
@@ -727,7 +735,7 @@
       "interactive": false
     },
     {
-      "converted_page": 91,
+      "converted_page": 92,
       "file": "pg091_sec001.html",
       "source_page_number": 85,
       "images": 1,
@@ -735,7 +743,7 @@
       "interactive": false
     },
     {
-      "converted_page": 92,
+      "converted_page": 93,
       "file": "pg092_sec001.html",
       "source_page_number": 86,
       "images": 2,
@@ -743,7 +751,7 @@
       "interactive": false
     },
     {
-      "converted_page": 93,
+      "converted_page": 94,
       "file": "pg093_sec001.html",
       "source_page_number": 87,
       "images": 4,
@@ -751,7 +759,7 @@
       "interactive": true
     },
     {
-      "converted_page": 94,
+      "converted_page": 95,
       "file": "pg094_sec001.html",
       "source_page_number": 88,
       "images": 4,
@@ -759,7 +767,7 @@
       "interactive": true
     },
     {
-      "converted_page": 95,
+      "converted_page": 96,
       "file": "pg095_sec001.html",
       "source_page_number": 89,
       "images": 1,
@@ -767,7 +775,7 @@
       "interactive": true
     },
     {
-      "converted_page": 96,
+      "converted_page": 97,
       "file": "pg096_sec001.html",
       "source_page_number": 90,
       "images": 6,
@@ -775,7 +783,7 @@
       "interactive": true
     },
     {
-      "converted_page": 97,
+      "converted_page": 98,
       "file": "pg097_sec001.html",
       "source_page_number": 91,
       "images": 0,
@@ -783,7 +791,7 @@
       "interactive": false
     },
     {
-      "converted_page": 98,
+      "converted_page": 99,
       "file": "pg098_sec001.html",
       "source_page_number": 92,
       "images": 0,
@@ -791,7 +799,7 @@
       "interactive": true
     },
     {
-      "converted_page": 99,
+      "converted_page": 100,
       "file": "pg099_sec001.html",
       "source_page_number": 93,
       "images": 1,
@@ -799,7 +807,7 @@
       "interactive": true
     },
     {
-      "converted_page": 100,
+      "converted_page": 101,
       "file": "pg100_sec001.html",
       "source_page_number": 94,
       "images": 1,
@@ -807,7 +815,7 @@
       "interactive": true
     },
     {
-      "converted_page": 101,
+      "converted_page": 102,
       "file": "pg101_sec001.html",
       "source_page_number": 95,
       "images": 1,
@@ -815,7 +823,7 @@
       "interactive": true
     },
     {
-      "converted_page": 102,
+      "converted_page": 103,
       "file": "pg102_sec001.html",
       "source_page_number": 96,
       "images": 2,
@@ -823,7 +831,7 @@
       "interactive": true
     },
     {
-      "converted_page": 103,
+      "converted_page": 104,
       "file": "pg103_sec001.html",
       "source_page_number": 97,
       "images": 1,
@@ -831,7 +839,7 @@
       "interactive": true
     },
     {
-      "converted_page": 104,
+      "converted_page": 105,
       "file": "pg104_sec001.html",
       "source_page_number": 98,
       "images": 1,
@@ -839,7 +847,7 @@
       "interactive": false
     },
     {
-      "converted_page": 105,
+      "converted_page": 106,
       "file": "pg105_sec001.html",
       "source_page_number": 99,
       "images": 1,
@@ -847,7 +855,7 @@
       "interactive": false
     },
     {
-      "converted_page": 106,
+      "converted_page": 107,
       "file": "pg106_sec001.html",
       "source_page_number": 100,
       "images": 4,
@@ -855,7 +863,7 @@
       "interactive": false
     },
     {
-      "converted_page": 107,
+      "converted_page": 108,
       "file": "pg107_sec001.html",
       "source_page_number": 101,
       "images": 3,
@@ -863,7 +871,7 @@
       "interactive": true
     },
     {
-      "converted_page": 108,
+      "converted_page": 109,
       "file": "pg108_sec001.html",
       "source_page_number": 102,
       "images": 1,
@@ -871,7 +879,7 @@
       "interactive": true
     },
     {
-      "converted_page": 109,
+      "converted_page": 110,
       "file": "pg109_sec001.html",
       "source_page_number": 103,
       "images": 1,
@@ -879,7 +887,7 @@
       "interactive": false
     },
     {
-      "converted_page": 110,
+      "converted_page": 111,
       "file": "pg110_sec001.html",
       "source_page_number": 104,
       "images": 1,
@@ -887,7 +895,7 @@
       "interactive": true
     },
     {
-      "converted_page": 111,
+      "converted_page": 112,
       "file": "pg111_sec001.html",
       "source_page_number": 105,
       "images": 1,
@@ -895,7 +903,7 @@
       "interactive": true
     },
     {
-      "converted_page": 112,
+      "converted_page": 113,
       "file": "pg112_sec001.html",
       "source_page_number": 106,
       "images": 2,
@@ -903,7 +911,7 @@
       "interactive": false
     },
     {
-      "converted_page": 113,
+      "converted_page": 114,
       "file": "pg113_sec001.html",
       "source_page_number": 107,
       "images": 3,
@@ -911,7 +919,7 @@
       "interactive": true
     },
     {
-      "converted_page": 114,
+      "converted_page": 115,
       "file": "pg114_sec001.html",
       "source_page_number": 108,
       "images": 0,
@@ -919,7 +927,7 @@
       "interactive": true
     },
     {
-      "converted_page": 115,
+      "converted_page": 116,
       "file": "pg115_sec001.html",
       "source_page_number": 109,
       "images": 0,
@@ -927,7 +935,7 @@
       "interactive": true
     },
     {
-      "converted_page": 116,
+      "converted_page": 117,
       "file": "pg116_sec001.html",
       "source_page_number": 110,
       "images": 0,
@@ -935,7 +943,7 @@
       "interactive": true
     },
     {
-      "converted_page": 117,
+      "converted_page": 118,
       "file": "pg117_sec001.html",
       "source_page_number": 111,
       "images": 0,
@@ -943,7 +951,7 @@
       "interactive": true
     },
     {
-      "converted_page": 118,
+      "converted_page": 119,
       "file": "pg118_sec001.html",
       "source_page_number": 112,
       "images": 1,
@@ -951,7 +959,7 @@
       "interactive": false
     },
     {
-      "converted_page": 119,
+      "converted_page": 120,
       "file": "pg119_sec001.html",
       "source_page_number": 113,
       "images": 3,
@@ -959,7 +967,7 @@
       "interactive": true
     },
     {
-      "converted_page": 120,
+      "converted_page": 121,
       "file": "pg120_sec001.html",
       "source_page_number": 114,
       "images": 1,
@@ -967,7 +975,7 @@
       "interactive": true
     },
     {
-      "converted_page": 121,
+      "converted_page": 122,
       "file": "pg121_sec001.html",
       "source_page_number": 115,
       "images": 2,
@@ -975,7 +983,7 @@
       "interactive": false
     },
     {
-      "converted_page": 122,
+      "converted_page": 123,
       "file": "pg122_sec001.html",
       "source_page_number": 116,
       "images": 2,
@@ -983,7 +991,7 @@
       "interactive": false
     },
     {
-      "converted_page": 123,
+      "converted_page": 124,
       "file": "pg123_sec001.html",
       "source_page_number": 117,
       "images": 1,
@@ -991,7 +999,7 @@
       "interactive": false
     },
     {
-      "converted_page": 124,
+      "converted_page": 125,
       "file": "pg124_sec001.html",
       "source_page_number": 118,
       "images": 2,
@@ -999,7 +1007,7 @@
       "interactive": false
     },
     {
-      "converted_page": 125,
+      "converted_page": 126,
       "file": "pg125_sec001.html",
       "source_page_number": 119,
       "images": 1,
@@ -1007,7 +1015,7 @@
       "interactive": false
     },
     {
-      "converted_page": 126,
+      "converted_page": 127,
       "file": "pg126_sec001.html",
       "source_page_number": 120,
       "images": 2,
@@ -1015,7 +1023,7 @@
       "interactive": false
     },
     {
-      "converted_page": 127,
+      "converted_page": 128,
       "file": "pg127_sec001.html",
       "source_page_number": 121,
       "images": 2,
@@ -1023,7 +1031,7 @@
       "interactive": false
     },
     {
-      "converted_page": 128,
+      "converted_page": 129,
       "file": "pg128_sec001.html",
       "source_page_number": 122,
       "images": 3,
@@ -1031,7 +1039,7 @@
       "interactive": true
     },
     {
-      "converted_page": 129,
+      "converted_page": 130,
       "file": "pg129_sec001.html",
       "source_page_number": 123,
       "images": 0,
@@ -1039,7 +1047,7 @@
       "interactive": true
     },
     {
-      "converted_page": 130,
+      "converted_page": 131,
       "file": "pg130_sec001.html",
       "source_page_number": 124,
       "images": 2,
@@ -1047,7 +1055,7 @@
       "interactive": false
     },
     {
-      "converted_page": 131,
+      "converted_page": 132,
       "file": "pg131_sec001.html",
       "source_page_number": 125,
       "images": 2,
@@ -1055,7 +1063,7 @@
       "interactive": false
     },
     {
-      "converted_page": 132,
+      "converted_page": 133,
       "file": "pg132_sec001.html",
       "source_page_number": 126,
       "images": 1,
@@ -1063,7 +1071,7 @@
       "interactive": false
     },
     {
-      "converted_page": 133,
+      "converted_page": 134,
       "file": "pg133_sec001.html",
       "source_page_number": 127,
       "images": 1,
@@ -1071,7 +1079,7 @@
       "interactive": false
     },
     {
-      "converted_page": 134,
+      "converted_page": 135,
       "file": "pg134_sec001.html",
       "source_page_number": 128,
       "images": 2,
@@ -1079,7 +1087,7 @@
       "interactive": true
     },
     {
-      "converted_page": 135,
+      "converted_page": 136,
       "file": "pg135_sec001.html",
       "source_page_number": 129,
       "images": 2,
@@ -1087,7 +1095,7 @@
       "interactive": false
     },
     {
-      "converted_page": 136,
+      "converted_page": 137,
       "file": "pg136_sec001.html",
       "source_page_number": 130,
       "images": 2,
@@ -1095,7 +1103,7 @@
       "interactive": false
     },
     {
-      "converted_page": 137,
+      "converted_page": 138,
       "file": "pg137_sec001.html",
       "source_page_number": 131,
       "images": 1,
@@ -1103,7 +1111,7 @@
       "interactive": false
     },
     {
-      "converted_page": 138,
+      "converted_page": 139,
       "file": "pg138_sec001.html",
       "source_page_number": 132,
       "images": 0,
@@ -1111,7 +1119,7 @@
       "interactive": true
     },
     {
-      "converted_page": 139,
+      "converted_page": 140,
       "file": "pg139_sec001.html",
       "source_page_number": 133,
       "images": 2,
@@ -1119,7 +1127,7 @@
       "interactive": false
     },
     {
-      "converted_page": 140,
+      "converted_page": 141,
       "file": "pg140_sec001.html",
       "source_page_number": 134,
       "images": 1,
@@ -1127,7 +1135,7 @@
       "interactive": true
     },
     {
-      "converted_page": 141,
+      "converted_page": 142,
       "file": "pg141_sec001.html",
       "source_page_number": 135,
       "images": 1,
@@ -1135,7 +1143,7 @@
       "interactive": false
     },
     {
-      "converted_page": 142,
+      "converted_page": 143,
       "file": "pg142_sec001.html",
       "source_page_number": 136,
       "images": 1,
@@ -1143,7 +1151,7 @@
       "interactive": false
     },
     {
-      "converted_page": 143,
+      "converted_page": 144,
       "file": "pg143_sec001.html",
       "source_page_number": 137,
       "images": 3,
@@ -1151,7 +1159,7 @@
       "interactive": false
     },
     {
-      "converted_page": 144,
+      "converted_page": 145,
       "file": "pg145_sec001.html",
       "source_page_number": 139,
       "images": 1,
@@ -1159,7 +1167,7 @@
       "interactive": false
     },
     {
-      "converted_page": 145,
+      "converted_page": 146,
       "file": "pg146_sec001.html",
       "source_page_number": 140,
       "images": 0,
@@ -1167,7 +1175,7 @@
       "interactive": true
     },
     {
-      "converted_page": 146,
+      "converted_page": 147,
       "file": "pg147_sec001.html",
       "source_page_number": 141,
       "images": 2,
@@ -1175,7 +1183,7 @@
       "interactive": false
     },
     {
-      "converted_page": 147,
+      "converted_page": 148,
       "file": "pg148_sec001.html",
       "source_page_number": 142,
       "images": 2,
@@ -1183,7 +1191,7 @@
       "interactive": false
     },
     {
-      "converted_page": 148,
+      "converted_page": 149,
       "file": "pg149_sec001.html",
       "source_page_number": 143,
       "images": 1,
@@ -1191,7 +1199,7 @@
       "interactive": true
     },
     {
-      "converted_page": 149,
+      "converted_page": 150,
       "file": "pg150_sec001.html",
       "source_page_number": 144,
       "images": 1,
@@ -1199,7 +1207,7 @@
       "interactive": false
     },
     {
-      "converted_page": 150,
+      "converted_page": 151,
       "file": "pg151_sec001.html",
       "source_page_number": 145,
       "images": 1,
@@ -1207,7 +1215,7 @@
       "interactive": false
     },
     {
-      "converted_page": 151,
+      "converted_page": 152,
       "file": "pg152_sec001.html",
       "source_page_number": 146,
       "images": 1,
@@ -1215,7 +1223,7 @@
       "interactive": true
     },
     {
-      "converted_page": 152,
+      "converted_page": 153,
       "file": "pg153_sec001.html",
       "source_page_number": 147,
       "images": 1,
@@ -1223,7 +1231,7 @@
       "interactive": false
     },
     {
-      "converted_page": 153,
+      "converted_page": 154,
       "file": "pg154_sec001.html",
       "source_page_number": 148,
       "images": 2,
@@ -1231,7 +1239,7 @@
       "interactive": false
     },
     {
-      "converted_page": 154,
+      "converted_page": 155,
       "file": "pg155_sec001.html",
       "source_page_number": 149,
       "images": 3,
@@ -1239,7 +1247,7 @@
       "interactive": false
     },
     {
-      "converted_page": 155,
+      "converted_page": 156,
       "file": "pg156_sec001.html",
       "source_page_number": 150,
       "images": 2,
@@ -1247,7 +1255,7 @@
       "interactive": false
     },
     {
-      "converted_page": 156,
+      "converted_page": 157,
       "file": "pg157_sec001.html",
       "source_page_number": 151,
       "images": 1,
@@ -1255,7 +1263,7 @@
       "interactive": false
     },
     {
-      "converted_page": 157,
+      "converted_page": 158,
       "file": "pg158_sec001.html",
       "source_page_number": 152,
       "images": 2,
@@ -1263,7 +1271,7 @@
       "interactive": false
     },
     {
-      "converted_page": 158,
+      "converted_page": 159,
       "file": "pg159_sec001.html",
       "source_page_number": 153,
       "images": 2,
@@ -1271,7 +1279,7 @@
       "interactive": false
     },
     {
-      "converted_page": 159,
+      "converted_page": 160,
       "file": "pg160_sec001.html",
       "source_page_number": 154,
       "images": 2,
@@ -1279,7 +1287,7 @@
       "interactive": false
     },
     {
-      "converted_page": 160,
+      "converted_page": 161,
       "file": "pg161_sec001.html",
       "source_page_number": 155,
       "images": 1,
@@ -1287,7 +1295,7 @@
       "interactive": false
     },
     {
-      "converted_page": 161,
+      "converted_page": 162,
       "file": "pg162_sec001.html",
       "source_page_number": 156,
       "images": 2,
@@ -1295,7 +1303,7 @@
       "interactive": false
     },
     {
-      "converted_page": 162,
+      "converted_page": 163,
       "file": "pg163_sec001.html",
       "source_page_number": 157,
       "images": 1,
@@ -1303,7 +1311,7 @@
       "interactive": false
     },
     {
-      "converted_page": 163,
+      "converted_page": 164,
       "file": "pg164_sec001.html",
       "source_page_number": 158,
       "images": 1,
@@ -1311,7 +1319,7 @@
       "interactive": false
     },
     {
-      "converted_page": 164,
+      "converted_page": 165,
       "file": "pg165_sec001.html",
       "source_page_number": 159,
       "images": 0,
@@ -1319,7 +1327,7 @@
       "interactive": true
     },
     {
-      "converted_page": 165,
+      "converted_page": 166,
       "file": "pg166_sec001.html",
       "source_page_number": 160,
       "images": 0,
@@ -1327,7 +1335,7 @@
       "interactive": true
     },
     {
-      "converted_page": 166,
+      "converted_page": 167,
       "file": "pg167_sec001.html",
       "source_page_number": 161,
       "images": 0,
@@ -1335,7 +1343,7 @@
       "interactive": true
     },
     {
-      "converted_page": 167,
+      "converted_page": 168,
       "file": "pg168_sec001.html",
       "source_page_number": 162,
       "images": 0,

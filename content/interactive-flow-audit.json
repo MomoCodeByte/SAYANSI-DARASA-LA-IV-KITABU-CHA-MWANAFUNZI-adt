@@ -1,7 +1,7 @@
 {
   "pages_with_textareas": 65,
-  "pages_with_duplicate_ids": 0,
-  "pages_with_repeated_text": 0,
+  "pages_with_duplicate_ids": 2,
+  "pages_with_repeated_text": 5,
   "pages": [
     {
       "converted_page": 7,
@@ -21,7 +21,10 @@
       "converted_page": 10,
       "file": "pg011_sec001.html",
       "textareas": 2,
-      "duplicate_ids": {},
+      "duplicate_ids": {
+        "pg011_im001": 2,
+        "pg011_im001_audio_desc": 2
+      },
       "repeated_text": {}
     },
     {
@@ -263,196 +266,223 @@
       "repeated_text": {}
     },
     {
-      "converted_page": 82,
+      "converted_page": 83,
       "file": "pg082_sec001.html",
       "textareas": 7,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 85,
+      "converted_page": 86,
       "file": "pg085_sec001.html",
       "textareas": 2,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 86,
+      "converted_page": 87,
       "file": "pg086_sec001.html",
       "textareas": 2,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 87,
+      "converted_page": 88,
       "file": "pg087_sec001.html",
       "textareas": 1,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 94,
+      "converted_page": 95,
       "file": "pg094_sec001.html",
       "textareas": 5,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 95,
+      "converted_page": 96,
       "file": "pg095_sec001.html",
       "textareas": 2,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 98,
+      "converted_page": 99,
       "file": "pg098_sec001.html",
       "textareas": 4,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 99,
+      "converted_page": 100,
       "file": "pg099_sec001.html",
       "textareas": 3,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 100,
+      "converted_page": 101,
       "file": "pg100_sec001.html",
       "textareas": 2,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 101,
+      "converted_page": 102,
       "file": "pg101_sec001.html",
       "textareas": 3,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 102,
+      "converted_page": 103,
       "file": "pg102_sec001.html",
       "textareas": 3,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 103,
+      "converted_page": 104,
       "file": "pg103_sec001.html",
       "textareas": 2,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 107,
+      "converted_page": 108,
       "file": "pg107_sec001.html",
       "textareas": 5,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 108,
+      "converted_page": 109,
       "file": "pg108_sec001.html",
       "textareas": 2,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 110,
+      "converted_page": 111,
       "file": "pg110_sec001.html",
       "textareas": 1,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 111,
+      "converted_page": 112,
       "file": "pg111_sec001.html",
       "textareas": 3,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 113,
+      "converted_page": 114,
       "file": "pg113_sec001.html",
       "textareas": 2,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 117,
+      "converted_page": 118,
       "file": "pg117_sec001.html",
       "textareas": 7,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 119,
+      "converted_page": 120,
       "file": "pg119_sec001.html",
       "textareas": 1,
       "duplicate_ids": {},
-      "repeated_text": {}
+      "repeated_text": {
+        "maelezo ya programu fikivu ya quorum: mfuatano wa maumbo ya samawati: mstatili mrefu, mraba na pembetatu; mfuatano huo unarudiwa mara ya pili.": [
+          "pg119_im003",
+          "pg119_im003_audio_desc"
+        ]
+      }
     },
     {
-      "converted_page": 120,
+      "converted_page": 121,
       "file": "pg120_sec001.html",
       "textareas": 1,
       "duplicate_ids": {},
-      "repeated_text": {}
+      "repeated_text": {
+        "maelezo ya picha: skrini ya windows 11 inaonesha hatua tatu za kufungua programu ya paint au quorum. namba 1 inaonesha upau wa utafutaji chini ya skrini. namba 2 inaonesha maneno paint au quorum yaliyoandikwa kwenye upau wa utafutaji. namba 3 inaonesha programu ya paint au quorum iliyochaguliwa kwenye matokeo ya utafutaji. quorum ni programu fikivu ya kuandika, kuhariri na kuendesha msimbo wa programu kwa kutumia maandishi. ili kufungua quorum, andika neno quorum kwenye upau wa utafutaji na uchague programu hiyo kwenye matokeo.": [
+          "pg120_im001",
+          "pg120_image_audio_desc"
+        ]
+      }
     },
     {
-      "converted_page": 128,
+      "converted_page": 129,
       "file": "pg128_sec001.html",
       "textareas": 2,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 129,
+      "converted_page": 130,
       "file": "pg129_sec001.html",
       "textareas": 1,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 134,
+      "converted_page": 135,
       "file": "pg134_sec001.html",
       "textareas": 1,
       "duplicate_ids": {},
-      "repeated_text": {}
+      "repeated_text": {
+        "maelezo ya programu fikivu ya quorum: bonyeza bendera ya kijani ili kuanza mchezo. paka wa scratch au quorum huanza kusonga kwa hatua ulizoweka.": [
+          "pg134_im002",
+          "pg134_im002_audio_desc"
+        ]
+      }
     },
     {
-      "converted_page": 138,
+      "converted_page": 139,
       "file": "pg138_sec001.html",
       "textareas": 1,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 140,
+      "converted_page": 141,
       "file": "pg140_sec001.html",
       "textareas": 1,
       "duplicate_ids": {},
-      "repeated_text": {}
+      "repeated_text": {
+        "maelezo ya programu fikivu ya quorum: menyu ya sauti imefunguliwa. bloku ya ‘wakati inapobonyezwa’ imeunganishwa na bloku ya ‘cheza sauti meow hadi ikamilike’. namba 1, 2 na 3 zinaonesha hatua za kuunda programu ya sauti.": [
+          "pg140_im001",
+          "pg140_im001_audio_desc"
+        ]
+      }
     },
     {
-      "converted_page": 145,
+      "converted_page": 146,
       "file": "pg146_sec001.html",
       "textareas": 1,
       "duplicate_ids": {},
       "repeated_text": {}
     },
     {
-      "converted_page": 148,
+      "converted_page": 149,
       "file": "pg149_sec001.html",
       "textareas": 2,
-      "duplicate_ids": {},
-      "repeated_text": {}
+      "duplicate_ids": {
+        "pg149_n0030": 3
+      },
+      "repeated_text": {
+        "maelezo ya programu fikivu ya quorum: kwenye scratch au quorum, kitufe cha ‘kishale juu’ kinapobonyezwa. kwenye orodha, ‘kishale juu’ kimechaguliwa.": [
+          "pg149_im001",
+          "pg149_im001_audio_desc"
+        ]
+      }
     },
     {
-      "converted_page": 151,
+      "converted_page": 152,
       "file": "pg152_sec001.html",
       "textareas": 2,
       "duplicate_ids": {},

@@ -1,16 +1,8 @@
 {
-  "candidate_count": 27,
+  "candidate_count": 26,
   "candidates": [
     {
-      "converted_page": 19,
-      "file": "pg019_sec001.html",
-      "image": "images/pg019_im001.png",
-      "data_id": "pg019_im001",
-      "hidden": true,
-      "description": "Kisanduku cha kazi ya kufanya namba 6 chenye maelekezo mawili. Mwanafunzi atafute taarifa kuhusu utunzaji wa kinywa na azishirikishe na wenzake."
-    },
-    {
-      "converted_page": 41,
+      "converted_page": 40,
       "file": "pg041_sec001.html",
       "image": "images/pg041_im001.png",
       "data_id": "pg041_im001",
@@ -18,7 +10,15 @@
       "description": "Zoezi namba 4 lenye maswali matatu kuhusu tetekuwanga: jinsi ugonjwa huenea, namna ya kumtambua mgonjwa, na jinsi ya kuzuia kuenea kwake."
     },
     {
-      "converted_page": 54,
+      "converted_page": 50,
+      "file": "pg050_sec001.html",
+      "image": "images/pg050_im001.jpg",
+      "data_id": "pg050_im001",
+      "hidden": false,
+      "description": "Hatua za ukuaji wa nzi"
+    },
+    {
+      "converted_page": 53,
       "file": "pg053_sec001.html",
       "image": "images/pg053_im001.jpg",
       "data_id": "pg053_im001",
@@ -26,7 +26,7 @@
       "description": "Hatua za ukuaji wa mende: yai, tunutu, kisha mende mkubwa. Mishale inaonyesha mzunguko wa maisha yake."
     },
     {
-      "converted_page": 59,
+      "converted_page": 58,
       "file": "pg058_sec001.html",
       "image": "images/pg058_im002.png",
       "data_id": "pg058_im002",
@@ -71,7 +71,7 @@
       "image": "images/pg120_im001.jpg",
       "data_id": "pg120_im001",
       "hidden": false,
-      "description": "Hatua za kufungua Paint/Quorum kwenye Windows: bofya au tumia mishale Start au sehemu ya kutafutia, andika “paint/Quorum”, kisha chagua programu ya Paint/Quorum."
+      "description": "Maelezo ya picha: Skrini ya Windows 11 inaonesha hatua tatu za kufungua programu ya Paint au Quorum. Namba 1 inaonesha upau wa utafutaji chini ya skrini. Namba 2 inaonesha maneno Paint au Quorum yaliyoandikwa kwenye upau wa utafutaji. Namba 3 inaonesha programu ya Paint au Quorum iliyochaguliwa kwenye matokeo ya utafutaji. Quorum ni programu fikivu ya kuandika, kuhariri na kuendesha msimbo wa programu kwa kutumia maandishi. Ili kufungua Quorum, andika neno Quorum kwenye upau wa utafutaji na uchague programu hiyo kwenye matokeo."
     },
     {
       "converted_page": 125,
@@ -79,7 +79,7 @@
       "image": "images/pg124_im001.jpg",
       "data_id": "pg124_im001",
       "hidden": false,
-      "description": "Bofya au tumia mishale Faili, chagua Save as, halafu chagua PNG picture. Hatua hizi zinaonyesha mwanzo wa kuhifadhi kazi yako."
+      "description": "Maelezo ya programu fikivu ya Quorum: Bofya au tumia mishale Faili, chagua Save as, halafu chagua PNG picture. Hatua hizi zinaonyesha mwanzo wa kuhifadhi kazi yako. Quorum ni programu fikivu ya kuandika, kuhariri na kuendesha msimbo wa programu kwa kutumia maandishi."
     },
     {
       "converted_page": 125,
@@ -87,7 +87,7 @@
       "image": "images/pg124_im002.jpg",
       "data_id": "pg124_im002",
       "hidden": false,
-      "description": "Chagua Documents, andika jina la faili, kisha bofya au tumia mishale Save. Hii ni hatua ya mwisho ya kuhifadhi kazi yako."
+      "description": "Maelezo ya programu fikivu ya Quorum: Chagua Documents, andika jina la faili, kisha bofya au tumia mishale Save. Hii ni hatua ya mwisho ya kuhifadhi kazi yako. Quorum ni programu fikivu ya kuandika, kuhariri na kuendesha msimbo wa programu kwa kutumia maandishi."
     },
     {
       "converted_page": 126,
@@ -95,7 +95,7 @@
       "image": "images/pg125_im001.jpg",
       "data_id": "pg125_im001",
       "hidden": false,
-      "description": "Skrini ya programu ya kuchora inaonyesha hatua za kupaka rangi maumbo. Mishale na namba zinaelekeza zana ya kujaza rangi, sehemu ya pembetatu, na rangi zilizochaguliwa juu ya skrini."
+      "description": "Maelezo ya programu fikivu ya Quorum: Skrini ya programu ya kuchora inaonyesha hatua za kupaka rangi maumbo. Mishale na namba zinaelekeza zana ya kujaza rangi, sehemu ya pembetatu, na rangi zilizochaguliwa juu ya skrini."
     },
     {
       "converted_page": 135,
@@ -103,7 +103,7 @@
       "image": "images/pg134_im001.jpg",
       "data_id": "pg134_im001",
       "hidden": false,
-      "description": "Chagua bloku ya Mwendo ya “songa hatua 10” na uiweke chini ya bloku ya kuanza. Unaweza kubadilisha namba 10 kuwa idadi nyingine ya hatua."
+      "description": "Maelezo ya programu fikivu ya Quorum: Chagua bloku ya Mwendo ya ‘songa hatua 10’ na uiweke chini ya bloku ya kuanza. Unaweza kubadilisha namba 10 kuwa idadi nyingine ya hatua."
     },
     {
       "converted_page": 135,
@@ -111,7 +111,7 @@
       "image": "images/pg134_im002.jpg",
       "data_id": "pg134_im002",
       "hidden": false,
-      "description": "Bonyeza bendera ya kijani ili kuanza mchezo. Paka wa Scratch/Quorum huanza kusonga kwa hatua ulizoweka."
+      "description": "Maelezo ya programu fikivu ya Quorum: Bonyeza bendera ya kijani ili kuanza mchezo. Paka wa Scratch au Quorum huanza kusonga kwa hatua ulizoweka."
     },
     {
       "converted_page": 137,
@@ -119,7 +119,7 @@
       "image": "images/pg136_im002.png",
       "data_id": "pg136_im002",
       "hidden": true,
-      "description": "Maelekezo ya kazi ya kutengeneza programu ya kumzungusha sprite kwenye Scratch/Quorum. Hatua zinaonyesha kuchagua bloku za Matukio na Mwendo, kisha kuunganisha “wakati inapobonyezwa” na “zunguka digrii 15”."
+      "description": "Maelezo ya programu fikivu ya Quorum: Hatua za kutengeneza programu ya kumzungusha Sprite kwenye Scratch au Quorum. Chagua bloku za Matukio na Mwendo, kisha unganisha ‘wakati inapobonyezwa’ na ‘zunguka digrii 15’."
     },
     {
       "converted_page": 140,
@@ -127,7 +127,7 @@
       "image": "images/pg139_im001.jpg",
       "data_id": "pg139_im001",
       "hidden": false,
-      "description": "Hatua za kuunganisha blokuu za programu kwenye Scratch/Quorum. Blokuu zinawekwa kwa mpangilio: wakati bendera ya kijani inapobonyezwa, enda kwa mahali popote, zunguka digrii 15, kisha rejea ukigusa ukingo wa jukwaa."
+      "description": "Maelezo ya programu fikivu ya Quorum: Hatua za kuunganisha blokuu za programu kwenye Scratch au Quorum. Blokuu zinawekwa kwa mpangilio: wakati bendera ya kijani inapobonyezwa, enda kwa mahali popote, zunguka digrii 15, kisha rejea ukigusa ukingo wa jukwaa."
     },
     {
       "converted_page": 141,
@@ -135,7 +135,7 @@
       "image": "images/pg140_im001.png",
       "data_id": "pg140_im001",
       "hidden": false,
-      "description": "Menyu ya Sauti imefunguliwa, na bloku ya ‘wakati inapobonyezwa’ imeunganishwa na bloku ya ‘cheza sauti Meow hadi ikamilike’. Namba 1, 2 na 3 zinaonyesha hatua za kuunda programu ya sauti."
+      "description": "Maelezo ya programu fikivu ya Quorum: Menyu ya Sauti imefunguliwa. Bloku ya ‘wakati inapobonyezwa’ imeunganishwa na bloku ya ‘cheza sauti Meow hadi ikamilike’. Namba 1, 2 na 3 zinaonesha hatua za kuunda programu ya sauti."
     },
     {
       "converted_page": 143,
@@ -143,7 +143,7 @@
       "image": "images/pg142_im001.jpg",
       "data_id": "pg142_im001",
       "hidden": false,
-      "description": "Mpangilio wa blokuu za usimbaji: wakati inapobonyezwa, enda kwa mahali popote, zunguka digrii 15, kisha ikiwa kwenye ukingo wa jukwaa, rejesha. Namba 1 hadi 4 zinaonyesha hatua za kufuata kutoka juu kwenda chini."
+      "description": "Maelezo ya programu fikivu ya Quorum: Mpangilio wa blokuu za usimbaji: wakati inapobonyezwa, enda kwa mahali popote, zunguka digrii 15, kisha ikiwa kwenye ukingo wa jukwaa, rejesha. Namba 1 hadi 4 zinaonyesha hatua za kufuata kutoka juu kwenda chini."
     },
     {
       "converted_page": 150,
@@ -151,15 +151,7 @@
       "image": "images/pg150_im001.png",
       "data_id": "pg150_im001",
       "hidden": false,
-      "description": "Bloku za programu zinaonyesha: kishale juu kikibonyezwa, songa hatua 10, kisha cheza sauti ya Meow hadi ikamilike."
-    },
-    {
-      "converted_page": 152,
-      "file": "pg152_sec001.html",
-      "image": "images/pg152_im002.png",
-      "data_id": "pg152_im002",
-      "hidden": false,
-      "description": "Kielelezo cha programu ya Scratch/Quorum kinaonyesha kuwa ukibonyeza kishale juu, mhusika husonga hatua 10 na kutoa sauti ya Meow. Ukibonyeza kishale chini, mhusika huzunguka digrii 15 na pia kutoa sauti ya Meow."
+      "description": "Maelezo ya programu fikivu ya Quorum: Bloku za programu zinaonyesha: kishale juu kikibonyezwa, songa hatua 10, kisha cheza sauti ya Meow hadi ikamilike."
     },
     {
       "converted_page": 154,
@@ -167,7 +159,7 @@
       "image": "images/pg154_im002.png",
       "data_id": "pg154_im002",
       "hidden": false,
-      "description": "Programu inaanza kwa kubonyeza kishale juu, inaelekeza mwelekeo kuwa nyuzi 0, kisha sprite inasonga hatua 10 na kucheza sauti ya Meow hadi ikamilike."
+      "description": "Maelezo ya programu fikivu ya Quorum: Programu inaanza kwa kubonyeza kishale juu, inaelekeza mwelekeo kuwa nyuzi 0, kisha sprite inasonga hatua 10 na kucheza sauti ya Meow hadi ikamilike."
     },
     {
       "converted_page": 155,
@@ -175,7 +167,7 @@
       "image": "images/pg155_im002_seg001_v1.png",
       "data_id": "pg155_im002_seg001_v1",
       "hidden": false,
-      "description": "Programu ya Scratch/Quorum: kitufe cha kishale juu kinapobonyezwa, sprite huelekezwa kwa mwelekeo 0, husonga hatua 10, kisha hutoa sauti ya Meow hadi ikamilike."
+      "description": "Maelezo ya programu fikivu ya Quorum: Programu ya Scratch au Quorum: kitufe cha kishale juu kinapobonyezwa, sprite huelekezwa kwa mwelekeo 0, husonga hatua 10, kisha hutoa sauti ya Meow hadi ikamilike."
     },
     {
       "converted_page": 155,
@@ -183,7 +175,7 @@
       "image": "images/pg155_im002_seg002_v1.png",
       "data_id": "pg155_im002_seg002_v1",
       "hidden": false,
-      "description": "Nakala ya programu ya Scratch/Quorum yenye bloku zilezile: kitufe cha kishale juu kinapobonyezwa, sprite huelekezwa kwa mwelekeo 0, husonga hatua 10, kisha hutoa sauti ya Meow hadi ikamilike."
+      "description": "Maelezo ya programu fikivu ya Quorum: Nakala ya programu ya Scratch au Quorum yenye bloku zilezile: kitufe cha kishale juu kinapobonyezwa, sprite huelekezwa kwa mwelekeo 0, husonga hatua 10, kisha hutoa sauti ya Meow hadi ikamilike."
     },
     {
       "converted_page": 156,
@@ -191,7 +183,7 @@
       "image": "images/pg156_im001_seg001_v1.png",
       "data_id": "pg156_im001_seg001_v1",
       "hidden": false,
-      "description": "Wakati kitufe cha kishale juu kinapobonyezwa, mhusika hugeuka nyuzi 0, husonga hatua 10, kisha hutoa sauti ya Meow."
+      "description": "Maelezo ya programu fikivu ya Quorum: Wakati kitufe cha kishale juu kinapobonyezwa, mhusika hugeuka nyuzi 0, husonga hatua 10, kisha hutoa sauti ya Meow."
     },
     {
       "converted_page": 156,
@@ -199,15 +191,15 @@
       "image": "images/pg156_im001_seg002_v1.png",
       "data_id": "pg156_im001_seg002_v1",
       "hidden": false,
-      "description": "Wakati kitufe cha kishale chini kinapobonyezwa, mhusika hugeuka nyuzi 180, husonga hatua 10, kisha hutoa sauti ya Meow."
+      "description": "Maelezo ya programu fikivu ya Quorum: Wakati kitufe cha kishale chini kinapobonyezwa, mhusika hugeuka nyuzi 180, husonga hatua 10, kisha hutoa sauti ya Meow."
     },
     {
       "converted_page": 157,
       "file": "pg157_sec001.html",
-      "image": "images/pg157_im002.png",
+      "image": "images/pg157_im002_v49.png",
       "data_id": "pg157_im002",
       "hidden": false,
-      "description": "Programu ya Scratch/Quorum ina vizuizi vinavyofanya paka asogee juu, chini, kushoto na kulia kwa vitufe vya mshale. Kila kitufe huweka mwelekeo, kusonga hatua 10, na kucheza sauti ya Meow."
+      "description": "Maelezo ya programu fikivu ya Quorum: Programu ya Scratch au Quorum ina vizuizi vinavyofanya paka asogee juu, chini, kushoto na kulia kwa vitufe vya mshale. Kila kitufe huweka mwelekeo, kusonga hatua 10, na kucheza sauti ya Meow."
     },
     {
       "converted_page": 162,
@@ -215,7 +207,7 @@
       "image": "images/pg162_im001.png",
       "data_id": "pg162_im001",
       "hidden": false,
-      "description": "Bloku za programu zinaonyesha kuwa kiumbe huendelea kufanya kazi milele. Kikigusa ukingo, hugeuka kwa mwelekeo 0 na kusonga hatua 10."
+      "description": "Maelezo ya programu fikivu ya Quorum: Bloku za programu zinaonyesha kuwa kiumbe huendelea kufanya kazi milele. Kikigusa ukingo, hugeuka kwa mwelekeo 0 na kusonga hatua 10."
     }
   ]
 }

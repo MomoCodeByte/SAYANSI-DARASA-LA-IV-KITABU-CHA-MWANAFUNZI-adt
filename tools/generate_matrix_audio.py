@@ -36,6 +36,15 @@ PRONUNCIATION_OVERRIDES = {
     "TIE": "tai", "tie": "tai",
 }
 
+LETTER_PRONUNCIATIONS = {
+    "a": "ai", "b": "bii", "c": "sii", "d": "dii", "e": "ii",
+    "f": "efu", "g": "jii", "h": "eichi", "i": "ai", "j": "jei",
+    "k": "kei", "l": "eli", "m": "emu", "n": "eni", "o": "ou",
+    "p": "pii", "q": "kyuu", "r": "aa", "s": "esi", "t": "tii",
+    "u": "yuu", "v": "vii", "w": "dabiliu", "x": "eksi",
+    "y": "wai", "z": "zed",
+}
+
 
 def number_sw(value: int) -> str:
     if value < 10: return ONES[value]
@@ -80,19 +89,34 @@ def spoken(text: str) -> tuple[str, list[int]]:
     text = re.sub(r"(?i)\bmbalimbali\b", "mbali mbali", text)
     text = re.sub(r"(?i)\bCity\s+Bus\b", "siti basi", text)
     text = re.sub(r"(?i)\bcar\b", "kaa", text)
-    text = re.sub(r"(?i)\bPicha\s+C\b", "picha sii", text)
-    text = re.sub(r"(?i)\bPicha\s+D\b", "picha dii", text)
-    text = re.sub(r"(?i)\bPicha\s+E\b", "picha iii", text)
+    text = re.sub(
+        r"(?i)\bPicha\s+([a-z])\b",
+        lambda match: f"picha {LETTER_PRONUNCIATIONS[match.group(1).lower()]}",
+        text,
+    )
+    # Standalone section letters are labels, not Roman numerals. Without
+    # these overrides Edge TTS receives C/D as 100/500 (mia moja/mia tano).
+    text = re.sub(r"(?i)\bSehemu\s+C\b", "Sehemu sii", text)
+    text = re.sub(r"(?i)\bSehemu\s+D\b", "Sehemu dii", text)
+    # Panel labels are read as picture labels: (a) = "picha ai", etc.
+    text = re.sub(
+        r"(?i)(?<!\w)\(([a-z])\)",
+        lambda match: f" picha {LETTER_PRONUNCIATIONS[match.group(1).lower()]} ",
+        text,
+    )
     text = re.sub(r"(?i)^\(c\)\s+(?=Jiko\s+la\s+mkaa)", "picha sii ", text)
     text = re.sub(r"(?i)^\(d\)\s+(?=Jiko\s+la\s+umeme)", "picha dii ", text)
     text = re.sub(r"(?i)^\(e\)\s+(?=Jiko\s+la\s+gesi)", "picha iii ", text)
     text = re.sub(r"(?i)\bhttps\b", "echititipi", text)
-    text = re.sub(r"(?i)\bJPEG\s+picture\b", "jipieji picha", text)
+    text = re.sub(r"(?i)\bJPEG\s+picture\b", "jipieniji picha", text)
     text = re.sub(r"(?i)\bPNG\s+picture\b", "pieniji picha", text)
     text = re.sub(r"(?i)\bBMP\s+picture\b", "biempi picha", text)
-    text = re.sub(r"(?i)\bPNG\b", "piendiji", text)
-    text = re.sub(r"(?i)\bBMP\b", "bempi", text)
+    text = re.sub(r"(?i)\bJPEG\b", "jipieniji", text)
+    text = re.sub(r"(?i)\bPNG\b", "pieniji", text)
+    text = re.sub(r"(?i)\bBMP\b", "biempi", text)
     text = re.sub(r"(?i)\bShape\b", "shepu", text)
+    text = re.sub(r"(?i)\bchemli\b", "chem-li", text)
+    text = re.sub(r"(?i)\bardhi\b", "ar-dhi", text)
     text = re.sub(r"(?i)\bPurple\b", "papo", text)
     text = re.sub(r"(?i)\bRose\b", "rozi", text)
     text = re.sub(r"(?i)\bRectangle\b", "rectango", text)
@@ -191,6 +215,8 @@ async def main() -> None:
     args = parser.parse_args()
     plan = json.loads((ROOT / "content/validation-matrix-plan.json").read_text(encoding="utf-8"))
     texts = json.loads((LANG / "texts.json").read_text(encoding="utf-8")); audios = json.loads((LANG / "audios.json").read_text(encoding="utf-8"))
+    override_path = ROOT / "content" / "audio-spoken-overrides.json"
+    spoken_overrides = json.loads(override_path.read_text(encoding="utf-8")) if override_path.exists() else {}
     files = {f for item in plan["items"] if item["category"] == "audio_pronunciation" for f in item["files"] if f.startswith("pg")}
     prefixes = {filename[:5] + "_" for filename in files}
     footer_ids: set[str] = set()
@@ -215,7 +241,13 @@ async def main() -> None:
         if not shown or FOOTER_TEXT.search(shown): continue
         destination = LANG / "audio" / str(filename).split("?")[0]
         if destination.exists() and destination.stat().st_size > 100 and not requested and not args.force: continue
-        normalized, display_map = spoken(shown); jobs.append((text_id, normalized, display_map, destination))
+        speech_source = str(spoken_overrides.get(text_id, shown)).strip()
+        normalized, display_map = spoken(speech_source)
+        if text_id in spoken_overrides:
+            # The extra spoken context is intentionally not visible on the page.
+            # Associate every spoken word with the displayed number token.
+            display_map = [0] * len(display_map)
+        jobs.append((text_id, normalized, display_map, destination))
     if args.limit is not None: jobs = jobs[:args.limit]
     timecode_path = LANG / "timecode" / "timecode_output.json"; timecode_path.parent.mkdir(exist_ok=True)
     timecodes = json.loads(timecode_path.read_text(encoding="utf-8")) if timecode_path.exists() else {}
