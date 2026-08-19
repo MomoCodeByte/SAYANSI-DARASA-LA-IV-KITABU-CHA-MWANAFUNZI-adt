@@ -71,7 +71,7 @@ def roman_to_int(token: str) -> int | None:
     return total if 0 < total <= 3999 else None
 
 
-def spoken(text: str) -> tuple[str, list[int]]:
+def spoken(text: str, letter_context: str = "plain") -> tuple[str, list[int]]:
     original_display = re.findall(r"\S+", text)
     text = re.sub(r"(?i)(?<!\w)S\.L\.P\.?(?!\w)", "esielopi", text)
     text = re.sub(r"(?i)(?<!\w)www(?!\w)", "dabiliyu dabiliyu dabiliyu", text)
@@ -98,10 +98,12 @@ def spoken(text: str) -> tuple[str, list[int]]:
     # these overrides Edge TTS receives C/D as 100/500 (mia moja/mia tano).
     text = re.sub(r"(?i)\bSehemu\s+C\b", "Sehemu sii", text)
     text = re.sub(r"(?i)\bSehemu\s+D\b", "Sehemu dii", text)
-    # Panel labels are read as picture labels: (a) = "picha ai", etc.
+    # Parenthesized letters depend on context. Image panels are "picha ai",
+    # answer choices are "chaguo ai", and ordinary lists are simply "ai".
+    letter_prefix = {"picture": "picha ", "choice": "chaguo "}.get(letter_context, "")
     text = re.sub(
-        r"(?i)(?<!\w)\(([a-z])\)",
-        lambda match: f" picha {LETTER_PRONUNCIATIONS[match.group(1).lower()]} ",
+        r"(?i)(?<!\w)\(([a-h])\)",
+        lambda match: f" {letter_prefix}{LETTER_PRONUNCIATIONS[match.group(1).lower()]} ",
         text,
     )
     text = re.sub(r"(?i)^\(c\)\s+(?=Jiko\s+la\s+mkaa)", "picha sii ", text)
@@ -217,6 +219,10 @@ async def main() -> None:
     texts = json.loads((LANG / "texts.json").read_text(encoding="utf-8")); audios = json.loads((LANG / "audios.json").read_text(encoding="utf-8"))
     override_path = ROOT / "content" / "audio-spoken-overrides.json"
     spoken_overrides = json.loads(override_path.read_text(encoding="utf-8")) if override_path.exists() else {}
+    context_path = ROOT / "content" / "letter-audio-context.json"
+    letter_contexts = json.loads(context_path.read_text(encoding="utf-8")) if context_path.exists() else {}
+    picture_letter_ids = set(letter_contexts.get("picture", []))
+    choice_letter_ids = set(letter_contexts.get("choice", []))
     files = {f for item in plan["items"] if item["category"] == "audio_pronunciation" for f in item["files"] if f.startswith("pg")}
     prefixes = {filename[:5] + "_" for filename in files}
     footer_ids: set[str] = set()
@@ -242,7 +248,13 @@ async def main() -> None:
         destination = LANG / "audio" / str(filename).split("?")[0]
         if destination.exists() and destination.stat().st_size > 100 and not requested and not args.force: continue
         speech_source = str(spoken_overrides.get(text_id, shown)).strip()
-        normalized, display_map = spoken(speech_source)
+        base_text_id = text_id.removesuffix("_easy_read")
+        letter_context = (
+            "picture" if base_text_id in picture_letter_ids
+            else "choice" if base_text_id in choice_letter_ids
+            else "plain"
+        )
+        normalized, display_map = spoken(speech_source, letter_context)
         if text_id in spoken_overrides:
             # The extra spoken context is intentionally not visible on the page.
             # Associate every spoken word with the displayed number token.
