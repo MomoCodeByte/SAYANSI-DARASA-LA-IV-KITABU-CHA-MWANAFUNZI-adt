@@ -28,12 +28,12 @@ TENS = {10:"kumi",20:"ishirini",30:"thelathini",40:"arobaini",50:"hamsini",60:"s
 ROMAN_VALUES = {"I":1,"V":5,"X":10,"L":50,"C":100,"D":500,"M":1000}
 PRONUNCIATION_OVERRIDES = {
     "VVU": "vivi u", "UKIMWI": "ukimwi", "ISBN": "ai es bi en",
-    "TET": "teti", "DUCE": "duse", "UDOM": "yudomu",
-    "SUA": "suaa", "MOTCO": "motiko", "MU": "Muu",
+    "TET": "teti", "DUCE": "duse", "UDOM": "yudom",
+    "SUA": "sua", "MOTCO": "motiko", "MU": "muu",
     "maziwa": "ma-ziwa", "njegere": "nje-ge-re", "matumizi": "ma-tu-mi-zi",
     "bidhaa": "bi-dhaa", "msamiati": "m-sa-mi-a-ti",
     "Quorum": "Kuramu", "quorum": "Kuramu", "au": "auu",
-    "TIE": "tai", "tie": "tai",
+    "TIE": "tai", "tie": "tai", "ol": "oeli",
 }
 
 LETTER_PRONUNCIATIONS = {
@@ -89,6 +89,7 @@ def spoken(text: str, letter_context: str = "plain") -> tuple[str, list[int]]:
     text = re.sub(r"(?i)\bmbalimbali\b", "mbali mbali", text)
     text = re.sub(r"(?i)\bCity\s+Bus\b", "siti basi", text)
     text = re.sub(r"(?i)\bcar\b", "kaa", text)
+    text = re.sub(r"(?i)(?<!\w)S/M\s+Mlimani(?!\w)", "Shule ya Msingi Mlimani", text)
     text = re.sub(
         r"(?i)\bPicha\s+([a-z])\b",
         lambda match: f"picha {LETTER_PRONUNCIATIONS[match.group(1).lower()]}",

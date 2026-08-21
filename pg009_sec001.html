@@ -16,6 +16,26 @@
 
     <style>
       body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select { font-family: 'Atkinson Hyperlegible','Merriweather',sans-serif; }
+      .food-label-left::after,
+      .food-label-right::before {
+        content: "";
+        position: absolute;
+        top: 50%;
+        width: clamp(18px, 7.5vw, 74px);
+        border-top: 2px solid #475569;
+      }
+      .food-label-left,
+      .food-label-right { z-index: 20; }
+      .food-label-left::after { left: 100%; }
+      .food-label-right::before { right: 100%; }
+      .food-label-build::before { width: clamp(34px, 12vw, 118px); }
+      .food-diagram { position: relative; width: 100%; max-width: 980px; aspect-ratio: 980 / 590; }
+      .food-diagram-image { position: absolute; left: 50%; top: 2%; width: 53%; height: auto; transform: translateX(-50%); }
+      .food-label-left,
+      .food-label-right { position: absolute; font-size: clamp(0.72rem, 2.5vw, 1.55rem); line-height: 1.15; color: #1e293b; }
+      .food-label-protect { left: 2%; top: 40%; width: 22%; }
+      .food-label-energy { right: 0; top: 32%; width: 23%; }
+      .food-label-build { right: 3%; top: 61%; width: 22%; }
     </style></head>
 
 <body class="min-h-screen flex items-center justify-center">
@@ -26,23 +46,19 @@
     <div class="absolute inset-y-0 right-0 w-20 bg-gradient-to-l from-cyan-200 via-cyan-50 to-transparent max-lg:w-14 max-sm:w-8"></div>
 
     <div class="relative z-10 mx-auto max-w-5xl">
-      <div class="relative mx-auto min-h-[600px] pt-4 max-lg:min-h-0 max-lg:flex max-lg:flex-col max-lg:items-center max-sm:pt-2">
-        <div class="absolute left-6 top-[250px] w-[180px] text-left text-[21px] leading-tight text-slate-700 max-lg:static max-lg:order-1 max-lg:mb-4 max-lg:w-full max-lg:text-center max-lg:text-xl max-sm:mb-3 max-sm:text-lg">
-          <p class="font-medium"><span data-id="pg009_n0002">Vyakula vya kulinda mwili</span></p>
+      <figure class="food-diagram mx-auto mt-4">
+        <div class="food-label-left food-label-protect z-20 text-left">
+          <span data-id="pg009_n0002">Vyakula vya kulinda mwili</span>
         </div>
-
-        <div class="absolute left-1/2 top-4 flex -translate-x-1/2 flex-col items-center max-lg:static max-lg:order-2 max-lg:translate-x-0">
-          <img src="images/pg009_im001.jpg" data-id="pg009_im001" alt="Mchoro wa makundi ya vyakula katika mlo kamili. Unaonyesha vyakula vya kulinda mwili, vya kuupa mwili nguvu, na vya kujenga mwili." class="h-auto w-[430px] max-w-full object-contain max-lg:w-[360px] max-sm:w-[280px]" style="max-width: 100%; height: auto;">
- <span data-id="pg009_im001_audio_desc" class="sr-only image-audio-description">Maelezo ya picha: Mchoro wa makundi ya vyakula katika mlo kamili. Unaonyesha vyakula vya kulinda mwili, vya kuupa mwili nguvu, na vya kujenga mwili.</span></div>
-
-        <div class="absolute right-10 top-[215px] w-[230px] text-left text-[21px] leading-tight text-slate-700 max-lg:static max-lg:order-3 max-lg:mt-4 max-lg:w-full max-lg:text-center max-lg:text-xl max-sm:mt-3 max-sm:text-lg">
-          <p class="font-medium"><span data-id="pg009_n0003">Vyakula vya kuupa mwili nguvu</span></p>
+        <img src="images/pg009_im001.jpg" data-id="pg009_im001" alt="Mchoro wa makundi ya vyakula katika mlo kamili. Kushoto ni vyakula vya kulinda mwili; juu kulia ni vyakula vya kuupa mwili nguvu; chini kulia ni vyakula vya kujenga mwili." class="food-diagram-image object-contain">
+        <div class="food-label-right food-label-energy z-20 text-left">
+          <span data-id="pg009_n0003">Vyakula vya kuupa mwili nguvu</span>
         </div>
-
-        <div class="absolute right-14 top-[445px] w-[220px] text-left text-[21px] leading-tight text-slate-700 max-lg:static max-lg:order-4 max-lg:mt-3 max-lg:w-full max-lg:text-center max-lg:text-xl max-sm:text-lg">
-          <p class="font-medium"><span data-id="pg009_n0004">Vyakula vya kujenga mwili</span></p>
+        <div class="food-label-right food-label-build z-20 text-left">
+          <span data-id="pg009_n0004">Vyakula vya kujenga mwili</span>
         </div>
-      </div>
+        <span data-id="pg009_im001_audio_desc" class="sr-only image-audio-description">Maelezo ya picha: Mchoro wa makundi ya vyakula katika mlo kamili. Kushoto ni vyakula vya kulinda mwili; juu kulia ni vyakula vya kuupa mwili nguvu; chini kulia ni vyakula vya kujenga mwili.</span>
+      </figure>
       <div class="mt-5 max-w-[760px] text-center text-[18px] leading-snug text-slate-800 max-lg:px-4 max-lg:text-base max-sm:mt-4 max-sm:text-sm">
         <p><span data-id="pg009_n0005"><strong data-figure-caption-prefix="true">Kielelezo namba 2:</strong> mfano wa makundi makuu ya vyakula katika mlo kamili.</span></p>
       </div>
@@ -92,7 +108,7 @@
     <script src="./assets/offline-preloader.js?v=matrix-16082026-final"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js?v=matrix-16082026-final"></script>
-    <script src="./assets/matrix-accessibility.js?v=heading-consistency-v9" defer></script>
+    <script src="./assets/matrix-accessibility.js?v=page27-plan-b-v13" defer></script>
 </body>
 
 </html>
