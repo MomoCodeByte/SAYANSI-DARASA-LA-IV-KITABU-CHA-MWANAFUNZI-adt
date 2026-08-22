@@ -614,3 +614,27 @@
   });
   audioReaderObserver.observe(document.body, { childList: true, subtree: true });
 })();
+// Keep long science activity pages aligned to the top after the internal
+// next/previous navigation swaps page markup without a full browser reload.
+(function keepScienceStepsVisibleAfterNavigation() {
+  function alignLongActivityPageToTop() {
+    var pageMeta = document.querySelector('meta[name="page-section-id"]');
+    if (!pageMeta || !/^(51|52)$/.test(pageMeta.getAttribute("content") || "")) return;
+    document.body.classList.remove("items-center");
+    document.body.classList.add("items-start");
+    window.scrollTo(0, 0);
+    document.documentElement.scrollTop = 0;
+    document.body.scrollTop = 0;
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", alignLongActivityPageToTop);
+  } else {
+    alignLongActivityPageToTop();
+  }
+  window.addEventListener("pageshow", alignLongActivityPageToTop);
+  new MutationObserver(alignLongActivityPageToTop).observe(document.documentElement, {
+    childList: true,
+    subtree: true
+  });
+})();

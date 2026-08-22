@@ -16,6 +16,23 @@
 
     <style>
       body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select { font-family: 'Atkinson Hyperlegible','Merriweather',sans-serif; }
+      .experiment-meta-row {
+        display: grid;
+        grid-template-columns: 10rem minmax(0, 1fr);
+        column-gap: 1.5rem;
+        align-items: start;
+      }
+      .experiment-meta-label,
+      .experiment-meta-value {
+        font-size: 1.5rem;
+        line-height: 1.35;
+      }
+      .experiment-meta-label { font-weight: 700; color: #2f8a34; }
+      @media (max-width: 640px) {
+        .experiment-meta-row { grid-template-columns: 1fr; row-gap: 0.25rem; }
+        .experiment-meta-label,
+        .experiment-meta-value { font-size: 1.125rem; }
+      }
     </style></head>
 
 <body class="min-h-screen flex items-center justify-center">
@@ -31,26 +48,26 @@
     </div>
     <div class="relative px-10 py-6 text-left text-[#202124] max-lg:px-6 max-sm:px-4">
       <div class="relative z-10 space-y-5 text-[1.05rem] leading-relaxed max-lg:text-base max-sm:text-[0.95rem]">
-        <div class="grid grid-cols-[10rem_1fr] gap-x-3 max-lg:grid-cols-1 max-lg:gap-y-1">
-          <div class="text-[#2f8a34] text-2xl font-bold max-lg:text-xl"><span data-id="pg065_n0005">Lengo:</span></div>
-          <div class="text-2xl leading-snug max-lg:text-xl max-sm:text-lg"><span data-id="pg065_n0006">Kuonesha kizingiti cha mgando wa maji</span></div>
+        <div class="experiment-meta-row">
+          <div class="experiment-meta-label"><span data-id="pg065_n0005">Lengo:</span></div>
+          <div class="experiment-meta-value"><span data-id="pg065_n0006">Kuonesha kizingiti cha mgando wa maji</span></div>
         </div>
-        <div class="grid grid-cols-[10rem_1fr] gap-x-3 max-lg:grid-cols-1 max-lg:gap-y-1">
-          <div class="text-[#2f8a34] text-2xl font-bold max-lg:text-xl"><span data-id="pg065_n0008">Mahitaji:</span></div>
-          <div class="text-2xl leading-snug max-lg:text-xl max-sm:text-lg"><span data-id="pg065_n0009">Jokofu, meza, kipimajoto au kipimajoto sauti, maji, kikombe cha plastiki na programu fikivu</span></div>
+        <div class="experiment-meta-row">
+          <div class="experiment-meta-label"><span data-id="pg065_n0008">Mahitaji:</span></div>
+          <div class="experiment-meta-value"><span data-id="pg065_n0009">Jokofu, meza, kipimajoto au kipimajoto sauti, maji, kikombe cha plastiki na programu fikivu</span></div>
         </div>
-        <div class="grid grid-cols-[10rem_1fr] gap-x-3 max-lg:grid-cols-1 max-lg:gap-y-1">
-          <div class="text-[#2f8a34] text-2xl font-bold italic max-lg:text-xl"><span data-id="pg065_n0011">Zingatia:</span></div>
-          <div class="text-2xl leading-snug max-lg:text-xl max-sm:text-lg"><span data-id="pg065_n0012">Usitoe kipimajoto au kipimajoto sauti nje ya maji wakati ukiwa unasoma jotoridi la maji.</span></div>
+        <div class="experiment-meta-row">
+          <div class="experiment-meta-label"><span data-id="pg065_n0011">Zingatia:</span></div>
+          <div class="experiment-meta-value"><span data-id="pg065_n0012">Usitoe kipimajoto au kipimajoto sauti nje ya maji wakati ukiwa unasoma jotoridi la maji.</span></div>
         </div>
         <div class="pt-2 text-[#2f8a34] text-2xl font-bold max-lg:text-xl"><span data-id="pg065_n0013">Hatua</span></div>
         <div class="space-y-4 text-[1.05rem] leading-relaxed max-lg:text-base max-sm:text-[0.95rem]">
           <div class="grid grid-cols-[2.5rem_1fr] gap-x-3">
-            <div class="text-2xl max-lg:text-xl"><span data-id="pg065_n0016">1.</span></div>
+            <div class="text-2xl max-lg:text-xl"><span data-id="pg065_n0016" aria-label="Hatua namba moja">1.</span></div>
             <div class="text-2xl leading-snug max-lg:text-xl max-sm:text-lg"><span data-id="pg065_n0017">Weka kikombe cha plastiki chenye maji juu ya meza.</span></div>
           </div>
           <div class="grid grid-cols-[2.5rem_1fr] gap-x-3">
-            <div class="text-2xl max-lg:text-xl"><span data-id="pg065_n0019">2.</span></div>
+            <div class="text-2xl max-lg:text-xl"><span data-id="pg065_n0019" aria-label="Hatua namba mbili">2.</span></div>
             <div class="text-2xl leading-snug max-lg:text-xl max-sm:text-lg"><span data-id="pg065_n0020">Tumbukiza kipimajoto au kipimajoto sauti ndani ya maji huku umeshikilia kwa juu.</span><span class="ml-2" data-id="pg065_n0021">Kielelezo namba 5 kinaonesha namna ya kupima jotoridi la maji.</span></div>
           </div>
         </div>
@@ -62,11 +79,11 @@
         </div>
         <div class="space-y-4 text-[1.05rem] leading-relaxed max-lg:text-base max-sm:text-[0.95rem]">
           <div class="grid grid-cols-[2.5rem_1fr] gap-x-3">
-            <div class="text-2xl max-lg:text-xl"><span data-id="pg065_n0026">3.</span></div>
+            <div class="text-2xl max-lg:text-xl"><span data-id="pg065_n0026" aria-label="Hatua namba tatu">3.</span></div>
             <div class="text-2xl leading-snug max-lg:text-xl max-sm:text-lg"><span data-id="pg065_n0027">Soma jotoridi la maji.</span><span class="ml-2" data-id="pg065_n0028">Hakikisha unapata msaada wa kusoma jotoridi la maji hayo.</span><span class="ml-2" data-id="pg065_n0029">Rekodi jotoridi.</span></div>
           </div>
           <div class="grid grid-cols-[2.5rem_1fr] gap-x-3">
-            <div class="text-2xl max-lg:text-xl"><span data-id="pg065_n0031">4.</span></div>
+            <div class="text-2xl max-lg:text-xl"><span data-id="pg065_n0031" aria-label="Hatua namba nne">4.</span></div>
             <div class="text-2xl leading-snug max-lg:text-xl max-sm:text-lg"><span data-id="pg065_n0032">Chukua maji ya kwenye kikombe weka kwenye jokofu sehemu ya kugandishia.</span><span class="ml-2" data-id="pg065_n0033">Pima jotoridi la maji kila baada ya dakika 10.</span></div>
           </div>
         </div>
@@ -80,10 +97,10 @@
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=matrix-16082026-final"></script>
+    <script src="./assets/offline-preloader-page65-v2.js?v=hatua-kiswahili-v2"></script>
     <script src="./assets/scorm.js"></script>
-    <script src="./assets/base.bundle.local.js?v=matrix-16082026-final"></script>
-    <script src="./assets/matrix-accessibility.js?v=page27-plan-b-v13" defer></script>
+    <script src="./assets/base.bundle.local.js?v=hatua-kiswahili-v2"></script>
+    <script src="./assets/matrix-accessibility.js?v=hatua-kiswahili-v2" defer></script>
 </body>
 
 </html>

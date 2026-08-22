@@ -16,16 +16,29 @@
 
     <style>
       body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select { font-family: 'Atkinson Hyperlegible','Merriweather',sans-serif; }
+      .review-question {
+        display: grid;
+        grid-template-columns: 3rem minmax(0, 1fr);
+        column-gap: 1rem;
+        align-items: start;
+      }
+      .review-question > [data-id]:first-child { grid-column: 1; grid-row: 1 / span 2; }
+      .review-question > p,
+      .review-question > div { grid-column: 2; padding-left: 0 !important; }
+      @media (max-width: 640px) {
+        .review-question { grid-template-columns: 2.25rem minmax(0, 1fr); column-gap: 0.625rem; }
+      }
     </style></head>
 
 <body class="min-h-screen flex items-center justify-center">
     <main class="w-full">
       <h1 class="sr-only" id="page-heading">Sayansi: Kitabu cha Mwanafunzi, Darasa la Nne</h1>
       <div class="mx-auto max-w-4xl px-10 max-lg:px-8 max-sm:px-4 py-10 max-sm:py-6 opacity-0" id="content">
+  <span data-id="pg068_continuation_audio" class="sr-only">Muendelezo.</span>
   <section class="rounded-[1.5rem] bg-[#d7e8ee] px-10 max-lg:px-8 max-sm:px-5 py-8 max-sm:py-6 text-[#222]" data-section-type="activity_multiple_choice" data-section-id="pg068_sec001">
     <div class="questions space-y-6 max-sm:space-y-5" role="group">
       <div class="space-y-2 book-production-footer">
-        <span data-id="pg068_n0002" class="block text-[2rem] leading-none max-sm:text-[1.6rem]">1.</span>
+        <span data-id="pg068_n0002" aria-label="Swali la kwanza" class="block text-[2rem] leading-none max-sm:text-[1.6rem]">1.</span>
  <div class="space-y-3 pl-14 max-lg:pl-12 max-sm:pl-5 pt-1">
           <label class="activity-option block cursor-pointer">
             <input type="radio" name="question-group-1" value="item-1" data-activity-item="item-1" class="sr-only" tabindex="0" aria-label="Option 1 for question 1">
@@ -50,8 +63,8 @@
         </div>
       </div>
 
-      <div class="space-y-2">
-        <span data-id="pg068_n0012" class="block text-[2rem] leading-none max-sm:text-[1.6rem]">2.</span>
+      <div class="review-question space-y-2">
+        <span data-id="pg068_n0012" aria-label="Swali la pili" class="block text-[2rem] leading-none max-sm:text-[1.6rem]">2.</span>
  <p data-id="pg068_n0013" class="text-[1.25rem] leading-[1.45] max-sm:text-[1.05rem]">Hali ya maada ambayo ina ujazo na umbo maalumu huitwa .</p>
  <div class="space-y-3 pl-14 max-lg:pl-12 max-sm:pl-5 pt-1">
           <label class="activity-option block cursor-pointer">
@@ -77,8 +90,8 @@
         </div>
       </div>
 
-      <div class="space-y-2">
-        <span data-id="pg068_n0023" class="block text-[2rem] leading-none max-sm:text-[1.6rem]">3.</span>
+      <div class="review-question space-y-2">
+        <span data-id="pg068_n0023" aria-label="Swali la tatu" class="block text-[2rem] leading-none max-sm:text-[1.6rem]">3.</span>
  <p data-id="pg068_n0024" class="text-[1.25rem] leading-[1.45] max-sm:text-[1.05rem]">Maji yanaweza kuwa katika hali tatu za maada ambazo ni .</p>
  <div class="space-y-3 pl-14 max-lg:pl-12 max-sm:pl-5 pt-1">
           <label class="activity-option block cursor-pointer">
@@ -104,8 +117,8 @@
         </div>
       </div>
 
-      <div class="space-y-2">
-        <span data-id="pg068_n0034" class="block text-[2rem] leading-none max-sm:text-[1.6rem]">4.</span>
+      <div class="review-question space-y-2">
+        <span data-id="pg068_n0034" aria-label="Swali la nne" class="block text-[2rem] leading-none max-sm:text-[1.6rem]">4.</span>
  <p data-id="pg068_n0035" class="text-[1.25rem] leading-[1.45] max-sm:text-[1.05rem]">Kiwango cha jotoridi la nyuzijoto sentigredi 100 au nyuzijoto farenhaiti 212 katika tabia ya maji huitwa .</p>
  <div class="space-y-3 pl-14 max-lg:pl-12 max-sm:pl-5 pt-1">
           <label class="activity-option block cursor-pointer">
@@ -131,8 +144,8 @@
         </div>
       </div>
 
-      <div class="space-y-2">
-        <span data-id="pg069_n0002" class="block text-[2rem] leading-none max-sm:text-[1.6rem]">5.</span>
+      <div class="review-question space-y-2">
+        <span data-id="pg069_n0002" aria-label="Swali la tano" class="block text-[2rem] leading-none max-sm:text-[1.6rem]">5.</span>
  <p data-id="pg069_n0003" class="text-[1.25rem] leading-[1.45] max-sm:text-[1.05rem]">Maji yakipata joto huchemka na kubadilika kuwa .</p>
  <div class="space-y-3 pl-14 max-lg:pl-12 max-sm:pl-5 pt-1">
           <label class="activity-option block cursor-pointer">
@@ -167,10 +180,10 @@
     </script>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=matrix-16082026-final"></script>
+    <script src="./assets/offline-preloader-page68-v2.js?v=continuation-v3"></script>
     <script src="./assets/scorm.js"></script>
-    <script src="./assets/base.bundle.local.js?v=matrix-16082026-final"></script>
-    <script src="./assets/matrix-accessibility.js?v=page27-plan-b-v13" defer></script>
+    <script src="./assets/base.bundle.local.js?v=continuation-v3"></script>
+    <script src="./assets/matrix-accessibility.js?v=continuation-v3" defer></script>
 </body>
 
 </html>
