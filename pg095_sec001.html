@@ -69,16 +69,16 @@
           <table class="w-full border-collapse">
             <tr>
               <th class="w-[32%] border border-sky-500 p-2 text-left align-middle text-[18px] font-bold text-gray-800 max-sm:min-w-[140px] max-sm:text-base">
-                <span data-id="pg095_n0021">Picha</span>
+                <span>Picha</span>
  </th>
               <th class="w-[22.6%] border border-sky-500 p-2 text-left align-middle text-[18px] font-bold text-gray-800 max-sm:min-w-[165px] max-sm:text-base">
-                <span data-id="pg095_n0023">Inaruhusu mwanga (Angavu)</span>
+                <span>Inaruhusu mwanga (Angavu)</span>
  </th>
               <th class="w-[22.6%] border border-sky-500 p-2 text-left align-middle text-[18px] font-bold text-gray-800 max-sm:min-w-[170px] max-sm:text-base">
-                <span data-id="pg095_n0025">Hairuhusu mwanga (Kinzanuru)</span>
+                <span>Hairuhusu mwanga (Kinzanuru)</span>
  </th>
               <th class="w-[22.6%] border border-sky-500 p-2 text-left align-middle text-[18px] font-bold text-gray-800 max-sm:min-w-[190px] max-sm:text-base">
-                <span data-id="pg095_n0027">Inaruhusu mwanga kiasi (Nusuangavu)</span>
+                <span>Inaruhusu mwanga kiasi (Nusuangavu)</span>
  </th>
             </tr>
             <tr>
@@ -114,10 +114,15 @@
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=matrix-16082026-final"></script>
+    <script src="./assets/offline-preloader.js?v=page96-table-v4"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js?v=matrix-16082026-final"></script>
     <script src="./assets/matrix-accessibility.js?v=page27-plan-b-v13" defer></script>
+    <script>
+      document.querySelectorAll('input[aria-label*="Weka alama"]').forEach(function (input) {
+        input.setAttribute('aria-label', input.getAttribute('aria-label').replace('Weka alama', 'Weka tiki'));
+      });
+    </script>
 </body>
 
 </html>

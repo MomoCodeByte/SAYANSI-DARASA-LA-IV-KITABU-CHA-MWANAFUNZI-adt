@@ -34,20 +34,20 @@
 
         <div class="relative bg-amber-50 p-3 max-sm:p-2 w-full">
           <span class="absolute top-2 left-2 z-10 text-[20px] max-sm:text-[18px] leading-none" data-id="pg107_n0008">(b)</span>
- <img src="images/pg107_im003.jpg" data-id="pg107_im003" alt="(b)" class="block max-w-full h-auto pt-4 mx-auto" style="max-width: 100%; height: auto;">
- <span data-id="pg107_im003_audio_desc" class="sr-only image-audio-description">Picha A. (b)</span></div>
+ <img src="images/pg107_im003.jpg" data-id="pg107_im003" alt="Mtoto ameketi kwenye kigoda akipiga filimbi. Mwanamke, mwanaume na mwanafunzi wa kike wamesimama wakimsikiliza." class="block max-w-full h-auto pt-4 mx-auto" style="max-width: 100%; height: auto;">
+ <span data-id="pg107_im003_audio_desc" class="sr-only image-audio-description">Picha be. Mtoto ameketi kwenye kigoda akipiga filimbi. Mwanamke, mwanaume na mwanafunzi wa kike wamesimama wakimsikiliza.</span></div>
       </div>
 
       <div class="grid grid-cols-2 max-sm:grid-cols-1 gap-6 max-sm:gap-3 items-start mb-3 max-sm:mb-2">
         <div class="relative bg-amber-50 p-3 max-sm:p-2 w-full">
           <span class="absolute top-2 left-2 z-10 text-[20px] max-sm:text-[18px] leading-none" data-id="pg107_n0010">(a)</span>
- <img src="images/pg107_im001.jpg" data-id="pg107_im001" alt="(a)" class="block max-w-full h-auto pt-4 mx-auto" style="max-width: 100%; height: auto;">
- <span data-id="pg107_im001_audio_desc" class="sr-only image-audio-description">Picha B. (a)</span></div>
+ <img src="images/pg107_im001.jpg" data-id="pg107_im001" alt="Wanafunzi watatu wako uwanjani. Mwanafunzi mmoja anapiga ngoma. Wanafunzi wawili waliofunga vibwebwe kiunoni wanacheza; mmoja ni wa kiume na mwingine ni wa kike." class="block max-w-full h-auto pt-4 mx-auto" style="max-width: 100%; height: auto;">
+ <span data-id="pg107_im001_audio_desc" class="sr-only image-audio-description">Picha aa. Wanafunzi watatu wako uwanjani. Mwanafunzi mmoja anapiga ngoma. Wanafunzi wawili waliofunga vibwebwe kiunoni wanacheza; mmoja ni wa kiume na mwingine ni wa kike.</span></div>
 
         <div class="relative bg-sky-50 p-3 max-sm:p-2 w-full">
           <span class="absolute top-2 left-2 z-10 text-[20px] max-sm:text-[18px] leading-none" data-id="pg107_n0012">(c)</span>
- <img src="images/pg107_im002.jpg" data-id="pg107_im002" alt="(c)" class="block max-w-full h-auto pt-4 mx-auto" style="max-width: 100%; height: auto;">
- <span data-id="pg107_im002_audio_desc" class="sr-only image-audio-description">Picha C. (c)</span></div>
+ <img src="images/pg107_im002.jpg" data-id="pg107_im002" alt="Msichana ameketi chini huku akiwa ameshika na kupiga gitaa." class="block max-w-full h-auto pt-4 mx-auto" style="max-width: 100%; height: auto;">
+ <span data-id="pg107_im002_audio_desc" class="sr-only image-audio-description">Picha che. Msichana ameketi chini huku akiwa ameshika na kupiga gitaa.</span></div>
       </div>
 
       <p class="text-center text-[24px] max-lg:text-[20px] max-sm:text-[18px] italic leading-tight max-sm:mt-2">
@@ -118,9 +118,14 @@
     </script>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=matrix-16082026-final"></script>
+    <script src="./assets/offline-preloader.js?v=page108-pictures-v2"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js?v=matrix-16082026-final"></script>
+    <script>
+      ['pg107_n0010', 'pg107_n0012', 'pg107_im001', 'pg107_im002', 'pg107_im003', 'pg107_im001_audio_desc', 'pg107_im002_audio_desc', 'pg107_im003_audio_desc'].forEach(function (id) {
+        document.querySelector('[data-id="' + id + '"]')?.removeAttribute('data-id');
+      });
+    </script>
     <script src="./assets/matrix-accessibility.js?v=page27-plan-b-v13" defer></script>
 </body>
 

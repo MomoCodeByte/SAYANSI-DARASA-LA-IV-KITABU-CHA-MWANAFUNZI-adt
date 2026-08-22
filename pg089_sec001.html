@@ -7,6 +7,12 @@
     <title>Sayansi: Kitabu cha Mwanafunzi, Darasa la Nne</title>
     <meta name="title-id" content="pg089_sec001">
     <meta name="page-section-id" content="90">
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const duplicateTableImage = document.querySelector('img[data-id="pg089_im002"]');
+        duplicateTableImage?.closest('.mb-6.text-center')?.remove();
+      });
+    </script>
     <link href="./content/tailwind_output.css" rel="stylesheet">
     <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="./assets/fonts.css?v=matrix-16082026-final" rel="stylesheet">
@@ -71,10 +77,16 @@
     </script>
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=matrix-16082026-final"></script>
+    <script src="./assets/offline-preloader.js?v=page90-table-v6"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js?v=matrix-16082026-final"></script>
     <script src="./assets/matrix-accessibility.js?v=page27-plan-b-v13" defer></script>
+    <script>
+      document.getElementById('temp1')?.setAttribute('aria-label', 'Sawa na sentigredi ngapi?');
+      document.getElementById('result1')?.setAttribute('aria-label', 'Andika matokeo');
+      document.getElementById('temp2')?.setAttribute('aria-label', 'Sawa na sentigredi ngapi?');
+      document.getElementById('result2')?.setAttribute('aria-label', 'Andika matokeo');
+    </script>
 </body>
 
 </html>
