@@ -68288,34 +68288,34 @@
             "display_index": 0
           },
           {
-            "text": "sii",
+            "text": "che",
             "start": 0.6947,
-            "end": 1.0105,
-            "display_index": 1
+            "end": 0.8921,
+            "display_index": 0
           },
           {
             "text": "Maswali",
-            "start": 1.1158,
-            "end": 1.5895,
-            "display_index": 2
+            "start": 1.0105,
+            "end": 1.4842,
+            "display_index": 0
           },
           {
             "text": "ya",
-            "start": 1.6158,
-            "end": 1.6816,
-            "display_index": 3
+            "start": 1.5105,
+            "end": 1.5763,
+            "display_index": 0
           },
           {
             "text": "majibu",
-            "start": 1.7079,
-            "end": 2.1553,
-            "display_index": 4
+            "start": 1.6026,
+            "end": 2.05,
+            "display_index": 0
           },
           {
             "text": "mafupi",
-            "start": 2.1816,
-            "end": 2.7737,
-            "display_index": 5
+            "start": 2.0763,
+            "end": 2.6685,
+            "display_index": 0
           }
         ]
       }
@@ -254670,39 +254670,39 @@
         "word_timestamps": [
           {
             "text": "Sehemu",
-            "start": 0,
-            "end": 0.8999999761581421,
+            "start": 0.1684,
+            "end": 0.5895,
             "display_index": 0
           },
           {
-            "text": "C",
-            "start": 0.8999999761581421,
-            "end": 1.1799999475479126,
-            "display_index": 1
+            "text": "che",
+            "start": 0.6947,
+            "end": 0.8921,
+            "display_index": 0
           },
           {
             "text": "Maswali",
-            "start": 2.0999999046325684,
-            "end": 2.7200000286102295,
-            "display_index": 1
+            "start": 1.0105,
+            "end": 1.4842,
+            "display_index": 0
           },
           {
             "text": "ya",
-            "start": 2.7200000286102295,
-            "end": 3.2799999713897705,
-            "display_index": 2
+            "start": 1.5105,
+            "end": 1.5763,
+            "display_index": 0
           },
           {
             "text": "majibu",
-            "start": 3.2799999713897705,
-            "end": 3.740000009536743,
-            "display_index": 3
+            "start": 1.6026,
+            "end": 2.05,
+            "display_index": 0
           },
           {
             "text": "mafupi",
-            "start": 3.740000009536743,
-            "end": 4.239999771118164,
-            "display_index": 4
+            "start": 2.0763,
+            "end": 2.6685,
+            "display_index": 0
           }
         ]
       }
