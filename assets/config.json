@@ -1,6 +1,6 @@
 {
   "title": "Sayansi: Kitabu cha Mwanafunzi, Darasa la Nne",
-  "bundleVersion": "multi-panel-audio-20260815",
+  "bundleVersion": "science-accessibility-20260823-v3",
   "languages": {
     "available": [
       "sw-TZ"
@@ -13,7 +13,7 @@
     "glossary": true,
     "eli5": false,
     "readAloud": true,
-    "autoplay": false,
+    "autoplay": true,
     "showTutorial": true,
     "showNavigationControls": true,
     "describeImages": true,

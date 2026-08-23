@@ -91,10 +91,28 @@
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=matrix-16082026-final"></script>
+    <script src="./assets/offline-preloader.js?v=page129-swahili-form-label-v2"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/base.bundle.local.js?v=matrix-16082026-final"></script>
-    <script src="./assets/matrix-accessibility.js?v=page27-plan-b-v13" defer></script>
+    <script src="./assets/matrix-accessibility.js?v=activity-form-sw-v17" defer></script>
+    <script>
+      (function labelActivityFormInSwahili() {
+        function updateLabel() {
+          document.querySelectorAll('form, [role="form"]').forEach(function (form) {
+            if (form.getAttribute('aria-label') === 'Open-ended answer activity') {
+              form.setAttribute('aria-label', 'Zoezi la kujibu maswali');
+            }
+          });
+        }
+        updateLabel();
+        new MutationObserver(updateLabel).observe(document.documentElement, {
+          childList: true,
+          subtree: true,
+          attributes: true,
+          attributeFilter: ['aria-label']
+        });
+      })();
+    </script>
 </body>
 
 </html>

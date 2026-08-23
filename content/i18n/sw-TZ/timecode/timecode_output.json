@@ -134407,86 +134407,44 @@
           {
             "text": "Programu",
             "start": 0.1684,
-            "end": 0.6684,
+            "end": 0.6421,
             "display_index": 0
           },
           {
-            "text": "hii",
-            "start": 0.7605,
+            "text": "hizi",
+            "start": 0.7342,
             "end": 0.9974,
             "display_index": 1
           },
           {
-            "text": "inaweza",
-            "start": 1.0237,
-            "end": 1.5105,
+            "text": "zinaweza",
+            "start": 1.0368,
+            "end": 1.6026,
             "display_index": 2
           },
           {
             "text": "kupakuliwa",
-            "start": 1.5368,
-            "end": 2.2079,
+            "start": 1.629,
+            "end": 2.3263,
             "display_index": 3
           },
           {
-            "text": "kutoka",
-            "start": 2.2342,
-            "end": 2.6421,
+            "text": "kupitia",
+            "start": 2.3526,
+            "end": 2.879,
             "display_index": 4
           },
           {
-            "text": "echititipi",
-            "start": 2.6816,
-            "end": 3.4842,
+            "text": "viungo",
+            "start": 2.9053,
+            "end": 3.3,
             "display_index": 5
           },
           {
-            "text": "auu",
-            "start": 3.6553,
-            "end": 4.0237,
+            "text": "vifuatavyo",
+            "start": 3.3395,
+            "end": 4.1947,
             "display_index": 6
-          },
-          {
-            "text": "scratch",
-            "start": 4.0632,
-            "end": 4.5895,
-            "display_index": 7
-          },
-          {
-            "text": "auu",
-            "start": 4.6421,
-            "end": 4.9711,
-            "display_index": 8
-          },
-          {
-            "text": "Kuramu",
-            "start": 5.0105,
-            "end": 5.5369,
-            "display_index": 9
-          },
-          {
-            "text": "mit",
-            "start": 5.6421,
-            "end": 6.0105,
-            "display_index": 10
-          },
-          {
-            "text": "edu",
-            "start": 6.1421,
-            "end": 6.4711,
-            "display_index": 11
-          },
-          {
-            "text": "auu",
-            "start": 6.5105,
-            "end": 6.8395,
-            "display_index": 11
-          },
-          {
-            "text": "download",
-            "start": 6.879,
-            "end": 7.55,
-            "display_index": 11
           }
         ]
       }
@@ -142046,57 +142004,57 @@
             "display_index": 0
           },
           {
-            "text": "umeona",
-            "start": 0.6026,
-            "end": 1.0895,
+            "text": "umechunguza",
+            "start": 0.6158,
+            "end": 1.3921,
             "display_index": 1
           },
           {
             "text": "auu",
-            "start": 1.129,
-            "end": 1.4842,
+            "start": 1.4316,
+            "end": 1.7868,
             "display_index": 2
           },
           {
             "text": "umesikia",
-            "start": 1.5237,
-            "end": 2.1815,
+            "start": 1.8263,
+            "end": 2.4842,
             "display_index": 3
           },
           {
             "text": "auu",
-            "start": 2.221,
-            "end": 2.5632,
+            "start": 2.5237,
+            "end": 2.8658,
             "display_index": 4
           },
           {
             "text": "umehisi",
-            "start": 2.6026,
-            "end": 3.0895,
+            "start": 2.9053,
+            "end": 3.4053,
             "display_index": 5
           },
           {
             "text": "nini",
-            "start": 3.129,
-            "end": 3.3921,
+            "start": 3.4447,
+            "end": 3.7079,
             "display_index": 6
           },
           {
             "text": "ulipocheza",
-            "start": 3.4184,
-            "end": 4.0895,
+            "start": 3.7342,
+            "end": 4.4052,
             "display_index": 7
           },
           {
             "text": "mchezo",
-            "start": 4.129,
-            "end": 4.5632,
+            "start": 4.4447,
+            "end": 4.879,
             "display_index": 8
           },
           {
             "text": "huu",
-            "start": 4.5895,
-            "end": 4.8789,
+            "start": 4.9052,
+            "end": 5.1947,
             "display_index": 9
           }
         ]
@@ -320537,34 +320495,58 @@
       {
         "word_timestamps": [
           {
-            "text": "Umeona",
-            "start": 0,
-            "end": 0.7400000095367432,
+            "text": "Umechunguza",
+            "start": 0.1948,
+            "end": 0.8395,
             "display_index": 0
           },
           {
-            "text": "nini",
-            "start": 0.7400000095367432,
-            "end": 1.2200000286102295,
+            "text": "auu",
+            "start": 0.971,
+            "end": 1.3263,
             "display_index": 1
           },
           {
-            "text": "ulipocheza",
-            "start": 1.2200000286102295,
-            "end": 2.059999942779541,
+            "text": "umesikia",
+            "start": 1.3526,
+            "end": 1.9974,
             "display_index": 2
           },
           {
-            "text": "mchezo",
-            "start": 2.059999942779541,
-            "end": 2.5799999237060547,
+            "text": "auu",
+            "start": 2.0368,
+            "end": 2.3921,
             "display_index": 3
           },
           {
-            "text": "huu",
-            "start": 2.5799999237060547,
-            "end": 2.9000000953674316,
+            "text": "umehisi",
+            "start": 2.4316,
+            "end": 2.9184,
             "display_index": 4
+          },
+          {
+            "text": "nini",
+            "start": 2.9579,
+            "end": 3.221,
+            "display_index": 5
+          },
+          {
+            "text": "ulipocheza",
+            "start": 3.2474,
+            "end": 3.9184,
+            "display_index": 6
+          },
+          {
+            "text": "mchezo",
+            "start": 3.9579,
+            "end": 4.3921,
+            "display_index": 7
+          },
+          {
+            "text": "huu",
+            "start": 4.4184,
+            "end": 4.6816,
+            "display_index": 8
           }
         ]
       }
@@ -349102,110 +349084,230 @@
           {
             "text": "Maelezo",
             "start": 0.1948,
-            "end": 0.6026,
+            "end": 0.5895,
             "display_index": 0
           },
           {
             "text": "ya",
-            "start": 0.721,
-            "end": 0.8263,
+            "start": 0.7079,
+            "end": 0.8,
             "display_index": 1
           },
           {
-            "text": "picha",
-            "start": 0.8526,
-            "end": 1.221,
+            "text": "programu",
+            "start": 0.8263,
+            "end": 1.379,
             "display_index": 2
           },
           {
-            "text": "Bloku",
-            "start": 1.379,
-            "end": 1.7737,
+            "text": "fikivu",
+            "start": 1.4184,
+            "end": 1.879,
             "display_index": 3
           },
           {
             "text": "ya",
-            "start": 1.8,
-            "end": 1.879,
+            "start": 1.9184,
+            "end": 2.0105,
             "display_index": 4
           },
           {
-            "text": "ikiwa",
-            "start": 1.9053,
-            "end": 2.2737,
+            "text": "Kuramu",
+            "start": 2.0368,
+            "end": 2.5368,
             "display_index": 5
           },
           {
-            "text": "basi",
-            "start": 2.3,
-            "end": 2.6421,
+            "text": "Mchoro",
+            "start": 2.6816,
+            "end": 3.1026,
             "display_index": 6
           },
           {
-            "text": "imeunganishwa",
-            "start": 2.6816,
-            "end": 3.4316,
+            "text": "unaonesha",
+            "start": 3.1421,
+            "end": 3.7605,
             "display_index": 7
           },
           {
-            "text": "katika",
-            "start": 3.4579,
-            "end": 3.8789,
+            "text": "bloku",
+            "start": 3.8,
+            "end": 4.1947,
             "display_index": 8
           },
           {
-            "text": "eneo",
-            "start": 3.9053,
-            "end": 4.2079,
+            "text": "ya",
+            "start": 4.2342,
+            "end": 4.3132,
             "display_index": 9
           },
           {
-            "text": "la",
-            "start": 4.2342,
-            "end": 4.3658,
+            "text": "ikiwa",
+            "start": 4.3395,
+            "end": 4.7079,
             "display_index": 10
           },
           {
-            "text": "kuandikia",
-            "start": 4.4052,
-            "end": 5.05,
+            "text": "basi",
+            "start": 4.7342,
+            "end": 5.0895,
             "display_index": 11
           },
           {
-            "text": "ili",
-            "start": 5.0895,
-            "end": 5.3526,
+            "text": "ikihamishwa",
+            "start": 5.1158,
+            "end": 5.8,
             "display_index": 12
           },
           {
-            "text": "programu",
-            "start": 5.3921,
-            "end": 5.9843,
+            "text": "kutoka",
+            "start": 5.8263,
+            "end": 6.2079,
             "display_index": 13
           },
           {
-            "text": "ifanye",
-            "start": 6.0237,
-            "end": 6.3789,
+            "text": "menyu",
+            "start": 6.2474,
+            "end": 6.5237,
             "display_index": 14
           },
           {
-            "text": "kitendo",
-            "start": 6.4184,
-            "end": 6.8526,
+            "text": "ya",
+            "start": 6.55,
+            "end": 6.629,
             "display_index": 15
           },
           {
-            "text": "masharti",
-            "start": 6.8921,
-            "end": 7.4447,
+            "text": "Kidhibiti",
+            "start": 6.6552,
+            "end": 7.2737,
             "display_index": 16
           },
           {
-            "text": "yanapotimia",
-            "start": 7.471,
-            "end": 8.4184,
+            "text": "kwenda",
+            "start": 7.3132,
+            "end": 7.6026,
             "display_index": 17
+          },
+          {
+            "text": "eneo",
+            "start": 7.629,
+            "end": 7.9316,
+            "display_index": 18
+          },
+          {
+            "text": "la",
+            "start": 7.9579,
+            "end": 8.0763,
+            "display_index": 19
+          },
+          {
+            "text": "kuandikia",
+            "start": 8.1158,
+            "end": 8.7342,
+            "display_index": 20
+          },
+          {
+            "text": "chini",
+            "start": 8.7737,
+            "end": 9.0763,
+            "display_index": 21
+          },
+          {
+            "text": "ya",
+            "start": 9.1026,
+            "end": 9.1684,
+            "display_index": 22
+          },
+          {
+            "text": "bloku",
+            "start": 9.1948,
+            "end": 9.6026,
+            "display_index": 23
+          },
+          {
+            "text": "ya",
+            "start": 9.6421,
+            "end": 9.7342,
+            "display_index": 24
+          },
+          {
+            "text": "kuanza",
+            "start": 9.7605,
+            "end": 10.3,
+            "display_index": 25
+          },
+          {
+            "text": "Katika",
+            "start": 11.2763,
+            "end": 11.5658,
+            "display_index": 26
+          },
+          {
+            "text": "Kuramu",
+            "start": 11.671,
+            "end": 12.2105,
+            "display_index": 27
+          },
+          {
+            "text": "kauli",
+            "start": 12.3158,
+            "end": 12.671,
+            "display_index": 28
+          },
+          {
+            "text": "ya",
+            "start": 12.6974,
+            "end": 12.7632,
+            "display_index": 29
+          },
+          {
+            "text": "ikiwa",
+            "start": 12.7895,
+            "end": 13.1579,
+            "display_index": 30
+          },
+          {
+            "text": "huamuru",
+            "start": 13.1842,
+            "end": 13.75,
+            "display_index": 31
+          },
+          {
+            "text": "programu",
+            "start": 13.7895,
+            "end": 14.3947,
+            "display_index": 32
+          },
+          {
+            "text": "kutekeleza",
+            "start": 14.421,
+            "end": 15.1316,
+            "display_index": 33
+          },
+          {
+            "text": "kitendo",
+            "start": 15.171,
+            "end": 15.6447,
+            "display_index": 34
+          },
+          {
+            "text": "pale",
+            "start": 15.6842,
+            "end": 15.9737,
+            "display_index": 35
+          },
+          {
+            "text": "sharti",
+            "start": 16.0,
+            "end": 16.4079,
+            "display_index": 36
+          },
+          {
+            "text": "linapotimia",
+            "start": 16.4342,
+            "end": 17.3947,
+            "display_index": 37
           }
         ]
       }
@@ -349218,111 +349320,225 @@
         "word_timestamps": [
           {
             "text": "Maelezo",
-            "start": 0.1948,
-            "end": 0.6158,
+            "start": 0.1684,
+            "end": 0.5895,
             "display_index": 0
           },
           {
             "text": "ya",
-            "start": 0.7342,
-            "end": 0.8395,
+            "start": 0.6816,
+            "end": 0.7737,
             "display_index": 1
           },
           {
-            "text": "picha",
-            "start": 0.8658,
-            "end": 1.2342,
+            "text": "programu",
+            "start": 0.8,
+            "end": 1.3526,
             "display_index": 2
           },
           {
-            "text": "Bloku",
-            "start": 1.4184,
-            "end": 1.8263,
+            "text": "fikivu",
+            "start": 1.3921,
+            "end": 1.8527,
             "display_index": 3
           },
           {
             "text": "ya",
-            "start": 1.8526,
-            "end": 1.9579,
+            "start": 1.8921,
+            "end": 1.9711,
             "display_index": 4
           },
           {
-            "text": "kubwa",
-            "start": 1.9842,
-            "end": 2.3132,
+            "text": "Kuramu",
+            "start": 1.9974,
+            "end": 2.5105,
             "display_index": 5
           },
           {
-            "text": "kuliko",
-            "start": 2.3395,
-            "end": 2.7737,
+            "text": "Opereta",
+            "start": 2.6553,
+            "end": 3.221,
             "display_index": 6
           },
           {
-            "text": "imewekwa",
-            "start": 2.8,
-            "end": 3.3263,
+            "text": "ya",
+            "start": 3.2474,
+            "end": 3.3395,
             "display_index": 7
           },
           {
-            "text": "ndani",
-            "start": 3.3526,
-            "end": 3.6684,
+            "text": "kubwa",
+            "start": 3.3658,
+            "end": 3.6816,
             "display_index": 8
           },
           {
-            "text": "ya",
-            "start": 3.6947,
-            "end": 3.7605,
+            "text": "kuliko",
+            "start": 3.7079,
+            "end": 4.1421,
             "display_index": 9
           },
           {
-            "text": "bloku",
-            "start": 3.7868,
-            "end": 4.1947,
+            "text": "yenye",
+            "start": 4.1684,
+            "end": 4.4052,
             "display_index": 10
           },
           {
-            "text": "ya",
-            "start": 4.2342,
-            "end": 4.3263,
+            "text": "thamani",
+            "start": 4.4316,
+            "end": 4.8526,
             "display_index": 11
           },
           {
-            "text": "ikiwa",
-            "start": 4.3526,
-            "end": 4.721,
+            "text": "ya",
+            "start": 4.879,
+            "end": 4.9579,
             "display_index": 12
           },
           {
-            "text": "basi",
-            "start": 4.7474,
-            "end": 5.1158,
+            "text": "hamsini",
+            "start": 4.9842,
+            "end": 5.4974,
             "display_index": 13
           },
           {
-            "text": "ili",
-            "start": 5.1552,
-            "end": 5.4052,
+            "text": "imewekwa",
+            "start": 5.5237,
+            "end": 6.0368,
             "display_index": 14
           },
           {
-            "text": "kulinganisha",
-            "start": 5.4447,
-            "end": 6.1421,
+            "text": "ndani",
+            "start": 6.0632,
+            "end": 6.3658,
             "display_index": 15
           },
           {
-            "text": "thamani",
-            "start": 6.1684,
-            "end": 6.6026,
+            "text": "ya",
+            "start": 6.3921,
+            "end": 6.4711,
             "display_index": 16
           },
           {
-            "text": "mbili",
-            "start": 6.629,
-            "end": 7.0105,
+            "text": "sharti",
+            "start": 6.4974,
+            "end": 6.9184,
             "display_index": 17
+          },
+          {
+            "text": "la",
+            "start": 6.9447,
+            "end": 7.0369,
+            "display_index": 18
+          },
+          {
+            "text": "ikiwa",
+            "start": 7.0763,
+            "end": 7.4185,
+            "display_index": 19
+          },
+          {
+            "text": "basi",
+            "start": 7.4447,
+            "end": 7.8921,
+            "display_index": 20
+          },
+          {
+            "text": "Katika",
+            "start": 8.8552,
+            "end": 9.1579,
+            "display_index": 21
+          },
+          {
+            "text": "Kuramu",
+            "start": 9.25,
+            "end": 9.8026,
+            "display_index": 22
+          },
+          {
+            "text": "opereta",
+            "start": 9.9342,
+            "end": 10.5132,
+            "display_index": 23
+          },
+          {
+            "text": "huyo",
+            "start": 10.5395,
+            "end": 10.8289,
+            "display_index": 24
+          },
+          {
+            "text": "hulinganisha",
+            "start": 10.8552,
+            "end": 11.5526,
+            "display_index": 25
+          },
+          {
+            "text": "thamani",
+            "start": 11.579,
+            "end": 12.0,
+            "display_index": 26
+          },
+          {
+            "text": "mbili",
+            "start": 12.0263,
+            "end": 12.329,
+            "display_index": 27
+          },
+          {
+            "text": "na",
+            "start": 12.3552,
+            "end": 12.4737,
+            "display_index": 28
+          },
+          {
+            "text": "amri",
+            "start": 12.5,
+            "end": 12.8158,
+            "display_index": 29
+          },
+          {
+            "text": "hutekelezwa",
+            "start": 12.8421,
+            "end": 13.6185,
+            "display_index": 30
+          },
+          {
+            "text": "tu",
+            "start": 13.6579,
+            "end": 13.8158,
+            "display_index": 31
+          },
+          {
+            "text": "ikiwa",
+            "start": 13.8552,
+            "end": 14.1974,
+            "display_index": 32
+          },
+          {
+            "text": "ulinganisho",
+            "start": 14.2368,
+            "end": 14.8816,
+            "display_index": 33
+          },
+          {
+            "text": "ni",
+            "start": 14.9079,
+            "end": 15.0131,
+            "display_index": 34
+          },
+          {
+            "text": "wa",
+            "start": 15.0395,
+            "end": 15.1316,
+            "display_index": 35
+          },
+          {
+            "text": "kweli",
+            "start": 15.1579,
+            "end": 15.5395,
+            "display_index": 36
           }
         ]
       }
@@ -349335,99 +349551,207 @@
         "word_timestamps": [
           {
             "text": "Maelezo",
-            "start": 0.1816,
+            "start": 0.1684,
             "end": 0.5763,
             "display_index": 0
           },
           {
             "text": "ya",
-            "start": 0.6816,
-            "end": 0.7868,
+            "start": 0.6684,
+            "end": 0.7474,
             "display_index": 1
           },
           {
-            "text": "picha",
-            "start": 0.8132,
-            "end": 1.1684,
+            "text": "programu",
+            "start": 0.7737,
+            "end": 1.3263,
             "display_index": 2
           },
           {
-            "text": "Bloku",
-            "start": 1.3263,
-            "end": 1.7211,
+            "text": "fikivu",
+            "start": 1.3658,
+            "end": 1.8,
             "display_index": 3
           },
           {
             "text": "ya",
-            "start": 1.7474,
-            "end": 1.8395,
+            "start": 1.8395,
+            "end": 1.9316,
             "display_index": 4
           },
           {
-            "text": "kucheza",
-            "start": 1.8658,
-            "end": 2.3,
+            "text": "Kuramu",
+            "start": 1.9579,
+            "end": 2.471,
             "display_index": 5
           },
           {
-            "text": "sauti",
-            "start": 2.3263,
-            "end": 2.8,
+            "text": "Sharti",
+            "start": 2.5895,
+            "end": 2.9973,
             "display_index": 6
           },
           {
-            "text": "hadi",
-            "start": 2.8263,
-            "end": 3.129,
+            "text": "linauliza",
+            "start": 3.0237,
+            "end": 3.6421,
             "display_index": 7
           },
           {
-            "text": "ikamilike",
-            "start": 3.1684,
-            "end": 3.8395,
+            "text": "kama",
+            "start": 3.6816,
+            "end": 3.971,
             "display_index": 8
           },
           {
-            "text": "imewekwa",
-            "start": 3.8658,
-            "end": 4.3921,
+            "text": "kumi",
+            "start": 4.0105,
+            "end": 4.2869,
             "display_index": 9
           },
           {
-            "text": "ndani",
-            "start": 4.4184,
-            "end": 4.7342,
+            "text": "ni",
+            "start": 4.3132,
+            "end": 4.4053,
             "display_index": 10
           },
           {
-            "text": "ya",
-            "start": 4.7605,
-            "end": 4.8263,
+            "text": "kubwa",
+            "start": 4.4447,
+            "end": 4.7474,
             "display_index": 11
           },
           {
-            "text": "bloku",
-            "start": 4.8526,
-            "end": 5.2605,
+            "text": "kuliko",
+            "start": 4.7737,
+            "end": 5.1552,
             "display_index": 12
           },
           {
-            "text": "ya",
-            "start": 5.3,
-            "end": 5.3658,
+            "text": "sita",
+            "start": 5.1816,
+            "end": 5.6158,
             "display_index": 13
           },
           {
-            "text": "ikiwa",
-            "start": 5.3921,
-            "end": 5.7474,
+            "text": "na",
+            "start": 5.7474,
+            "end": 5.8658,
             "display_index": 14
           },
           {
-            "text": "basi",
-            "start": 5.7737,
-            "end": 6.221,
+            "text": "ndani",
+            "start": 5.8921,
+            "end": 6.2079,
             "display_index": 15
+          },
+          {
+            "text": "yake",
+            "start": 6.2342,
+            "end": 6.5237,
+            "display_index": 16
+          },
+          {
+            "text": "kuna",
+            "start": 6.5632,
+            "end": 6.8263,
+            "display_index": 17
+          },
+          {
+            "text": "amri",
+            "start": 6.8526,
+            "end": 7.1552,
+            "display_index": 18
+          },
+          {
+            "text": "ya",
+            "start": 7.1816,
+            "end": 7.2605,
+            "display_index": 19
+          },
+          {
+            "text": "kucheza",
+            "start": 7.2868,
+            "end": 7.7079,
+            "display_index": 20
+          },
+          {
+            "text": "sauti",
+            "start": 7.7342,
+            "end": 8.1816,
+            "display_index": 21
+          },
+          {
+            "text": "ya",
+            "start": 8.2079,
+            "end": 8.2868,
+            "display_index": 22
+          },
+          {
+            "text": "paka",
+            "start": 8.3263,
+            "end": 8.629,
+            "display_index": 23
+          },
+          {
+            "text": "hadi",
+            "start": 8.6553,
+            "end": 8.9184,
+            "display_index": 24
+          },
+          {
+            "text": "ikamilike",
+            "start": 8.9579,
+            "end": 9.7079,
+            "display_index": 25
+          },
+          {
+            "text": "Katika",
+            "start": 10.671,
+            "end": 10.9737,
+            "display_index": 26
+          },
+          {
+            "text": "Kuramu",
+            "start": 11.0658,
+            "end": 11.6052,
+            "display_index": 27
+          },
+          {
+            "text": "amri",
+            "start": 11.7105,
+            "end": 12.0263,
+            "display_index": 28
+          },
+          {
+            "text": "hiyo",
+            "start": 12.0526,
+            "end": 12.3026,
+            "display_index": 29
+          },
+          {
+            "text": "hutekelezwa",
+            "start": 12.329,
+            "end": 13.0921,
+            "display_index": 30
+          },
+          {
+            "text": "sharti",
+            "start": 13.1184,
+            "end": 13.5263,
+            "display_index": 31
+          },
+          {
+            "text": "likiwa",
+            "start": 13.5526,
+            "end": 13.9737,
+            "display_index": 32
+          },
+          {
+            "text": "kweli",
+            "start": 14.0,
+            "end": 14.3816,
+            "display_index": 33
           }
         ]
       }
@@ -349451,70 +349775,208 @@
             "display_index": 1
           },
           {
-            "text": "picha",
+            "text": "programu",
             "start": 0.8263,
-            "end": 1.1685,
+            "end": 1.379,
             "display_index": 2
           },
           {
-            "text": "Programu",
-            "start": 1.3,
-            "end": 1.879,
+            "text": "fikivu",
+            "start": 1.4184,
+            "end": 1.8921,
             "display_index": 3
           },
           {
-            "text": "iliyokamilika",
-            "start": 1.9184,
-            "end": 2.7737,
+            "text": "ya",
+            "start": 1.9316,
+            "end": 2.0237,
             "display_index": 4
           },
           {
-            "text": "hucheza",
-            "start": 2.8,
-            "end": 3.2079,
+            "text": "Kuramu",
+            "start": 2.05,
+            "end": 2.5368,
             "display_index": 5
           },
           {
-            "text": "sauti",
-            "start": 3.2342,
-            "end": 3.7079,
+            "text": "Programu",
+            "start": 2.6421,
+            "end": 3.2211,
             "display_index": 6
           },
           {
-            "text": "pale",
-            "start": 3.7474,
-            "end": 4.0368,
+            "text": "iliyokamilika",
+            "start": 3.2605,
+            "end": 4.129,
             "display_index": 7
           },
           {
-            "text": "hali",
-            "start": 4.0632,
-            "end": 4.3658,
+            "text": "inalinganisha",
+            "start": 4.1552,
+            "end": 4.9316,
             "display_index": 8
           },
           {
-            "text": "iliyowekwa",
-            "start": 4.4052,
-            "end": 4.9974,
+            "text": "kumi",
+            "start": 4.971,
+            "end": 5.2474,
             "display_index": 9
           },
           {
-            "text": "inapokuwa",
-            "start": 5.0237,
-            "end": 5.6158,
+            "text": "na",
+            "start": 5.2737,
+            "end": 5.3526,
             "display_index": 10
           },
           {
-            "text": "ya",
-            "start": 5.6421,
-            "end": 5.7343,
+            "text": "sita",
+            "start": 5.379,
+            "end": 5.8526,
             "display_index": 11
           },
           {
-            "text": "kweli",
-            "start": 5.7605,
-            "end": 6.1421,
+            "text": "Kwa",
+            "start": 6.829,
+            "end": 6.829,
             "display_index": 12
+          },
+          {
+            "text": "kuwa",
+            "start": 6.921,
+            "end": 7.1842,
+            "display_index": 13
+          },
+          {
+            "text": "kumi",
+            "start": 7.2105,
+            "end": 7.5132,
+            "display_index": 14
+          },
+          {
+            "text": "ni",
+            "start": 7.5395,
+            "end": 7.6447,
+            "display_index": 15
+          },
+          {
+            "text": "kubwa",
+            "start": 7.6842,
+            "end": 7.9868,
+            "display_index": 16
+          },
+          {
+            "text": "kuliko",
+            "start": 8.0132,
+            "end": 8.421,
+            "display_index": 17
+          },
+          {
+            "text": "sita",
+            "start": 8.4474,
+            "end": 8.8947,
+            "display_index": 18
+          },
+          {
+            "text": "sharti",
+            "start": 9.0,
+            "end": 9.4605,
+            "display_index": 19
+          },
+          {
+            "text": "ni",
+            "start": 9.4868,
+            "end": 9.5921,
+            "display_index": 20
+          },
+          {
+            "text": "kweli",
+            "start": 9.6316,
+            "end": 9.9474,
+            "display_index": 21
+          },
+          {
+            "text": "na",
+            "start": 9.9737,
+            "end": 10.0526,
+            "display_index": 22
+          },
+          {
+            "text": "sauti",
+            "start": 10.079,
+            "end": 10.5395,
+            "display_index": 23
+          },
+          {
+            "text": "ya",
+            "start": 10.5658,
+            "end": 10.6447,
+            "display_index": 24
+          },
+          {
+            "text": "paka",
+            "start": 10.6842,
+            "end": 10.9737,
+            "display_index": 25
+          },
+          {
+            "text": "huchezwa",
+            "start": 11.0,
+            "end": 11.5,
+            "display_index": 26
+          },
+          {
+            "text": "hadi",
+            "start": 11.5263,
+            "end": 11.8027,
+            "display_index": 27
+          },
+          {
+            "text": "mwisho",
+            "start": 11.8421,
+            "end": 12.2632,
+            "display_index": 28
+          },
+          {
+            "text": "Sharti",
+            "start": 13.25,
+            "end": 13.5921,
+            "display_index": 29
+          },
+          {
+            "text": "likiwa",
+            "start": 13.6842,
+            "end": 14.079,
+            "display_index": 30
+          },
+          {
+            "text": "la",
+            "start": 14.1052,
+            "end": 14.2237,
+            "display_index": 31
+          },
+          {
+            "text": "uongo",
+            "start": 14.25,
+            "end": 14.7763,
+            "display_index": 32
+          },
+          {
+            "text": "amri",
+            "start": 14.8948,
+            "end": 15.2105,
+            "display_index": 33
+          },
+          {
+            "text": "hiyo",
+            "start": 15.2368,
+            "end": 15.5132,
+            "display_index": 34
+          },
+          {
+            "text": "haitatekelezwa",
+            "start": 15.5526,
+            "end": 16.6842,
+            "display_index": 35
           }
         ]
       }
@@ -367357,248 +367819,140 @@
           {
             "text": "Maelezo",
             "start": 0.1948,
-            "end": 0.5895,
+            "end": 0.5763,
             "display_index": 0
           },
           {
             "text": "ya",
-            "start": 0.7079,
-            "end": 0.7868,
+            "start": 0.6947,
+            "end": 0.8,
             "display_index": 1
           },
           {
-            "text": "programu",
-            "start": 0.8132,
-            "end": 1.3658,
+            "text": "picha",
+            "start": 0.8263,
+            "end": 1.1947,
             "display_index": 2
           },
           {
-            "text": "fikivu",
-            "start": 1.4053,
-            "end": 1.8658,
+            "text": "Zana",
+            "start": 1.3526,
+            "end": 1.6552,
             "display_index": 3
           },
           {
             "text": "ya",
-            "start": 1.9053,
-            "end": 1.9974,
+            "start": 1.6816,
+            "end": 1.7868,
             "display_index": 4
           },
           {
-            "text": "Kuramu",
-            "start": 2.0237,
-            "end": 2.55,
+            "text": "pembetatu",
+            "start": 1.8263,
+            "end": 2.4711,
             "display_index": 5
           },
           {
-            "text": "Zana",
-            "start": 2.6947,
-            "end": 2.9974,
+            "text": "mraba",
+            "start": 2.5105,
+            "end": 2.9184,
             "display_index": 6
           },
           {
-            "text": "ya",
-            "start": 3.0237,
-            "end": 3.1289,
+            "text": "imeonyeshwa",
+            "start": 2.9447,
+            "end": 3.6026,
             "display_index": 7
           },
           {
-            "text": "pembetatu",
-            "start": 3.1684,
-            "end": 3.8132,
+            "text": "kwenye",
+            "start": 3.629,
+            "end": 3.879,
             "display_index": 8
           },
           {
-            "text": "mraba",
-            "start": 3.8526,
-            "end": 4.2605,
+            "text": "sehemu",
+            "start": 3.9184,
+            "end": 4.4184,
             "display_index": 9
           },
           {
-            "text": "imeonyeshwa",
-            "start": 4.2868,
-            "end": 4.9184,
+            "text": "ya",
+            "start": 4.4579,
+            "end": 4.5368,
             "display_index": 10
           },
           {
-            "text": "kwenye",
-            "start": 4.9447,
-            "end": 5.1947,
+            "text": "maumbo",
+            "start": 4.5632,
+            "end": 4.9316,
             "display_index": 11
           },
           {
-            "text": "sehemu",
-            "start": 5.2342,
-            "end": 5.721,
+            "text": "katika",
+            "start": 4.971,
+            "end": 5.3921,
             "display_index": 12
           },
           {
-            "text": "ya",
-            "start": 5.7605,
-            "end": 5.8263,
+            "text": "programu",
+            "start": 5.4316,
+            "end": 6.0368,
             "display_index": 13
           },
           {
-            "text": "maumbo",
-            "start": 5.8526,
-            "end": 6.2079,
+            "text": "ya",
+            "start": 6.0763,
+            "end": 6.1553,
             "display_index": 14
           },
           {
-            "text": "katika",
-            "start": 6.2474,
-            "end": 6.6684,
+            "text": "Paint",
+            "start": 6.1816,
+            "end": 6.55,
             "display_index": 15
           },
           {
-            "text": "programu",
-            "start": 6.7079,
-            "end": 7.3131,
+            "text": "auu",
+            "start": 6.5895,
+            "end": 6.8921,
             "display_index": 16
           },
           {
-            "text": "ya",
-            "start": 7.3526,
-            "end": 7.4316,
+            "text": "Kuramu",
+            "start": 6.9316,
+            "end": 7.5105,
             "display_index": 17
           },
           {
-            "text": "Paint",
-            "start": 7.4579,
-            "end": 7.8395,
+            "text": "Mshale",
+            "start": 8.4868,
+            "end": 8.8421,
             "display_index": 18
           },
           {
-            "text": "auu",
-            "start": 7.879,
-            "end": 8.1816,
+            "text": "unaonyesha",
+            "start": 8.9605,
+            "end": 9.5527,
             "display_index": 19
           },
           {
-            "text": "Kuramu",
-            "start": 8.221,
-            "end": 8.7737,
+            "text": "mahali",
+            "start": 9.579,
+            "end": 10.0132,
             "display_index": 20
           },
           {
-            "text": "Mshale",
-            "start": 9.75,
-            "end": 10.1052,
+            "text": "pa",
+            "start": 10.0526,
+            "end": 10.1842,
             "display_index": 21
           },
           {
-            "text": "unaonyesha",
-            "start": 10.2237,
-            "end": 10.8158,
-            "display_index": 22
-          },
-          {
-            "text": "mahali",
-            "start": 10.8421,
-            "end": 11.2763,
-            "display_index": 23
-          },
-          {
-            "text": "pa",
-            "start": 11.3158,
-            "end": 11.4474,
-            "display_index": 24
-          },
-          {
             "text": "kubofya",
-            "start": 11.4868,
-            "end": 12.1579,
-            "display_index": 25
-          },
-          {
-            "text": "Kuramu",
-            "start": 13.1448,
-            "end": 13.4342,
-            "display_index": 26
-          },
-          {
-            "text": "ni",
-            "start": 13.5263,
-            "end": 13.6185,
-            "display_index": 27
-          },
-          {
-            "text": "programu",
-            "start": 13.6579,
-            "end": 14.2237,
-            "display_index": 28
-          },
-          {
-            "text": "fikivu",
-            "start": 14.25,
-            "end": 14.6842,
-            "display_index": 29
-          },
-          {
-            "text": "ya",
-            "start": 14.7105,
-            "end": 14.7895,
-            "display_index": 30
-          },
-          {
-            "text": "kuandika",
-            "start": 14.8158,
-            "end": 15.4079,
-            "display_index": 31
-          },
-          {
-            "text": "kuhariri",
-            "start": 15.5263,
-            "end": 16.079,
-            "display_index": 32
-          },
-          {
-            "text": "na",
-            "start": 16.1053,
-            "end": 16.2105,
-            "display_index": 33
-          },
-          {
-            "text": "kuendesha",
-            "start": 16.2368,
-            "end": 16.75,
-            "display_index": 34
-          },
-          {
-            "text": "msimbo",
-            "start": 16.7763,
-            "end": 17.1579,
-            "display_index": 35
-          },
-          {
-            "text": "wa",
-            "start": 17.1842,
-            "end": 17.2632,
-            "display_index": 36
-          },
-          {
-            "text": "programu",
-            "start": 17.3026,
-            "end": 17.921,
-            "display_index": 37
-          },
-          {
-            "text": "kwa",
-            "start": 17.9605,
-            "end": 18.1053,
-            "display_index": 38
-          },
-          {
-            "text": "kutumia",
-            "start": 18.1316,
-            "end": 18.6052,
-            "display_index": 39
-          },
-          {
-            "text": "maandishi",
-            "start": 18.6316,
-            "end": 19.2763,
-            "display_index": 40
+            "start": 10.2237,
+            "end": 10.8947,
+            "display_index": 22
           }
         ]
       }
@@ -374043,213 +374397,315 @@
         "word_timestamps": [
           {
             "text": "Maelezo",
-            "start": 0.1948,
+            "start": 0.1684,
             "end": 0.5895,
             "display_index": 0
           },
           {
             "text": "ya",
-            "start": 0.7079,
-            "end": 0.7868,
+            "start": 0.6816,
+            "end": 0.7737,
             "display_index": 1
           },
           {
             "text": "programu",
-            "start": 0.8132,
-            "end": 1.3658,
+            "start": 0.8,
+            "end": 1.3395,
             "display_index": 2
           },
           {
             "text": "fikivu",
-            "start": 1.4053,
-            "end": 1.8658,
+            "start": 1.379,
+            "end": 1.8395,
             "display_index": 3
           },
           {
             "text": "ya",
-            "start": 1.9053,
-            "end": 1.9974,
+            "start": 1.879,
+            "end": 1.9711,
             "display_index": 4
           },
           {
             "text": "Kuramu",
-            "start": 2.0237,
+            "start": 1.9974,
             "end": 2.5105,
             "display_index": 5
           },
           {
-            "text": "Programu",
-            "start": 2.629,
-            "end": 3.2079,
+            "text": "Mchoro",
+            "start": 2.6553,
+            "end": 3.0631,
             "display_index": 6
           },
           {
-            "text": "ya",
-            "start": 3.2474,
-            "end": 3.3132,
+            "text": "unaonesha",
+            "start": 3.0895,
+            "end": 3.7079,
             "display_index": 7
           },
           {
-            "text": "Scratch",
-            "start": 3.3395,
-            "end": 3.8658,
+            "text": "programu",
+            "start": 3.7474,
+            "end": 4.3132,
             "display_index": 8
           },
           {
-            "text": "auu",
-            "start": 3.9184,
-            "end": 4.2342,
+            "text": "inayorudia",
+            "start": 4.3526,
+            "end": 5.0237,
             "display_index": 9
           },
           {
-            "text": "Kuramu",
-            "start": 4.2737,
-            "end": 4.7473,
+            "text": "sauti",
+            "start": 5.05,
+            "end": 5.4974,
             "display_index": 10
           },
           {
-            "text": "ina",
-            "start": 4.7868,
-            "end": 4.9842,
+            "text": "bila",
+            "start": 5.5368,
+            "end": 5.8263,
             "display_index": 11
           },
           {
-            "text": "blokuu",
-            "start": 5.0105,
-            "end": 5.4711,
+            "text": "kukoma",
+            "start": 5.8526,
+            "end": 6.4184,
             "display_index": 12
           },
           {
-            "text": "ya",
-            "start": 5.4974,
-            "end": 5.5895,
+            "text": "Bloku",
+            "start": 7.4079,
+            "end": 7.6973,
             "display_index": 13
           },
           {
-            "text": "wakati",
-            "start": 5.7342,
-            "end": 6.1947,
+            "text": "ya",
+            "start": 7.7895,
+            "end": 7.8816,
             "display_index": 14
           },
           {
-            "text": "inapobonyezwaÃƒÂ¢Ã¢â€šÂ",
-            "start": 6.2342,
-            "end": 7.1552,
+            "text": "kuanza",
+            "start": 7.9079,
+            "end": 8.3026,
             "display_index": 15
           },
           {
-            "text": "na",
-            "start": 7.1816,
-            "end": 7.2868,
+            "text": "imeunganishwa",
+            "start": 8.329,
+            "end": 9.0658,
             "display_index": 16
           },
           {
-            "text": "ndani",
-            "start": 7.3132,
-            "end": 7.629,
+            "text": "na",
+            "start": 9.0921,
+            "end": 9.1974,
             "display_index": 17
           },
           {
-            "text": "yake",
-            "start": 7.6552,
-            "end": 7.9447,
+            "text": "bloku",
+            "start": 9.2237,
+            "end": 9.6315,
             "display_index": 18
           },
           {
-            "text": "blokuu",
-            "start": 7.9842,
-            "end": 8.4579,
+            "text": "ya",
+            "start": 9.671,
+            "end": 9.75,
             "display_index": 19
           },
           {
-            "text": "ya",
-            "start": 8.4842,
-            "end": 8.5763,
+            "text": "kurudia",
+            "start": 9.7763,
+            "end": 10.2895,
             "display_index": 20
           },
           {
-            "text": "mileleÃƒÂ¢Ã¢â€šÂ",
-            "start": 8.7342,
-            "end": 9.1026,
+            "text": "milele",
+            "start": 10.3158,
+            "end": 10.7763,
             "display_index": 21
           },
           {
-            "text": "yenye",
-            "start": 9.129,
-            "end": 9.3658,
+            "text": "na",
+            "start": 10.9079,
+            "end": 11.0263,
             "display_index": 22
           },
           {
-            "text": "amri",
-            "start": 9.4053,
-            "end": 9.721,
+            "text": "ndani",
+            "start": 11.0526,
+            "end": 11.3684,
             "display_index": 23
           },
           {
-            "text": "ya",
-            "start": 9.7605,
-            "end": 9.8395,
+            "text": "yake",
+            "start": 11.3948,
+            "end": 11.6842,
             "display_index": 24
           },
           {
-            "text": "kucheza",
-            "start": 9.8658,
-            "end": 10.3,
+            "text": "kuna",
+            "start": 11.7237,
+            "end": 12.0,
             "display_index": 25
           },
           {
-            "text": "sauti",
-            "start": 10.3263,
-            "end": 10.8,
+            "text": "amri",
+            "start": 12.0263,
+            "end": 12.3421,
             "display_index": 26
           },
           {
-            "text": "hadi",
-            "start": 10.8263,
-            "end": 11.1158,
+            "text": "ya",
+            "start": 12.3684,
+            "end": 12.4474,
             "display_index": 27
           },
           {
-            "text": "ikamilike",
-            "start": 11.1421,
-            "end": 11.9053,
+            "text": "kucheza",
+            "start": 12.4737,
+            "end": 12.9079,
             "display_index": 28
           },
           {
-            "text": "Mshale",
-            "start": 12.8948,
-            "end": 13.2632,
+            "text": "sauti",
+            "start": 12.9342,
+            "end": 13.4079,
             "display_index": 29
           },
           {
-            "text": "unaonyesha",
-            "start": 13.3816,
-            "end": 13.9737,
+            "text": "hadi",
+            "start": 13.4342,
+            "end": 13.7105,
             "display_index": 30
           },
           {
-            "text": "kitufe",
-            "start": 14.0,
-            "end": 14.4342,
+            "text": "ikamilike",
+            "start": 13.75,
+            "end": 14.5,
             "display_index": 31
           },
           {
-            "text": "cha",
-            "start": 14.4737,
-            "end": 14.6184,
+            "text": "Katika",
+            "start": 15.4737,
+            "end": 15.7763,
             "display_index": 32
           },
           {
-            "text": "kusimamisha",
-            "start": 14.6448,
-            "end": 15.3816,
+            "text": "Kuramu",
+            "start": 15.8684,
+            "end": 16.3816,
             "display_index": 33
           },
           {
-            "text": "mchezo",
-            "start": 15.421,
-            "end": 16.0526,
+            "text": "hii",
+            "start": 16.4868,
+            "end": 16.6974,
             "display_index": 34
+          },
+          {
+            "text": "huandikwa",
+            "start": 16.7237,
+            "end": 17.2763,
+            "display_index": 35
+          },
+          {
+            "text": "kwa",
+            "start": 17.3026,
+            "end": 17.4474,
+            "display_index": 36
+          },
+          {
+            "text": "tukio",
+            "start": 17.4868,
+            "end": 17.8684,
+            "display_index": 37
+          },
+          {
+            "text": "la",
+            "start": 17.8947,
+            "end": 18.0132,
+            "display_index": 38
+          },
+          {
+            "text": "kuanza",
+            "start": 18.0526,
+            "end": 18.4868,
+            "display_index": 39
+          },
+          {
+            "text": "na",
+            "start": 18.5132,
+            "end": 18.6053,
+            "display_index": 40
+          },
+          {
+            "text": "kitanzi",
+            "start": 18.6447,
+            "end": 19.1579,
+            "display_index": 41
+          },
+          {
+            "text": "kinachorudia",
+            "start": 19.1974,
+            "end": 20.0263,
+            "display_index": 42
+          },
+          {
+            "text": "amri",
+            "start": 20.0658,
+            "end": 20.3816,
+            "display_index": 43
+          },
+          {
+            "text": "ya",
+            "start": 20.4079,
+            "end": 20.4737,
+            "display_index": 44
+          },
+          {
+            "text": "sauti",
+            "start": 20.5,
+            "end": 21.0658,
+            "display_index": 45
+          },
+          {
+            "text": "Kitufe",
+            "start": 22.0263,
+            "end": 22.3816,
+            "display_index": 46
+          },
+          {
+            "text": "cha",
+            "start": 22.4868,
+            "end": 22.6447,
+            "display_index": 47
+          },
+          {
+            "text": "kusimamisha",
+            "start": 22.671,
+            "end": 23.3947,
+            "display_index": 48
+          },
+          {
+            "text": "hukatisha",
+            "start": 23.421,
+            "end": 24.0395,
+            "display_index": 49
+          },
+          {
+            "text": "urudiaji",
+            "start": 24.079,
+            "end": 24.7237,
+            "display_index": 50
+          },
+          {
+            "text": "huo",
+            "start": 24.75,
+            "end": 25.1053,
+            "display_index": 51
           }
         ]
       }
@@ -374262,141 +374718,231 @@
         "word_timestamps": [
           {
             "text": "Maelezo",
-            "start": 0.1816,
+            "start": 0.1684,
             "end": 0.5895,
             "display_index": 0
           },
           {
             "text": "ya",
-            "start": 0.6947,
-            "end": 0.8,
+            "start": 0.6816,
+            "end": 0.7737,
             "display_index": 1
           },
           {
             "text": "programu",
-            "start": 0.8263,
-            "end": 1.379,
+            "start": 0.8,
+            "end": 1.3526,
             "display_index": 2
           },
           {
             "text": "fikivu",
-            "start": 1.4184,
-            "end": 1.8526,
+            "start": 1.3921,
+            "end": 1.8263,
             "display_index": 3
           },
           {
             "text": "ya",
-            "start": 1.8921,
-            "end": 1.9843,
+            "start": 1.8658,
+            "end": 1.9579,
             "display_index": 4
           },
           {
             "text": "Kuramu",
-            "start": 2.0105,
-            "end": 2.4974,
+            "start": 1.9842,
+            "end": 2.4842,
             "display_index": 5
           },
           {
-            "text": "Kizuizi",
-            "start": 2.6553,
-            "end": 3.1947,
+            "text": "Orodha",
+            "start": 2.6158,
+            "end": 3.0105,
             "display_index": 6
           },
           {
-            "text": "cha",
-            "start": 3.2342,
-            "end": 3.3658,
+            "text": "ya",
+            "start": 3.0368,
+            "end": 3.1158,
             "display_index": 7
           },
           {
-            "text": "Scratch",
-            "start": 3.3921,
-            "end": 3.9316,
+            "text": "vitufe",
+            "start": 3.1421,
+            "end": 3.6421,
             "display_index": 8
           },
           {
-            "text": "auu",
-            "start": 3.9842,
-            "end": 4.3,
+            "text": "vya",
+            "start": 3.6816,
+            "end": 3.8263,
             "display_index": 9
           },
           {
-            "text": "Kuramu",
-            "start": 4.3395,
-            "end": 4.7605,
+            "text": "kibodi",
+            "start": 3.8658,
+            "end": 4.3395,
             "display_index": 10
           },
           {
-            "text": "kinaonyesha",
-            "start": 4.8,
-            "end": 5.4579,
+            "text": "imefunguliwa",
+            "start": 4.379,
+            "end": 5.1553,
             "display_index": 11
           },
           {
-            "text": "kuwa",
-            "start": 5.4974,
-            "end": 5.721,
+            "text": "na",
+            "start": 5.1816,
+            "end": 5.2737,
             "display_index": 12
           },
           {
-            "text": "kitufe",
-            "start": 5.7605,
-            "end": 6.2079,
+            "text": "kishale",
+            "start": 5.3132,
+            "end": 5.8132,
             "display_index": 13
           },
           {
-            "text": "cha",
-            "start": 6.2474,
-            "end": 6.4842,
+            "text": "juu",
+            "start": 5.8526,
+            "end": 6.1158,
             "display_index": 14
           },
           {
-            "text": "kishale",
-            "start": 7.7368,
-            "end": 8.171,
+            "text": "kimechaguliwa",
+            "start": 6.1552,
+            "end": 7.1421,
             "display_index": 15
           },
           {
-            "text": "juuÃƒÆ’Ã",
-            "start": 8.2763,
-            "end": 8.6579,
+            "text": "Tukio",
+            "start": 8.1316,
+            "end": 8.4737,
             "display_index": 16
           },
           {
-            "text": "kinapobonyezwa",
-            "start": 9.921,
-            "end": 10.9737,
+            "text": "hili",
+            "start": 8.5921,
+            "end": 8.8685,
             "display_index": 17
           },
           {
-            "text": "Kwenye",
-            "start": 12.0263,
-            "end": 12.1842,
+            "text": "huanzisha",
+            "start": 8.8948,
+            "end": 9.5132,
             "display_index": 18
           },
           {
-            "text": "orodha",
-            "start": 12.2895,
-            "end": 12.8158,
+            "text": "programu",
+            "start": 9.5526,
+            "end": 10.1184,
             "display_index": 19
           },
           {
-            "text": "kishale",
-            "start": 14.2084,
-            "end": 14.669,
+            "text": "mtumiaji",
+            "start": 10.1579,
+            "end": 10.8552,
             "display_index": 20
           },
           {
-            "text": "juuÃƒÆ’Ã",
-            "start": 14.7742,
-            "end": 15.1558,
+            "text": "anapobonyeza",
+            "start": 10.8948,
+            "end": 11.7895,
             "display_index": 21
           },
           {
-            "text": "kimechaguliwa",
-            "start": 16.3953,
-            "end": 17.3558,
+            "text": "kishale",
+            "start": 11.829,
+            "end": 12.3158,
             "display_index": 22
+          },
+          {
+            "text": "juu",
+            "start": 12.3552,
+            "end": 12.6974,
+            "display_index": 23
+          },
+          {
+            "text": "Katika",
+            "start": 13.6579,
+            "end": 13.9605,
+            "display_index": 24
+          },
+          {
+            "text": "Kuramu",
+            "start": 14.0526,
+            "end": 14.579,
+            "display_index": 25
+          },
+          {
+            "text": "tukio",
+            "start": 14.7105,
+            "end": 15.1579,
+            "display_index": 26
+          },
+          {
+            "text": "la",
+            "start": 15.1842,
+            "end": 15.3158,
+            "display_index": 27
+          },
+          {
+            "text": "kibodi",
+            "start": 15.3552,
+            "end": 15.8158,
+            "display_index": 28
+          },
+          {
+            "text": "husikilizwa",
+            "start": 15.8421,
+            "end": 16.5658,
+            "display_index": 29
+          },
+          {
+            "text": "ili",
+            "start": 16.6053,
+            "end": 16.8816,
+            "display_index": 30
+          },
+          {
+            "text": "amri",
+            "start": 16.921,
+            "end": 17.2895,
+            "display_index": 31
+          },
+          {
+            "text": "inayofuata",
+            "start": 17.329,
+            "end": 18.0526,
+            "display_index": 32
+          },
+          {
+            "text": "itekelezwe",
+            "start": 18.0921,
+            "end": 18.8158,
+            "display_index": 33
+          },
+          {
+            "text": "mara",
+            "start": 18.8553,
+            "end": 19.1579,
+            "display_index": 34
+          },
+          {
+            "text": "kitufe",
+            "start": 19.1974,
+            "end": 19.6579,
+            "display_index": 35
+          },
+          {
+            "text": "hicho",
+            "start": 19.6974,
+            "end": 20.0132,
+            "display_index": 36
+          },
+          {
+            "text": "kinapobonyezwa",
+            "start": 20.0526,
+            "end": 21.1316,
+            "display_index": 37
           }
         ]
       }
@@ -374557,231 +375103,6 @@
           {
             "text": "Maelezo",
             "start": 0.1816,
-            "end": 0.5895,
-            "display_index": 0
-          },
-          {
-            "text": "ya",
-            "start": 0.6947,
-            "end": 0.8,
-            "display_index": 1
-          },
-          {
-            "text": "picha",
-            "start": 0.8263,
-            "end": 1.1816,
-            "display_index": 2
-          },
-          {
-            "text": "Juu",
-            "start": 1.379,
-            "end": 1.6816,
-            "display_index": 3
-          },
-          {
-            "text": "kuna",
-            "start": 1.7079,
-            "end": 1.971,
-            "display_index": 4
-          },
-          {
-            "text": "programu",
-            "start": 2.0105,
-            "end": 2.5895,
-            "display_index": 5
-          },
-          {
-            "text": "ya",
-            "start": 2.629,
-            "end": 2.7211,
-            "display_index": 6
-          },
-          {
-            "text": "kishale",
-            "start": 2.7474,
-            "end": 3.2342,
-            "display_index": 7
-          },
-          {
-            "text": "juu",
-            "start": 3.2737,
-            "end": 3.5631,
-            "display_index": 8
-          },
-          {
-            "text": "yenye",
-            "start": 3.5895,
-            "end": 3.8131,
-            "display_index": 9
-          },
-          {
-            "text": "bloku",
-            "start": 3.8526,
-            "end": 4.2079,
-            "display_index": 10
-          },
-          {
-            "text": "za",
-            "start": 4.2474,
-            "end": 4.379,
-            "display_index": 11
-          },
-          {
-            "text": "songa",
-            "start": 4.4052,
-            "end": 4.7737,
-            "display_index": 12
-          },
-          {
-            "text": "hatua",
-            "start": 4.8132,
-            "end": 5.1947,
-            "display_index": 13
-          },
-          {
-            "text": "kumi",
-            "start": 5.2342,
-            "end": 5.5105,
-            "display_index": 14
-          },
-          {
-            "text": "na",
-            "start": 5.5368,
-            "end": 5.629,
-            "display_index": 15
-          },
-          {
-            "text": "cheza",
-            "start": 5.6552,
-            "end": 5.9842,
-            "display_index": 16
-          },
-          {
-            "text": "sauti",
-            "start": 6.0105,
-            "end": 6.4711,
-            "display_index": 17
-          },
-          {
-            "text": "hadi",
-            "start": 6.4974,
-            "end": 6.7868,
-            "display_index": 18
-          },
-          {
-            "text": "ikamilike",
-            "start": 6.8263,
-            "end": 7.5895,
-            "display_index": 19
-          },
-          {
-            "text": "Chini",
-            "start": 8.5526,
-            "end": 8.8158,
-            "display_index": 20
-          },
-          {
-            "text": "kuna",
-            "start": 8.9079,
-            "end": 9.171,
-            "display_index": 21
-          },
-          {
-            "text": "bloku",
-            "start": 9.1974,
-            "end": 9.579,
-            "display_index": 22
-          },
-          {
-            "text": "ya",
-            "start": 9.6052,
-            "end": 9.671,
-            "display_index": 23
-          },
-          {
-            "text": "wakati",
-            "start": 9.6974,
-            "end": 10.1052,
-            "display_index": 24
-          },
-          {
-            "text": "kitufe",
-            "start": 10.1316,
-            "end": 10.5921,
-            "display_index": 25
-          },
-          {
-            "text": "cha",
-            "start": 10.6316,
-            "end": 10.8026,
-            "display_index": 26
-          },
-          {
-            "text": "kishale",
-            "start": 10.8421,
-            "end": 11.3421,
-            "display_index": 27
-          },
-          {
-            "text": "chini",
-            "start": 11.3816,
-            "end": 11.7105,
-            "display_index": 28
-          },
-          {
-            "text": "kinapobonyezwa",
-            "start": 11.75,
-            "end": 12.75,
-            "display_index": 29
-          },
-          {
-            "text": "pamoja",
-            "start": 12.7895,
-            "end": 13.25,
-            "display_index": 30
-          },
-          {
-            "text": "na",
-            "start": 13.2763,
-            "end": 13.3685,
-            "display_index": 31
-          },
-          {
-            "text": "menyu",
-            "start": 13.3948,
-            "end": 13.6974,
-            "display_index": 32
-          },
-          {
-            "text": "ya",
-            "start": 13.7237,
-            "end": 13.8026,
-            "display_index": 33
-          },
-          {
-            "text": "kuchagua",
-            "start": 13.829,
-            "end": 14.3421,
-            "display_index": 34
-          },
-          {
-            "text": "vishale",
-            "start": 14.3684,
-            "end": 14.9474,
-            "display_index": 35
-          }
-        ]
-      }
-    ]
-  },
-  "pg152_im002_audio_desc": {
-    "timecodes": [
-      null,
-      {
-        "word_timestamps": [
-          {
-            "text": "Maelezo",
-            "start": 0.1816,
             "end": 0.5763,
             "display_index": 0
           },
@@ -374792,380 +375113,14 @@
             "display_index": 1
           },
           {
-            "text": "picha",
-            "start": 0.8,
-            "end": 1.1421,
-            "display_index": 2
-          },
-          {
-            "text": "Programu",
-            "start": 1.2737,
-            "end": 1.8263,
-            "display_index": 3
-          },
-          {
-            "text": "ya",
-            "start": 1.8526,
-            "end": 1.9447,
-            "display_index": 4
-          },
-          {
-            "text": "kishale",
-            "start": 1.971,
-            "end": 2.471,
-            "display_index": 5
-          },
-          {
-            "text": "juu",
-            "start": 2.5105,
-            "end": 2.8658,
-            "display_index": 6
-          },
-          {
-            "text": "ina",
-            "start": 2.9053,
-            "end": 3.1421,
-            "display_index": 7
-          },
-          {
-            "text": "bloku",
-            "start": 3.1684,
-            "end": 3.5632,
-            "display_index": 8
-          },
-          {
-            "text": "ya",
-            "start": 3.6026,
-            "end": 3.6684,
-            "display_index": 9
-          },
-          {
-            "text": "songa",
-            "start": 3.6947,
-            "end": 4.0763,
-            "display_index": 10
-          },
-          {
-            "text": "hatua",
-            "start": 4.1158,
-            "end": 4.5368,
-            "display_index": 11
-          },
-          {
-            "text": "kumi",
-            "start": 4.5763,
-            "end": 4.8527,
-            "display_index": 12
-          },
-          {
-            "text": "na",
-            "start": 4.879,
-            "end": 4.9842,
-            "display_index": 13
-          },
-          {
-            "text": "bloku",
-            "start": 5.0105,
-            "end": 5.3921,
-            "display_index": 14
-          },
-          {
-            "text": "ya",
-            "start": 5.4316,
-            "end": 5.5237,
-            "display_index": 15
-          },
-          {
-            "text": "kucheza",
-            "start": 5.55,
-            "end": 5.9579,
-            "display_index": 16
-          },
-          {
-            "text": "sauti",
-            "start": 5.9842,
-            "end": 6.4579,
-            "display_index": 17
-          },
-          {
-            "text": "hadi",
-            "start": 6.4842,
-            "end": 6.7737,
-            "display_index": 18
-          },
-          {
-            "text": "ikamilike",
-            "start": 6.8,
-            "end": 7.5763,
-            "display_index": 19
-          },
-          {
-            "text": "Programu",
-            "start": 8.5395,
-            "end": 9.0,
-            "display_index": 20
-          },
-          {
-            "text": "ya",
-            "start": 9.0921,
-            "end": 9.1711,
-            "display_index": 21
-          },
-          {
-            "text": "kishale",
-            "start": 9.1974,
-            "end": 9.671,
-            "display_index": 22
-          },
-          {
-            "text": "chini",
-            "start": 9.6974,
-            "end": 10.0263,
-            "display_index": 23
-          },
-          {
-            "text": "ina",
-            "start": 10.0658,
-            "end": 10.2895,
-            "display_index": 24
-          },
-          {
-            "text": "bloku",
-            "start": 10.3158,
-            "end": 10.7105,
-            "display_index": 25
-          },
-          {
-            "text": "ya",
-            "start": 10.75,
-            "end": 10.8421,
-            "display_index": 26
-          },
-          {
-            "text": "zunguka",
-            "start": 10.8684,
-            "end": 11.3552,
-            "display_index": 27
-          },
-          {
-            "text": "digrii",
-            "start": 11.3816,
-            "end": 11.8552,
-            "display_index": 28
-          },
-          {
-            "text": "kumi",
-            "start": 11.8948,
-            "end": 12.1711,
-            "display_index": 29
-          },
-          {
-            "text": "na",
-            "start": 12.1974,
-            "end": 12.3158,
-            "display_index": 30
-          },
-          {
-            "text": "tano",
-            "start": 12.3552,
-            "end": 12.6974,
-            "display_index": 31
-          },
-          {
-            "text": "na",
-            "start": 12.7237,
-            "end": 12.8289,
-            "display_index": 32
-          },
-          {
-            "text": "bloku",
-            "start": 12.8552,
-            "end": 13.25,
-            "display_index": 33
-          },
-          {
-            "text": "ya",
-            "start": 13.2895,
-            "end": 13.3684,
-            "display_index": 34
-          },
-          {
-            "text": "kucheza",
-            "start": 13.3948,
-            "end": 13.8026,
-            "display_index": 35
-          },
-          {
-            "text": "sauti",
-            "start": 13.829,
-            "end": 14.2895,
-            "display_index": 36
-          },
-          {
-            "text": "hadi",
-            "start": 14.3158,
-            "end": 14.6184,
-            "display_index": 37
-          },
-          {
-            "text": "ikamilike",
-            "start": 14.6579,
-            "end": 15.421,
-            "display_index": 38
-          }
-        ]
-      }
-    ]
-  },
-  "pg153_im001_audio_desc": {
-    "timecodes": [
-      null,
-      {
-        "word_timestamps": [
-          {
-            "text": "Maelezo",
-            "start": 0.1816,
-            "end": 0.5895,
-            "display_index": 0
-          },
-          {
-            "text": "ya",
-            "start": 0.6947,
-            "end": 0.8,
-            "display_index": 1
-          },
-          {
             "text": "programu",
-            "start": 0.8263,
-            "end": 1.3658,
+            "start": 0.8,
+            "end": 1.3395,
             "display_index": 2
           },
           {
             "text": "fikivu",
-            "start": 1.4053,
-            "end": 1.8526,
-            "display_index": 3
-          },
-          {
-            "text": "ya",
-            "start": 1.8921,
-            "end": 1.9843,
-            "display_index": 4
-          },
-          {
-            "text": "Kuramu",
-            "start": 2.0105,
-            "end": 2.4842,
-            "display_index": 5
-          },
-          {
-            "text": "Kibonye",
-            "start": 2.6158,
-            "end": 3.05,
-            "display_index": 6
-          },
-          {
-            "text": "cha",
-            "start": 3.0763,
-            "end": 3.2342,
-            "display_index": 7
-          },
-          {
-            "text": "mshale",
-            "start": 3.2737,
-            "end": 3.721,
-            "display_index": 8
-          },
-          {
-            "text": "juu",
-            "start": 3.7605,
-            "end": 4.0237,
-            "display_index": 9
-          },
-          {
-            "text": "kikibonyezwa",
-            "start": 4.0632,
-            "end": 4.9842,
-            "display_index": 10
-          },
-          {
-            "text": "blokuu",
-            "start": 5.1158,
-            "end": 5.6158,
-            "display_index": 11
-          },
-          {
-            "text": "inaelekeza",
-            "start": 5.6421,
-            "end": 6.3395,
-            "display_index": 12
-          },
-          {
-            "text": "Sprite",
-            "start": 6.3658,
-            "end": 6.8263,
-            "display_index": 13
-          },
-          {
-            "text": "kwenye",
-            "start": 6.8658,
-            "end": 7.1026,
-            "display_index": 14
-          },
-          {
-            "text": "mwelekeo",
-            "start": 7.1421,
-            "end": 7.6685,
-            "display_index": 15
-          },
-          {
-            "text": "wa",
-            "start": 7.6947,
-            "end": 7.7869,
-            "display_index": 16
-          },
-          {
-            "text": "nyuzi",
-            "start": 7.8132,
-            "end": 8.1553,
-            "display_index": 17
-          },
-          {
-            "text": "tisini",
-            "start": 8.1948,
-            "end": 8.7474,
-            "display_index": 18
-          }
-        ]
-      }
-    ]
-  },
-  "pg154_im001_audio_desc": {
-    "timecodes": [
-      null,
-      {
-        "word_timestamps": [
-          {
-            "text": "Maelezo",
-            "start": 0.1684,
-            "end": 0.5895,
-            "display_index": 0
-          },
-          {
-            "text": "ya",
-            "start": 0.6816,
-            "end": 0.7737,
-            "display_index": 1
-          },
-          {
-            "text": "programu",
-            "start": 0.8,
-            "end": 1.3526,
-            "display_index": 2
-          },
-          {
-            "text": "fikivu",
-            "start": 1.3921,
+            "start": 1.379,
             "end": 1.8263,
             "display_index": 3
           },
@@ -375182,112 +375137,859 @@
             "display_index": 5
           },
           {
-            "text": "Programu",
+            "text": "Katika",
             "start": 2.6026,
-            "end": 3.1816,
+            "end": 2.9974,
             "display_index": 6
           },
           {
-            "text": "inaonyesha",
-            "start": 3.221,
-            "end": 3.7868,
+            "text": "Kuramu",
+            "start": 3.0237,
+            "end": 3.55,
             "display_index": 7
           },
           {
-            "text": "kuanza",
-            "start": 3.8132,
-            "end": 4.221,
+            "text": "tumia",
+            "start": 3.7605,
+            "end": 4.1684,
             "display_index": 8
           },
           {
-            "text": "kwa",
-            "start": 4.2605,
-            "end": 4.3921,
+            "text": "keyboard",
+            "start": 4.2079,
+            "end": 4.7473,
             "display_index": 9
           },
           {
-            "text": "kubonyeza",
-            "start": 4.4184,
-            "end": 5.0368,
+            "text": "kuchagua",
+            "start": 4.7868,
+            "end": 5.3132,
+            "display_index": 10
+          },
+          {
+            "text": "tukio",
+            "start": 5.3526,
+            "end": 5.721,
+            "display_index": 11
+          },
+          {
+            "text": "la",
+            "start": 5.7474,
+            "end": 5.8658,
+            "display_index": 12
+          },
+          {
+            "text": "kitufe",
+            "start": 5.9052,
+            "end": 6.3526,
+            "display_index": 13
+          },
+          {
+            "text": "cha",
+            "start": 6.3921,
+            "end": 6.5632,
+            "display_index": 14
+          },
+          {
+            "text": "kishale",
+            "start": 6.6026,
+            "end": 7.0895,
+            "display_index": 15
+          },
+          {
+            "text": "chini",
+            "start": 7.129,
+            "end": 7.5632,
+            "display_index": 16
+          },
+          {
+            "text": "Juu",
+            "start": 8.5263,
+            "end": 8.7369,
+            "display_index": 17
+          },
+          {
+            "text": "kuna",
+            "start": 8.829,
+            "end": 9.0658,
+            "display_index": 18
+          },
+          {
+            "text": "programu",
+            "start": 9.1052,
+            "end": 9.671,
+            "display_index": 19
+          },
+          {
+            "text": "ya",
+            "start": 9.6974,
+            "end": 9.7763,
+            "display_index": 20
+          },
+          {
+            "text": "kishale",
+            "start": 9.8026,
+            "end": 10.2895,
+            "display_index": 21
+          },
+          {
+            "text": "juu",
+            "start": 10.329,
+            "end": 10.6053,
+            "display_index": 22
+          },
+          {
+            "text": "yenye",
+            "start": 10.6316,
+            "end": 10.8684,
+            "display_index": 23
+          },
+          {
+            "text": "amri",
+            "start": 10.9079,
+            "end": 11.1973,
+            "display_index": 24
+          },
+          {
+            "text": "za",
+            "start": 11.2237,
+            "end": 11.3815,
+            "display_index": 25
+          },
+          {
+            "text": "kusonga",
+            "start": 11.4079,
+            "end": 11.8684,
+            "display_index": 26
+          },
+          {
+            "text": "hatua",
+            "start": 11.9079,
+            "end": 12.2895,
+            "display_index": 27
+          },
+          {
+            "text": "kumi",
+            "start": 12.3158,
+            "end": 12.6052,
+            "display_index": 28
+          },
+          {
+            "text": "na",
+            "start": 12.6316,
+            "end": 12.7368,
+            "display_index": 29
+          },
+          {
+            "text": "kucheza",
+            "start": 12.7763,
+            "end": 13.2105,
+            "display_index": 30
+          },
+          {
+            "text": "sauti",
+            "start": 13.2368,
+            "end": 13.8026,
+            "display_index": 31
+          },
+          {
+            "text": "Chini",
+            "start": 14.75,
+            "end": 15.0132,
+            "display_index": 32
+          },
+          {
+            "text": "kuna",
+            "start": 15.1184,
+            "end": 15.3684,
+            "display_index": 33
+          },
+          {
+            "text": "mwanzo",
+            "start": 15.3948,
+            "end": 15.75,
+            "display_index": 34
+          },
+          {
+            "text": "wa",
+            "start": 15.7763,
+            "end": 15.8553,
+            "display_index": 35
+          },
+          {
+            "text": "programu",
+            "start": 15.8816,
+            "end": 16.4605,
+            "display_index": 36
+          },
+          {
+            "text": "mpya",
+            "start": 16.4868,
+            "end": 16.75,
+            "display_index": 37
+          },
+          {
+            "text": "ya",
+            "start": 16.7763,
+            "end": 16.8685,
+            "display_index": 38
+          },
+          {
+            "text": "kishale",
+            "start": 16.9079,
+            "end": 17.3684,
+            "display_index": 39
+          },
+          {
+            "text": "chini",
+            "start": 17.4079,
+            "end": 17.7237,
+            "display_index": 40
+          },
+          {
+            "text": "pamoja",
+            "start": 17.7632,
+            "end": 18.2368,
+            "display_index": 41
+          },
+          {
+            "text": "na",
+            "start": 18.2632,
+            "end": 18.3553,
+            "display_index": 42
+          },
+          {
+            "text": "menyu",
+            "start": 18.3816,
+            "end": 18.6579,
+            "display_index": 43
+          },
+          {
+            "text": "ya",
+            "start": 18.6842,
+            "end": 18.7632,
+            "display_index": 44
+          },
+          {
+            "text": "kuchagua",
+            "start": 18.7895,
+            "end": 19.3026,
+            "display_index": 45
+          },
+          {
+            "text": "vishale",
+            "start": 19.329,
+            "end": 19.9342,
+            "display_index": 46
+          }
+        ]
+      }
+    ]
+  },
+  "pg152_im002_audio_desc": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Maelezo",
+            "start": 0.1816,
+            "end": 0.5895,
+            "display_index": 0
+          },
+          {
+            "text": "ya",
+            "start": 0.6947,
+            "end": 0.8,
+            "display_index": 1
+          },
+          {
+            "text": "programu",
+            "start": 0.8263,
+            "end": 1.379,
+            "display_index": 2
+          },
+          {
+            "text": "fikivu",
+            "start": 1.4184,
+            "end": 1.879,
+            "display_index": 3
+          },
+          {
+            "text": "ya",
+            "start": 1.9184,
+            "end": 2.0105,
+            "display_index": 4
+          },
+          {
+            "text": "Kuramu",
+            "start": 2.0368,
+            "end": 2.55,
+            "display_index": 5
+          },
+          {
+            "text": "Programu",
+            "start": 2.6553,
+            "end": 3.2079,
+            "display_index": 6
+          },
+          {
+            "text": "mbili",
+            "start": 3.2342,
+            "end": 3.5237,
+            "display_index": 7
+          },
+          {
+            "text": "zimekamilika",
+            "start": 3.55,
+            "end": 4.5237,
+            "display_index": 8
+          },
+          {
+            "text": "Tukio",
+            "start": 5.5132,
+            "end": 5.8158,
+            "display_index": 9
+          },
+          {
+            "text": "la",
+            "start": 5.9079,
+            "end": 6.0395,
             "display_index": 10
           },
           {
             "text": "kishale",
-            "start": 5.0763,
-            "end": 5.55,
+            "start": 6.079,
+            "end": 6.5658,
             "display_index": 11
           },
           {
             "text": "juu",
-            "start": 5.5895,
-            "end": 5.9316,
+            "start": 6.6052,
+            "end": 6.8816,
             "display_index": 12
           },
           {
-            "text": "kisha",
-            "start": 6.1947,
-            "end": 6.5237,
+            "text": "linaamuru",
+            "start": 6.921,
+            "end": 7.5132,
             "display_index": 13
           },
           {
-            "text": "kuweka",
-            "start": 6.55,
-            "end": 6.971,
+            "text": "Sprite",
+            "start": 7.5526,
+            "end": 8.0132,
             "display_index": 14
           },
           {
-            "text": "mwelekeo",
-            "start": 6.9974,
-            "end": 7.5632,
+            "text": "kusonga",
+            "start": 8.0395,
+            "end": 8.5131,
             "display_index": 15
           },
           {
-            "text": "kuwa",
-            "start": 7.6026,
-            "end": 7.8263,
+            "text": "hatua",
+            "start": 8.5526,
+            "end": 8.9342,
             "display_index": 16
           },
           {
-            "text": "nyuzi",
-            "start": 7.8526,
-            "end": 8.1553,
+            "text": "kumi",
+            "start": 8.9737,
+            "end": 9.25,
             "display_index": 17
           },
           {
-            "text": "sifuri",
-            "start": 8.1948,
-            "end": 8.8263,
+            "text": "na",
+            "start": 9.2763,
+            "end": 9.3816,
             "display_index": 18
           },
           {
-            "text": "Mshale",
-            "start": 9.8026,
-            "end": 10.2105,
+            "text": "kucheza",
+            "start": 9.4079,
+            "end": 9.8289,
             "display_index": 19
           },
           {
-            "text": "kwenye",
-            "start": 10.3421,
-            "end": 10.6053,
+            "text": "sauti",
+            "start": 9.8552,
+            "end": 10.3026,
             "display_index": 20
           },
           {
-            "text": "duara",
-            "start": 10.6316,
-            "end": 11.0395,
+            "text": "hadi",
+            "start": 10.329,
+            "end": 10.6184,
             "display_index": 21
           },
           {
-            "text": "unaelekea",
-            "start": 11.0658,
-            "end": 11.7763,
+            "text": "ikamilike",
+            "start": 10.6579,
+            "end": 11.4079,
+            "display_index": 22
+          },
+          {
+            "text": "Tukio",
+            "start": 12.3816,
+            "end": 12.671,
+            "display_index": 23
+          },
+          {
+            "text": "la",
+            "start": 12.7763,
+            "end": 12.9079,
+            "display_index": 24
+          },
+          {
+            "text": "kishale",
+            "start": 12.9474,
+            "end": 13.421,
+            "display_index": 25
+          },
+          {
+            "text": "chini",
+            "start": 13.4474,
+            "end": 13.7632,
+            "display_index": 26
+          },
+          {
+            "text": "linaamuru",
+            "start": 13.7895,
+            "end": 14.3947,
+            "display_index": 27
+          },
+          {
+            "text": "Sprite",
+            "start": 14.4342,
+            "end": 14.8947,
+            "display_index": 28
+          },
+          {
+            "text": "kuzunguka",
+            "start": 14.9342,
+            "end": 15.5395,
+            "display_index": 29
+          },
+          {
+            "text": "digrii",
+            "start": 15.5658,
+            "end": 16.0395,
+            "display_index": 30
+          },
+          {
+            "text": "kumi",
+            "start": 16.079,
+            "end": 16.3553,
+            "display_index": 31
+          },
+          {
+            "text": "na",
+            "start": 16.3816,
+            "end": 16.5,
+            "display_index": 32
+          },
+          {
+            "text": "tano",
+            "start": 16.5395,
+            "end": 16.8421,
+            "display_index": 33
+          },
+          {
+            "text": "na",
+            "start": 16.8684,
+            "end": 16.9737,
+            "display_index": 34
+          },
+          {
+            "text": "kucheza",
+            "start": 17.0,
+            "end": 17.4079,
+            "display_index": 35
+          },
+          {
+            "text": "sauti",
+            "start": 17.4342,
+            "end": 17.8947,
+            "display_index": 36
+          },
+          {
+            "text": "hadi",
+            "start": 17.921,
+            "end": 18.2105,
+            "display_index": 37
+          },
+          {
+            "text": "ikamilike",
+            "start": 18.25,
+            "end": 19.0132,
+            "display_index": 38
+          }
+        ]
+      }
+    ]
+  },
+  "pg153_im001_audio_desc": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Maelezo",
+            "start": 0.1684,
+            "end": 0.5895,
+            "display_index": 0
+          },
+          {
+            "text": "ya",
+            "start": 0.6816,
+            "end": 0.7605,
+            "display_index": 1
+          },
+          {
+            "text": "programu",
+            "start": 0.7868,
+            "end": 1.3263,
+            "display_index": 2
+          },
+          {
+            "text": "fikivu",
+            "start": 1.3658,
+            "end": 1.8,
+            "display_index": 3
+          },
+          {
+            "text": "ya",
+            "start": 1.8395,
+            "end": 1.9184,
+            "display_index": 4
+          },
+          {
+            "text": "Kuramu",
+            "start": 1.9447,
+            "end": 2.4184,
+            "display_index": 5
+          },
+          {
+            "text": "Katika",
+            "start": 2.5368,
+            "end": 2.9316,
+            "display_index": 6
+          },
+          {
+            "text": "Kuramu",
+            "start": 2.9579,
+            "end": 3.4579,
+            "display_index": 7
+          },
+          {
+            "text": "tumia",
+            "start": 3.6553,
+            "end": 4.0368,
+            "display_index": 8
+          },
+          {
+            "text": "keyboard",
+            "start": 4.0763,
+            "end": 4.6158,
+            "display_index": 9
+          },
+          {
+            "text": "kufikia",
+            "start": 4.6552,
+            "end": 5.1684,
+            "display_index": 10
+          },
+          {
+            "text": "amri",
+            "start": 5.1947,
+            "end": 5.4974,
+            "display_index": 11
+          },
+          {
+            "text": "ya",
+            "start": 5.5237,
+            "end": 5.5895,
+            "display_index": 12
+          },
+          {
+            "text": "mwelekeo",
+            "start": 5.6158,
+            "end": 6.1684,
+            "display_index": 13
+          },
+          {
+            "text": "na",
+            "start": 6.1947,
+            "end": 6.3132,
+            "display_index": 14
+          },
+          {
+            "text": "kuiweka",
+            "start": 6.3526,
+            "end": 6.879,
+            "display_index": 15
+          },
+          {
+            "text": "baada",
+            "start": 6.9052,
+            "end": 7.2079,
+            "display_index": 16
+          },
+          {
+            "text": "ya",
+            "start": 7.2342,
+            "end": 7.3263,
+            "display_index": 17
+          },
+          {
+            "text": "tukio",
+            "start": 7.3658,
+            "end": 7.7605,
+            "display_index": 18
+          },
+          {
+            "text": "la",
+            "start": 7.7868,
+            "end": 7.9052,
+            "display_index": 19
+          },
+          {
+            "text": "kishale",
+            "start": 7.9447,
+            "end": 8.4447,
+            "display_index": 20
+          },
+          {
+            "text": "juu",
+            "start": 8.4842,
+            "end": 8.8395,
+            "display_index": 21
+          },
+          {
+            "text": "Kishale",
+            "start": 9.7895,
+            "end": 10.1973,
             "display_index": 22
           },
           {
             "text": "juu",
-            "start": 11.8026,
-            "end": 12.1974,
+            "start": 10.3026,
+            "end": 10.579,
             "display_index": 23
+          },
+          {
+            "text": "kikibonyezwa",
+            "start": 10.6052,
+            "end": 11.5395,
+            "display_index": 24
+          },
+          {
+            "text": "programu",
+            "start": 11.6448,
+            "end": 12.25,
+            "display_index": 25
+          },
+          {
+            "text": "inamwelekeza",
+            "start": 12.2895,
+            "end": 13.0789,
+            "display_index": 26
+          },
+          {
+            "text": "Sprite",
+            "start": 13.1052,
+            "end": 13.5526,
+            "display_index": 27
+          },
+          {
+            "text": "kwenye",
+            "start": 13.5921,
+            "end": 13.8553,
+            "display_index": 28
+          },
+          {
+            "text": "nyuzi",
+            "start": 13.8816,
+            "end": 14.2237,
+            "display_index": 29
+          },
+          {
+            "text": "tisini",
+            "start": 14.2632,
+            "end": 14.829,
+            "display_index": 30
+          }
+        ]
+      }
+    ]
+  },
+  "pg154_im001_audio_desc": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Maelezo",
+            "start": 0.1816,
+            "end": 0.5895,
+            "display_index": 0
+          },
+          {
+            "text": "ya",
+            "start": 0.6947,
+            "end": 0.7869,
+            "display_index": 1
+          },
+          {
+            "text": "programu",
+            "start": 0.8132,
+            "end": 1.3526,
+            "display_index": 2
+          },
+          {
+            "text": "fikivu",
+            "start": 1.3921,
+            "end": 1.8527,
+            "display_index": 3
+          },
+          {
+            "text": "ya",
+            "start": 1.8921,
+            "end": 1.9843,
+            "display_index": 4
+          },
+          {
+            "text": "Kuramu",
+            "start": 2.0105,
+            "end": 2.5105,
+            "display_index": 5
+          },
+          {
+            "text": "Katika",
+            "start": 2.6158,
+            "end": 3.0105,
+            "display_index": 6
+          },
+          {
+            "text": "Kuramu",
+            "start": 3.0368,
+            "end": 3.5632,
+            "display_index": 7
+          },
+          {
+            "text": "thamani",
+            "start": 3.721,
+            "end": 4.1552,
+            "display_index": 8
+          },
+          {
+            "text": "ya",
+            "start": 4.1816,
+            "end": 4.2474,
+            "display_index": 9
+          },
+          {
+            "text": "mwelekeo",
+            "start": 4.2737,
+            "end": 4.8263,
+            "display_index": 10
+          },
+          {
+            "text": "imebadilishwa",
+            "start": 4.8658,
+            "end": 5.721,
+            "display_index": 11
+          },
+          {
+            "text": "kutoka",
+            "start": 5.7474,
+            "end": 6.129,
+            "display_index": 12
+          },
+          {
+            "text": "nyuzi",
+            "start": 6.1552,
+            "end": 6.471,
+            "display_index": 13
+          },
+          {
+            "text": "tisini",
+            "start": 6.5105,
+            "end": 6.9447,
+            "display_index": 14
+          },
+          {
+            "text": "hadi",
+            "start": 6.9842,
+            "end": 7.2737,
+            "display_index": 15
+          },
+          {
+            "text": "nyuzi",
+            "start": 7.3,
+            "end": 7.5895,
+            "display_index": 16
+          },
+          {
+            "text": "sifuri",
+            "start": 7.629,
+            "end": 8.2868,
+            "display_index": 17
+          },
+          {
+            "text": "Tukio",
+            "start": 9.2368,
+            "end": 9.579,
+            "display_index": 18
+          },
+          {
+            "text": "la",
+            "start": 9.671,
+            "end": 9.8158,
+            "display_index": 19
+          },
+          {
+            "text": "kishale",
+            "start": 9.8552,
+            "end": 10.3552,
+            "display_index": 20
+          },
+          {
+            "text": "juu",
+            "start": 10.3948,
+            "end": 10.6711,
+            "display_index": 21
+          },
+          {
+            "text": "likitekelezwa",
+            "start": 10.6974,
+            "end": 11.6842,
+            "display_index": 22
+          },
+          {
+            "text": "Sprite",
+            "start": 11.7895,
+            "end": 12.3026,
+            "display_index": 23
+          },
+          {
+            "text": "anaelekezwa",
+            "start": 12.3421,
+            "end": 13.1579,
+            "display_index": 24
+          },
+          {
+            "text": "kwenda",
+            "start": 13.1974,
+            "end": 13.5263,
+            "display_index": 25
+          },
+          {
+            "text": "juu",
+            "start": 13.5658,
+            "end": 13.9474,
+            "display_index": 26
           }
         ]
       }
@@ -375313,6 +376015,189 @@
           {
             "text": "programu",
             "start": 0.8132,
+            "end": 1.3526,
+            "display_index": 2
+          },
+          {
+            "text": "fikivu",
+            "start": 1.3921,
+            "end": 1.8395,
+            "display_index": 3
+          },
+          {
+            "text": "ya",
+            "start": 1.879,
+            "end": 1.9711,
+            "display_index": 4
+          },
+          {
+            "text": "Kuramu",
+            "start": 1.9974,
+            "end": 2.4974,
+            "display_index": 5
+          },
+          {
+            "text": "Amri",
+            "start": 2.6816,
+            "end": 3.0105,
+            "display_index": 6
+          },
+          {
+            "text": "zinasomwa",
+            "start": 3.0368,
+            "end": 3.6816,
+            "display_index": 7
+          },
+          {
+            "text": "kwa",
+            "start": 3.721,
+            "end": 3.8526,
+            "display_index": 8
+          },
+          {
+            "text": "mpangilio",
+            "start": 3.879,
+            "end": 4.5105,
+            "display_index": 9
+          },
+          {
+            "text": "huu",
+            "start": 4.5368,
+            "end": 4.8263,
+            "display_index": 10
+          },
+          {
+            "text": "kishale",
+            "start": 4.9974,
+            "end": 5.471,
+            "display_index": 11
+          },
+          {
+            "text": "juu",
+            "start": 5.5105,
+            "end": 5.7605,
+            "display_index": 12
+          },
+          {
+            "text": "kikibonyezwa",
+            "start": 5.7868,
+            "end": 6.7079,
+            "display_index": 13
+          },
+          {
+            "text": "elekeza",
+            "start": 6.8658,
+            "end": 7.4184,
+            "display_index": 14
+          },
+          {
+            "text": "mwelekeo",
+            "start": 7.4447,
+            "end": 7.9842,
+            "display_index": 15
+          },
+          {
+            "text": "kwenye",
+            "start": 8.0237,
+            "end": 8.2737,
+            "display_index": 16
+          },
+          {
+            "text": "nyuzi",
+            "start": 8.3,
+            "end": 8.5895,
+            "display_index": 17
+          },
+          {
+            "text": "sifuri",
+            "start": 8.629,
+            "end": 9.2079,
+            "display_index": 18
+          },
+          {
+            "text": "songa",
+            "start": 9.3263,
+            "end": 9.7079,
+            "display_index": 19
+          },
+          {
+            "text": "hatua",
+            "start": 9.7342,
+            "end": 10.129,
+            "display_index": 20
+          },
+          {
+            "text": "kumi",
+            "start": 10.1684,
+            "end": 10.5368,
+            "display_index": 21
+          },
+          {
+            "text": "kisha",
+            "start": 10.7342,
+            "end": 11.0368,
+            "display_index": 22
+          },
+          {
+            "text": "cheza",
+            "start": 11.0763,
+            "end": 11.3921,
+            "display_index": 23
+          },
+          {
+            "text": "sauti",
+            "start": 11.4184,
+            "end": 11.8395,
+            "display_index": 24
+          },
+          {
+            "text": "ya",
+            "start": 11.8658,
+            "end": 11.9316,
+            "display_index": 25
+          },
+          {
+            "text": "Meow",
+            "start": 11.9579,
+            "end": 12.2605,
+            "display_index": 26
+          },
+          {
+            "text": "hadi",
+            "start": 12.3,
+            "end": 12.5763,
+            "display_index": 27
+          },
+          {
+            "text": "ikamilike",
+            "start": 12.6158,
+            "end": 13.3658,
+            "display_index": 28
+          }
+        ]
+      }
+    ]
+  },
+  "pg155_im001_audio_desc": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Maelezo",
+            "start": 0.1684,
+            "end": 0.5895,
+            "display_index": 0
+          },
+          {
+            "text": "ya",
+            "start": 0.6816,
+            "end": 0.7868,
+            "display_index": 1
+          },
+          {
+            "text": "programu",
+            "start": 0.8132,
             "end": 1.3658,
             "display_index": 2
           },
@@ -375331,340 +376216,157 @@
           {
             "text": "Kuramu",
             "start": 2.0105,
-            "end": 2.4842,
+            "end": 2.4974,
             "display_index": 5
           },
           {
-            "text": "Programu",
-            "start": 2.6026,
-            "end": 3.1947,
+            "text": "Katika",
+            "start": 2.6158,
+            "end": 2.9974,
             "display_index": 6
           },
           {
-            "text": "inaanza",
-            "start": 3.2342,
-            "end": 3.6552,
+            "text": "Kuramu",
+            "start": 3.0237,
+            "end": 3.5631,
             "display_index": 7
+          },
+          {
+            "text": "fungua",
+            "start": 3.6816,
+            "end": 4.1026,
+            "display_index": 8
+          },
+          {
+            "text": "menyu",
+            "start": 4.1421,
+            "end": 4.4447,
+            "display_index": 9
+          },
+          {
+            "text": "ya",
+            "start": 4.471,
+            "end": 4.5632,
+            "display_index": 10
+          },
+          {
+            "text": "amri",
+            "start": 4.5895,
+            "end": 4.9184,
+            "display_index": 11
           },
           {
             "text": "kwa",
-            "start": 3.6947,
-            "end": 3.8263,
-            "display_index": 8
-          },
-          {
-            "text": "kubonyeza",
-            "start": 3.8526,
-            "end": 4.471,
-            "display_index": 9
-          },
-          {
-            "text": "kishale",
-            "start": 4.5105,
-            "end": 4.9842,
-            "display_index": 10
-          },
-          {
-            "text": "juu",
-            "start": 5.0237,
-            "end": 5.3526,
-            "display_index": 11
-          },
-          {
-            "text": "inaelekeza",
-            "start": 5.6026,
-            "end": 6.3263,
+            "start": 4.9579,
+            "end": 5.1157,
             "display_index": 12
           },
           {
-            "text": "mwelekeo",
-            "start": 6.3526,
-            "end": 6.9052,
+            "text": "keyboard",
+            "start": 5.1552,
+            "end": 5.7868,
             "display_index": 13
-          },
-          {
-            "text": "kuwa",
-            "start": 6.9447,
-            "end": 7.1684,
-            "display_index": 14
-          },
-          {
-            "text": "nyuzi",
-            "start": 7.1947,
-            "end": 7.4842,
-            "display_index": 15
-          },
-          {
-            "text": "sifuri",
-            "start": 7.5237,
-            "end": 8.1158,
-            "display_index": 16
-          },
-          {
-            "text": "kisha",
-            "start": 8.3263,
-            "end": 8.6158,
-            "display_index": 17
-          },
-          {
-            "text": "sprite",
-            "start": 8.6421,
-            "end": 9.0763,
-            "display_index": 18
-          },
-          {
-            "text": "inasonga",
-            "start": 9.1158,
-            "end": 9.6947,
-            "display_index": 19
-          },
-          {
-            "text": "hatua",
-            "start": 9.7342,
-            "end": 10.1158,
-            "display_index": 20
-          },
-          {
-            "text": "kumi",
-            "start": 10.1553,
-            "end": 10.4447,
-            "display_index": 21
-          },
-          {
-            "text": "na",
-            "start": 10.471,
-            "end": 10.5763,
-            "display_index": 22
-          },
-          {
-            "text": "kucheza",
-            "start": 10.6158,
-            "end": 11.0368,
-            "display_index": 23
-          },
-          {
-            "text": "sauti",
-            "start": 11.0632,
-            "end": 11.5237,
-            "display_index": 24
-          },
-          {
-            "text": "ya",
-            "start": 11.55,
-            "end": 11.6158,
-            "display_index": 25
-          },
-          {
-            "text": "Meow",
-            "start": 11.6421,
-            "end": 11.9448,
-            "display_index": 26
-          },
-          {
-            "text": "hadi",
-            "start": 11.9842,
-            "end": 12.2605,
-            "display_index": 27
-          },
-          {
-            "text": "ikamilike",
-            "start": 12.3,
-            "end": 13.05,
-            "display_index": 28
-          }
-        ]
-      }
-    ]
-  },
-  "pg155_im001_audio_desc": {
-    "timecodes": [
-      null,
-      {
-        "word_timestamps": [
-          {
-            "text": "Maelezo",
-            "start": 0.1816,
-            "end": 0.5895,
-            "display_index": 0
-          },
-          {
-            "text": "ya",
-            "start": 0.6947,
-            "end": 0.7869,
-            "display_index": 1
-          },
-          {
-            "text": "programu",
-            "start": 0.8132,
-            "end": 1.3658,
-            "display_index": 2
-          },
-          {
-            "text": "fikivu",
-            "start": 1.4053,
-            "end": 1.8658,
-            "display_index": 3
-          },
-          {
-            "text": "ya",
-            "start": 1.9053,
-            "end": 1.9842,
-            "display_index": 4
-          },
-          {
-            "text": "Kuramu",
-            "start": 2.0105,
-            "end": 2.5237,
-            "display_index": 5
-          },
-          {
-            "text": "Menyu",
-            "start": 2.6553,
-            "end": 2.9184,
-            "display_index": 6
-          },
-          {
-            "text": "ya",
-            "start": 2.9447,
-            "end": 3.0105,
-            "display_index": 7
-          },
-          {
-            "text": "Scratch",
-            "start": 3.0368,
-            "end": 3.5368,
-            "display_index": 8
-          },
-          {
-            "text": "auu",
-            "start": 3.5895,
-            "end": 3.8921,
-            "display_index": 9
-          },
-          {
-            "text": "Kuramu",
-            "start": 3.9184,
-            "end": 4.3658,
-            "display_index": 10
-          },
-          {
-            "text": "inaonyesha",
-            "start": 4.4052,
-            "end": 4.9842,
-            "display_index": 11
-          },
-          {
-            "text": "chaguo",
-            "start": 5.0105,
-            "end": 5.4316,
-            "display_index": 12
-          },
-          {
-            "text": "la",
-            "start": 5.4579,
-            "end": 5.6026,
-            "display_index": 13
-          },
-          {
-            "text": "Toa",
-            "start": 5.6421,
-            "end": 5.8921,
-            "display_index": 14
-          },
-          {
-            "text": "Nakala",
-            "start": 5.9184,
-            "end": 6.3395,
-            "display_index": 15
-          },
-          {
-            "text": "Nyingine",
-            "start": 6.3658,
-            "end": 6.8395,
-            "display_index": 16
-          },
-          {
-            "text": "Ongeza",
-            "start": 6.971,
-            "end": 7.4052,
-            "display_index": 17
-          },
-          {
-            "text": "Maoni",
-            "start": 7.4316,
-            "end": 7.8658,
-            "display_index": 18
-          },
-          {
-            "text": "na",
-            "start": 7.9842,
-            "end": 8.0763,
-            "display_index": 19
-          },
-          {
-            "text": "Futa",
-            "start": 8.1026,
-            "end": 8.4842,
-            "display_index": 20
-          },
-          {
-            "text": "Bloku",
-            "start": 8.5105,
-            "end": 9.0105,
-            "display_index": 21
           },
           {
             "text": "Chaguo",
-            "start": 9.9605,
-            "end": 10.3027,
-            "display_index": 22
+            "start": 6.75,
+            "end": 7.1052,
+            "display_index": 14
           },
           {
             "text": "la",
-            "start": 10.3948,
-            "end": 10.5395,
-            "display_index": 23
+            "start": 7.1974,
+            "end": 7.3421,
+            "display_index": 15
           },
           {
             "text": "Toa",
-            "start": 10.579,
-            "end": 10.8553,
-            "display_index": 24
+            "start": 7.3816,
+            "end": 7.6579,
+            "display_index": 16
           },
           {
             "text": "Nakala",
-            "start": 10.8816,
-            "end": 11.329,
-            "display_index": 25
+            "start": 7.6842,
+            "end": 8.1316,
+            "display_index": 17
           },
           {
             "text": "Nyingine",
-            "start": 11.3552,
-            "end": 11.7895,
-            "display_index": 26
+            "start": 8.1579,
+            "end": 8.5526,
+            "display_index": 18
           },
           {
-            "text": "ndilo",
-            "start": 11.8158,
-            "end": 12.0921,
-            "display_index": 27
+            "text": "hutengeneza",
+            "start": 8.579,
+            "end": 9.329,
+            "display_index": 19
           },
           {
-            "text": "la",
-            "start": 12.1184,
-            "end": 12.25,
-            "display_index": 28
+            "text": "nakala",
+            "start": 9.3552,
+            "end": 9.7895,
+            "display_index": 20
           },
           {
-            "text": "kunakili",
-            "start": 12.2763,
-            "end": 12.8421,
-            "display_index": 29
+            "text": "ya",
+            "start": 9.8158,
+            "end": 9.921,
+            "display_index": 21
           },
           {
             "text": "programu",
-            "start": 12.8816,
-            "end": 13.5921,
+            "start": 9.9474,
+            "end": 10.6447,
+            "display_index": 22
+          },
+          {
+            "text": "Chaguo",
+            "start": 11.6184,
+            "end": 11.9868,
+            "display_index": 23
+          },
+          {
+            "text": "nyingine",
+            "start": 12.079,
+            "end": 12.5263,
+            "display_index": 24
+          },
+          {
+            "text": "ni",
+            "start": 12.5526,
+            "end": 12.6448,
+            "display_index": 25
+          },
+          {
+            "text": "Ongeza",
+            "start": 12.671,
+            "end": 13.0658,
+            "display_index": 26
+          },
+          {
+            "text": "Maoni",
+            "start": 13.0921,
+            "end": 13.4737,
+            "display_index": 27
+          },
+          {
+            "text": "na",
+            "start": 13.5,
+            "end": 13.579,
+            "display_index": 28
+          },
+          {
+            "text": "Futa",
+            "start": 13.6052,
+            "end": 14.0131,
+            "display_index": 29
+          },
+          {
+            "text": "Bloku",
+            "start": 14.0395,
+            "end": 14.5658,
             "display_index": 30
           }
         ]
@@ -375679,200 +376381,188 @@
           {
             "text": "Picha",
             "start": 0.1684,
-            "end": 0.3658,
+            "end": 0.4447,
             "display_index": 0
           },
           {
-            "text": "A.",
-            "start": 0.471,
-            "end": 0.5895,
+            "text": "aa",
+            "start": 0.55,
+            "end": 0.9579,
             "display_index": 1
           },
           {
             "text": "Maelezo",
-            "start": 0.629,
-            "end": 1.129,
+            "start": 1.9605,
+            "end": 2.3684,
             "display_index": 2
           },
           {
             "text": "ya",
-            "start": 1.1553,
-            "end": 1.2474,
+            "start": 2.4737,
+            "end": 2.5789,
             "display_index": 3
           },
           {
             "text": "programu",
-            "start": 1.2737,
-            "end": 1.8263,
+            "start": 2.6052,
+            "end": 3.1579,
             "display_index": 4
           },
           {
             "text": "fikivu",
-            "start": 1.8658,
-            "end": 2.3526,
+            "start": 3.1974,
+            "end": 3.6579,
             "display_index": 5
           },
           {
             "text": "ya",
-            "start": 2.3921,
-            "end": 2.4842,
+            "start": 3.6974,
+            "end": 3.7895,
             "display_index": 6
           },
           {
             "text": "Kuramu",
-            "start": 2.5105,
-            "end": 3.0105,
+            "start": 3.8158,
+            "end": 4.3158,
             "display_index": 7
           },
           {
-            "text": "Programu",
-            "start": 3.129,
-            "end": 3.7079,
+            "text": "Hii",
+            "start": 4.4474,
+            "end": 4.6448,
             "display_index": 8
           },
           {
-            "text": "ya",
-            "start": 3.7474,
-            "end": 3.8132,
+            "text": "ni",
+            "start": 4.671,
+            "end": 4.7632,
             "display_index": 9
           },
           {
-            "text": "Scratch",
-            "start": 3.8395,
-            "end": 4.3395,
+            "text": "programu",
+            "start": 4.8026,
+            "end": 5.3948,
             "display_index": 10
           },
           {
-            "text": "auu",
-            "start": 4.3921,
-            "end": 4.6947,
+            "text": "ya",
+            "start": 5.4342,
+            "end": 5.5263,
             "display_index": 11
           },
           {
-            "text": "Kuramu",
-            "start": 4.7342,
-            "end": 5.2079,
+            "text": "kwanza",
+            "start": 5.5526,
+            "end": 6.0263,
             "display_index": 12
           },
           {
-            "text": "kitufe",
-            "start": 5.3395,
-            "end": 5.8,
+            "text": "Kishale",
+            "start": 7.0,
+            "end": 7.3816,
             "display_index": 13
           },
           {
-            "text": "cha",
-            "start": 5.8395,
-            "end": 5.9973,
+            "text": "juu",
+            "start": 7.4868,
+            "end": 7.7632,
             "display_index": 14
           },
           {
-            "text": "kishale",
-            "start": 6.0368,
-            "end": 6.5237,
+            "text": "kikibonyezwa",
+            "start": 7.7895,
+            "end": 8.6842,
             "display_index": 15
           },
           {
-            "text": "juu",
-            "start": 6.5632,
-            "end": 6.8263,
+            "text": "Sprite",
+            "start": 8.7763,
+            "end": 9.25,
             "display_index": 16
           },
           {
-            "text": "kinapobonyezwa",
-            "start": 6.8658,
-            "end": 7.9184,
+            "text": "anaelekezwa",
+            "start": 9.2895,
+            "end": 10.0395,
             "display_index": 17
           },
           {
-            "text": "sprite",
-            "start": 8.0895,
-            "end": 8.55,
+            "text": "kwenye",
+            "start": 10.079,
+            "end": 10.3421,
             "display_index": 18
           },
           {
-            "text": "huelekezwa",
-            "start": 8.5763,
-            "end": 9.2737,
+            "text": "nyuzi",
+            "start": 10.3684,
+            "end": 10.6579,
             "display_index": 19
           },
           {
-            "text": "kwa",
-            "start": 9.3132,
-            "end": 9.4447,
+            "text": "sifuri",
+            "start": 10.6974,
+            "end": 11.3158,
             "display_index": 20
           },
           {
-            "text": "mwelekeo",
-            "start": 9.471,
-            "end": 9.9974,
+            "text": "anasonga",
+            "start": 11.5,
+            "end": 12.0921,
             "display_index": 21
           },
           {
-            "text": "sifuri",
-            "start": 10.0237,
-            "end": 10.6289,
+            "text": "hatua",
+            "start": 12.1316,
+            "end": 12.5395,
             "display_index": 22
           },
           {
-            "text": "husonga",
-            "start": 10.8,
-            "end": 11.2737,
+            "text": "kumi",
+            "start": 12.579,
+            "end": 12.9474,
             "display_index": 23
           },
           {
-            "text": "hatua",
-            "start": 11.3,
-            "end": 11.7079,
+            "text": "kisha",
+            "start": 13.1316,
+            "end": 13.4474,
             "display_index": 24
           },
           {
-            "text": "kumi",
-            "start": 11.7474,
-            "end": 12.1158,
+            "text": "anacheza",
+            "start": 13.4737,
+            "end": 13.9737,
             "display_index": 25
           },
           {
-            "text": "kisha",
-            "start": 12.3132,
-            "end": 12.6158,
+            "text": "sauti",
+            "start": 14.0,
+            "end": 14.4474,
             "display_index": 26
           },
           {
-            "text": "hutoa",
-            "start": 12.6421,
-            "end": 12.9842,
+            "text": "ya",
+            "start": 14.4737,
+            "end": 14.5395,
             "display_index": 27
           },
           {
-            "text": "sauti",
-            "start": 13.0105,
-            "end": 13.4316,
+            "text": "Meow",
+            "start": 14.5658,
+            "end": 14.8684,
             "display_index": 28
           },
           {
-            "text": "ya",
-            "start": 13.4579,
-            "end": 13.5237,
+            "text": "hadi",
+            "start": 14.9079,
+            "end": 15.1842,
             "display_index": 29
           },
           {
-            "text": "Meow",
-            "start": 13.55,
-            "end": 13.8395,
-            "display_index": 30
-          },
-          {
-            "text": "hadi",
-            "start": 13.879,
-            "end": 14.1421,
-            "display_index": 31
-          },
-          {
             "text": "ikamilike",
-            "start": 14.1816,
-            "end": 14.9316,
-            "display_index": 32
+            "start": 15.2237,
+            "end": 15.9737,
+            "display_index": 30
           }
         ]
       }
@@ -375886,230 +376576,176 @@
           {
             "text": "Picha",
             "start": 0.1684,
-            "end": 0.3658,
+            "end": 0.379,
             "display_index": 0
           },
           {
-            "text": "B",
+            "text": "bee",
             "start": 0.471,
-            "end": 0.6816,
+            "end": 0.8526,
             "display_index": 1
           },
           {
             "text": "Maelezo",
-            "start": 0.8526,
-            "end": 1.3921,
+            "start": 1.8553,
+            "end": 2.25,
             "display_index": 2
           },
           {
             "text": "ya",
-            "start": 1.4184,
-            "end": 1.5237,
+            "start": 2.3684,
+            "end": 2.4605,
             "display_index": 3
           },
           {
             "text": "programu",
-            "start": 1.55,
-            "end": 2.0895,
+            "start": 2.4868,
+            "end": 3.0395,
             "display_index": 4
           },
           {
             "text": "fikivu",
-            "start": 2.129,
-            "end": 2.5895,
+            "start": 3.079,
+            "end": 3.5395,
             "display_index": 5
           },
           {
             "text": "ya",
-            "start": 2.629,
-            "end": 2.7211,
+            "start": 3.579,
+            "end": 3.6711,
             "display_index": 6
           },
           {
             "text": "Kuramu",
-            "start": 2.7474,
-            "end": 3.2737,
+            "start": 3.6974,
+            "end": 4.1842,
             "display_index": 7
           },
           {
-            "text": "Nakala",
-            "start": 3.4184,
-            "end": 3.8395,
+            "text": "Hii",
+            "start": 4.329,
+            "end": 4.5263,
             "display_index": 8
           },
           {
-            "text": "ya",
-            "start": 3.8658,
-            "end": 3.971,
+            "text": "ni",
+            "start": 4.5526,
+            "end": 4.6448,
             "display_index": 9
           },
           {
-            "text": "programu",
-            "start": 3.9974,
-            "end": 4.5763,
+            "text": "nakala",
+            "start": 4.671,
+            "end": 5.0789,
             "display_index": 10
           },
           {
             "text": "ya",
-            "start": 4.6158,
-            "end": 4.6816,
+            "start": 5.1052,
+            "end": 5.1974,
             "display_index": 11
           },
           {
-            "text": "Scratch",
-            "start": 4.7079,
-            "end": 5.2342,
+            "text": "programu",
+            "start": 5.2237,
+            "end": 5.8158,
             "display_index": 12
           },
           {
-            "text": "auu",
-            "start": 5.2868,
-            "end": 5.5895,
+            "text": "ya",
+            "start": 5.8552,
+            "end": 5.9474,
             "display_index": 13
           },
           {
-            "text": "Kuramu",
-            "start": 5.6158,
-            "end": 6.05,
+            "text": "kwanza",
+            "start": 5.9737,
+            "end": 6.3158,
             "display_index": 14
           },
           {
             "text": "yenye",
-            "start": 6.0895,
-            "end": 6.3,
+            "start": 6.3421,
+            "end": 6.5921,
             "display_index": 15
           },
           {
-            "text": "bloku",
-            "start": 6.3263,
-            "end": 6.6816,
+            "text": "amri",
+            "start": 6.6316,
+            "end": 6.9342,
             "display_index": 16
           },
           {
             "text": "zilezile",
-            "start": 6.7079,
-            "end": 7.3657,
+            "start": 6.9605,
+            "end": 7.6447,
             "display_index": 17
           },
           {
-            "text": "kitufe",
-            "start": 7.5632,
-            "end": 8.0237,
+            "text": "Nakala",
+            "start": 8.6448,
+            "end": 8.9737,
             "display_index": 18
           },
           {
-            "text": "cha",
-            "start": 8.0632,
-            "end": 8.221,
+            "text": "hii",
+            "start": 9.0921,
+            "end": 9.3421,
             "display_index": 19
           },
           {
-            "text": "kishale",
-            "start": 8.2605,
-            "end": 8.7474,
+            "text": "inaweza",
+            "start": 9.3684,
+            "end": 9.8552,
             "display_index": 20
           },
           {
-            "text": "juu",
-            "start": 8.7868,
-            "end": 9.0632,
+            "text": "kubadilishwa",
+            "start": 9.8816,
+            "end": 10.6184,
             "display_index": 21
           },
           {
-            "text": "kinapobonyezwa",
-            "start": 9.1026,
-            "end": 10.1552,
+            "text": "bila",
+            "start": 10.6448,
+            "end": 10.9342,
             "display_index": 22
           },
           {
-            "text": "sprite",
-            "start": 10.3,
-            "end": 10.7605,
+            "text": "kuandika",
+            "start": 10.9605,
+            "end": 11.4605,
             "display_index": 23
           },
           {
-            "text": "huelekezwa",
-            "start": 10.7868,
-            "end": 11.4842,
+            "text": "upya",
+            "start": 11.5,
+            "end": 11.8158,
             "display_index": 24
           },
           {
-            "text": "kwa",
-            "start": 11.5237,
-            "end": 11.6552,
+            "text": "mlolongo",
+            "start": 11.8421,
+            "end": 12.3685,
             "display_index": 25
           },
           {
-            "text": "mwelekeo",
-            "start": 11.6816,
-            "end": 12.2079,
+            "text": "wote",
+            "start": 12.4079,
+            "end": 12.7105,
             "display_index": 26
           },
           {
-            "text": "sifuri",
-            "start": 12.2342,
-            "end": 12.8263,
+            "text": "wa",
+            "start": 12.7368,
+            "end": 12.8158,
             "display_index": 27
           },
           {
-            "text": "husonga",
-            "start": 12.971,
-            "end": 13.4579,
+            "text": "amri",
+            "start": 12.8421,
+            "end": 13.2369,
             "display_index": 28
-          },
-          {
-            "text": "hatua",
-            "start": 13.4842,
-            "end": 13.9184,
-            "display_index": 29
-          },
-          {
-            "text": "kumi",
-            "start": 13.9579,
-            "end": 14.3263,
-            "display_index": 30
-          },
-          {
-            "text": "kisha",
-            "start": 14.6316,
-            "end": 14.8158,
-            "display_index": 31
-          },
-          {
-            "text": "hutoa",
-            "start": 14.9079,
-            "end": 15.25,
-            "display_index": 32
-          },
-          {
-            "text": "sauti",
-            "start": 15.2763,
-            "end": 15.7105,
-            "display_index": 33
-          },
-          {
-            "text": "ya",
-            "start": 15.7368,
-            "end": 15.8026,
-            "display_index": 34
-          },
-          {
-            "text": "Meow",
-            "start": 15.829,
-            "end": 16.1184,
-            "display_index": 35
-          },
-          {
-            "text": "hadi",
-            "start": 16.1579,
-            "end": 16.421,
-            "display_index": 36
-          },
-          {
-            "text": "ikamilike",
-            "start": 16.4605,
-            "end": 17.2237,
-            "display_index": 37
           }
         ]
       }
@@ -383700,6 +384336,1149 @@
             "start": 0.1948,
             "end": 0.9711,
             "display_index": 0
+          }
+        ]
+      }
+    ]
+  },
+  "pg167_table_section_a_audio": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Maelezo",
+            "start": 0.1948,
+            "end": 0.5763,
+            "display_index": 0
+          },
+          {
+            "text": "ya",
+            "start": 0.6947,
+            "end": 0.7869,
+            "display_index": 1
+          },
+          {
+            "text": "jedwali",
+            "start": 0.8132,
+            "end": 1.3658,
+            "display_index": 2
+          },
+          {
+            "text": "Jedwali",
+            "start": 1.5105,
+            "end": 2.0369,
+            "display_index": 3
+          },
+          {
+            "text": "lina",
+            "start": 2.0632,
+            "end": 2.3132,
+            "display_index": 4
+          },
+          {
+            "text": "safu",
+            "start": 2.3395,
+            "end": 2.6947,
+            "display_index": 5
+          },
+          {
+            "text": "mbili",
+            "start": 2.721,
+            "end": 3.1026,
+            "display_index": 6
+          },
+          {
+            "text": "Safu",
+            "start": 4.0658,
+            "end": 4.3684,
+            "display_index": 7
+          },
+          {
+            "text": "ya",
+            "start": 4.4605,
+            "end": 4.5527,
+            "display_index": 8
+          },
+          {
+            "text": "kwanza",
+            "start": 4.579,
+            "end": 4.9474,
+            "display_index": 9
+          },
+          {
+            "text": "ni",
+            "start": 4.9737,
+            "end": 5.0526,
+            "display_index": 10
+          },
+          {
+            "text": "Sehemu",
+            "start": 5.079,
+            "end": 5.6316,
+            "display_index": 11
+          },
+          {
+            "text": "aa",
+            "start": 5.671,
+            "end": 5.8552,
+            "display_index": 12
+          },
+          {
+            "text": "yenye",
+            "start": 5.8816,
+            "end": 6.1052,
+            "display_index": 13
+          },
+          {
+            "text": "maneno",
+            "start": 6.1316,
+            "end": 6.5526,
+            "display_index": 14
+          },
+          {
+            "text": "sita",
+            "start": 6.579,
+            "end": 6.9474,
+            "display_index": 15
+          },
+          {
+            "text": "ya",
+            "start": 6.9737,
+            "end": 7.0658,
+            "display_index": 16
+          },
+          {
+            "text": "usimbaji",
+            "start": 7.0921,
+            "end": 7.7237,
+            "display_index": 17
+          },
+          {
+            "text": "yaliyoandikwa",
+            "start": 7.75,
+            "end": 8.4737,
+            "display_index": 18
+          },
+          {
+            "text": "kwa",
+            "start": 8.5,
+            "end": 8.6579,
+            "display_index": 19
+          },
+          {
+            "text": "namba",
+            "start": 8.6842,
+            "end": 8.9737,
+            "display_index": 20
+          },
+          {
+            "text": "za",
+            "start": 9.0,
+            "end": 9.1316,
+            "display_index": 21
+          },
+          {
+            "text": "Kirumi",
+            "start": 9.171,
+            "end": 9.6579,
+            "display_index": 22
+          },
+          {
+            "text": "Safu",
+            "start": 10.6184,
+            "end": 10.8947,
+            "display_index": 23
+          },
+          {
+            "text": "ya",
+            "start": 10.9868,
+            "end": 11.0658,
+            "display_index": 24
+          },
+          {
+            "text": "pili",
+            "start": 11.0921,
+            "end": 11.3816,
+            "display_index": 25
+          },
+          {
+            "text": "ni",
+            "start": 11.4079,
+            "end": 11.4737,
+            "display_index": 26
+          },
+          {
+            "text": "Sehemu",
+            "start": 11.5,
+            "end": 11.9868,
+            "display_index": 27
+          },
+          {
+            "text": "bee",
+            "start": 12.0132,
+            "end": 12.2105,
+            "display_index": 28
+          },
+          {
+            "text": "yenye",
+            "start": 12.2368,
+            "end": 12.4605,
+            "display_index": 29
+          },
+          {
+            "text": "maelezo",
+            "start": 12.5,
+            "end": 13.0132,
+            "display_index": 30
+          },
+          {
+            "text": "manane",
+            "start": 13.0395,
+            "end": 13.4473,
+            "display_index": 31
+          },
+          {
+            "text": "yaliyoandikwa",
+            "start": 13.4737,
+            "end": 14.1973,
+            "display_index": 32
+          },
+          {
+            "text": "kwa",
+            "start": 14.2368,
+            "end": 14.3947,
+            "display_index": 33
+          },
+          {
+            "text": "herufi",
+            "start": 14.421,
+            "end": 14.9605,
+            "display_index": 34
+          },
+          {
+            "text": "Kwanza",
+            "start": 15.921,
+            "end": 16.171,
+            "display_index": 35
+          },
+          {
+            "text": "tunasoma",
+            "start": 16.2763,
+            "end": 16.8685,
+            "display_index": 36
+          },
+          {
+            "text": "Sehemu",
+            "start": 16.8947,
+            "end": 17.4474,
+            "display_index": 37
+          },
+          {
+            "text": "aa",
+            "start": 17.4868,
+            "end": 17.8421,
+            "display_index": 38
+          },
+          {
+            "text": "Namba",
+            "start": 18.8421,
+            "end": 19.0527,
+            "display_index": 39
+          },
+          {
+            "text": "moja",
+            "start": 19.171,
+            "end": 19.4868,
+            "display_index": 40
+          },
+          {
+            "text": "ya",
+            "start": 19.5132,
+            "end": 19.6053,
+            "display_index": 41
+          },
+          {
+            "text": "Kirumi",
+            "start": 19.6316,
+            "end": 20.1316,
+            "display_index": 42
+          },
+          {
+            "text": "Sauti",
+            "start": 20.2237,
+            "end": 20.8552,
+            "display_index": 43
+          },
+          {
+            "text": "Namba",
+            "start": 21.8684,
+            "end": 22.079,
+            "display_index": 44
+          },
+          {
+            "text": "mbili",
+            "start": 22.1974,
+            "end": 22.4737,
+            "display_index": 45
+          },
+          {
+            "text": "ya",
+            "start": 22.5,
+            "end": 22.5921,
+            "display_index": 46
+          },
+          {
+            "text": "Kirumi",
+            "start": 22.6184,
+            "end": 23.1579,
+            "display_index": 47
+          },
+          {
+            "text": "Matukio",
+            "start": 23.2632,
+            "end": 24.0263,
+            "display_index": 48
+          },
+          {
+            "text": "Namba",
+            "start": 25.0263,
+            "end": 25.2632,
+            "display_index": 49
+          },
+          {
+            "text": "tatu",
+            "start": 25.3816,
+            "end": 25.6842,
+            "display_index": 50
+          },
+          {
+            "text": "ya",
+            "start": 25.7105,
+            "end": 25.8027,
+            "display_index": 51
+          },
+          {
+            "text": "Kirumi",
+            "start": 25.829,
+            "end": 26.3421,
+            "display_index": 52
+          },
+          {
+            "text": "Kidhibiti",
+            "start": 26.4474,
+            "end": 27.1974,
+            "display_index": 53
+          },
+          {
+            "text": "Namba",
+            "start": 28.1974,
+            "end": 28.4605,
+            "display_index": 54
+          },
+          {
+            "text": "nne",
+            "start": 28.5658,
+            "end": 28.75,
+            "display_index": 55
+          },
+          {
+            "text": "ya",
+            "start": 28.7763,
+            "end": 28.8816,
+            "display_index": 56
+          },
+          {
+            "text": "Kirumi",
+            "start": 28.9079,
+            "end": 29.4473,
+            "display_index": 57
+          },
+          {
+            "text": "Hisi",
+            "start": 29.5395,
+            "end": 29.9605,
+            "display_index": 58
+          },
+          {
+            "text": "Namba",
+            "start": 30.9605,
+            "end": 31.1842,
+            "display_index": 59
+          },
+          {
+            "text": "tano",
+            "start": 31.3026,
+            "end": 31.6052,
+            "display_index": 60
+          },
+          {
+            "text": "ya",
+            "start": 31.6316,
+            "end": 31.7368,
+            "display_index": 61
+          },
+          {
+            "text": "Kirumi",
+            "start": 31.7632,
+            "end": 32.2763,
+            "display_index": 62
+          },
+          {
+            "text": "Opereta",
+            "start": 32.4079,
+            "end": 33.1315,
+            "display_index": 63
+          },
+          {
+            "text": "Namba",
+            "start": 34.1316,
+            "end": 34.3158,
+            "display_index": 64
+          },
+          {
+            "text": "sita",
+            "start": 34.421,
+            "end": 34.7763,
+            "display_index": 65
+          },
+          {
+            "text": "ya",
+            "start": 34.8026,
+            "end": 34.9079,
+            "display_index": 66
+          },
+          {
+            "text": "Kirumi",
+            "start": 34.9342,
+            "end": 35.4474,
+            "display_index": 67
+          },
+          {
+            "text": "Mwendo",
+            "start": 35.5526,
+            "end": 35.9868,
+            "display_index": 68
+          }
+        ]
+      }
+    ]
+  },
+  "pg167_table_section_b_audio": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Sehemu",
+            "start": 0.1816,
+            "end": 0.6684,
+            "display_index": 0
+          },
+          {
+            "text": "bee",
+            "start": 0.7868,
+            "end": 1.1552,
+            "display_index": 1
+          },
+          {
+            "text": "aa",
+            "start": 2.1579,
+            "end": 2.3158,
+            "display_index": 2
+          },
+          {
+            "text": "Kwenda",
+            "start": 2.5395,
+            "end": 2.8684,
+            "display_index": 3
+          },
+          {
+            "text": "auu",
+            "start": 2.9079,
+            "end": 3.2368,
+            "display_index": 4
+          },
+          {
+            "text": "kusogeza",
+            "start": 3.2632,
+            "end": 3.8816,
+            "display_index": 5
+          },
+          {
+            "text": "auu",
+            "start": 3.921,
+            "end": 4.25,
+            "display_index": 6
+          },
+          {
+            "text": "kuzunguka",
+            "start": 4.2895,
+            "end": 4.9342,
+            "display_index": 7
+          },
+          {
+            "text": "auu",
+            "start": 4.9737,
+            "end": 5.2763,
+            "display_index": 8
+          },
+          {
+            "text": "kubadili",
+            "start": 5.3026,
+            "end": 5.8816,
+            "display_index": 9
+          },
+          {
+            "text": "uelekeo",
+            "start": 5.921,
+            "end": 6.5921,
+            "display_index": 10
+          },
+          {
+            "text": "bee",
+            "start": 7.5526,
+            "end": 7.7895,
+            "display_index": 11
+          },
+          {
+            "text": "Kusimamisha",
+            "start": 7.9737,
+            "end": 8.75,
+            "display_index": 12
+          },
+          {
+            "text": "mchezo",
+            "start": 8.7895,
+            "end": 9.4473,
+            "display_index": 13
+          },
+          {
+            "text": "che",
+            "start": 10.4342,
+            "end": 10.5921,
+            "display_index": 14
+          },
+          {
+            "text": "Kutumia",
+            "start": 10.7763,
+            "end": 11.2632,
+            "display_index": 15
+          },
+          {
+            "text": "matendo",
+            "start": 11.2895,
+            "end": 11.75,
+            "display_index": 16
+          },
+          {
+            "text": "na",
+            "start": 11.7763,
+            "end": 11.8685,
+            "display_index": 17
+          },
+          {
+            "text": "maelezo",
+            "start": 11.8948,
+            "end": 12.3948,
+            "display_index": 18
+          },
+          {
+            "text": "ya",
+            "start": 12.421,
+            "end": 12.5132,
+            "display_index": 19
+          },
+          {
+            "text": "kihisabati",
+            "start": 12.5395,
+            "end": 13.25,
+            "display_index": 20
+          },
+          {
+            "text": "kulingana",
+            "start": 13.2763,
+            "end": 13.8158,
+            "display_index": 21
+          },
+          {
+            "text": "na",
+            "start": 13.8421,
+            "end": 13.9211,
+            "display_index": 22
+          },
+          {
+            "text": "maelekezo",
+            "start": 13.9474,
+            "end": 14.7763,
+            "display_index": 23
+          },
+          {
+            "text": "dee",
+            "start": 15.75,
+            "end": 15.9737,
+            "display_index": 24
+          },
+          {
+            "text": "Kuendeleza",
+            "start": 16.171,
+            "end": 16.8421,
+            "display_index": 25
+          },
+          {
+            "text": "mchezo",
+            "start": 16.8816,
+            "end": 17.5132,
+            "display_index": 26
+          },
+          {
+            "text": "e",
+            "start": 18.5263,
+            "end": 18.5263,
+            "display_index": 27
+          },
+          {
+            "text": "Kuonesha",
+            "start": 18.75,
+            "end": 19.3158,
+            "display_index": 28
+          },
+          {
+            "text": "auu",
+            "start": 19.3553,
+            "end": 19.7105,
+            "display_index": 29
+          },
+          {
+            "text": "kucheza",
+            "start": 19.7368,
+            "end": 20.2105,
+            "display_index": 30
+          },
+          {
+            "text": "bloku",
+            "start": 20.2368,
+            "end": 20.5921,
+            "display_index": 31
+          },
+          {
+            "text": "zilizoko",
+            "start": 20.6184,
+            "end": 21.2237,
+            "display_index": 32
+          },
+          {
+            "text": "kwenye",
+            "start": 21.25,
+            "end": 21.5132,
+            "display_index": 33
+          },
+          {
+            "text": "mchezo",
+            "start": 21.5526,
+            "end": 22.1447,
+            "display_index": 34
+          },
+          {
+            "text": "fe",
+            "start": 23.1053,
+            "end": 23.2631,
+            "display_index": 35
+          },
+          {
+            "text": "Kucheza",
+            "start": 23.4605,
+            "end": 23.9474,
+            "display_index": 36
+          },
+          {
+            "text": "auu",
+            "start": 23.9868,
+            "end": 24.329,
+            "display_index": 37
+          },
+          {
+            "text": "kubadili",
+            "start": 24.3553,
+            "end": 24.921,
+            "display_index": 38
+          },
+          {
+            "text": "auu",
+            "start": 24.9605,
+            "end": 25.3027,
+            "display_index": 39
+          },
+          {
+            "text": "kuzima",
+            "start": 25.3421,
+            "end": 25.7763,
+            "display_index": 40
+          },
+          {
+            "text": "sauti",
+            "start": 25.8026,
+            "end": 26.3816,
+            "display_index": 41
+          },
+          {
+            "text": "ge",
+            "start": 27.3421,
+            "end": 27.5263,
+            "display_index": 42
+          },
+          {
+            "text": "Kusubiri",
+            "start": 27.7237,
+            "end": 28.3684,
+            "display_index": 43
+          },
+          {
+            "text": "auu",
+            "start": 28.4079,
+            "end": 28.7631,
+            "display_index": 44
+          },
+          {
+            "text": "kurudia",
+            "start": 28.7895,
+            "end": 29.3158,
+            "display_index": 45
+          },
+          {
+            "text": "kulingana",
+            "start": 29.3421,
+            "end": 29.8685,
+            "display_index": 46
+          },
+          {
+            "text": "na",
+            "start": 29.8947,
+            "end": 29.9737,
+            "display_index": 47
+          },
+          {
+            "text": "maelekezo",
+            "start": 30.0,
+            "end": 30.8553,
+            "display_index": 48
+          },
+          {
+            "text": "he",
+            "start": 31.829,
+            "end": 31.9079,
+            "display_index": 49
+          },
+          {
+            "text": "Kugusa",
+            "start": 32.079,
+            "end": 32.5526,
+            "display_index": 50
+          },
+          {
+            "text": "kiteuzi",
+            "start": 32.579,
+            "end": 33.1184,
+            "display_index": 51
+          },
+          {
+            "text": "cha",
+            "start": 33.1579,
+            "end": 33.3157,
+            "display_index": 52
+          },
+          {
+            "text": "kipanya",
+            "start": 33.3552,
+            "end": 33.8421,
+            "display_index": 53
+          },
+          {
+            "text": "auu",
+            "start": 33.8816,
+            "end": 34.1974,
+            "display_index": 54
+          },
+          {
+            "text": "rangi",
+            "start": 34.2237,
+            "end": 34.5789,
+            "display_index": 55
+          },
+          {
+            "text": "kulingana",
+            "start": 34.6184,
+            "end": 35.1447,
+            "display_index": 56
+          },
+          {
+            "text": "na",
+            "start": 35.171,
+            "end": 35.25,
+            "display_index": 57
+          },
+          {
+            "text": "maelekezo",
+            "start": 35.2763,
+            "end": 36.1185,
+            "display_index": 58
+          }
+        ]
+      }
+    ]
+  },
+  "pg130_scratch_link": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Fungua",
+            "start": 0.1816,
+            "end": 0.4579,
+            "display_index": 0
+          },
+          {
+            "text": "Scratch",
+            "start": 0.5763,
+            "end": 1.2474,
+            "display_index": 1
+          }
+        ]
+      }
+    ]
+  },
+  "pg130_quorum_link": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Fungua",
+            "start": 0.1816,
+            "end": 0.4974,
+            "display_index": 0
+          },
+          {
+            "text": "Kuramu",
+            "start": 0.6158,
+            "end": 1.221,
+            "display_index": 1
+          }
+        ]
+      }
+    ]
+  },
+  "pg146_quorum_desc": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Maelezo",
+            "start": 0.1816,
+            "end": 0.5895,
+            "display_index": 0
+          },
+          {
+            "text": "ya",
+            "start": 0.6947,
+            "end": 0.7869,
+            "display_index": 1
+          },
+          {
+            "text": "programu",
+            "start": 0.8132,
+            "end": 1.3658,
+            "display_index": 2
+          },
+          {
+            "text": "fikivu",
+            "start": 1.4053,
+            "end": 1.8658,
+            "display_index": 3
+          },
+          {
+            "text": "ya",
+            "start": 1.9053,
+            "end": 1.9974,
+            "display_index": 4
+          },
+          {
+            "text": "Kuramu",
+            "start": 2.0237,
+            "end": 2.55,
+            "display_index": 5
+          },
+          {
+            "text": "Muundo",
+            "start": 2.6816,
+            "end": 3.0237,
+            "display_index": 6
+          },
+          {
+            "text": "wa",
+            "start": 3.05,
+            "end": 3.129,
+            "display_index": 7
+          },
+          {
+            "text": "maamuzi",
+            "start": 3.1553,
+            "end": 3.6553,
+            "display_index": 8
+          },
+          {
+            "text": "hutumia",
+            "start": 3.6947,
+            "end": 4.1816,
+            "display_index": 9
+          },
+          {
+            "text": "kauli",
+            "start": 4.221,
+            "end": 4.5895,
+            "display_index": 10
+          },
+          {
+            "text": "ya",
+            "start": 4.6158,
+            "end": 4.6947,
+            "display_index": 11
+          },
+          {
+            "text": "ikiwa",
+            "start": 4.721,
+            "end": 5.0763,
+            "display_index": 12
+          },
+          {
+            "text": "kuchunguza",
+            "start": 5.1026,
+            "end": 5.6816,
+            "display_index": 13
+          },
+          {
+            "text": "sharti",
+            "start": 5.7079,
+            "end": 6.1947,
+            "display_index": 14
+          },
+          {
+            "text": "Sharti",
+            "start": 7.1579,
+            "end": 7.5263,
+            "display_index": 15
+          },
+          {
+            "text": "likiwa",
+            "start": 7.6184,
+            "end": 8.0263,
+            "display_index": 16
+          },
+          {
+            "text": "kweli",
+            "start": 8.0526,
+            "end": 8.421,
+            "display_index": 17
+          },
+          {
+            "text": "programu",
+            "start": 8.5526,
+            "end": 9.171,
+            "display_index": 18
+          },
+          {
+            "text": "hutekeleza",
+            "start": 9.1974,
+            "end": 9.9079,
+            "display_index": 19
+          },
+          {
+            "text": "amri",
+            "start": 9.9474,
+            "end": 10.2763,
+            "display_index": 20
+          },
+          {
+            "text": "zilizo",
+            "start": 10.3026,
+            "end": 10.7763,
+            "display_index": 21
+          },
+          {
+            "text": "ndani",
+            "start": 10.8026,
+            "end": 11.0921,
+            "display_index": 22
+          },
+          {
+            "text": "ya",
+            "start": 11.1184,
+            "end": 11.1974,
+            "display_index": 23
+          },
+          {
+            "text": "kauli",
+            "start": 11.2237,
+            "end": 11.6052,
+            "display_index": 24
+          },
+          {
+            "text": "hiyo",
+            "start": 11.6316,
+            "end": 11.921,
+            "display_index": 25
+          },
+          {
+            "text": "likiwa",
+            "start": 12.1184,
+            "end": 12.5395,
+            "display_index": 26
+          },
+          {
+            "text": "la",
+            "start": 12.5658,
+            "end": 12.6842,
+            "display_index": 27
+          },
+          {
+            "text": "uongo",
+            "start": 12.7237,
+            "end": 13.2105,
+            "display_index": 28
+          },
+          {
+            "text": "huziruka",
+            "start": 13.329,
+            "end": 14.079,
+            "display_index": 29
+          },
+          {
+            "text": "Katika",
+            "start": 15.0658,
+            "end": 15.3684,
+            "display_index": 30
+          },
+          {
+            "text": "Kuramu",
+            "start": 15.4605,
+            "end": 15.9869,
+            "display_index": 31
+          },
+          {
+            "text": "mtumiaji",
+            "start": 16.0921,
+            "end": 16.7895,
+            "display_index": 32
+          },
+          {
+            "text": "wa",
+            "start": 16.829,
+            "end": 16.9079,
+            "display_index": 33
+          },
+          {
+            "text": "kibodi",
+            "start": 16.9342,
+            "end": 17.4605,
+            "display_index": 34
+          },
+          {
+            "text": "auu",
+            "start": 17.5,
+            "end": 17.829,
+            "display_index": 35
+          },
+          {
+            "text": "screen",
+            "start": 17.8684,
+            "end": 18.25,
+            "display_index": 36
+          },
+          {
+            "text": "reader",
+            "start": 18.2895,
+            "end": 18.671,
+            "display_index": 37
+          },
+          {
+            "text": "anaweza",
+            "start": 18.7237,
+            "end": 19.2368,
+            "display_index": 38
+          },
+          {
+            "text": "kuandika",
+            "start": 19.2763,
+            "end": 19.7763,
+            "display_index": 39
+          },
+          {
+            "text": "sharti",
+            "start": 19.8026,
+            "end": 20.25,
+            "display_index": 40
+          },
+          {
+            "text": "na",
+            "start": 20.2895,
+            "end": 20.4079,
+            "display_index": 41
+          },
+          {
+            "text": "amri",
+            "start": 20.4474,
+            "end": 20.7895,
+            "display_index": 42
+          },
+          {
+            "text": "kwa",
+            "start": 20.8421,
+            "end": 20.9737,
+            "display_index": 43
+          },
+          {
+            "text": "mpangilio",
+            "start": 21.0,
+            "end": 21.6316,
+            "display_index": 44
+          },
+          {
+            "text": "huo",
+            "start": 21.671,
+            "end": 21.9474,
+            "display_index": 45
+          },
+          {
+            "text": "bila",
+            "start": 21.9737,
+            "end": 22.2631,
+            "display_index": 46
+          },
+          {
+            "text": "kutumia",
+            "start": 22.3026,
+            "end": 22.8158,
+            "display_index": 47
+          },
+          {
+            "text": "bloku",
+            "start": 22.8553,
+            "end": 23.2368,
+            "display_index": 48
+          },
+          {
+            "text": "za",
+            "start": 23.2763,
+            "end": 23.4211,
+            "display_index": 49
+          },
+          {
+            "text": "kuburuta",
+            "start": 23.4474,
+            "end": 24.171,
+            "display_index": 50
           }
         ]
       }

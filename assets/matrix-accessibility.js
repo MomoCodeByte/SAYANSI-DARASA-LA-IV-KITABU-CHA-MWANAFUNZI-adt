@@ -139,17 +139,87 @@
     document.querySelectorAll("button,[aria-label]").forEach(function (node) {
       ["aria-label", "title"].forEach(function (attribute) {
         var value = node.getAttribute(attribute);
-        if (value && /Kamusi/i.test(value)) node.setAttribute(attribute, value.replace(/Kamusi/gi, "Farahasa"));
+        if (value && /Kamusi|Farahasa/i.test(value)) {
+          node.setAttribute(attribute, value.replace(/Kamusi|Farahasa/gi, "Faharasa"));
+        }
       });
-      if (node.tagName === "BUTTON" && /Kamusi/i.test(node.textContent || "")) {
+      if (node.tagName === "BUTTON" && /Kamusi|Farahasa/i.test(node.textContent || "")) {
         node.childNodes.forEach(function (child) {
-          if (child.nodeType === Node.TEXT_NODE) child.textContent = child.textContent.replace(/Kamusi/gi, "Farahasa");
+          if (child.nodeType === Node.TEXT_NODE) {
+            child.textContent = child.textContent.replace(/Kamusi|Farahasa/gi, "Faharasa");
+          }
         });
       }
     });
   }
   renameGlossary();
   new MutationObserver(renameGlossary).observe(document.documentElement, { childList: true, subtree: true });
+  function improveMainTabsAccessibility() {
+    function setIfDifferent(node, attribute, value) {
+      if (node.getAttribute(attribute) !== value) node.setAttribute(attribute, value);
+    }
+    var interfaceContainer = document.getElementById("interface-container");
+    var navContainer = document.getElementById("nav-container");
+    if (interfaceContainer) {
+      setIfDifferent(interfaceContainer, "role", "region");
+      setIfDifferent(interfaceContainer, "aria-label", "Vidhibiti vya kusoma kwa sauti");
+    }
+    if (navContainer) {
+      setIfDifferent(navContainer, "role", "navigation");
+      setIfDifferent(navContainer, "aria-label", "Vidhibiti vikuu vya kitabu");
+    }
+
+    var labelTranslations = [
+      [/^Previous:.*$/i, "Nenda kwenye sauti iliyopita"],
+      [/^Play:.*$/i, "Cheza sauti ya ukurasa"],
+      [/^Pause:.*$/i, "Sitisha sauti ya ukurasa"],
+      [/^Next:.*$/i, "Nenda kwenye sauti inayofuata"],
+      [/^Stop:.*$/i, "Simamisha sauti ya ukurasa"],
+      [/^Next page:.*$/i, "Nenda ukurasa unaofuata"],
+      [/^Previous page:.*$/i, "Rudi ukurasa uliopita"]
+    ];
+    var titleTranslations = [
+      [/^Previous\s*[–-].*$/i, "Nenda kwenye sauti iliyopita"],
+      [/^Play\s*[–-].*$/i, "Cheza sauti ya ukurasa"],
+      [/^Pause\s*[–-].*$/i, "Sitisha sauti ya ukurasa"],
+      [/^Next\s*[–-].*$/i, "Nenda kwenye sauti inayofuata"],
+      [/^Stop\s*[–-].*$/i, "Simamisha sauti ya ukurasa"],
+      [/^Next page\s*[–-].*$/i, "Nenda ukurasa unaofuata"],
+      [/^Previous page\s*[–-].*$/i, "Rudi ukurasa uliopita"]
+    ];
+
+    document.querySelectorAll("#interface-container button, #nav-container button").forEach(function (button) {
+      var label = button.getAttribute("aria-label") || "";
+      var title = button.getAttribute("title") || "";
+      labelTranslations.forEach(function (entry) {
+        if (entry[0].test(label)) label = label.replace(entry[0], entry[1]);
+      });
+      titleTranslations.forEach(function (entry) {
+        if (entry[0].test(title)) title = title.replace(entry[0], entry[1]);
+      });
+      if (label) setIfDifferent(button, "aria-label", label);
+      if (title) setIfDifferent(button, "title", title);
+      if (!button.hasAttribute("tabindex")) button.tabIndex = 0;
+    });
+
+    document.querySelectorAll('[role="form"][aria-label="Open-ended answer activity"], form[aria-label="Open-ended answer activity"]').forEach(function (form) {
+      setIfDifferent(form, "aria-label", "Zoezi la kujibu maswali");
+    });
+
+    if (!document.getElementById("main-tabs-accessibility-style")) {
+      var style = document.createElement("style");
+      style.id = "main-tabs-accessibility-style";
+      style.textContent = "#interface-container button:focus-visible,#nav-container button:focus-visible{outline:3px solid #facc15!important;outline-offset:3px!important;border-radius:.5rem!important;}";
+      document.head.appendChild(style);
+    }
+  }
+  improveMainTabsAccessibility();
+  new MutationObserver(improveMainTabsAccessibility).observe(document.documentElement, {
+    childList: true,
+    subtree: true,
+    attributes: true,
+    attributeFilter: ["aria-label", "title", "aria-pressed", "aria-expanded"]
+  });
   function improvePageTwentySevenReadingPlan() {
     if (pageName() !== "pg027_sec001.html" || document.querySelector("[data-page27-reading-plan]")) return;
     var section = document.querySelector('[data-section-id="pg027_sec001"]');
