@@ -385483,5 +385483,1565 @@
         ]
       }
     ]
+  },
+  "pg001_front_im001_audio_desc": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Maelezo",
+            "start": 0.1948,
+            "end": 0.5763,
+            "display_index": 0
+          },
+          {
+            "text": "ya",
+            "start": 0.6947,
+            "end": 0.8,
+            "display_index": 1
+          },
+          {
+            "text": "picha",
+            "start": 0.8263,
+            "end": 1.1685,
+            "display_index": 2
+          },
+          {
+            "text": "Jalada",
+            "start": 1.3395,
+            "end": 1.8395,
+            "display_index": 3
+          },
+          {
+            "text": "la",
+            "start": 1.8658,
+            "end": 1.9842,
+            "display_index": 4
+          },
+          {
+            "text": "mbele",
+            "start": 2.0105,
+            "end": 2.3132,
+            "display_index": 5
+          },
+          {
+            "text": "la",
+            "start": 2.3395,
+            "end": 2.4579,
+            "display_index": 6
+          },
+          {
+            "text": "kitabu",
+            "start": 2.4974,
+            "end": 2.9447,
+            "display_index": 7
+          },
+          {
+            "text": "cha",
+            "start": 2.9842,
+            "end": 3.1158,
+            "display_index": 8
+          },
+          {
+            "text": "Sayansi",
+            "start": 3.1421,
+            "end": 3.6816,
+            "display_index": 9
+          },
+          {
+            "text": "Darasa",
+            "start": 3.721,
+            "end": 4.1947,
+            "display_index": 10
+          },
+          {
+            "text": "la",
+            "start": 4.221,
+            "end": 4.3526,
+            "display_index": 11
+          },
+          {
+            "text": "Nne",
+            "start": 4.3921,
+            "end": 4.6158,
+            "display_index": 12
+          },
+          {
+            "text": "lenye",
+            "start": 4.6421,
+            "end": 4.8921,
+            "display_index": 13
+          },
+          {
+            "text": "mandhari",
+            "start": 4.9316,
+            "end": 5.4184,
+            "display_index": 14
+          },
+          {
+            "text": "ya",
+            "start": 5.4447,
+            "end": 5.5105,
+            "display_index": 15
+          },
+          {
+            "text": "bluu-kijani",
+            "start": 5.5368,
+            "end": 6.4184,
+            "display_index": 16
+          },
+          {
+            "text": "Juu",
+            "start": 7.3816,
+            "end": 7.6447,
+            "display_index": 17
+          },
+          {
+            "text": "kuna",
+            "start": 7.7368,
+            "end": 7.9605,
+            "display_index": 18
+          },
+          {
+            "text": "maandishi",
+            "start": 7.9868,
+            "end": 8.4868,
+            "display_index": 19
+          },
+          {
+            "text": "Sayansi",
+            "start": 8.5263,
+            "end": 9.1447,
+            "display_index": 20
+          },
+          {
+            "text": "Kitabu",
+            "start": 9.2632,
+            "end": 9.7368,
+            "display_index": 21
+          },
+          {
+            "text": "cha",
+            "start": 9.7763,
+            "end": 9.9211,
+            "display_index": 22
+          },
+          {
+            "text": "Mwanafunzi",
+            "start": 9.9474,
+            "end": 10.7237,
+            "display_index": 23
+          },
+          {
+            "text": "na",
+            "start": 10.8421,
+            "end": 10.9474,
+            "display_index": 24
+          },
+          {
+            "text": "Darasa",
+            "start": 10.9737,
+            "end": 11.4473,
+            "display_index": 25
+          },
+          {
+            "text": "la",
+            "start": 11.4737,
+            "end": 11.6184,
+            "display_index": 26
+          },
+          {
+            "text": "Nne",
+            "start": 11.6448,
+            "end": 11.9474,
+            "display_index": 27
+          },
+          {
+            "text": "Katikati",
+            "start": 12.9342,
+            "end": 13.3816,
+            "display_index": 28
+          },
+          {
+            "text": "kuna",
+            "start": 13.4868,
+            "end": 13.7105,
+            "display_index": 29
+          },
+          {
+            "text": "umbo",
+            "start": 13.7368,
+            "end": 13.9868,
+            "display_index": 30
+          },
+          {
+            "text": "la",
+            "start": 14.0132,
+            "end": 14.1316,
+            "display_index": 31
+          },
+          {
+            "text": "duara",
+            "start": 14.1579,
+            "end": 14.5395,
+            "display_index": 32
+          },
+          {
+            "text": "la",
+            "start": 14.5658,
+            "end": 14.6842,
+            "display_index": 33
+          },
+          {
+            "text": "njano",
+            "start": 14.7105,
+            "end": 15.0658,
+            "display_index": 34
+          },
+          {
+            "text": "kama",
+            "start": 15.1052,
+            "end": 15.3947,
+            "display_index": 35
+          },
+          {
+            "text": "jua",
+            "start": 15.421,
+            "end": 15.6579,
+            "display_index": 36
+          },
+          {
+            "text": "lenye",
+            "start": 15.6842,
+            "end": 15.921,
+            "display_index": 37
+          },
+          {
+            "text": "miale",
+            "start": 15.9474,
+            "end": 16.3947,
+            "display_index": 38
+          },
+          {
+            "text": "chini",
+            "start": 16.5658,
+            "end": 16.9079,
+            "display_index": 39
+          },
+          {
+            "text": "kuna",
+            "start": 16.9342,
+            "end": 17.171,
+            "display_index": 40
+          },
+          {
+            "text": "vilima",
+            "start": 17.1974,
+            "end": 17.6053,
+            "display_index": 41
+          },
+          {
+            "text": "vya",
+            "start": 17.6316,
+            "end": 17.7895,
+            "display_index": 42
+          },
+          {
+            "text": "kijani",
+            "start": 17.8158,
+            "end": 18.3684,
+            "display_index": 43
+          },
+          {
+            "text": "na",
+            "start": 18.5395,
+            "end": 18.6447,
+            "display_index": 44
+          },
+          {
+            "text": "mwishoni",
+            "start": 18.671,
+            "end": 19.1579,
+            "display_index": 45
+          },
+          {
+            "text": "kuna",
+            "start": 19.1974,
+            "end": 19.4342,
+            "display_index": 46
+          },
+          {
+            "text": "nembo",
+            "start": 19.4605,
+            "end": 19.7763,
+            "display_index": 47
+          },
+          {
+            "text": "pamoja",
+            "start": 19.8158,
+            "end": 20.2895,
+            "display_index": 48
+          },
+          {
+            "text": "na",
+            "start": 20.3158,
+            "end": 20.3947,
+            "display_index": 49
+          },
+          {
+            "text": "maandishi",
+            "start": 20.421,
+            "end": 20.9474,
+            "display_index": 50
+          },
+          {
+            "text": "Taasisi",
+            "start": 20.9737,
+            "end": 21.5263,
+            "display_index": 51
+          },
+          {
+            "text": "ya",
+            "start": 21.5526,
+            "end": 21.6316,
+            "display_index": 52
+          },
+          {
+            "text": "Elimu",
+            "start": 21.6579,
+            "end": 21.9737,
+            "display_index": 53
+          },
+          {
+            "text": "Tanzania",
+            "start": 22.0132,
+            "end": 22.7105,
+            "display_index": 54
+          },
+          {
+            "text": "Pembeni",
+            "start": 23.7105,
+            "end": 24.0263,
+            "display_index": 55
+          },
+          {
+            "text": "mwa",
+            "start": 24.1316,
+            "end": 24.2895,
+            "display_index": 56
+          },
+          {
+            "text": "chini",
+            "start": 24.3158,
+            "end": 24.6447,
+            "display_index": 57
+          },
+          {
+            "text": "kuna",
+            "start": 24.6842,
+            "end": 24.921,
+            "display_index": 58
+          },
+          {
+            "text": "utepe",
+            "start": 24.9474,
+            "end": 25.3553,
+            "display_index": 59
+          },
+          {
+            "text": "wa",
+            "start": 25.3947,
+            "end": 25.4737,
+            "display_index": 60
+          },
+          {
+            "text": "njano",
+            "start": 25.5,
+            "end": 25.8421,
+            "display_index": 61
+          },
+          {
+            "text": "wenye",
+            "start": 25.8684,
+            "end": 26.079,
+            "display_index": 62
+          },
+          {
+            "text": "maandishi",
+            "start": 26.1053,
+            "end": 26.6184,
+            "display_index": 63
+          },
+          {
+            "text": "Mali",
+            "start": 26.6579,
+            "end": 26.921,
+            "display_index": 64
+          },
+          {
+            "text": "ya",
+            "start": 26.9474,
+            "end": 27.0132,
+            "display_index": 65
+          },
+          {
+            "text": "Serikali",
+            "start": 27.0395,
+            "end": 27.6316,
+            "display_index": 66
+          },
+          {
+            "text": "ya",
+            "start": 27.6579,
+            "end": 27.7368,
+            "display_index": 67
+          },
+          {
+            "text": "Jamhuri",
+            "start": 27.7632,
+            "end": 28.25,
+            "display_index": 68
+          },
+          {
+            "text": "ya",
+            "start": 28.2763,
+            "end": 28.3421,
+            "display_index": 69
+          },
+          {
+            "text": "Muungano",
+            "start": 28.3684,
+            "end": 28.8421,
+            "display_index": 70
+          },
+          {
+            "text": "wa",
+            "start": 28.8684,
+            "end": 28.9474,
+            "display_index": 71
+          },
+          {
+            "text": "Tanzania",
+            "start": 28.9868,
+            "end": 29.6447,
+            "display_index": 72
+          },
+          {
+            "text": "Hakiuzwi",
+            "start": 29.75,
+            "end": 30.4737,
+            "display_index": 73
+          }
+        ]
+      }
+    ]
+  },
+  "pg001_front_n0001": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Maelezo",
+            "start": 0.1948,
+            "end": 0.5763,
+            "display_index": 0
+          },
+          {
+            "text": "ya",
+            "start": 0.6947,
+            "end": 0.8,
+            "display_index": 1
+          },
+          {
+            "text": "picha",
+            "start": 0.8263,
+            "end": 1.1685,
+            "display_index": 2
+          },
+          {
+            "text": "Jalada",
+            "start": 1.3395,
+            "end": 1.8395,
+            "display_index": 3
+          },
+          {
+            "text": "la",
+            "start": 1.8658,
+            "end": 1.9842,
+            "display_index": 4
+          },
+          {
+            "text": "mbele",
+            "start": 2.0105,
+            "end": 2.3132,
+            "display_index": 5
+          },
+          {
+            "text": "la",
+            "start": 2.3395,
+            "end": 2.4579,
+            "display_index": 6
+          },
+          {
+            "text": "kitabu",
+            "start": 2.4974,
+            "end": 2.9447,
+            "display_index": 7
+          },
+          {
+            "text": "cha",
+            "start": 2.9842,
+            "end": 3.1158,
+            "display_index": 8
+          },
+          {
+            "text": "Sayansi",
+            "start": 3.1421,
+            "end": 3.6816,
+            "display_index": 9
+          },
+          {
+            "text": "Darasa",
+            "start": 3.721,
+            "end": 4.1947,
+            "display_index": 10
+          },
+          {
+            "text": "la",
+            "start": 4.221,
+            "end": 4.3526,
+            "display_index": 11
+          },
+          {
+            "text": "Nne",
+            "start": 4.3921,
+            "end": 4.6158,
+            "display_index": 12
+          },
+          {
+            "text": "lenye",
+            "start": 4.6421,
+            "end": 4.8921,
+            "display_index": 13
+          },
+          {
+            "text": "mandhari",
+            "start": 4.9316,
+            "end": 5.4184,
+            "display_index": 14
+          },
+          {
+            "text": "ya",
+            "start": 5.4447,
+            "end": 5.5105,
+            "display_index": 15
+          },
+          {
+            "text": "bluu-kijani",
+            "start": 5.5368,
+            "end": 6.4184,
+            "display_index": 16
+          },
+          {
+            "text": "Juu",
+            "start": 7.3816,
+            "end": 7.6447,
+            "display_index": 17
+          },
+          {
+            "text": "kuna",
+            "start": 7.7368,
+            "end": 7.9605,
+            "display_index": 18
+          },
+          {
+            "text": "maandishi",
+            "start": 7.9868,
+            "end": 8.4868,
+            "display_index": 19
+          },
+          {
+            "text": "Sayansi",
+            "start": 8.5263,
+            "end": 9.1447,
+            "display_index": 20
+          },
+          {
+            "text": "Kitabu",
+            "start": 9.2632,
+            "end": 9.7368,
+            "display_index": 21
+          },
+          {
+            "text": "cha",
+            "start": 9.7763,
+            "end": 9.9211,
+            "display_index": 22
+          },
+          {
+            "text": "Mwanafunzi",
+            "start": 9.9474,
+            "end": 10.7237,
+            "display_index": 23
+          },
+          {
+            "text": "na",
+            "start": 10.8421,
+            "end": 10.9474,
+            "display_index": 24
+          },
+          {
+            "text": "Darasa",
+            "start": 10.9737,
+            "end": 11.4473,
+            "display_index": 25
+          },
+          {
+            "text": "la",
+            "start": 11.4737,
+            "end": 11.6184,
+            "display_index": 26
+          },
+          {
+            "text": "Nne",
+            "start": 11.6448,
+            "end": 11.9474,
+            "display_index": 27
+          },
+          {
+            "text": "Katikati",
+            "start": 12.9342,
+            "end": 13.3816,
+            "display_index": 28
+          },
+          {
+            "text": "kuna",
+            "start": 13.4868,
+            "end": 13.7105,
+            "display_index": 29
+          },
+          {
+            "text": "umbo",
+            "start": 13.7368,
+            "end": 13.9868,
+            "display_index": 30
+          },
+          {
+            "text": "la",
+            "start": 14.0132,
+            "end": 14.1316,
+            "display_index": 31
+          },
+          {
+            "text": "duara",
+            "start": 14.1579,
+            "end": 14.5395,
+            "display_index": 32
+          },
+          {
+            "text": "la",
+            "start": 14.5658,
+            "end": 14.6842,
+            "display_index": 33
+          },
+          {
+            "text": "njano",
+            "start": 14.7105,
+            "end": 15.0658,
+            "display_index": 34
+          },
+          {
+            "text": "kama",
+            "start": 15.1052,
+            "end": 15.3947,
+            "display_index": 35
+          },
+          {
+            "text": "jua",
+            "start": 15.421,
+            "end": 15.6579,
+            "display_index": 36
+          },
+          {
+            "text": "lenye",
+            "start": 15.6842,
+            "end": 15.921,
+            "display_index": 37
+          },
+          {
+            "text": "miale",
+            "start": 15.9474,
+            "end": 16.3947,
+            "display_index": 38
+          },
+          {
+            "text": "chini",
+            "start": 16.5658,
+            "end": 16.9079,
+            "display_index": 39
+          },
+          {
+            "text": "kuna",
+            "start": 16.9342,
+            "end": 17.171,
+            "display_index": 40
+          },
+          {
+            "text": "vilima",
+            "start": 17.1974,
+            "end": 17.6053,
+            "display_index": 41
+          },
+          {
+            "text": "vya",
+            "start": 17.6316,
+            "end": 17.7895,
+            "display_index": 42
+          },
+          {
+            "text": "kijani",
+            "start": 17.8158,
+            "end": 18.3684,
+            "display_index": 43
+          },
+          {
+            "text": "na",
+            "start": 18.5395,
+            "end": 18.6447,
+            "display_index": 44
+          },
+          {
+            "text": "mwishoni",
+            "start": 18.671,
+            "end": 19.1579,
+            "display_index": 45
+          },
+          {
+            "text": "kuna",
+            "start": 19.1974,
+            "end": 19.4342,
+            "display_index": 46
+          },
+          {
+            "text": "nembo",
+            "start": 19.4605,
+            "end": 19.7763,
+            "display_index": 47
+          },
+          {
+            "text": "pamoja",
+            "start": 19.8158,
+            "end": 20.2895,
+            "display_index": 48
+          },
+          {
+            "text": "na",
+            "start": 20.3158,
+            "end": 20.3947,
+            "display_index": 49
+          },
+          {
+            "text": "maandishi",
+            "start": 20.421,
+            "end": 20.9474,
+            "display_index": 50
+          },
+          {
+            "text": "Taasisi",
+            "start": 20.9737,
+            "end": 21.5263,
+            "display_index": 51
+          },
+          {
+            "text": "ya",
+            "start": 21.5526,
+            "end": 21.6316,
+            "display_index": 52
+          },
+          {
+            "text": "Elimu",
+            "start": 21.6579,
+            "end": 21.9737,
+            "display_index": 53
+          },
+          {
+            "text": "Tanzania",
+            "start": 22.0132,
+            "end": 22.7105,
+            "display_index": 54
+          },
+          {
+            "text": "Pembeni",
+            "start": 23.7105,
+            "end": 24.0263,
+            "display_index": 55
+          },
+          {
+            "text": "mwa",
+            "start": 24.1316,
+            "end": 24.2895,
+            "display_index": 56
+          },
+          {
+            "text": "chini",
+            "start": 24.3158,
+            "end": 24.6447,
+            "display_index": 57
+          },
+          {
+            "text": "kuna",
+            "start": 24.6842,
+            "end": 24.921,
+            "display_index": 58
+          },
+          {
+            "text": "utepe",
+            "start": 24.9474,
+            "end": 25.3553,
+            "display_index": 59
+          },
+          {
+            "text": "wa",
+            "start": 25.3947,
+            "end": 25.4737,
+            "display_index": 60
+          },
+          {
+            "text": "njano",
+            "start": 25.5,
+            "end": 25.8421,
+            "display_index": 61
+          },
+          {
+            "text": "wenye",
+            "start": 25.8684,
+            "end": 26.079,
+            "display_index": 62
+          },
+          {
+            "text": "maandishi",
+            "start": 26.1053,
+            "end": 26.6184,
+            "display_index": 63
+          },
+          {
+            "text": "Mali",
+            "start": 26.6579,
+            "end": 26.921,
+            "display_index": 64
+          },
+          {
+            "text": "ya",
+            "start": 26.9474,
+            "end": 27.0132,
+            "display_index": 65
+          },
+          {
+            "text": "Serikali",
+            "start": 27.0395,
+            "end": 27.6316,
+            "display_index": 66
+          },
+          {
+            "text": "ya",
+            "start": 27.6579,
+            "end": 27.7368,
+            "display_index": 67
+          },
+          {
+            "text": "Jamhuri",
+            "start": 27.7632,
+            "end": 28.25,
+            "display_index": 68
+          },
+          {
+            "text": "ya",
+            "start": 28.2763,
+            "end": 28.3421,
+            "display_index": 69
+          },
+          {
+            "text": "Muungano",
+            "start": 28.3684,
+            "end": 28.8421,
+            "display_index": 70
+          },
+          {
+            "text": "wa",
+            "start": 28.8684,
+            "end": 28.9474,
+            "display_index": 71
+          },
+          {
+            "text": "Tanzania",
+            "start": 28.9868,
+            "end": 29.6447,
+            "display_index": 72
+          },
+          {
+            "text": "Hakiuzwi",
+            "start": 29.75,
+            "end": 30.4737,
+            "display_index": 73
+          }
+        ]
+      }
+    ]
+  },
+  "pg169_back_n0001": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Maelezo",
+            "start": 0.1948,
+            "end": 0.5763,
+            "display_index": 0
+          },
+          {
+            "text": "ya",
+            "start": 0.6947,
+            "end": 0.8,
+            "display_index": 1
+          },
+          {
+            "text": "picha",
+            "start": 0.8263,
+            "end": 1.1685,
+            "display_index": 2
+          },
+          {
+            "text": "Jalada",
+            "start": 1.3526,
+            "end": 1.8526,
+            "display_index": 3
+          },
+          {
+            "text": "la",
+            "start": 1.879,
+            "end": 1.9974,
+            "display_index": 4
+          },
+          {
+            "text": "nyuma",
+            "start": 2.0237,
+            "end": 2.3263,
+            "display_index": 5
+          },
+          {
+            "text": "la",
+            "start": 2.3526,
+            "end": 2.471,
+            "display_index": 6
+          },
+          {
+            "text": "kitabu",
+            "start": 2.5105,
+            "end": 2.9579,
+            "display_index": 7
+          },
+          {
+            "text": "cha",
+            "start": 2.9974,
+            "end": 3.1421,
+            "display_index": 8
+          },
+          {
+            "text": "Sayansi",
+            "start": 3.1684,
+            "end": 3.7079,
+            "display_index": 9
+          },
+          {
+            "text": "Darasa",
+            "start": 3.7474,
+            "end": 4.221,
+            "display_index": 10
+          },
+          {
+            "text": "la",
+            "start": 4.2474,
+            "end": 4.379,
+            "display_index": 11
+          },
+          {
+            "text": "Nne",
+            "start": 4.4184,
+            "end": 4.6421,
+            "display_index": 12
+          },
+          {
+            "text": "lenye",
+            "start": 4.6684,
+            "end": 4.9184,
+            "display_index": 13
+          },
+          {
+            "text": "mandhari",
+            "start": 4.9579,
+            "end": 5.4447,
+            "display_index": 14
+          },
+          {
+            "text": "ya",
+            "start": 5.471,
+            "end": 5.5632,
+            "display_index": 15
+          },
+          {
+            "text": "kijani",
+            "start": 5.6026,
+            "end": 6.0632,
+            "display_index": 16
+          },
+          {
+            "text": "na",
+            "start": 6.0895,
+            "end": 6.1947,
+            "display_index": 17
+          },
+          {
+            "text": "bluu",
+            "start": 6.221,
+            "end": 6.5895,
+            "display_index": 18
+          },
+          {
+            "text": "Kuna",
+            "start": 7.5526,
+            "end": 7.6579,
+            "display_index": 19
+          },
+          {
+            "text": "mti",
+            "start": 7.75,
+            "end": 7.9868,
+            "display_index": 20
+          },
+          {
+            "text": "mkubwa",
+            "start": 8.0132,
+            "end": 8.4605,
+            "display_index": 21
+          },
+          {
+            "text": "katikati",
+            "start": 8.4868,
+            "end": 9.1447,
+            "display_index": 22
+          },
+          {
+            "text": "watoto",
+            "start": 9.2632,
+            "end": 9.671,
+            "display_index": 23
+          },
+          {
+            "text": "wawili",
+            "start": 9.6974,
+            "end": 10.0395,
+            "display_index": 24
+          },
+          {
+            "text": "karibu",
+            "start": 10.079,
+            "end": 10.5,
+            "display_index": 25
+          },
+          {
+            "text": "na",
+            "start": 10.5263,
+            "end": 10.6053,
+            "display_index": 26
+          },
+          {
+            "text": "sehemu",
+            "start": 10.6316,
+            "end": 11.079,
+            "display_index": 27
+          },
+          {
+            "text": "ya",
+            "start": 11.1052,
+            "end": 11.1842,
+            "display_index": 28
+          },
+          {
+            "text": "chini",
+            "start": 11.2105,
+            "end": 11.579,
+            "display_index": 29
+          },
+          {
+            "text": "maandishi",
+            "start": 11.6842,
+            "end": 12.1974,
+            "display_index": 30
+          },
+          {
+            "text": "ya",
+            "start": 12.2237,
+            "end": 12.3026,
+            "display_index": 31
+          },
+          {
+            "text": "Taasisi",
+            "start": 12.329,
+            "end": 12.8684,
+            "display_index": 32
+          },
+          {
+            "text": "ya",
+            "start": 12.8948,
+            "end": 12.9605,
+            "display_index": 33
+          },
+          {
+            "text": "Elimu",
+            "start": 12.9868,
+            "end": 13.2895,
+            "display_index": 34
+          },
+          {
+            "text": "Tanzania",
+            "start": 13.3158,
+            "end": 14.0132,
+            "display_index": 35
+          },
+          {
+            "text": "pamoja",
+            "start": 14.171,
+            "end": 14.6316,
+            "display_index": 36
+          },
+          {
+            "text": "na",
+            "start": 14.6579,
+            "end": 14.7368,
+            "display_index": 37
+          },
+          {
+            "text": "utepe",
+            "start": 14.7632,
+            "end": 15.1579,
+            "display_index": 38
+          },
+          {
+            "text": "wa",
+            "start": 15.1974,
+            "end": 15.2763,
+            "display_index": 39
+          },
+          {
+            "text": "njano",
+            "start": 15.3026,
+            "end": 15.6316,
+            "display_index": 40
+          },
+          {
+            "text": "wenye",
+            "start": 15.6579,
+            "end": 15.8552,
+            "display_index": 41
+          },
+          {
+            "text": "maandishi",
+            "start": 15.8816,
+            "end": 16.3947,
+            "display_index": 42
+          },
+          {
+            "text": "Mali",
+            "start": 16.4342,
+            "end": 16.6974,
+            "display_index": 43
+          },
+          {
+            "text": "ya",
+            "start": 16.7237,
+            "end": 16.7895,
+            "display_index": 44
+          },
+          {
+            "text": "Serikali",
+            "start": 16.8158,
+            "end": 17.4342,
+            "display_index": 45
+          },
+          {
+            "text": "ya",
+            "start": 17.4605,
+            "end": 17.5395,
+            "display_index": 46
+          },
+          {
+            "text": "Jamhuri",
+            "start": 17.5658,
+            "end": 18.0658,
+            "display_index": 47
+          },
+          {
+            "text": "ya",
+            "start": 18.0921,
+            "end": 18.1579,
+            "display_index": 48
+          },
+          {
+            "text": "Muungano",
+            "start": 18.1842,
+            "end": 18.6447,
+            "display_index": 49
+          },
+          {
+            "text": "wa",
+            "start": 18.671,
+            "end": 18.75,
+            "display_index": 50
+          },
+          {
+            "text": "Tanzania",
+            "start": 18.7763,
+            "end": 19.4605,
+            "display_index": 51
+          },
+          {
+            "text": "Hakiuzwi",
+            "start": 19.579,
+            "end": 20.2763,
+            "display_index": 52
+          }
+        ]
+      }
+    ]
+  },
+  "pg169_back_im001_audio_desc": {
+    "timecodes": [
+      null,
+      {
+        "word_timestamps": [
+          {
+            "text": "Maelezo",
+            "start": 0.1948,
+            "end": 0.5763,
+            "display_index": 0
+          },
+          {
+            "text": "ya",
+            "start": 0.6947,
+            "end": 0.8,
+            "display_index": 1
+          },
+          {
+            "text": "picha",
+            "start": 0.8263,
+            "end": 1.1685,
+            "display_index": 2
+          },
+          {
+            "text": "Jalada",
+            "start": 1.3526,
+            "end": 1.8526,
+            "display_index": 3
+          },
+          {
+            "text": "la",
+            "start": 1.879,
+            "end": 1.9974,
+            "display_index": 4
+          },
+          {
+            "text": "nyuma",
+            "start": 2.0237,
+            "end": 2.3263,
+            "display_index": 5
+          },
+          {
+            "text": "la",
+            "start": 2.3526,
+            "end": 2.471,
+            "display_index": 6
+          },
+          {
+            "text": "kitabu",
+            "start": 2.5105,
+            "end": 2.9579,
+            "display_index": 7
+          },
+          {
+            "text": "cha",
+            "start": 2.9974,
+            "end": 3.1421,
+            "display_index": 8
+          },
+          {
+            "text": "Sayansi",
+            "start": 3.1684,
+            "end": 3.7079,
+            "display_index": 9
+          },
+          {
+            "text": "Darasa",
+            "start": 3.7474,
+            "end": 4.221,
+            "display_index": 10
+          },
+          {
+            "text": "la",
+            "start": 4.2474,
+            "end": 4.379,
+            "display_index": 11
+          },
+          {
+            "text": "Nne",
+            "start": 4.4184,
+            "end": 4.6421,
+            "display_index": 12
+          },
+          {
+            "text": "lenye",
+            "start": 4.6684,
+            "end": 4.9184,
+            "display_index": 13
+          },
+          {
+            "text": "mandhari",
+            "start": 4.9579,
+            "end": 5.4447,
+            "display_index": 14
+          },
+          {
+            "text": "ya",
+            "start": 5.471,
+            "end": 5.5632,
+            "display_index": 15
+          },
+          {
+            "text": "kijani",
+            "start": 5.6026,
+            "end": 6.0632,
+            "display_index": 16
+          },
+          {
+            "text": "na",
+            "start": 6.0895,
+            "end": 6.1947,
+            "display_index": 17
+          },
+          {
+            "text": "bluu",
+            "start": 6.221,
+            "end": 6.5895,
+            "display_index": 18
+          },
+          {
+            "text": "Kuna",
+            "start": 7.5526,
+            "end": 7.6579,
+            "display_index": 19
+          },
+          {
+            "text": "mti",
+            "start": 7.75,
+            "end": 7.9868,
+            "display_index": 20
+          },
+          {
+            "text": "mkubwa",
+            "start": 8.0132,
+            "end": 8.4605,
+            "display_index": 21
+          },
+          {
+            "text": "katikati",
+            "start": 8.4868,
+            "end": 9.1447,
+            "display_index": 22
+          },
+          {
+            "text": "watoto",
+            "start": 9.2632,
+            "end": 9.671,
+            "display_index": 23
+          },
+          {
+            "text": "wawili",
+            "start": 9.6974,
+            "end": 10.0395,
+            "display_index": 24
+          },
+          {
+            "text": "karibu",
+            "start": 10.079,
+            "end": 10.5,
+            "display_index": 25
+          },
+          {
+            "text": "na",
+            "start": 10.5263,
+            "end": 10.6053,
+            "display_index": 26
+          },
+          {
+            "text": "sehemu",
+            "start": 10.6316,
+            "end": 11.079,
+            "display_index": 27
+          },
+          {
+            "text": "ya",
+            "start": 11.1052,
+            "end": 11.1842,
+            "display_index": 28
+          },
+          {
+            "text": "chini",
+            "start": 11.2105,
+            "end": 11.579,
+            "display_index": 29
+          },
+          {
+            "text": "maandishi",
+            "start": 11.6842,
+            "end": 12.1974,
+            "display_index": 30
+          },
+          {
+            "text": "ya",
+            "start": 12.2237,
+            "end": 12.3026,
+            "display_index": 31
+          },
+          {
+            "text": "Taasisi",
+            "start": 12.329,
+            "end": 12.8684,
+            "display_index": 32
+          },
+          {
+            "text": "ya",
+            "start": 12.8948,
+            "end": 12.9605,
+            "display_index": 33
+          },
+          {
+            "text": "Elimu",
+            "start": 12.9868,
+            "end": 13.2895,
+            "display_index": 34
+          },
+          {
+            "text": "Tanzania",
+            "start": 13.3158,
+            "end": 14.0132,
+            "display_index": 35
+          },
+          {
+            "text": "pamoja",
+            "start": 14.171,
+            "end": 14.6316,
+            "display_index": 36
+          },
+          {
+            "text": "na",
+            "start": 14.6579,
+            "end": 14.7368,
+            "display_index": 37
+          },
+          {
+            "text": "utepe",
+            "start": 14.7632,
+            "end": 15.1579,
+            "display_index": 38
+          },
+          {
+            "text": "wa",
+            "start": 15.1974,
+            "end": 15.2763,
+            "display_index": 39
+          },
+          {
+            "text": "njano",
+            "start": 15.3026,
+            "end": 15.6316,
+            "display_index": 40
+          },
+          {
+            "text": "wenye",
+            "start": 15.6579,
+            "end": 15.8552,
+            "display_index": 41
+          },
+          {
+            "text": "maandishi",
+            "start": 15.8816,
+            "end": 16.3947,
+            "display_index": 42
+          },
+          {
+            "text": "Mali",
+            "start": 16.4342,
+            "end": 16.6974,
+            "display_index": 43
+          },
+          {
+            "text": "ya",
+            "start": 16.7237,
+            "end": 16.7895,
+            "display_index": 44
+          },
+          {
+            "text": "Serikali",
+            "start": 16.8158,
+            "end": 17.4342,
+            "display_index": 45
+          },
+          {
+            "text": "ya",
+            "start": 17.4605,
+            "end": 17.5395,
+            "display_index": 46
+          },
+          {
+            "text": "Jamhuri",
+            "start": 17.5658,
+            "end": 18.0658,
+            "display_index": 47
+          },
+          {
+            "text": "ya",
+            "start": 18.0921,
+            "end": 18.1579,
+            "display_index": 48
+          },
+          {
+            "text": "Muungano",
+            "start": 18.1842,
+            "end": 18.6447,
+            "display_index": 49
+          },
+          {
+            "text": "wa",
+            "start": 18.671,
+            "end": 18.75,
+            "display_index": 50
+          },
+          {
+            "text": "Tanzania",
+            "start": 18.7763,
+            "end": 19.4605,
+            "display_index": 51
+          },
+          {
+            "text": "Hakiuzwi",
+            "start": 19.579,
+            "end": 20.2763,
+            "display_index": 52
+          }
+        ]
+      }
+    ]
   }
 }

@@ -16,61 +16,51 @@
 
     <style>
       body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select { font-family: 'Atkinson Hyperlegible','Merriweather',sans-serif; }
-      .pdf-cover-page { width:min(100%,54rem); aspect-ratio:540.898/750.661; min-height:0; margin-inline:auto; }
-      .pdf-cover-certificate { position:absolute; left:50%; top:31.8%; width:52.5%; aspect-ratio:1280/1870; transform:translateX(-50%); overflow:visible; }
-      .pdf-cover-certificate img { position:absolute; left:50%; top:50%; width:146.1%; max-width:none; height:auto; transform:translate(-50%,-50%) rotate(-90deg); }
+      body {
+        margin:0;
+        background:
+          linear-gradient(180deg, #2b7d88 0%, #2b7d88 34%, #dff3f8 62%, #dff3f8 100%);
+        overflow-x:hidden;
+        overflow-y:auto;
+      }
+      .pdf-cover-page {
+        width:100vw;
+        min-height:calc(100vw * 750.661 / 540.898);
+        margin:0;
+      }
+      .pdf-cover-page img {
+        width:100%;
+        height:auto;
+        display:block;
+        background:transparent;
+      }
       @media (max-width:640px) {
-        .pdf-cover-page { width:100%; min-height:980px; aspect-ratio:auto; }
-        .pdf-cover-certificate { top:32%; width:63%; }
+        .pdf-cover-page {
+          width:100vw;
+          min-height:calc(100vw * 750.661 / 540.898);
+        }
       }
     </style><link rel="stylesheet" href="./assets/sign-language-video.css">
 </head>
 
-<body class="min-h-screen flex items-center justify-center">
+<body class="min-h-screen">
     <main class="w-full">
-      <div id="content" class="container mx-auto bg-white px-6 py-8 max-lg:px-4 max-sm:px-3 opacity-0">
-  <section data-section-type="front_cover" data-section-id="pg001_sec001" class="pdf-cover-page relative overflow-hidden border border-neutral-200 bg-white text-left shadow-sm book-production-footer">
-      <h1 data-id="pg001_n0002" class="absolute left-0 right-0 z-10 text-center font-light leading-none text-teal-700 drop-shadow-[0_3px_0_rgba(0,96,110,0.35)]" style="top:7.5%;font-size:clamp(3.5rem,10vw,6.4rem)">Sayansi</h1>
-      <h2 data-id="pg001_n0003" class="absolute left-0 right-0 z-10 text-center font-bold leading-tight text-teal-700" style="top:19.2%;font-size:clamp(1.8rem,5vw,3rem)">Kitabu cha Mwanafunzi</h2>
-      <h3 data-id="pg001_n0004" class="absolute left-0 right-0 z-10 text-center font-bold leading-tight text-neutral-900" style="top:25.6%;font-size:clamp(1.4rem,4vw,2.55rem)">Darasa la Nne</h3>
-
-
-      <div class="pdf-cover-certificate">
-        <img data-id="pg001_im001" src="images/pg001_im001.jpg" alt="Cheti cha ithibati cha kitabu cha Sayansi cha mwanafunzi wa Darasa la Nne kutoka Wizara ya Elimu, Sayansi na Teknolojia. Kinaonyesha jina la kitabu, Taasisi ya Elimu Tanzania, tarehe ya idhini, na saini ya kamishna wa elimu." class="block rounded-sm object-contain">
-
-        <span data-id="pg001_im001_audio_desc" class="sr-only image-audio-description">Maelezo ya picha: Cheti cha ithibati cha kitabu cha Sayansi cha mwanafunzi wa Darasa la Nne kutoka Wizara ya Elimu, Sayansi na Teknolojia. Kinaonyesha jina la kitabu, Taasisi ya Elimu Tanzania, tarehe ya idhini, na saini ya kamishna wa elimu.</span><div class="hidden">
-          <div data-id="pg001_n0007">JAMHURI YA MUUNGANO WA TANZANIA</div>
-          <div data-id="pg001_n0008">WIZARA YA ELIMU, SAYANSI</div>
-          <div data-id="pg001_n0009">NA TEKNOLOJIA</div>
-          <div data-id="pg001_n0010">Cheti cha Ithibati</div>
-          <div data-id="pg001_n0011">Na. 1602</div>
-          <div data-id="pg001_n0012">Jina la Chapisho: Sayansi Kitabu cha Mwanafunzi Darasa la Nne</div>
-          <div data-id="pg001_n0013">Mchapishaji: Taasisi ya Elimu Tanzania</div>
-          <div data-id="pg001_n0014">Mwandishi: Taasisi ya Elimu Tanzania</div>
-          <div data-id="pg001_n0015">ISBN: 978-9912-753-79-2</div>
-          <div data-id="pg001_n0016">Kitabu hiki kimeidhinishwa na Wizara ya Elimu, Sayansi na Teknolojia</div>
-          <div data-id="pg001_n0017">tarehe 11 Septemba 2024 kuwa Kitabu cha Kiada kwa ajili ya</div>
-          <div data-id="pg001_n0018">Mwanafunzi wa Darasa la Nne katika ngazi ya Elimu ya Msingi</div>
-          <div data-id="pg001_n0019">nchini Tanzania kulingana na Muhtasari wa Mwaka 2023.</div>
-          <div data-id="pg001_n0020">Dkt. Lyabwene M. Mtabawa</div>
-          <div data-id="pg001_n0021">Kamishna wa Elimu</div>
-        </div>
-      </div>
-
-      <div data-id="pg001_n0022" class="absolute left-0 right-0 z-10 text-center font-bold text-neutral-900" style="top:89.6%;font-size:clamp(1.2rem,3.5vw,1.9rem)">Taasisi ya Elimu Tanzania</div>
-
-    <div class="absolute flex items-end justify-between text-black book-production-footer" style="bottom:1.2%;left:3%;right:3%;font-size:clamp(.55rem,1.4vw,.9rem)">
-    </div>
+      <div id="content" class="w-screen p-0 opacity-0">
+  <section data-section-type="front_cover" data-section-id="pg001_sec001" class="pdf-cover-page relative overflow-hidden text-left book-production-footer">
+      <h1 id="page-heading" class="sr-only">Sayansi: Kitabu cha Mwanafunzi, Darasa la Nne</h1>
+      <p data-id="pg001_front_n0001" class="sr-only">Maelezo ya picha: Jalada la mbele la kitabu cha Sayansi Darasa la Nne lenye mandhari ya bluu-kijani. Juu kuna maandishi Sayansi, Kitabu cha Mwanafunzi, na Darasa la Nne. Katikati kuna umbo la duara la njano kama jua lenye miale, chini kuna vilima vya kijani, na mwishoni kuna nembo pamoja na maandishi Taasisi ya Elimu Tanzania. Pembeni mwa chini kuna utepe wa njano wenye maandishi Mali ya Serikali ya Jamhuri ya Muungano wa Tanzania, Hakiuzwi.</p>
+      <img data-id="pg001_front_im001" src="images/pg001_front_cover.png" alt="Jalada la mbele la kitabu cha Sayansi Darasa la Nne. Linaonyesha jina la kitabu, maandishi ya Taasisi ya Elimu Tanzania, alama ya sunburst ya njano, mandhari ya milima ya kijani, na utepe wa njano wenye maandishi Mali ya Serikali ya Jamhuri ya Muungano wa Tanzania, Hakiuzwi.">
+      <span data-id="pg001_front_im001_audio_desc" class="sr-only image-audio-description">Maelezo ya picha: Jalada la mbele la kitabu cha Sayansi Darasa la Nne lenye mandhari ya bluu-kijani. Juu kuna maandishi Sayansi, Kitabu cha Mwanafunzi, na Darasa la Nne. Katikati kuna umbo la duara la njano kama jua lenye miale, chini kuna vilima vya kijani, na mwishoni kuna nembo pamoja na maandishi Taasisi ya Elimu Tanzania. Pembeni mwa chini kuna utepe wa njano wenye maandishi Mali ya Serikali ya Jamhuri ya Muungano wa Tanzania, Hakiuzwi.</span>
   </section>
 </div>
     </main>
 
     <div class="relative z-50" id="interface-container"></div>
     <div class="relative z-50" id="nav-container"></div>
-    <script src="./assets/offline-preloader.js?v=h2m-1"></script>
+    <script src="./assets/offline-preloader.js?v=matrix-16082026-final"></script>
     <script src="./assets/scorm.js"></script>
     <script src="./assets/media-playback-independence.js"></script>
-<script src="./assets/base.bundle.local.js?v=h2m-1"></script>
+<script src="./assets/base.bundle.local.js?v=matrix-16082026-final"></script>
 <script src="./assets/sign-language-video.js"></script>
     <script src="./assets/matrix-accessibility.js?v=matrix-16082026-final" defer></script>
 </body>
