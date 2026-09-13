@@ -34,6 +34,10 @@
   var bookTypography = document.createElement("style");
   bookTypography.id = "book-typography-consistency";
   bookTypography.textContent = [
+    "html,body,main,#content{background-color:#fff!important;background-image:none!important}",
+    "#content{box-shadow:none!important}",
+    "#content>section{background-color:#fff!important;background-image:none!important}",
+    "#content>section>.absolute[class*='bg-gradient-to-'][class*='from-cyan-'],#content>section>.absolute[class*='bg-cyan-']{display:none!important}",
     "#content, #content *{font-family:'Atkinson Hyperlegible',sans-serif!important}",
     "#content section p,#content section li,#content section td,#content section th,#content section div[data-id]:not([role='button']){text-align:justify;text-justify:inter-word}",
     "#content section h1,#content section h2,#content section h3,#content section h4,#content section h5,#content section h6,#content section .text-center{font-family:'Atkinson Hyperlegible',sans-serif!important}",
@@ -104,6 +108,7 @@
     var desktopHeadingSizes = { H1: "28px", H2: "25px", H3: "22px", H4: "19px", H5: "19px", H6: "19px" };
     var headingSizes = window.matchMedia("(max-width:640px)").matches ? mobileHeadingSizes : desktopHeadingSizes;
     document.querySelectorAll("#content h1,#content h2,#content h3,#content h4,#content h5,#content h6").forEach(function (heading) {
+      if (heading.closest('[data-section-id="pg001_sec002"]')) return;
       if (heading.querySelector(".matrix-work-title")) heading.classList.add("matrix-work-title");
       if (heading.querySelector(".matrix-section-heading")) heading.classList.add("matrix-section-heading");
       var size = headingSizes[heading.tagName] || headingSizes.H4;

@@ -17,27 +17,48 @@
     <style>
       body, p, h1, h2, h3, h4, h5, h6, span, div, button, input, textarea, select { font-family: 'Atkinson Hyperlegible','Merriweather',sans-serif; }
       body {
+        display:block !important;
         margin:0;
-        background:
-          linear-gradient(180deg, #2b7d88 0%, #2b7d88 34%, #dff3f8 62%, #dff3f8 100%);
-        overflow-x:hidden;
-        overflow-y:auto;
+        background:#ffffff;
+        overflow:hidden;
+      }
+      main {
+        width:100%;
+        height:100dvh;
+      }
+      #content {
+        display:block;
+        width:min(100%, calc((100dvh - 4rem) * 540.898 / 750.661));
+        height:calc(100dvh - 4rem);
+        margin:0 auto;
+        background:#ffffff;
       }
       .pdf-cover-page {
-        width:100vw;
-        min-height:calc(100vw * 750.661 / 540.898);
-        margin:0;
+        width:100%;
+        height:100%;
+        max-width:100%;
+        min-height:0;
+        aspect-ratio:540.898/750.661;
+        margin:0 auto;
+        background:#ffffff;
       }
       .pdf-cover-page img {
         width:100%;
-        height:auto;
+        max-width:100%;
+        height:100%;
         display:block;
-        background:transparent;
+        object-fit:contain;
+        object-position:center;
+        background:#ffffff;
       }
       @media (max-width:640px) {
+        #content {
+          height:calc(100dvh - 4rem);
+        }
         .pdf-cover-page {
-          width:100vw;
-          min-height:calc(100vw * 750.661 / 540.898);
+          width:100%;
+          height:100%;
+          min-height:0;
         }
       }
     </style><link rel="stylesheet" href="./assets/sign-language-video.css">
