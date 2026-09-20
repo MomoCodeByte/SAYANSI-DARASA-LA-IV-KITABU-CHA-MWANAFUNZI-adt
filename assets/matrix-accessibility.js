@@ -1,36 +1,8 @@
 (function () {
   "use strict";
 
-  // Enforce one audible media stream for the whole textbook. The bundled
-  // reader and interface sounds both use HTMLMediaElement; without this lock
-  // a second play request can overlap an active narration clip.
-  if (!window.__matrixSingleAudioLock) {
-    window.__matrixSingleAudioLock = true;
-    var activeMedia = null;
-    var nativePlay = HTMLMediaElement.prototype.play;
-    HTMLMediaElement.prototype.play = function () {
-      if (activeMedia && activeMedia !== this) {
-        try {
-          activeMedia.pause();
-          activeMedia.currentTime = 0;
-        } catch (_) {}
-      }
-      activeMedia = this;
-      var result = nativePlay.apply(this, arguments);
-      if (result && typeof result.catch === "function") {
-        result.catch(function () {});
-      }
-      return result;
-    };
-    window.addEventListener("pagehide", function () {
-      if (!activeMedia) return;
-      try {
-        activeMedia.pause();
-        activeMedia.currentTime = 0;
-      } catch (_) {}
-      activeMedia = null;
-    });
-  }
+  // The shared Writing reader runtime owns toolbar behavior and playback.
+  // Keep this file limited to Sayansi content and activity adaptations.
   var bookTypography = document.createElement("style");
   bookTypography.id = "book-typography-consistency";
   bookTypography.textContent = [
@@ -140,91 +112,6 @@
       whiteSpace: "nowrap", border: "0"
     });
   }
-  function renameGlossary() {
-    document.querySelectorAll("button,[aria-label]").forEach(function (node) {
-      ["aria-label", "title"].forEach(function (attribute) {
-        var value = node.getAttribute(attribute);
-        if (value && /Kamusi|Farahasa/i.test(value)) {
-          node.setAttribute(attribute, value.replace(/Kamusi|Farahasa/gi, "Faharasa"));
-        }
-      });
-      if (node.tagName === "BUTTON" && /Kamusi|Farahasa/i.test(node.textContent || "")) {
-        node.childNodes.forEach(function (child) {
-          if (child.nodeType === Node.TEXT_NODE) {
-            child.textContent = child.textContent.replace(/Kamusi|Farahasa/gi, "Faharasa");
-          }
-        });
-      }
-    });
-  }
-  renameGlossary();
-  new MutationObserver(renameGlossary).observe(document.documentElement, { childList: true, subtree: true });
-  function improveMainTabsAccessibility() {
-    function setIfDifferent(node, attribute, value) {
-      if (node.getAttribute(attribute) !== value) node.setAttribute(attribute, value);
-    }
-    var interfaceContainer = document.getElementById("interface-container");
-    var navContainer = document.getElementById("nav-container");
-    if (interfaceContainer) {
-      setIfDifferent(interfaceContainer, "role", "region");
-      setIfDifferent(interfaceContainer, "aria-label", "Vidhibiti vya kusoma kwa sauti");
-    }
-    if (navContainer) {
-      setIfDifferent(navContainer, "role", "navigation");
-      setIfDifferent(navContainer, "aria-label", "Vidhibiti vikuu vya kitabu");
-    }
-
-    var labelTranslations = [
-      [/^Previous:.*$/i, "Nenda kwenye sauti iliyopita"],
-      [/^Play:.*$/i, "Cheza sauti ya ukurasa"],
-      [/^Pause:.*$/i, "Sitisha sauti ya ukurasa"],
-      [/^Next:.*$/i, "Nenda kwenye sauti inayofuata"],
-      [/^Stop:.*$/i, "Simamisha sauti ya ukurasa"],
-      [/^Next page:.*$/i, "Nenda ukurasa unaofuata"],
-      [/^Previous page:.*$/i, "Rudi ukurasa uliopita"]
-    ];
-    var titleTranslations = [
-      [/^Previous\s*[–-].*$/i, "Nenda kwenye sauti iliyopita"],
-      [/^Play\s*[–-].*$/i, "Cheza sauti ya ukurasa"],
-      [/^Pause\s*[–-].*$/i, "Sitisha sauti ya ukurasa"],
-      [/^Next\s*[–-].*$/i, "Nenda kwenye sauti inayofuata"],
-      [/^Stop\s*[–-].*$/i, "Simamisha sauti ya ukurasa"],
-      [/^Next page\s*[–-].*$/i, "Nenda ukurasa unaofuata"],
-      [/^Previous page\s*[–-].*$/i, "Rudi ukurasa uliopita"]
-    ];
-
-    document.querySelectorAll("#interface-container button, #nav-container button").forEach(function (button) {
-      var label = button.getAttribute("aria-label") || "";
-      var title = button.getAttribute("title") || "";
-      labelTranslations.forEach(function (entry) {
-        if (entry[0].test(label)) label = label.replace(entry[0], entry[1]);
-      });
-      titleTranslations.forEach(function (entry) {
-        if (entry[0].test(title)) title = title.replace(entry[0], entry[1]);
-      });
-      if (label) setIfDifferent(button, "aria-label", label);
-      if (title) setIfDifferent(button, "title", title);
-      if (!button.hasAttribute("tabindex")) button.tabIndex = 0;
-    });
-
-    document.querySelectorAll('[role="form"][aria-label="Open-ended answer activity"], form[aria-label="Open-ended answer activity"]').forEach(function (form) {
-      setIfDifferent(form, "aria-label", "Zoezi la kujibu maswali");
-    });
-
-    if (!document.getElementById("main-tabs-accessibility-style")) {
-      var style = document.createElement("style");
-      style.id = "main-tabs-accessibility-style";
-      style.textContent = "#interface-container button:focus-visible,#nav-container button:focus-visible{outline:3px solid #facc15!important;outline-offset:3px!important;border-radius:.5rem!important;}";
-      document.head.appendChild(style);
-    }
-  }
-  improveMainTabsAccessibility();
-  new MutationObserver(improveMainTabsAccessibility).observe(document.documentElement, {
-    childList: true,
-    subtree: true,
-    attributes: true,
-    attributeFilter: ["aria-label", "title", "aria-pressed", "aria-expanded"]
-  });
   function improvePageTwentySevenReadingPlan() {
     if (pageName() !== "pg027_sec001.html" || document.querySelector("[data-page27-reading-plan]")) return;
     var section = document.querySelector('[data-section-id="pg027_sec001"]');
@@ -475,198 +362,6 @@
       if (/^(tuma|wasilisha)$/i.test((button.textContent || "").trim())) button.remove();
     });
   }
-  function improveAudioReaderControls() {
-    var status = document.querySelector("#matrix-audio-reader-status");
-    if (!status) {
-      status = document.createElement("p");
-      status.id = "matrix-audio-reader-status";
-      status.className = "sr-only";
-      status.setAttribute("role", "status");
-      status.setAttribute("aria-live", "polite");
-      status.setAttribute("aria-atomic", "true");
-      status.textContent = "Vidhibiti vya sauti viko tayari. Sauti ya ukurasa itaanza moja kwa moja.";
-      document.body.appendChild(status);
-    }
-
-    var controls = document.querySelector('[aria-label="Vidhibiti vya kusoma kwa sauti"]');
-    if (!controls) {
-      var enableReader = document.querySelector('button[aria-label="Washa maandishi kwa sauti"]');
-      if (enableReader && !document.documentElement.dataset.matrixReaderEnableAttempted) {
-        document.documentElement.dataset.matrixReaderEnableAttempted = "true";
-        window.setTimeout(function () {
-          var currentEnableReader = document.querySelector('button[aria-label="Washa maandishi kwa sauti"]');
-          if (currentEnableReader) {
-            currentEnableReader.click();
-            status.textContent = "Reader ya maandishi imewashwa. Vidhibiti vya Play vinafunguliwa.";
-          }
-        }, 350);
-      }
-      return false;
-    }
-    delete document.documentElement.dataset.matrixReaderEnableAttempted;
-    controls.setAttribute("role", "group");
-    controls.setAttribute("aria-label", "Audio reader: vidhibiti vya kusoma kwa sauti");
-
-    var buttons = Array.from(controls.querySelectorAll("button"));
-    var previous = buttons.find(function (button) {
-      return /sauti iliyopita/i.test(button.getAttribute("aria-label") || "");
-    });
-    var play = buttons.find(function (button) {
-      return /^(cheza|play)/i.test(button.getAttribute("aria-label") || "");
-    });
-    var next = buttons.find(function (button) {
-      return /sauti inayofuata/i.test(button.getAttribute("aria-label") || "");
-    });
-    var stop = buttons.find(function (button) {
-      return /simamisha/i.test(button.getAttribute("aria-label") || "");
-    });
-
-    if (previous) {
-      previous.setAttribute("aria-label", "Previous: nenda kwenye sauti iliyopita");
-      previous.setAttribute("title", "Previous – sauti iliyopita");
-    }
-    if (play) {
-      play.setAttribute("aria-label", "Play: cheza sauti ya ukurasa");
-      play.setAttribute("title", "Play – cheza sauti");
-    }
-    if (next) {
-      next.setAttribute("aria-label", "Next: nenda kwenye sauti inayofuata");
-      next.setAttribute("title", "Next – sauti inayofuata");
-    }
-    if (stop) {
-      stop.setAttribute("aria-label", "Stop: simamisha sauti ya ukurasa");
-      stop.setAttribute("title", "Stop – simamisha sauti");
-      if (!stop.dataset.matrixStopTracked) {
-        stop.dataset.matrixStopTracked = "true";
-        stop.addEventListener("click", function (event) {
-          event.preventDefault();
-          event.stopImmediatePropagation();
-          var pauseButton = document.querySelector('button[aria-label="Sitisha"]');
-          if (pauseButton) pauseButton.click();
-          window.setTimeout(function () {
-            var resumedPlay = Array.from(controls.querySelectorAll("button")).find(function (button) {
-              return /^(cheza|play)/i.test(button.getAttribute("aria-label") || "");
-            });
-            if (resumedPlay) resumedPlay.setAttribute("aria-label", "Play: cheza sauti ya ukurasa");
-            status.textContent = "Stop: sauti imesimamishwa. Play iko tayari kuanza tena.";
-          }, 80);
-        }, true);
-      }
-    }
-
-    Array.from(document.querySelectorAll("button")).forEach(function (button) {
-      var label = button.getAttribute("aria-label") || "";
-      if (/^Ukurasa uliopita$/i.test(label)) {
-        button.setAttribute("aria-label", "Previous page: ukurasa uliopita");
-        button.setAttribute("title", "Previous page – ukurasa uliopita");
-      } else if (/^Ukurasa unaofuata$/i.test(label)) {
-        button.setAttribute("aria-label", "Next page: ukurasa unaofuata");
-        button.setAttribute("title", "Next page – ukurasa unaofuata");
-      }
-    });
-
-    if (play && !document.documentElement.dataset.matrixAudioAutoplayScheduled) {
-      document.documentElement.dataset.matrixAudioAutoplayScheduled = "true";
-      window.setTimeout(function () {
-        var currentControls = document.querySelector('[aria-label="Audio reader: vidhibiti vya kusoma kwa sauti"], [aria-label="Vidhibiti vya kusoma kwa sauti"]');
-        var currentPlay = currentControls && Array.from(currentControls.querySelectorAll("button")).find(function (button) {
-          return /^(cheza|play)/i.test(button.getAttribute("aria-label") || "");
-        });
-        document.documentElement.dataset.matrixAudioAutoplayAttempted = "true";
-        if (currentPlay) currentPlay.click();
-        window.setTimeout(function () {
-          var remainingPlay = currentControls && Array.from(currentControls.querySelectorAll("button")).find(function (button) {
-            return /^(cheza|play)/i.test(button.getAttribute("aria-label") || "");
-          });
-          status.textContent = remainingPlay
-            ? "Play: browser imezuia sauti kuanza yenyewe. Bonyeza Play ili kuanza kusikiliza."
-            : "Play: sauti ya ukurasa imeanza moja kwa moja.";
-        }, 500);
-      }, 1200);
-
-      var startAfterGesture = function (event) {
-        var activeControls = document.querySelector('[aria-label="Audio reader: vidhibiti vya kusoma kwa sauti"], [aria-label="Vidhibiti vya kusoma kwa sauti"]');
-        if (activeControls && event.target && activeControls.contains(event.target)) {
-          document.removeEventListener("pointerdown", startAfterGesture, true);
-          document.removeEventListener("keydown", startAfterGesture, true);
-          return;
-        }
-        window.setTimeout(function () {
-          var currentPlay = activeControls && Array.from(activeControls.querySelectorAll("button")).find(function (button) {
-            return /^(cheza|play)/i.test(button.getAttribute("aria-label") || "");
-          });
-          if (currentPlay) currentPlay.click();
-        }, 0);
-        document.removeEventListener("pointerdown", startAfterGesture, true);
-        document.removeEventListener("keydown", startAfterGesture, true);
-      };
-      document.addEventListener("pointerdown", startAfterGesture, true);
-      document.addEventListener("keydown", startAfterGesture, true);
-      window.setTimeout(function () {
-        var accessiblePlay = document.querySelector('[aria-label="Play: cheza sauti ya ukurasa"]');
-        if (accessiblePlay && !document.querySelector(":focus-visible")) accessiblePlay.focus();
-      }, 1800);
-    }
-    return true;
-  }
-  function improveMainMenuChapterNavigation() {
-    if (document.querySelector("[data-matrix-book-toc]")) return;
-    var firstChapter = document.querySelector("li[data-chapter-id]");
-    var pageList = firstChapter && firstChapter.closest("ol");
-    if (!pageList) return;
-    var entries = [
-      ["Shukurani", "4", "pg004_sec001.html"],
-      ["Utangulizi", "5", "pg005_sec001.html"],
-      ["Sura ya Kwanza: Kanuni za afya", "6", "pg007_sec001.html"],
-      ["Sura ya Pili: Magonjwa", "34", "pg035_sec001.html"],
-      ["Sura ya Tatu: Maada", "56", "pg056_sec001.html"],
-      ["Sura ya Nne: Uunguaji wa vitu", "72", "pg071_sec001.html"],
-      ["Sura ya Tano: Nishati", "84", "pg083_sec001.html"],
-      ["Sura ya Sita: Usimbaji katika kompyuta", "119", "pg118_sec001.html"]
-    ];
-    var container = document.createElement("li");
-    container.dataset.matrixBookToc = "true";
-    container.style.padding = ".5rem .25rem 1rem";
-    container.style.borderBottom = "2px solid #cbd5e1";
-    container.style.marginBottom = ".5rem";
-    var navigation = document.createElement("nav");
-    navigation.setAttribute("aria-label", "Yaliyomo ya kitabu");
-    var heading = document.createElement("h2");
-    heading.textContent = "Yaliyomo";
-    heading.style.fontSize = "1.1rem";
-    heading.style.fontWeight = "700";
-    heading.style.padding = ".45rem .55rem";
-    navigation.appendChild(heading);
-    entries.forEach(function (entry) {
-      var button = document.createElement("button");
-      button.type = "button";
-      button.dataset.matrixTocTarget = entry[2];
-      button.setAttribute("aria-label", entry[0] + ", ukurasa wa ADT " + entry[1] + ". Fungua mada.");
-      button.style.display = "flex";
-      button.style.width = "100%";
-      button.style.alignItems = "center";
-      button.style.justifyContent = "space-between";
-      button.style.gap = ".75rem";
-      button.style.padding = ".55rem .65rem";
-      button.style.borderRadius = ".4rem";
-      button.style.textAlign = "left";
-      button.style.fontSize = ".98rem";
-      var name = document.createElement("span");
-      name.textContent = entry[0];
-      var page = document.createElement("span");
-      page.textContent = entry[1];
-      page.style.fontWeight = "700";
-      page.setAttribute("aria-hidden", "true");
-      button.appendChild(name);
-      button.appendChild(page);
-      button.addEventListener("click", function () {
-        window.location.href = entry[2];
-      });
-      navigation.appendChild(button);
-    });
-    container.appendChild(navigation);
-    pageList.insertBefore(container, pageList.firstChild);
-  }
   var matchingStyle = document.createElement("style");
   matchingStyle.textContent = ".matrix-match-select{display:block;width:100%;max-width:15rem;padding:.7rem .85rem;border:2px solid #38bdf8;border-radius:.65rem;background:#fff;color:#1f2937;font-size:1.05rem}.matrix-match-select:focus{outline:3px solid rgba(14,165,233,.35);outline-offset:2px}.matrix-match-submit{margin-top:1rem;padding:.7rem 2rem;border:0;border-radius:.75rem;background:#374151;color:#fff;font-size:1.05rem;font-weight:700;box-shadow:0 3px 6px rgba(0,0,0,.24)}.matrix-match-submit:focus{outline:3px solid rgba(14,165,233,.45);outline-offset:3px}.matrix-page39-heading{max-width:100%!important;font-size:1.75rem!important;line-height:1.3!important;overflow-wrap:anywhere!important}.matrix-page39-answer-card{margin-top:.8rem;padding:1rem;border-radius:.85rem;background:rgba(255,255,255,.7)}.matrix-page39-answer{display:block;width:100%;min-height:7rem;margin-top:.75rem;padding:.75rem 1rem;border:1px solid #38bdf8;border-radius:.65rem;background:#fff;resize:vertical}.matrix-page39-answer:focus{outline:3px solid rgba(14,165,233,.35);outline-offset:2px}.matrix-page39-note{margin:.7rem 0 0 3.5rem;color:#475569;font-size:.9rem;font-style:italic}.matrix-sign-meaning-answer{display:block;width:calc(100% - 1rem);min-height:10rem;margin:.5rem;padding:.75rem;border:2px solid #38bdf8;border-radius:.65rem;background:#fff;resize:vertical}.matrix-sign-meaning-answer:focus{outline:3px solid rgba(14,165,233,.35);outline-offset:2px}.matrix-sign-controls{text-align:center;padding:1.25rem 0 .25rem}.matrix-sign-feedback{min-height:1.5rem;margin:0 0 .75rem;font-weight:700}.matrix-sign-submit{padding:.7rem 2.2rem;border:0;border-radius:.75rem;background:#374151;color:#fff;font-size:1.05rem;font-weight:700;box-shadow:0 3px 6px rgba(0,0,0,.24)}.matrix-sign-submit:focus{outline:3px solid rgba(14,165,233,.45);outline-offset:3px}.matrix-response-controls{text-align:center;padding:1.25rem 0 .25rem}.matrix-response-feedback{min-height:1.5rem;margin:0 0 .75rem;font-weight:700}.matrix-response-submit{padding:.75rem 2.4rem;border:0;border-radius:.75rem;background:#374151;color:#fff;font-size:1.05rem;font-weight:700;box-shadow:0 3px 6px rgba(0,0,0,.24)}.matrix-response-submit:focus{outline:3px solid rgba(14,165,233,.45);outline-offset:3px}@media(max-width:640px){.matrix-page39-heading{font-size:1.3rem!important}.matrix-page39-note{margin-left:0}.matrix-sign-meaning-answer{min-height:7rem}}";
   document.head.appendChild(matchingStyle);
@@ -675,19 +370,12 @@
   improvePageThirtyNine();
   improvePageThirtyThreeTable();
   improveResponseSubmission();
-  improveAudioReaderControls();
-  improveMainMenuChapterNavigation();
   hideDockResponseSubmit();
   keepSinglePageTwentySevenSubmit();
   removePageOneSixtyEightSubmit();
   new MutationObserver(hideDockResponseSubmit).observe(document.body, { childList: true, subtree: true });
   new MutationObserver(keepSinglePageTwentySevenSubmit).observe(document.body, { childList: true, subtree: true });
   new MutationObserver(removePageOneSixtyEightSubmit).observe(document.body, { childList: true, subtree: true });
-  var audioReaderObserver = new MutationObserver(function () {
-    improveAudioReaderControls();
-    improveMainMenuChapterNavigation();
-  });
-  audioReaderObserver.observe(document.body, { childList: true, subtree: true });
 })();
 // Keep long science activity pages aligned to the top after the internal
 // next/previous navigation swaps page markup without a full browser reload.

@@ -1,0 +1,41 @@
+/* Match Writing STD 1: the shared runtime owns the mobile dock and drawers.
+ * Reserve reading space below its fixed controls without changing page layout.
+ */
+@media (max-width: 767.98px) {
+  main {
+    padding-bottom: calc(var(--dock-height, 4rem) + 1rem + env(safe-area-inset-bottom));
+  }
+
+  body:has(#nav-container [class~="bottom-18"]) main {
+    padding-bottom: calc(var(--dock-height, 4rem) + 7rem + env(safe-area-inset-bottom));
+  }
+}
+
+/* The reference audio bar has a 120px speed picker. Let that picker shrink on
+ * smaller phones while keeping the playback buttons at their native sizes.
+ */
+@media (max-width: 383.98px) {
+  #interface-container [role="group"]:has(> button[aria-haspopup="menu"]) {
+    width: calc(100vw - 1rem);
+    max-width: 100%;
+    gap: .125rem;
+  }
+
+  #interface-container [role="group"]:has(> button[aria-haspopup="menu"]) > button {
+    flex-shrink: 0;
+  }
+
+  #interface-container [role="group"] > button[aria-haspopup="menu"][class~="min-w-30"] {
+    min-width: 0;
+    flex: 1 1 0;
+    padding-inline: .25rem;
+    overflow: hidden;
+  }
+
+  #interface-container [role="group"] > button[aria-haspopup="menu"][class~="min-w-30"] span {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}

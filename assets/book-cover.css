@@ -1,0 +1,42 @@
+/* Match the Writing STD 1 cover: centered, 52rem wide, with natural page proportions.
+ * The artwork is cropped to the original PDF trim boxes, excluding the spine.
+ */
+html.book-cover-page,
+body.book-cover-page,
+body.book-cover-page main {
+  background-color: #edf7f1 !important;
+  background-image: none !important;
+}
+
+body.book-cover-page {
+  margin: 0;
+}
+
+#content.cover-reader-content {
+  width: 100% !important;
+  max-width: 52rem !important;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 0;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+#content.cover-reader-content::before,
+#content.cover-reader-content::after {
+  content: none;
+  display: none;
+}
+
+#content.cover-reader-content > section {
+  margin: 0 auto;
+  background: transparent !important;
+}
+
+#content.cover-reader-content .cover-only-image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
